@@ -1,0 +1,28 @@
+--- 
+title: "URSSI Implementation Plan"
+author: 
+- Karthik Ram
+- Jeffrey Carver
+- Sandra Gesing
+- Daniel S. Katz
+- Nic Weber
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: si2-urssi/plan
+description: "This is the repo for the implementation plan."
+twitter-handle: si2-urssi
+---
+
+# Welcome {-}
+
+
+```{r cover-image, echo = FALSE}
+knitr::include_graphics("images/plan.jpg")
+```
+
+This is a minimal intro to the URSSI implementation plan.
