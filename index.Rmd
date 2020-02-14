@@ -25,4 +25,3 @@ twitter-handle: si2-urssi
 knitr::include_graphics("images/plan.jpg")
 ```
 
-This is a minimal intro to the URSSI implementation plan.
