@@ -1,0 +1,55 @@
+on:
+  push:
+    branches: master
+
+name: bookdown
+
+jobs:
+  build:
+    runs-on: macOS-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@master
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@master
+
+      - name: Install pandoc and pandoc citeproc
+        run: |
+          brew install pandoc
+          brew install pandoc-citeproc
+      - uses: r-lib/actions/setup-tinytex@v1
+      - name: Cache R packages
+        uses: actions/cache@v1
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ hashFiles('DESCRIPTION') }}
+
+      - name: Cache bookdown results
+        uses: actions/cache@v1
+        with:
+          path: _bookdown_files
+          key: bookdown-${{ hashFiles('**/*Rmd') }}
+          restore-keys: bookdown-
+
+      - name: Install packages
+        run: Rscript -e 'install.packages("remotes")'  -e 'remotes::install_deps()'
+      - name: Build site
+        run: Rscript -e 'bookdown::render_book("index.Rmd", quiet = TRUE)'
+
+      - name: Render book PDF
+        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_book", output_dir = "pdfbook")'
+
+      - name: Render book EPUB
+        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::epub_book", output_dir = "epubbook")'
+
+      - name: Move files around
+        run: Rscript -e 'file.copy(from = "pdfbook/main.pdf", to = "_book/main.pdf")' -e 'file.copy(from = "epubbook/main.epub", to = "_book/main.epub")'
+
+      - name: Commit results
+        run: |
+          cd _book
+          git init
+          git add .
+          git commit -m 'update book'
+          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:gh-pages --force
