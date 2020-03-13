@@ -3,3 +3,4 @@
 .RData
 _publish.R
 rsconnect
+_book/
