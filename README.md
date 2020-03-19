@@ -23,3 +23,6 @@ Replace `references.bib` with the name of your bib file.
 
 GitHub actions will build the book. It takes ~4-10 minutes to build and you can see progress by clicking on the [Actions tab](https://github.com/si2-urssi/plan/actions?query=workflow%3Abookdown) and navigating to the current build.
 
+## Branches
+
+Only commit to master. Never commit to `gh-pages`. The actions will automatically push to that orphan branch.
