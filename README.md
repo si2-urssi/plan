@@ -17,6 +17,7 @@ link-citations: true
 ---
 ```
 
+Replace `references.bib` with the name of your bib file.
 
 ### Building the book
 
