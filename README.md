@@ -21,5 +21,5 @@ Replace `references.bib` with the name of your bib file.
 
 ### Building the book
 
-GitHub actions will build the book. It takes ~4-10 minutes to build and you can see progress by clicking on the Actions tab and navigating to the current build.
+GitHub actions will build the book. It takes ~4-10 minutes to build and you can see progress by clicking on the [Actions tab](https://github.com/si2-urssi/plan/actions?query=workflow%3Abookdown) and navigating to the current build.
 
