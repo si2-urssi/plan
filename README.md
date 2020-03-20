@@ -26,3 +26,7 @@ GitHub actions will build the book. It takes ~4-10 minutes to build and you can 
 ## Branches
 
 Only commit to master. Never commit to `gh-pages`. The actions will automatically push to that orphan branch.
+
+## Converting Google doc to markdown
+
+You can use [this Google doc extension](https://gsuite.google.com/marketplace/app/docs_to_markdown/700168918607) to convert a block of text to markdown and paste that into a Rmd here.
