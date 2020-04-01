@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">URSSI Implementation Plan</a></li>
       after: |
-        <li><a href="https://github.com/si2-urssi/plan" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/si2-urssi/plan" target="blank">Published from GitHub</a> via bookdown</li>
     edit: https://github.com/si2-urssi/plan/edit/master/%s
     download: ["main.pdf", "main.epub"]
 bookdown::pdf_book:
