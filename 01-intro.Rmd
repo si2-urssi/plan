@@ -4,9 +4,6 @@ biblio-style: "apalike"
 link-citations: true
 ---
 
-This public report is a very early outline of the final report. Many of these sections are under internal review before being posted here. We expect most sections to be posted by April 2020.
-
-
 # Introduction {#intro}
 
 Software pervades all parts of modern scientific research, including data analysis and inference as well as computational science. Recent surveys in the US and UK show that 90-95% of researchers rely on research software, and 63-70% of them cannot continue their work if these software were to stop functioning [@hettrick2014]. Much of this software is developed by researchers for researchers, as the contemporary scientific process demands the development of new methods in tandem with the demands of new discoveries and fields. However, despite its importance, a large proportion of research software is developed in an ad hoc manner, with little regard for the high standards that are characteristic of other research activities. As a result, the research software ecosystem is fragile and the source of numerous problems that plague modern computational science [@carver2018conceptualization].
