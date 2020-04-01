@@ -4,7 +4,7 @@ biblio-style: "apalike"
 link-citations: true
 ---
 
-This public report is a very early outline of the final report. Many of these sections are under internal review before being posted here. We expect sections to be posted by late March 2020.
+This public report is a very early outline of the final report. Many of these sections are under internal review before being posted here. We expect most sections to be posted by April 2020.
 
 
 # Introduction {#intro}
