@@ -1,3 +1,40 @@
-# URSSI Conceptualization Activities
+# URSSI Conceptualization
 
-Here is a review of existing methods.
+The purpose of this conceptualization project was to create a roadmap for a US Research Software Sustainability Institute (URSSI).  The roadmap was to be informed by and responsive to a community of potential stakeholders, including researchers, software developers and users, funders, and program / product managers. To engage this diverse group of people and institutions we completed the described research in this section including a series of workshops, community outreach and communication, a survey, set of ethnographic studies, and a pilot Winter School for early-career researchers. At the conclusion of this section we offer a summary of the challenges identified, collectively, across all of the URSSI conceptualization activities, and what role we believe URSSI should play in addressing these challenges.
+
+## Workshops
+ 
+**Community wide workshops**: In 2018 two community workshops were held with URSSI stakeholders in Berkeley (April) and Chicago (October). Participants were invited based on their ability to represent diverse roles, institutions, and perspectives on research software. The general goal of the two community workshops was to determine what topics this diverse group of stakeholders consider to be well-understood, where there is uncertainty or desire for guidance, and what work remains to be done in supporting sustainable research software. URSSI PIs facilitated broad discussions, and participated in small group breakout discussions. Additionally, participants at each workshop gave presentations about their on-going research software activities. 
+ 
+**Thematic Workshops**: Participants at the first community workshop identified two topics that were worthy of more focused discussion and community input: Research software metrics, citation,  and impact evaluation; and, methods for incubating new and existing research software projects.  
+ 
+* The **Metrics, Credit and Citation Workshop** was held in Santa Barbara, California January 2019. The 23 participants had strong expertise in the various workshop themes, including PIs of the CodeMeta project, Zenodo, and software credit initiatives such as SourceCred.
+ 
+* The **Research Incubators Workshop** was held in College Park, Maryland in February 2019. There were 20 participants with strong expertise in research software project development, including program officers from various government agencies, open-source research software developers, and organizational scholars that have studied research software processes. 
+ 
+**URSSI Design Workshop**: In April 2019 members of the Senior Personnel and Advisory Committees participated in a workshop in Chicago, IL. PIs presented preliminary results from our research (ethnographies and survey) as well as lessons learned from the four previously held URSSI workshops. 
+
+## Website / Newsletter/ Blog
+
+Since a major part of the conceptualization project was to build awareness of the need for an institute, our activities, and overall community interest, we used a [website](http://urssi.us), nine [newsletters](http://urssi.us/newsletter/), and 36 [blog posts](http://urssi.us/blog/) to do this, in addition to the PIs and others giving public talks and webinars about URSSI. The newsletters were mailing to a mailing list we developed of workshop attendees and subscribers, as well as advertised via an [URSSI twitter account](https://twitter.com/si2urssi/). The twitter account was also used to advertise the blog posts and newsletters, and currently has over 500 followers.
+
+## Survey
+ 
+We developed and disseminated a survey to compliment workshop participation. The primary goal of the survey is to gather the opinions, preferences, and self-reported activities of the research software community regarding development practices, development tools, training, funding/institutional support, career paths, credit for software work, and diversity/inclusion. For each of these topics, we asked a small number of general questions and then allowed participants to self-select to answer more detailed questions about any area of particular interest. We distributed the survey primarily to PIs of currently funded NSF and NIH projects, and in addition, the PIs distributed the survey to relevant mailing lists. The survey closed in May of 2019 after receiving approximately 1200 responses. 
+ 
+The results of the survey highlighted some areas where URSSI could play a key role in advancing the sustainability of research software in the United States.
+
+1. There was a mismatch between how respondents wanted to allocate their time and the actual allocation of time. This result provides an opportunity for URSSI to work with developers and teams to help them focus their efforts on the tasks that are most relevant.
+2. The aspects of the software development process respondents viewed as being more difficult than they should be tended to focus on people-related activities rather than technical activities. This result suggests that URSSI could provide support to teams and developers by providing training and/or resources related to human factors in the software development process.
+3. Respondents indicated they use a number of software development practices. However, one key practice that was underutilized is peer code review. URSSI can provide training on peer code review and work with teams to ensure that the infrastructure is in place to appropriately support this activity in the research software space.
+4. The respondents indicated that software development practices including _requirements_, _design_, _maintenance_, and _documentation_ were not well-supported by tools.
+5. In terms of version control, there is still a sizable percentage of people who use methods like _copying files to another location_ and _zip file backups_ as version control. This result suggests that URSSI could provide additional training and tools to help teams use modern version control systems.
+6. Many of the items above relate to training activities. The results of the survey suggest that a large percentage of respondents have not received training in software development. While the respondents indicated there were sufficient opportunities for training, most of them suggested they did not have sufficient time for training. URSSI could help by providing training in different formats that work better with the demands of the research software developers’ environments.
+7. Many respondents also found the level of support, in terms of funding, to be inadequate to be successful. URSSI could help by advocating both at the national funding level as well as at the University level for increased funding for important research software development activities.
+8. Respondents also indicated their software contributions were not significantly valued in performance reviews. URSSI could help by developing and advocating for policies that help research software developers get adequate recognition for their work.
+9. Most projects lack a formal diversity plan. URSSI could help in this respect by providing template diversity plans and support for developing appropriate ones for individual projects.
+
+## Ethnography
+ 
+To gain a deeper understanding of the practices and experiences of researchers who are actively engaged in software development, we have undertaken a series of ethnographic studies. These studies have focused on software projects of varying size and complexity in the field of hydrology, astronomy, and biochemistry. We have conducted observations, semi-structured interviews, and have gathered a series of archival documents to produce case studies of how, over time, these projects overcome challenges of recruiting contributors, building a governance model, seeking funding, and sharing credit. 
+
