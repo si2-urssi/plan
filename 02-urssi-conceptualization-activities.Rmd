@@ -2,6 +2,10 @@
 
 The purpose of this conceptualization project was to create a roadmap for a US Research Software Sustainability Institute (URSSI).  The roadmap was to be informed by and responsive to a community of potential stakeholders, including researchers, software developers and users, funders, and program / product managers. To engage this diverse group of people and institutions we completed the described research in this section including a series of workshops, community outreach and communication, a survey, set of ethnographic studies, and a pilot Winter School for early-career researchers. At the conclusion of this section we offer a summary of the challenges identified, collectively, across all of the URSSI conceptualization activities, and what role we believe URSSI should play in addressing these challenges.
 
+<center>
+![FigName](conceptualization_activities.jpg)
+</center>
+
 ## Workshops
  
 **Community wide workshops**: In 2018 two community workshops were held with URSSI stakeholders in Berkeley (April) and Chicago (October). Participants were invited based on their ability to represent diverse roles, institutions, and perspectives on research software. The general goal of the two community workshops was to determine what topics this diverse group of stakeholders consider to be well-understood, where there is uncertainty or desire for guidance, and what work remains to be done in supporting sustainable research software. URSSI PIs facilitated broad discussions, and participated in small group breakout discussions. Additionally, participants at each workshop gave presentations about their on-going research software activities. 
