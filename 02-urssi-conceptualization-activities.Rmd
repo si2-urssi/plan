@@ -58,3 +58,23 @@ We observe differences in the two projects that seem marginal at first glance, b
 
 We recognize that software sustainability is more than just financial support, but what these case studies make clear is that the economic realities of maintaining and contributing to software development have important downstream impacts that shape innovation and engagement, and the URSSI conceptualization has studied how these challenges can be practically overcome. 
 
+## Winter school
+
+As part of the conceptualization process, in late December 2019 we ran our first ever URSSI school on research software engineering. We began accepting applications in July and received an overwhelming response to our call for applications. For the 30 participant slots available, we received 169 applications, meaning we had a challenging time selecting the participants and had to turn away a large number of interested researchers. While the selection committee used multiple criteria to evaluate and select participants, successful applicants already had some experience with Python programming, Git, and Unix skills, which was  necessary to benefit from the workshop. Our goal wasn't to repeat the same material covered in bootcamps and Software Carpentry style workshops, but to focus on the research software engineering skills that are not formally taught in any setting. These skills include best practices for packaging code as software, testing, collaborative software development, code review, and related topics such as licensing and archiving. The school lasted 2.5 days.
+
+Based on the demand described above, this experience made evident the strong need for the skills covered in the school. The overall feedback from the school was also positive (more on that below). Some key lessons from this pilot that impact our design of a Summer School as part of URSSI are: 1) the school needs to be longer to allow for both discussion time and focused time for students to work on their own code, applying the lessons from the lectures; and 2) the presence of additional helpers outside of the primary instructors was quite beneficial to help answer specific questions from the students.
+
+A few example quotes from the Winter School feedback form include:
+
+* ”I really can't say enough good things about this super empowering workshop! You did an amazing job identifying the things I didn't know that I didn't know, and teaching them at a level that was immediately actionable in my work.”
+* “Thank you so much to everyone for taking this amazing initiative to teach young scientists on software sustainability.”
+* “Thank you for putting together this winter-school, it was super useful to me and I'm looking forward to applying everything I learned to my future projects and to go deeper into the topics that were covered.”
+
+## Joint Activities
+
+While working to conceptualize URSSI, we helped start two new activities that overlapped our goals, both so that we could promote these goals and also so that we could build up these future partners of a later full URSSI institute.
+
+### Research Software Alliance (ReSA)
+
+URSSI instigated (along with the UK [Software Sustainability Institute](https://software.ac.uk) and [Australian Research Data Commons](https://ardc.edu.au)) a global community of organizations interested in promoting and sustaining software, called the [Research Software Alliance (ReSA)](http://www.researchsoft.org).  ReSA has held three meetings, at RSE18, eScience2018, and RSEConUK19, with representatives from about 20 other organizations, and has assembled a mailing list with about 40 such organizations and an umbrella organization under which all these groups can collaborate to strengthen all of our activities. ReSA is currently working on defining governance and other activities to formalize ReSA, and at the same time, it has started a set of [task forces](http://www.researchsoft.org/resa-taskforces-join-us/) to 1) analyze and document the landscape of different communities and topics of interest for the research software community (e.g., preservation, RSEs, citation, productivity, sustainability), 2) collect and share evidence for the importance of research software, and 3) assemble and maintain a register of research software funding opportunities. Additionally, ReSA is currently working with other members of the scholarly community to start up a task force to define FAIR for software, likely co-organized with [FORCE11](https://www.force11.org/) and [RDA](https://www.rd-alliance.org/).
+
