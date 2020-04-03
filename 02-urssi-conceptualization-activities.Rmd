@@ -89,3 +89,45 @@ As a number of non-UK people (including some URSSI PIs) started attending UK RSE
 * Resources: to provide useful resources to multiple demographics, including technical and career development resources, and information and material to support the establishment and expansion of RSE positions and groups within the research ecosystem.
 
 There are thus some overlaps between US-RSE's goals and URSSI's, and a clear reason for us to work together going forward.
+
+## Synthesis of URSSI Activities
+In the following section we describe common challenges and dilemmas that were identified across URSSI’s conceptualization activities. Where possible, we identify the role URSSI could play in helping overcome these challenges as a funded institute. 
+ 
+**Challenge 1: Decentralized expertise**
+
+Throughout the planning activities the community of stakeholders recognized that there already exist a number of individual efforts to help improve the development, maintenance, and overall sustainability of research software in the US. While these efforts, collectively, are comprehensive in their scope, the decentralized structure of this expertise is inefficient for both resource discovery and delivery of services. For example there are many points of expertise in research software development (e.g., SWEBOK, RSEs), education and training (e.g., academic initiatives, Carpentries), credit and metrics (e.g., CitAs), incubation (e.g., ESIP, the UW eScience Institute) that are available to individuals at specific institutions, but there is currently no comprehensive organization that can serve to coordinate these activities, promote centers of expertise, and ensure that effort is not duplicated– a role that is played admirably in the UK by the Software Sustainability Institute. 
+
+As a coordinating center URSSI could help solve this challenge in the following ways:
+
+* Broker connections between points of expertise, and serve to coordinate efforts and funding such that different experts could better collaborate on sustainable development, education, and policy initiatives. 
+* Identify and convene experts to help fill gaps that exist between service delivery. For example, where the Carpentries see gaps in knowledge skill or acquisition in sustaining software education. 
+* Disseminate best practices from specific disciplines out to the broader research community. By acting as a center of research software excellence URSSI could be a space where solutions from one domain could be learned and efficiently transferred to another. 
+* Coordinate and help to curate relevant research software packages through discovery portals, such as https://libraries.io/ 
+ 
+**Challenge 2: Pathways to sustainability for non-commercial research software**
+
+Throughout the URSSI conceptualization activities participants voiced concern for the viability of valuable software projects that do not seek commercialization. Technology transfer programs at universities and through research funding agencies (e.g. I-Corps, SBIR/STTR) are well established and have been successful at helping entrepreneurially-focused software projects recognize and execute viable business models. This transition pathway is promoted for software that has a potential to sustain itself through fees or licensing agreements. However, there is no equivalent university guidance for software projects that would like to pursue non-commercial open source models for sustainability. 
+
+There is a need for a US-based institute, divorced from any single university, to help valuable research software projects realize a non-commercial open-source route to sustainability. This could include a program, such as an incubator, that would guide research software projects towards developing open-source governance, budgeting, licensing, and fiscal sponsorship in service of non-commercial sustainability. We view this route, and its guidance from an institute, as critical to promoting an ecosystem of diverse research software projects that may not be readily amenable to commercialization, or have the potential to build healthy and viable volunteer developer communities as an alternative to licensing.  
+
+**Challenge 3: Coordinated advocacy and analysis for policy change**
+
+Related to the first challenge of decentralized expertise, there is a need for coordination and targeted leadership around policy for sustainable research software. Participants in URSSI workshops described a need for coordinating communities around emerging national, institutional, and even disciplinary specific policies that have a downstream impact on sustainability, such as software citation principles, tenure and promotion guidelines that recognize research software contributions, sustained funding or financial support for research software maintenance, and software management plans that explicitly document expectations around software development and archiving. 
+
+Currently, many of these policy activities are taken up as additional professional service, or as volunteer work. This secondary focus on any one policy issue, in turn, leads to slow progress, high turnover of volunteers, and doesn’t allow any one person or institution to develop the deep expertise needed for effective sustained analysis or advocacy. 
+
+An institute that could dedicate time and attention to policy design, invest personnel time in developing needed expertise, and coordinate a sustainable lobbying network that would allow advocacy work to become more manageable, effective, and result in better outcomes for research software stakeholders. Further, there is often a need to conduct advocacy work that is driven by empirical research that can substantiate how or why one policy decision is better than another. An institute dedicated to these activities would facilitate data-driven policy research that could lead to stronger advocacy positions, and benefit funding agencies, universities, and research institutions that seek to adopt new policy aimed at improving research software sustainability. 
+
+**Challenge 4: Signals of viability**
+
+A valuable contribution of the URSSI workshop and engagement activities has been convening stakeholders with expertise in the evaluation and funding of research software. This has included current and former program officers from NSF, NIH, DoE, DoD, and IMLS, as well as philanthropic organizations like the Gordon and Betty Moore and Alfred P. Sloan foundations. These participants have a collective desire for an institute to develop stronger signals of a research software project’s viability; to help evaluate a project’s potential for long-term sustainability; and help communities of research software stakeholders coalesce around strategic funding initiatives that could benefit research through software investments. 
+
+A dedicated USA institute focused on software sustainability could help meet this challenge in a number of ways, but we recognize that there is no overarching or simple solution. The plan that we describe below explains, in numerous places, how URSSI can and should convene different communities to address complex problems like strategic financial investment, evaluation for viability, etc.  
+
+**Challenge 5: Career Advancement and Credit**
+
+Closely related to Challenges 1, 3 and 4 is a desire of URSSI stakeholders to see an institute dedicate time and resources towards promoting recognition for research software activities, and helping to shape reliable career pathways for research software engineers (RSEs). At URSSI workshops, there was near-unanimous agreement that the acknowledgement of research software contributions remains difficult for career advancement and there is a lack of clear guidance for both universities and funding agencies on how to make progress on these issues. 
+
+A dedicated US-based institute for research software sustainability could play a leading role in advocating for best practices in the measurement, reward, and credit for research software activities. This would include dedicated research into measuring and evaluating software development activities, advancing techniques for use and user impact evaluation, and promoting formative metrics that are conducive to long-term viability. Relatedly, a dedicated US-based institute could better evaluate and promote the impact of research software engineering positions that currently exist, and advocate for their creation where they do not.
+
+In the next chapter, we describe URSSI’s plan to meet each of these challenges. In particular, we focus on how a strategic investment in a US-based software sustainability institute would practically organize itself, allocate budgets, and measure progress on each of the challenges identified in the conceptualization phase. 
