@@ -66,7 +66,7 @@ Based on the demand described above, this experience made evident the strong nee
 
 A few example quotes from the Winter School feedback form include:
 
-* ”I really can't say enough good things about this super empowering workshop! You did an amazing job identifying the things I didn't know that I didn't know, and teaching them at a level that was immediately actionable in my work.”
+* “I really can't say enough good things about this super empowering workshop! You did an amazing job identifying the things I didn't know that I didn't know, and teaching them at a level that was immediately actionable in my work.”
 * “Thank you so much to everyone for taking this amazing initiative to teach young scientists on software sustainability.”
 * “Thank you for putting together this winter-school, it was super useful to me and I'm looking forward to applying everything I learned to my future projects and to go deeper into the topics that were covered.”
 
