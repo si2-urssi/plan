@@ -58,7 +58,7 @@ We observe differences in the two projects that seem marginal at first glance, b
 
 We recognize that software sustainability is more than just financial support, but what these case studies make clear is that the economic realities of maintaining and contributing to software development have important downstream impacts that shape innovation and engagement, and the URSSI conceptualization has studied how these challenges can be practically overcome. 
 
-## Winter school
+## Winter School
 
 As part of the conceptualization process, in late December 2019 we ran our first ever URSSI school on research software engineering. We began accepting applications in July and received an overwhelming response to our call for applications. For the 30 participant slots available, we received 169 applications, meaning we had a challenging time selecting the participants and had to turn away a large number of interested researchers. While the selection committee used multiple criteria to evaluate and select participants, successful applicants already had some experience with Python programming, Git, and Unix skills, which was  necessary to benefit from the workshop. Our goal wasn't to repeat the same material covered in bootcamps and Software Carpentry style workshops, but to focus on the research software engineering skills that are not formally taught in any setting. These skills include best practices for packaging code as software, testing, collaborative software development, code review, and related topics such as licensing and archiving. The school lasted 2.5 days.
 
