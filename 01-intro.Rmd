@@ -61,7 +61,7 @@ often lead double lives, working tirelessly to meet the traditional responsibili
 academic life, while developing open source tools that enable modern research. We are able
 to break the problem down into the following four areas:
 
-**Research software itself is not sustainably developed:** In many fields research software
+**Research software itself is not sustainably developed**: In many fields research software
 is developed by academics for other academics. Because these people have spent much of their
 careers developing deep domain expertise, but not developing deep software expertise,
 software does not get the same level of care as other aspects of the research enterprise
@@ -78,8 +78,8 @@ computational research, the authors managed to ultimately run only 102 (less tha
 These low numbers only count the authors' success in running the code, not in actually
 validating the results. 
 
-**Lack of career opportunities:** Software does not count for career advancement (e.g.,
-promotion and tenure)  in academia, making it an invisible scholarly contribution. Research
+**Lack of career opportunities**: Software does not count for career advancement (e.g.,
+promotion and tenure) in academia, making it an invisible scholarly contribution. Research
 software is often not cited (31-43%), even in high impact journals [@howison2016software].
 Besides the negative impact on career trajectories, this lack of visibility means that
 incentives to produce sustainable, widely shared, and collaboratively developed software
@@ -87,7 +87,7 @@ are lacking.  For university staff members, the Research Software Engineer (RSE)
 has begun creating a new class of academic positions that explicitly value software work,
 but such positions are not very common in the United States.
 
-**Lack of training opportunities:**  When NSF PIs in the BIO directorate were asked about
+**Lack of training opportunities**:  When NSF PIs in the BIO directorate were asked about
 their biggest challenges in leveraging vast amounts of data currently available, lack of
 training was listed as the single biggest challenge [@barone2017unmet]. Although this
 training deficit describes the ability to use existing data science software, the skills
@@ -95,7 +95,7 @@ needed to develop them are harder to come by [citation]. While programs like Sof
 Carpentry and a handful of university courses offer training in analyzing data, very few
 train researchers in modern open source software development. This gap remains to be filled.
 
-**Lack of diversity in research software:** Open source communities struggle to gain
+**Lack of diversity in research software**: Open source communities struggle to gain
 participation from women and more broadly from underrepresented groups. Diversity of
 perspectives, ﬁelds, and backgrounds is important in growing a robust research software
 community. [**TODO**: This is a bare bones placeholder and could use a lot more evidence
