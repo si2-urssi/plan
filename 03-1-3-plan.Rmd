@@ -1,21 +1,50 @@
 # URSSI Plan {#chapter3}
 
-Throughout the URSSI conceptualization process, the team has worked on overall planning iteratively, using slides at workshops and the URSSI website to disseminate current thoughts, using the survey and the ethnographic studies as inputs, using workshops (including slides and shared note documents) and the discuss forum (https://discuss.urssi.us) to gather and record feedback. Together, these activities plus internal discussions of the team and a focused mission and vision working group have led to most of the content of this document.
+Throughout the URSSI conceptualization process, the team has worked on overall
+planning iteratively, using slides at workshops and the URSSI website to
+disseminate current thoughts, using the survey and the ethnographic studies as
+inputs, using workshops (including slides and shared note documents) and the
+discuss forum (https://discuss.urssi.us) to gather and record feedback. Together,
+these activities plus internal discussions of the team and a focused mission and
+vision working group have led to most of the content of this document.
 
 ## Mission and Vision
 
-URSSI PIs began to develop mission and vision statements in late 2018. The intent of these statements was to succinctly state the purpose for URSSI’s existence (mission) and based on that purpose what URSSI strives to achieve (vision). The process for developing these statements was: 
+URSSI PIs began to develop mission and vision statements in late 2018. The intent
+of these statements was to succinctly state the purpose for URSSI’s existence
+(mission) and based on that purpose what URSSI strives to achieve (vision). The
+process for developing these statements was: 
 
-* At the first two workshops, participants were asked about the goals and vision that a US research software sustainability institute should pursue. 
-* The URSSI PIs then identified institutions with similar goals, and collected their mission and vision statements for comparison. 
-* Eight members of the Senior Personnel and Advisory Committee participated in a working group focused on developing URSSI’s mission and vision statement. 
-* Each working group participant provided a written set of three mission and three vision statements based on the conceptualization proposal, workshop participant’s feedback, and guidance from the URSSI PIs. 
-* Neil Chue Hong, director of the Software Sustainability Institute in the UK, facilitated a synthesis of the working group’s feedback. This included a teleconference with participants to discuss and refine versions of each mission and vision statement. 
-* The URSSI PIs then presented drafts of each statement to workshop participants at the final URSSI meeting in Chicago and refined a final version of each statement.
+* At the first two workshops, participants were asked about the goals and vision
+that a US research software sustainability institute should pursue. 
+
+* The URSSI PIs then identified institutions with similar goals, and collected
+their mission and vision statements for comparison. 
+
+* Eight members of the Senior Personnel and Advisory Committee participated in
+a working group focused on developing URSSI’s mission and vision statement. 
+
+* Each working group participant provided a written set of three mission and
+three vision statements based on the conceptualization proposal, workshop
+participant’s feedback, and guidance from the URSSI PIs. 
+
+* Neil Chue Hong, director of the Software Sustainability Institute in the UK,
+facilitated a synthesis of the working group’s feedback. This included a
+teleconference with participants to discuss and refine versions of each
+mission and vision statement. 
+
+* The URSSI PIs then presented drafts of each statement to workshop participants
+at the final URSSI meeting in Chicago and refined a final version of each statement.
 
 The mission and vision of URSSI are as follows:  
  
-**Mission**: Our mission is to improve the recognition, development, and use of software for a more sustainable research enterprise. We achieve this mission through collaboratively developing education, outreach, and software services that emphasize open, transparent reproducible, and cooperative practices. URSSI is an institute for software expertise as well as a social infrastructure that promotes an inclusive and diverse community of research software engineers, maintainers, contributors, and users.
+**Mission**: Our mission is to improve the recognition, development, and use of
+software for a more sustainable research enterprise. We achieve this mission
+through collaboratively developing education, outreach, and software services
+that emphasize open, transparent reproducible, and cooperative practices. URSSI
+is an institute for software expertise as well as a social infrastructure that
+promotes an inclusive and diverse community of research software engineers,
+maintainers, contributors, and users.
  
 **Vision**: Empowered people, building better software, enabling exceptional research
  
@@ -24,61 +53,139 @@ The mission and vision of URSSI are as follows:
 
 The following assumptions are inputs to our planning process: 
 
-* We will propose an institute with a 5-year duration and a potential 5-year extension, based on NSF’s current institutes and published documents.
-* The budget of URSSI will be $3m-$5m per year. We take $3m as the baseline minimum funding level needed to operate an institute, below which an institute is not the right method to achieve the mission and vision, and then build higher cost and higher return activities on that baseline.
-* There is demonstrated interest in supporting some URSSI goals from private foundations and potential interest from other federal agencies, so URSSI activities should be planned as a set of reinforcing (but separable) activities, potentially on different timelines.
-* There is a strong need for improved software sustainability across all fields, and URSSI cannot solve this in all fields by itself.
-* There are many partners who can help URSSI achieve some of its goals, as there is overlap between these goals and the goals of those partners.
-* It isn't practical for URSSI to directly work with the US software development community due to the small size of URSSI and the large size of the community, so URSSI needs to work indirectly by leveraging other groups.
+* We will propose an institute with a 5-year duration and a potential 5-year
+extension, based on NSF’s current institutes and published documents.
 
-Given the mission and vision, and our assumptions, we plan to use a set of methods to ensure that URSSI is successful:
+* The budget of URSSI will be $3m-$5m per year. We take $3m as the baseline
+minimum funding level needed to operate an institute, below which an institute
+is not the right method to achieve the mission and vision, and then build higher
+cost and higher return activities on that baseline.
+
+* There is demonstrated interest in supporting some URSSI goals from private
+foundations and potential interest from other federal agencies, so URSSI
+activities should be planned as a set of reinforcing (but separable) activities,
+potentially on different timelines.
+
+* There is a strong need for improved software sustainability across all fields,
+and URSSI cannot solve this in all fields by itself.
+
+* There are many partners who can help URSSI achieve some of its goals, as there
+is overlap between these goals and the goals of those partners.
+
+* It isn't practical for URSSI to directly work with the US software development
+community due to the small size of URSSI and the large size of the community, so
+URSSI needs to work indirectly by leveraging other groups.
+
+Given the mission and vision, and our assumptions, we plan to use a set of methods
+to ensure that URSSI is successful:
  
-* URSSI must choose a set of initial targeted communities and efforts, focus on them for some period, then move on to the next set of targets
+* URSSI must choose a set of initial targeted communities and efforts, focus on
+them for some period, then move on to the next set of targets
+
 * URSSI must work closely with partners to amplify its efforts
-* URSSI must be clever about using resources, attempting to achieve multiple outputs for activities whenever possible.
+
+* URSSI must be clever about using resources, attempting to achieve multiple outputs
+for activities whenever possible.
  
 Guiding principles:
 
 * Leverage existing organizations for authority, credibility, resources
+
 * Focus on individuals (i.e., aim at people not projects)
-* Leverage available resources (software, services, credit systems, training materials, etc.) where possible rather than reinvent
+
+* Leverage available resources (software, services, credit systems, training
+materials, etc.) where possible rather than reinvent
+
 * Respect and learn from volunteers
+
 * Activities should have an end or a sustainability plan beyond URSSI
+
 * Distinguish between quality (badging/intrinsic) and impact (reuse) measures
-* Sustain software by sustaining its communities (stewards, developers, maintainers, leaders, active users).
+
+* Sustain software by sustaining its communities (stewards, developers, maintainers,
+leaders, active users).
+
 * Coordinate activities rather than start new ones when possible
-* Advocate and promote a diversity of career paths, recognizing that no one correct version of a career is likely to exist across institutions
+
+* Advocate and promote a diversity of career paths, recognizing that no one
+correct version of a career is likely to exist across institutions
 
 Some topics are partially or completely out-of-scope for URSSI:
-[TODO: what should be out-of-scope for URSSI?]
+[**TODO**: what should be out-of-scope for URSSI?]
 
-**Software Commercialization**. As an institute, URSSI will position itself as a broker to existing bodies of knowledge or expertise, and seek to fill needed gaps where no expertise already exists. Relevant to this positioning is a route to sustainability through the commercialization of research software. We view this path to sustainability as already well supported by existing programs and initiatives, some of which are already funded by NSF. As a principle, URSSI is not opposed to or discouraging of research software commercialization. We will actively seek to learn from and collaborate with the commercial software ecosystem, including technology transfer offices that provide structured pathways to commercialization for research software in academic institutions. In this role, URSSI might guide people in deciding if commercialization is a realistic or good choice for their software project, and connect those who decide that it is to existing support programs like [I-Corps](https://www.nsf.gov/news/special_reports/i-corps/). What we believe URSSI can uniquely provide, and what we find to be lacking, is support for alternative routes to sustainability through open-source or non-commercial fiscal sponsorship. While these alternative routes are obviously less straightforward, and more challenging they remain the most viable option for improving the long-term accessibility and impact of most research investments in software. A majority of even the best research software projects won't be commercially viable given the size and scope of their audience. It is this critical gap, between commercialization and open-source, that URSSI seeks to close. 
+**Software Commercialization**. As an institute, URSSI will position
+itself as a broker to existing bodies of knowledge or expertise, and
+seek to fill needed gaps where no expertise already exists. Relevant
+to this positioning is a route to sustainability through the
+commercialization of research software. We view this path to sustainability
+as already well supported by existing programs and initiatives, some of
+which are already funded by NSF. As a principle, URSSI is not opposed
+to or discouraging of research software commercialization. We will actively
+seek to learn from and collaborate with the commercial software ecosystem,
+including technology transfer offices that provide structured pathways to
+commercialization for research software in academic institutions. In this
+role, URSSI might guide people in deciding if commercialization is a
+realistic or good choice for their software project, and connect those who
+decide that it is to existing support programs like
+[I-Corps](https://www.nsf.gov/news/special_reports/i-corps/). What we believe
+URSSI can uniquely provide, and what we find to be lacking, is support for
+alternative routes to sustainability through open-source or non-commercial
+fiscal sponsorship. While these alternative routes are obviously less
+straightforward, and more challenging they remain the most viable option for
+improving the long-term accessibility and impact of most research
+investments in software. A majority of even the best research software projects
+won't be commercially viable given the size and scope of their audience. It is
+this critical gap, between commercialization and open-source, that URSSI seeks
+to close. 
 
 ## Desired impact
 
-URSSI's ultimate desired impact, as stated in the vision, is on scholarly research in science, engineering, and the humanities.  URSSI aims to achieve this impact by contributing resources and training to the research software ecosystem that will improve research software and to empower the people who create and maintain that software
+URSSI's ultimate desired impact, as stated in the vision, is on scholarly
+research in science, engineering, and the humanities.  URSSI aims to achieve
+this impact by contributing resources and training to the research software
+ecosystem that will improve research software and to empower the people who
+create and maintain that software
  
 For software, URSSI aims to improve the sustainability of research software by
 
-* Developing and sharing good-enough and best practices for software projects, including for testing, governance, codes of conduct, continuous integration
+* Developing and sharing good-enough and best practices for software projects,
+including for testing, governance, codes of conduct, continuous integration
+
 * Documenting sustainability models and providing guidance on how to choose among them
+
 * Promoting communities and appropriate governance models for open source research software
+
 * Building models to make best use of and support transient software contributors (e.g. students)
  
-For people, URSSI aims to improve the careers of those who develop and maintain research software by:
+For people, URSSI aims to improve the careers of those who develop and maintain
+research software by:
 
 * Promoting new career paths for those who develop and maintain research software
-* Developing and advocating for research software usage and impact metrics to be a factor in the hiring and promotion of software developers and maintainers 
+
+* Developing and advocating for research software usage and impact metrics to be
+a factor in the hiring and promotion of software developers and maintainers 
+
 * Promoting the publication of research software
-* Creating and providing training for those who want to develop and maintain research software
-* Encouraging a diverse set of participants to enter the research software development and maintenance field, and decreasing structural and systemic barriers to productive careers for members of underrepresented groups
+
+* Creating and providing training for those who want to develop and maintain
+research software
+
+* Encouraging a diverse set of participants to enter the research software
+development and maintenance field, and decreasing structural and systemic
+barriers to productive careers for members of underrepresented groups
  
 For the research software ecosystem, URSSI aims to improve the understanding and functioning of the ecosystem by
 
-* Documenting the use of research software in research, and providing systematic and regular analysis of the impact this software has on research. 
+* Documenting the use of research software in research, and providing
+systematic and regular analysis of the impact this software has on research. 
+
 * Growing and participating in communities around the field of research software
+
 * Promoting an increased understanding of the importance of research software in research
+
 * Promoting software credit and citation mechanisms
+
 * Studying methods to catalog and promote research software
+
 * Supporting the use of software in reproducibility
 
