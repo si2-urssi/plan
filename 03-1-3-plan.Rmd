@@ -1,6 +1,6 @@
 # URSSI Plan {#chapter3}
 
-Throughout the URSSI conceptualization process, the team has worked on overall
+Throughout the URSSI conceptualization process, the team worked on overall
 planning iteratively, using slides at workshops and the URSSI website to
 disseminate current thoughts, using the survey and the ethnographic studies as
 inputs, using workshops (including slides and shared note documents) and the
@@ -15,10 +15,10 @@ of these statements was to succinctly state the purpose for URSSI’s existence
 (mission) and based on that purpose what URSSI strives to achieve (vision). The
 process for developing these statements was: 
 
-* At the first two workshops, participants were asked about the goals and vision
+* At the first two workshops, we asked participants about the goals and vision
 that a US research software sustainability institute should pursue. 
 
-* The URSSI PIs then identified institutions with similar goals, and collected
+* The URSSI PIs then identified institutions with similar goals and collected
 their mission and vision statements for comparison. 
 
 * Eight members of the Senior Personnel and Advisory Committee participated in
@@ -29,7 +29,7 @@ three vision statements based on the conceptualization proposal, workshop
 participant’s feedback, and guidance from the URSSI PIs. 
 
 * Neil Chue Hong, director of the Software Sustainability Institute in the UK,
-facilitated a synthesis of the working group’s feedback. This included a
+facilitated a synthesis of the working group’s feedback. This synthesis process included a
 teleconference with participants to discuss and refine versions of each
 mission and vision statement. 
 
@@ -67,12 +67,12 @@ activities should be planned as a set of reinforcing (but separable) activities,
 potentially on different timelines.
 
 * There is a strong need for improved software sustainability across all fields,
-and URSSI cannot solve this in all fields by itself.
+and URSSI cannot solve this need in all fields by itself.
 
 * There are many partners who can help URSSI achieve some of its goals, as there
 is overlap between these goals and the goals of those partners.
 
-* It isn't practical for URSSI to directly work with the US software development
+* It is not practical for URSSI to directly work with the US software development
 community due to the small size of URSSI and the large size of the community, so
 URSSI needs to work indirectly by leveraging other groups.
 
@@ -103,7 +103,7 @@ materials, etc.) where possible rather than reinvent
 * Distinguish between quality (badging/intrinsic) and impact (reuse) measures
 
 * Sustain software by sustaining its communities (stewards, developers, maintainers,
-leaders, active users).
+leaders, active users)
 
 * Coordinate activities rather than start new ones when possible
 
@@ -171,13 +171,13 @@ a factor in the hiring and promotion of software developers and maintainers
 research software
 
 * Encouraging a diverse set of participants to enter the research software
-development and maintenance field, and decreasing structural and systemic
+development and maintenance field and decreasing structural and systemic
 barriers to productive careers for members of underrepresented groups
  
 For the research software ecosystem, URSSI aims to improve the understanding and functioning of the ecosystem by
 
-* Documenting the use of research software in research, and providing
-systematic and regular analysis of the impact this software has on research. 
+* Documenting the use of research software in research and providing
+systematic and regular analysis of the impact this software has on research 
 
 * Growing and participating in communities around the field of research software
 
