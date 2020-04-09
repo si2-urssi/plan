@@ -4,12 +4,12 @@ The purpose of this conceptualization project was to create a roadmap for a US
 Research Software Sustainability Institute (URSSI).  The roadmap was to be
 informed by and responsive to a community of potential stakeholders, including
 researchers, software developers and users, funders, and program / product managers.
-To engage this diverse group of people and institutions we completed the described
-research in this section including a series of workshops, community outreach and
+To engage this diverse group of people and institutions we completed the 
+research described in this section including a series of workshops, community outreach and
 communication, a survey, set of ethnographic studies, and a pilot Winter School
 for early-career researchers. At the conclusion of this section we offer a
 summary of the challenges identified, collectively, across all of the URSSI
-conceptualization activities, and what role we believe URSSI should play in
+conceptualization activities and what role we believe URSSI should play in
 addressing these challenges.
 
 <center>
@@ -18,29 +18,30 @@ addressing these challenges.
 
 ## Workshops
  
-**Community wide workshops**: In 2018 two community workshops were held with
-URSSI stakeholders in Berkeley (April) and Chicago (October). Participants were
-invited based on their ability to represent diverse roles, institutions, and
+**Community wide workshops**: In 2018 we held two community workshops with
+URSSI stakeholders in Berkeley (April) and Chicago (October). We invited participants 
+based on their ability to represent diverse roles, institutions, and
 perspectives on research software. The general goal of the two community workshops
-was to determine what topics this diverse group of stakeholders consider to be
-well-understood, where there is uncertainty or desire for guidance, and what work
+was to determine which topics this diverse group of stakeholders consider to be
+well-understood, which topics still have uncertainty or a need for guidance, and what work
 remains to be done in supporting sustainable research software. URSSI PIs
-facilitated broad discussions, and participated in small group breakout
+facilitated broad discussions and participated in small group breakout
 discussions. Additionally, participants at each workshop gave presentations
 about their on-going research software activities. 
  
 **Thematic Workshops**: Participants at the first community workshop identified
-two topics that were worthy of more focused discussion and community input:
-Research software metrics, citation,  and impact evaluation; and, methods for
-incubating new and existing research software projects.  
+two topics worthy of more focused discussion and community input.
+We organized the following workshops to better understand those topics:
  
-* The **Metrics, Credit and Citation Workshop** was held in Santa Barbara,
-California January 2019. The 23 participants had strong expertise in the
-various workshop themes, including PIs of the CodeMeta project, Zenodo,
+* The **Metrics, Credit and Citation Workshop**, held in Santa Barbara,
+California in January 2019, focused on reseach software metrics, citation, 
+and impact evaluatin. The 23 participants had strong expertise in the
+various workshop themes, including the PIs of the CodeMeta project, Zenodo,
 and software credit initiatives such as SourceCred.
  
-* The **Research Incubators Workshop** was held in College Park, Maryland
-in February 2019. There were 20 participants with strong expertise in
+* The **Research Incubators Workshop**, held in College Park, Maryland
+in February 2019, focused on methods for incubating new and existing research projects. 
+The 20 participants had strong expertise in
 research software project development, including program officers from
 various government agencies, open-source research software developers,
 and organizational scholars that have studied research software processes. 
@@ -52,42 +53,40 @@ as well as lessons learned from the four previously held URSSI workshops.
 
 ## Website / Newsletter/ Blog
 
-Since a major part of the conceptualization project was to build awareness
-of the need for an institute, our activities, and overall community interest,
-we used a [website](http://urssi.us), nine [newsletters](http://urssi.us/newsletter/),
-and 36 [blog posts](http://urssi.us/blog/) to do this, in addition to the
-PIs and others giving public talks and webinars about URSSI. The newsletters
-were mailing to a mailing list we developed of workshop attendees and
-subscribers, as well as advertised via an [URSSI twitter account](https://twitter.com/si2urssi/).
-The twitter account was also used to advertise the blog posts and
-newsletters, and currently has over 500 followers.
+One of the major goals of the conceptualization project was to build awareness
+of the need for an institute, publicize our activities, and increase overall community interest.
+To achieve this goal, we used a [website](http://urssi.us), nine [newsletters](http://urssi.us/newsletter/), 
+36 [blog posts](http://urssi.us/blog/), and a seires of public talks and webinars given 
+by the PIs and others. We sent the newsletters to the URSSI email list, which consists
+of workshop attendees and other interested members of the community.
+We also publicized the newsletter and blog posts via the [URSSI twitter account](https://twitter.com/si2urssi/),
+which has over 500 followers.
 
 ## Survey
  
 We developed and disseminated a survey to compliment workshop participation.
-The primary goal of the survey is to gather the opinions, preferences, and
+The primary goal of the survey was to gather the opinions, preferences, and
 self-reported activities of the research software community regarding
 development practices, development tools, training, funding/institutional
 support, career paths, credit for software work, and diversity/inclusion.
 For each of these topics, we asked a small number of general questions and
 then allowed participants to self-select to answer more detailed questions
-about any area of particular interest. We distributed the survey primarily
-to PIs of currently funded NSF and NIH projects, and in addition, the PIs
-distributed the survey to relevant mailing lists. The survey closed in May
-of 2019 after receiving approximately 1200 responses. 
+about any area of particular interest. We distributed the survey to PIs of 
+currently funded NSF and NIH projects and to relevant mailing lists. The 
+survey closed in May 2019 after receiving approximately 1200 responses. 
  
 The results of the survey highlighted some areas where URSSI could play a
 key role in advancing the sustainability of research software in the United States.
 
 1. There was a mismatch between how respondents wanted to allocate their
-time and the actual allocation of time. This result provides an opportunity
+time and their actual allocation of time. This result provides an opportunity
 for URSSI to work with developers and teams to help them focus their efforts
 on the tasks that are most relevant.
 
 2. The aspects of the software development process respondents viewed as
-being more difficult than they should be tended to focus on people-related
+being more difficult than they should be tended to be people-related
 activities rather than technical activities. This result suggests that URSSI
-could provide support to teams and developers by providing training and/or
+could support teams and developers by providing training and/or
 resources related to human factors in the software development process.
 
 3. Respondents indicated they use a number of software development practices.
@@ -106,8 +105,8 @@ _zip file backups_ as version control. This result suggests that URSSI
 could provide additional training and tools to help teams use modern
 version control systems.
 
-6. Many of the items above relate to training activities. The results of
-the survey suggest that a large percentage of respondents have not received
+6. Many of the items above relate to training, or the lack thereof. The 
+survey results suggest a large percentage of respondents have not received
 training in software development. While the respondents indicated there were
 sufficient opportunities for training, most of them suggested they did not
 have sufficient time for training. URSSI could help by providing training
@@ -124,62 +123,62 @@ significantly valued in performance reviews. URSSI could help by developing
 and advocating for policies that help research software developers get
 adequate recognition for their work.
 
-9. Most projects lack a formal diversity plan. URSSI could help in this
-respect by providing template diversity plans and support for developing
-appropriate ones for individual projects.
+9. Most projects lack a formal diversity plan. URSSI could help by providing 
+template diversity plans and support for developing
+appropriate plans for individual projects.
 
 ## Ethnography
  
 To gain a deeper understanding of the practices and experiences of researchers
 who are actively engaged in software development, we have undertaken a series of
-ethnographic studies. These studies have focused on software projects of varying
-size and complexity in the field of hydrology, astronomy, and biochemistry. We
-have conducted observations, semi-structured interviews, and have gathered a
-series of archival documents to produce case studies of how, over time, these
-projects overcome challenges of recruiting contributors, building a governance
+ethnographic studies. These studies focused on software projects of varying
+size and complexity in the fields of hydrology, astronomy, and biochemistry. 
+Using observations, semi-structured interviews, and a
+series of archival documents, we produced case studies of how, over time, these
+projects overcame challenges of recruiting contributors, building a governance
 model, seeking funding, and sharing credit in sustaining a software project that
 has demonstrable impact on a community of researchers.
 
-Two of these studies, Astropy and Rosetta Commons, were developed as full case
-studies. Both projects face unique sustainability challenges that are solved
-somewhat differently, and while the main findings of this work are not novel
+We developed two of these studies, Astropy and Rosetta Commons, as full case
+studies. Both projects face unique sustainability challenges that they solved
+somewhat differently. While the main findings of this work are not novel
 in the sense that they will surprise anyone familiar with challenges to sustaining
-research software the value of this work is in comparing the two cases. By better
+research software, the value of this work is in comparing the two cases. By better
 understanding common approaches to overcoming sustainability challenges, we believe
-there is a valuable opportunity to abstract these approaches to models of success
-that can be modified or tailored by research software projects in other domains.
-A brief summary of the findings from these two case studies are below. 
+there is a valuable opportunity to abstract these approaches into models of success
+that research software projects in other domains can modify or tailor.
+The following is a brief summary of the findings from these two case studies. 
 
 Points of comparison:
 
-* Distributed work coordination: Key to the success of both Astropy and Rosetta
+* _Distributed work coordination_: Key to the success of both Astropy and Rosetta
 Commons is coordination of remote collaborative work. Astropy mirrors Python’s
 core development team in structuring contributor guidelines and supporting
-designated maintainers. Rosetta Commons differs substantially: the project
+designated maintainers. Rosetta Commons differs substantially in that the project
 employs four full-time infrastructure maintainers. This offloading of
 maintenance responsibilities frees up contributors (distributed labs throughout
 the USA) to focus on conducting research and driving innovations that extend
 Rosetta’s key functionality.    
 
-* Funding: Astropy is fiscally sponsored by NumFocus, but depends upon grant
+* _Funding_: Astropy is fiscally sponsored by NumFocus, but depends upon grant
 funding from a variety of sources to sustain its collective work. A recent
 grant from Gordon and Betty Moore Foundation, “Sustaining and Growing the
 Astropy Project,” is focused exclusively on maintenance and governance for
-the project’s long-term viability to  practicing astronomers. Rosetta Commons
+the project’s long-term viability to practicing astronomers. Rosetta Commons
 combines licensing and grant funding to sustain its work. Licenses for
 commercial use and an NIH infrastructure maintenance grant have continuously
 supported the project since 2005.  
 
-* Credit:  Both projects have had a number of papers published about their
+* _Credit_:  Both projects have had a number of papers published about their
 development. Astropy suggests two publications to cite when acknowledging
 use of the software [@robitaille2013astropy; @price2018astropy]. These two
-publications, combined, have received over 3000 citations. Rosetta Commons,
-because it has many versions. methods and language specific implementations,
+publications, combined, have over 3000 citations. Rosetta Commons,
+because it has many versions, methods, and language specific implementations,
 has no canonical citation. Interviews with contributors to Rosetta noted
-that this causes confusion for authors when rushing towards publication
-and many researchers have sought a centralized source they could acknowledge.
+that this lack of canonical citation causes confusion for authors when rushing towards publication.
+Many researchers have sought a centralized source they could acknowledge.
 Despite the lack of a canonical citation, two papers describing Rosetta and
-its use in predicting protein structures have, combined, received over 4300
+its use in predicting protein structures have, combined, over 4300
 citations [@rohl2004protein; @salmena2011cerna]. 
 
 
@@ -191,10 +190,10 @@ of each project:
 
 * Astropy, in following an open model of contribution, focuses time and
 attention on clearly documenting and making contributor guidelines
-accessible to research software engineers. Effort of the maintenance
-team is therefore focused on how to ensure contributors are supported
+accessible to research software engineers. The maintenance team
+therefore focuses their effort on ensuring contributors are supported
 while simultaneously keeping various packages up to date and available
-to the community that depends upon this code for their research. This is
+to the community that depends upon this code for their research. This approach is
 partially a result of the software ecosystem being broadly useful to a
 discipline (Astronomy), as compared to Rosetta Commons, which focused on
 specific analytic tasks within a subfield of biological engineering
@@ -202,23 +201,23 @@ specific analytic tasks within a subfield of biological engineering
 
 * Continuous annual grant funding and licensing fees allow Rosetta to
 centralize infrastructure tasks to a core team whose sole job is
-maintenance. This in turn encourages innovation and expansion of feature
-sets for labs that are focused solely on producing new research insights.
+maintenance. This approach in turn encourages innovation and expansion of feature
+sets for labs that focus solely on producing new research insights.
 Astropy has, over time, centralized maintenance of the project’s software
-development and maintenance. But until very recently, this has been a
+development and maintenance. But until very recently, this maintenance has been a
 volunteer activity. Shifting time, attention, and energy towards organizing
 an open-source model of development impacts career trajectories for
-practicing astronomers, and contributes to a more fragile ecosystem for astronomy.   
+practicing astronomers and contributes to a more fragile ecosystem for astronomy.   
 
 We recognize that software sustainability is more than just financial support,
 but what these case studies make clear is that the economic realities of
 maintaining and contributing to software development have important downstream
-impacts that shape innovation and engagement, and the URSSI conceptualization
+impacts that shape innovation and engagement. The URSSI conceptualization
 has studied how these challenges can be practically overcome. 
 
 ## Winter School
 
-As part of the conceptualization process, in late December 2019 we ran our
+In late December 2019 we ran our
 first ever URSSI school on research software engineering. We began accepting
 applications in July and received an overwhelming response to our call for
 applications. For the 30 participant slots available, we received 169
@@ -226,10 +225,10 @@ applications, meaning we had a challenging time selecting the participants
 and had to turn away a large number of interested researchers. While the
 selection committee used multiple criteria to evaluate and select participants,
 successful applicants already had some experience with Python programming, Git,
-and Unix skills, which was  necessary to benefit from the workshop. Our goal
-wasn't to repeat the same material covered in bootcamps and Software Carpentry
+and Unix skills, which was necessary to benefit from the workshop. Our goal
+was not to repeat the same material covered in bootcamps and Software Carpentry
 style workshops, but to focus on the research software engineering skills that
-are not formally taught in any setting. These skills include best practices
+not formally taught in any setting. These skills include best practices
 for packaging code as software, testing, collaborative software development,
 code review, and related topics such as licensing and archiving. The school
 lasted 2.5 days.
@@ -258,7 +257,7 @@ and to go deeper into the topics that were covered.”
 
 ## Joint Activities
 
-While working to conceptualize URSSI, we helped start two new activities that
+During the URSSI conceptualization process, we helped start two new activities that
 overlapped our goals, both so that we could promote these goals and also so
 that we could build up these future partners of a later full URSSI institute.
 
@@ -269,7 +268,7 @@ and [Australian Research Data Commons](https://ardc.edu.au)) a global community
 of organizations interested in promoting and sustaining software, called the
 [Research Software Alliance (ReSA)](http://www.researchsoft.org).  ReSA has
 held three meetings, at RSE18, eScience2018, and RSEConUK19, with representatives
-from about 20 other organizations, and has assembled a mailing list with about 40
+from about 20 other organizations and has assembled a mailing list with about 40
 such organizations and an umbrella organization under which all these groups can
 collaborate to strengthen all of our activities. ReSA is currently working on
 defining governance and other activities to formalize ReSA, and at the same time,
@@ -311,28 +310,28 @@ Engineer Association (US-RSE) formed in 2018, with the support and participation
 of three of the five URSSI PIs, and has 340 members as of February 2020. The US-RSE
 Association is centered around three main goals:
 
-* Community: to provide a coherent association of those who identify with the role
+* _Community_: to provide a coherent association of those who identify with the role
 (not necessarily title) of Research Software Engineer, and to provide the members
 of the community the ability to share knowledge, professional connections, and resources.
 
-* Advocacy: to promote RSEs' impact on research, highlighting the increasingly
+* _Advocacy_: to promote RSEs' impact on research, highlighting the increasingly
 critical and valuable role RSEs serve.
 
-* Resources: to provide useful resources to multiple demographics, including technical
+* _Resources_: to provide useful resources to multiple demographics, including technical
 and career development resources, and information and material to support the
 establishment and expansion of RSE positions and groups within the research ecosystem.
 
-There are thus some overlaps between US-RSE's goals and URSSI's, and a clear reason
+There are thus some overlaps between US-RSE's goals and URSSI's and a clear reason
 for us to work together going forward.
 
 ## Synthesis of URSSI Activities
-In the following section we describe common challenges and dilemmas that were
+In the following section we describe common challenges and dilemmas we 
 identified across URSSI’s conceptualization activities. Where possible, we identify
 the role URSSI could play in helping overcome these challenges as a funded institute. 
  
 **Challenge 1: Decentralized expertise**
 
-Throughout the planning activities the community of stakeholders recognized
+Throughout the planning activities, the community of stakeholders recognized
 that there already exist a number of individual efforts to help improve the
 development, maintenance, and overall sustainability of research software in
 the US. While these efforts, collectively, are comprehensive in their scope,
@@ -341,22 +340,22 @@ discovery and delivery of services. For example there are many points of experti
 in research software development (e.g., SWEBOK, RSEs), education and training
 (e.g., academic initiatives, Carpentries), credit and metrics (e.g., CitAs),
 incubation (e.g., ESIP, the UW eScience Institute) that are available to
-individuals at specific institutions, but there is currently no comprehensive
+individuals at specific institutions. However, there is currently no comprehensive
 organization that can serve to coordinate these activities, promote centers of
 expertise, and ensure that effort is not duplicated– a role that is played
 admirably in the UK by the Software Sustainability Institute. 
 
-As a coordinating center URSSI could help solve this challenge in the following ways:
+As a coordinating center, URSSI could help solve this challenge in the following ways:
 
-* Broker connections between points of expertise, and serve to coordinate
+* Broker connections between points of expertise and serve to coordinate
 efforts and funding such that different experts could better collaborate on
 sustainable development, education, and policy initiatives. 
 
 * Identify and convene experts to help fill gaps that exist between service
-delivery. For example, where the Carpentries see gaps in knowledge skill or
+delivery, for example, where the Carpentries see gaps in knowledge skill or
 acquisition in sustaining software education. 
 
-* Disseminate best practices from specific disciplines out to the broader
+* Disseminate best practices from specific disciplines to the broader
 research community. By acting as a center of research software excellence
 URSSI could be a space where solutions from one domain could be learned and
 efficiently transferred to another. 
@@ -366,7 +365,7 @@ discovery portals, such as https://libraries.io/
  
 **Challenge 2: Pathways to sustainability for non-commercial research software**
 
-Throughout the URSSI conceptualization activities participants voiced concern
+Throughout the URSSI conceptualization activities, participants voiced concern
 for the viability of valuable software projects that do not seek
 commercialization. Technology transfer programs at universities and through
 research funding agencies (e.g. I-Corps, SBIR/STTR) are well established
@@ -379,7 +378,7 @@ for sustainability.
 
 There is a need for a US-based institute, divorced from any single university,
 to help valuable research software projects realize a non-commercial
-open-source route to sustainability. This could include a program, such as an
+open-source route to sustainability. This support could include a program, such as an
 incubator, that would guide research software projects towards developing
 open-source governance, budgeting, licensing, and fiscal sponsorship in service
 of non-commercial sustainability. We view this route, and its guidance from an
@@ -400,17 +399,17 @@ recognize research software contributions, sustained funding or financial
 support for research software maintenance, and software management plans
 that explicitly document expectations around software development and archiving. 
 
-Currently, many of these policy activities are taken up as additional
+Currently, community members take on many of these policy activities as additional
 professional service, or as volunteer work. This secondary focus on any
 one policy issue, in turn, leads to slow progress, high turnover of volunteers,
-and doesn’t allow any one person or institution to develop the deep expertise
+and does not allow any one person or institution to develop the deep expertise
 needed for effective sustained analysis or advocacy. 
 
 An institute that could dedicate time and attention to policy design, invest
 personnel time in developing needed expertise, and coordinate a sustainable
-lobbying network that would allow advocacy work to become more manageable,
+lobbying network would allow advocacy work to become more manageable,
 effective, and result in better outcomes for research software stakeholders.
-Further, there is often a need to conduct advocacy work that is driven by
+Further, there is often a need to conduct advocacy work driven by
 empirical research that can substantiate how or why one policy decision is
 better than another. An institute dedicated to these activities would
 facilitate data-driven policy research that could lead to stronger advocacy
@@ -422,7 +421,7 @@ software sustainability.
 
 A valuable contribution of the URSSI workshop and engagement activities has
 been convening stakeholders with expertise in the evaluation and funding of
-research software. This has included current and former program officers
+research software. These stakeholders include current and former program officers
 from NSF, NIH, DoE, DoD, and IMLS, as well as philanthropic organizations
 like the Gordon and Betty Moore and Alfred P. Sloan foundations. These
 participants have a collective desire for an institute to develop stronger
@@ -431,9 +430,9 @@ project’s potential for long-term sustainability; and help communities of
 research software stakeholders coalesce around strategic funding initiatives
 that could benefit research through software investments. 
 
-A dedicated USA institute focused on software sustainability could help meet
+A dedicated US institute focused on software sustainability could help meet
 this challenge in a number of ways, but we recognize that there is no
-overarching or simple solution. The plan that we describe below explains,
+overarching or simple solution. The plan we describe below explains,
 in numerous places, how URSSI can and should convene different communities
 to address complex problems like strategic financial investment, evaluation
 for viability, etc.  
@@ -442,7 +441,7 @@ for viability, etc.
 
 Closely related to Challenges 1, 3 and 4 is a desire of URSSI stakeholders to
 see an institute dedicate time and resources towards promoting recognition
-for research software activities, and helping to shape reliable career pathways
+for research software activities and helping to shape reliable career pathways
 for research software engineers (RSEs). At URSSI workshops, there was
 near-unanimous agreement that the acknowledgement of research software
 contributions remains difficult for career advancement and there is a lack
@@ -451,12 +450,12 @@ progress on these issues.
 
 A dedicated US-based institute for research software sustainability could
 play a leading role in advocating for best practices in the measurement,
-reward, and credit for research software activities. This would include
+reward, and credit for research software activities. This activity would include
 dedicated research into measuring and evaluating software development activities,
 advancing techniques for use and user impact evaluation, and promoting formative
 metrics that are conducive to long-term viability. Relatedly, a dedicated US-based
 institute could better evaluate and promote the impact of research software
-engineering positions that currently exist, and advocate for their creation
+engineering positions that currently exist and advocate for their creation
 where they do not.
 
 In the next chapter, we describe URSSI’s plan to meet each of these challenges.
