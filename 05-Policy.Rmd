@@ -1,3 +1,64 @@
 # Policy
 
-Coming soon.
+The Policy area’s intent is to support the people who develop and maintain research software, and to support research about research software, to ultimately increase the science & research impact of software.  It does this by focusing on potential initiatives (actions, mandates, incentives, directives) decision makers can take to have a broad influence on the area, sometimes thought of as leverage points, including strategies and decisions to invest. Policy happens at multiple levels, including  national, funding agency, institution, and research group.
+
+The Policy area's activities are divided into two parts, research and advocacy.  Research is the collecting and analyzing of data, while advocacy is the dissemination of the research results in such a way that it changes practices.
+
+## Subgoals
+
+The changes that the policy area seeks to make include:
+
+1. In funding agencies, direct funding of software maintenance other software sustainability activities is a core part of the mission, e.g., at NSF, this includes all program officers across all directorates
+2. In universities and academic fields, positions for people developing and maintaining research software are available, recognized, and rewarded
+3. In publishing, support and recognition for software as a core part of science is the norm
+4. In industry, sharing best practices, coordinating efforts, and contributing to open source software projects is the norm
+5. Open source software is recognized as a key element of open science and reproducibility
+6. Diversity of software project contributors is Increased
+
+## Area Structure
+
+<center>
+![FigName](images/policy_structure.png)
+</center>
+
+The policy area comprises:
+
+* Director for Policy, an URSSI co-PI, leads the overall Policy area, working with the Policy Advisory Board and Policy staff to define and execute policy research and advocacy activities.
+* Policy Data Science Team: performs research aimed at informing policy, but not about policy itself, for example, with regard to software usage metrics, empirical studies would be most effective. Includes funded staff, URSSI fellows, and community volunteers.
+* Assistant Director for Policy Advocacy, focuses more on planning advocacy that in doing it, by understanding different stakeholders, and building a roadmap for how to effectively advocate (within universities, foundations, industry, national labs, etc.)
+* Policy Advocacy Team, focused on policy development (such as use cases and examples of practices that are effective for sustainability), which ultimately would be used for presenting turnkey ways to support research software to institutions, possibly integrating and building upon the data science team’s findings. Includes funded staff, URSSI fellows, and community volunteers.
+* Policy advisory board (appointed volunteers) who provide advice on potential policy area and activities
+
+## Resources
+
+The policy area will require resources that include funding for salaries, for events, and for travel.
+
+**Funding for personnel** (e.g., buying out parts of contracts):
+
+* 3 FTEs, divided across Assistant Director for Policy Advocacy, Policy Data Science Team (potentially a postdoc), Policy Advocacy Team
+
+Additional team members, not funded by the policy area:
+
+* Director for Policy, an URSSI co-PI, funded by URSSI at top level
+* Policy Advisory Group (appointed volunteers)
+* URSSI fellows, working in Policy Data Science Team and Policy Advocacy Team
+  * (**TODO**: Fellows program to be run by URSSI Community area; these policy fellows might be funded by policy area if needed)
+* Other community volunteers, in Policy Data Science Team and Policy Advocacy Team
+
+**Funding for workshops**: **TODO**: TBD
+ 
+* Potentially including a policy conference / workshop(s) akin to Aspen Institute / CODATA - $370k, also could be part of an annual URSSI event
+ 
+**Funding for travel/speaking**: **TODO**: TBDTBD
+ 
+If there is less budget available, we would cut back on workshop funding 
+ 
+If there is less budget available, we would:
+
+* Expand policy program to have a summer program for undergraduate and graduate students focused on software / science policy (e.g., an REU or something like a google summer of code for policy / law students)
+* Hire communication staff to do outreach and engagement around policy topics (would be dedicated expertise in policy as opposed to general outreach)
+
+## Methods and processes
+
+... in progress ...
+
