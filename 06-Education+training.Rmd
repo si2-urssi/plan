@@ -1,117 +1,311 @@
 # Education & Training
 
-Researchers often view software development skills as separate from, but complementary to their disciplinary training. This perspective introduces a dilemma for researchers, particularly for early-career researchers, who need to master their discipline and simultaneously acquire sufficiently-good software engineering skills. When forced to choose, they typically make sacrifices or take shortcuts in software engineering, as they view their disciplinary skills and knowledge as more important to their careers, and more rewarded by current incentive systems. Further, many researchers do not aspire to become software engineering experts, but approach the acquisition of software skills as a means to a research end. As a result of this approach, there are valuable skills such as packaging, testing, releasing, archiving, and even designing research software that are dramatically underdeveloped in the overall research ecosystem. 
+Researchers often view software development skills as separate from, but complementary to 
+their disciplinary training. This perspective introduces a dilemma for researchers, particularly 
+for early-career researchers, who need to master their discipline and simultaneously acquire 
+sufficiently-good software engineering skills. When forced to choose, they typically make sacrifices 
+or take shortcuts in software engineering, as they view their disciplinary skills and knowledge as 
+more important to their careers, and more rewarded by current incentive systems. Further, many 
+researchers do not aspire to become software engineering experts, but approach the acquisition of 
+software skills as a means to a research end. As a result of this approach, there are valuable 
+skills such as packaging, testing, releasing, archiving, and even designing research software that 
+are dramatically underdeveloped in the overall research ecosystem. 
 
-Previous studies demonstrate that researchers are rarely purposely trained to develop software. A  2017 survey of US National Postdoctoral Association members regarding postdocs' use of software in research and their training regarding software development found that 95% of respondents use research software. However, 54% (n = 104) of the respondents to this survey reported that they have not received any training in software development [@nangia_katz_2017]. A similar survey of software use and training from the UK repeats this finding: In 2014, Heatrick et al. asked researchers at randomly selected researchers in 15 Russell Group universities about their software use and training. Of the 417 responses, 45% report having no training in software development. Of the 55% of respondents that reported having received some training in software development 40% had received some form of formal training in a software development course, and 15% were self-taught. In further analyzing these results, Hettrick et al. report that 21% of respondents who develop their own software had no training in software development [@simon_hettrick_2018_1183562; @Hettrick-blog]. A 2016 survey of 704 PIs from the Biological Sciences Directorate of the US NSF found the most pressing unmet needs are training in data integration, data management, and scaling analyses for HPC [@Barone2017]. And a 2018 survey of almost 1600 scientist-developers found that 82% of respondents felt that they were spending “more time” or “much more time” developing software than they did 10 years ago [@Pinto2018].
+Previous studies demonstrate that researchers are rarely purposely trained to develop software. A  
+2017 survey of US National Postdoctoral Association members regarding postdocs' use of software in 
+research and their training regarding software development found that 95% of respondents use research 
+software. However, 54% (n = 104) of the respondents to this survey reported that they have not 
+received any training in software development [@nangia_katz_2017]. A similar survey of software 
+use and training from the UK repeats this finding: In 2014, Heatrick et al. asked researchers at 
+randomly selected researchers in 15 Russell Group universities about their software use and training. 
+Of the 417 responses, 45% report having no training in software development. Of the 55% of respondents 
+that reported having received some training in software development 40% had received some form of 
+formal training in a software development course, and 15% were self-taught. In further analyzing 
+these results, Hettrick et al. report that 21% of respondents who develop their own software had 
+no training in software development [@simon_hettrick_2018_1183562; @Hettrick-blog]. A 2016 survey 
+of 704 PIs from the Biological Sciences Directorate of the US NSF found the most pressing unmet 
+needs are training in data integration, data management, and scaling analyses for HPC [@Barone2017]. 
+And a 2018 survey of almost 1600 scientist-developers found that 82% of respondents felt that 
+they were spending “more time” or “much more time” developing software than they did 10 years ago [@Pinto2018].
 
-Not only is there a gap in software development training in general, there's also an additional gap across gender. When analyzed by gender (self reported binary of men and women) the first two surveys show that only 39% of female respondents in the UK and 32% in the USA report have received some form of software development training, compared to 63% of male respondents in the UK and 64% in the USA. 
+Not only is there a gap in software development training in general, there's also an additional 
+gap across gender. When analyzed by gender (self reported binary of men and women) the first 
+two surveys show that only 39% of female respondents in the UK and 32% in the USA report 
+have received some form of software development training, compared to 63% of male respondents 
+in the UK and 64% in the USA. 
 
-This lack of training is not new, nor is it newly discovered. Greg Wilson has written [@10.12688/f1000research.3-62.v2; @softwarecarpentryhistory] about the history of Software Carpentry:
-In 1995–96, \[Wilson\] organized a series of articles in IEEE Computational Science & Engineering titled, “What Should Computer Scientists Teach to Physical Scientists and Engineers?”. These grew out of the frustration he had working with scientists who wanted to run before they could walk, i.e., to parallelize complex programs that were not broken down into self-contained functions, that did not have any automated tests, and that were not under version control.
+This lack of training is not new, nor is it newly discovered. Greg Wilson has written 
+[@10.12688/f1000research.3-62.v2; @softwarecarpentryhistory] about the history of Software Carpentry:
+> In 1995–96, \[Wilson\] organized a series of articles in IEEE Computational Science & 
+> Engineering titled, “What Should Computer Scientists Teach to Physical Scientists and 
+> Engineers?”. These grew out of the frustration he had working with scientists who wanted 
+> to run before they could walk, i.e., to parallelize complex programs that were not broken 
+> down into self-contained functions, that did not have any automated tests, and that were 
+> not under version control.
 
-In response, John Reynders (then director of the Advanced Computing Laboratory at Los Alamos National Laboratory) invited \[Wilson\] and Brent Gorda (now at Intel) to teach a week-long course to LANL staff. This course ran for the first time in July 1998, and was repeated nine times over the next four years. It eventually wound down as Gorda and \[Wilson\] moved on to other projects, but two valuable lessons were learned:
+> In response, John Reynders (then director of the Advanced Computing Laboratory at 
+> Los Alamos National Laboratory) invited \[Wilson\] and Brent Gorda (now at Intel) to 
+> teach a week-long course to LANL staff. This course ran for the first time in July 
+> 1998, and was repeated nine times over the next four years. It eventually wound down 
+> as Gorda and \[Wilson\] moved on to other projects, but two valuable lessons were learned:
+> 1. There is tremendous pent-up demand for training in basic skills.
+> 2. Textbook software engineering is not the right thing to teach most scientists.
 
-1. There is tremendous pent-up demand for training in basic skills.
+This led to the Software Carpentry organization, which built a successful train-the-trainer 
+model for collaborative lesson development and delivery, and which was used as a model 
+to build Data Carpentry, which then merged with Software Carpentry into The Carpentries, 
+and now also includes Library Carpentry. The Carpentries has developed highly impactful 
+training content and events that meet an intermediate need for training researchers to 
+better develop software. Many computing centers, including those funded by NSF and DOE, 
+have also long had user training in some types of development (similar to that of Los 
+Alamos), for example, joint activities run by 
+[TeraGrid](https://www.xsede.org/wwwteragrid/archive/web/eot/workshops.html) and now 
+[XSEDE](https://www.xsede.org/for-users/training), and Argonne's 
+[ATPESC](https://extremecomputingtraining.anl.gov). Given the success of the Carpentries, 
+these computing center training events often either include or contribute to Carpentries 
+lessons, or complement them  In addition, other NSF-funded software institutes (e.g., 
+MolSSI, SGCI, and IRIS-HEP) are also developing training resources for their target 
+communities, similarly making use of, contributing to, and complementing the Carpentries.
 
-2. Textbook software engineering is not the right thing to teach most scientists.
+We believe that there is an important role that a US-based research software institute 
+can play to expand the breadth and depth of the training available, and to further 
+coordinate and facilitate the acquisition of software engineering expertise by researchers 
+engaged in various development activities. Rather than reinventing content, we anticipate 
+collaborating with and pointing to relevant resources developed through other related efforts.
 
-This led to the Software Carpentry organization, which built a successful train-the-trainer model for collaborative lesson development and delivery, and which was used as a model to build Data Carpentry, which then merged with Software Carpentry into The Carpentries, and now also includes Library Carpentry. The Carpentries has developed highly impactful training content and events that meet an intermediate need for training researchers to better develop software. Many computing centers, including those funded by NSF and DOE, have also long had user training in some types of development (similar to that of Los Alamos), for example, joint activities run by [TeraGrid](https://www.xsede.org/wwwteragrid/archive/web/eot/workshops.html) and now [XSEDE](https://www.xsede.org/for-users/training), and Argonne's [ATPESC](https://extremecomputingtraining.anl.gov). Given the success of the Carpentries, these computing center training events often either include or contribute to Carpentries lessons, or complement them  In addition, other NSF-funded software institutes (e.g., MolSSI, SGCI, and IRIS-HEP) are also developing training resources for their target communities, similarly making use of, contributing to, and complementing the Carpentries.
+The Education & Training thrust of the URSSI  institute complements and builds upon existing 
+efforts through the following activities. We plan to: 
 
-We believe that there is an important role that a US-based research software institute can play to expand the breadth and depth of the training available, and to further coordinate and facilitate the acquisition of software engineering expertise by researchers engaged in various development activities. Rather than reinventing content, we anticipate collaborating with and pointing to relevant resources developed through other related efforts.
+1. Develop and annually run a summer school on practices for sustainable software development 
+for research software
 
-The Education & Training thrust of the URSSI  institute complements and builds upon existing efforts through the following activities. We plan to: 
-Develop and annually run a summer school on practices for sustainable software development for research software
+2. Develop a Research Project Carpentry lesson program that teaches people how to turn code 
+into a formal project
 
-Develop a Research Project Carpentry lesson program that teaches people how to turn code into a formal project
+3. Plan a review service for software project plans (and note that the implementation of this 
+plan is likely out of scope of URSSI by itself)
 
-Plan a review service for software project plans (and note that the implementation of this plan is likely out of scope of URSSI by itself)
+4. Evaluate and document successes and failures of industrial software development practices 
+in research software
 
-Evaluate and document successes and failures of industrial software development practices in research software
-
-Compile and maintain a body of knowledge of best practices for research software development - this URSSI activity will seek to aggregate both existing practices, and serve as an outlet for emerging practices from other domain-specific software institutes (e.g., MolSSI, SGCI, IRIS-HEP) 
+5. Compile and maintain a body of knowledge of best practices for research software development 
+- this URSSI activity will seek to aggregate both existing practices, and serve as an outlet 
+for emerging practices from other domain-specific software institutes (e.g., MolSSI, SGCI, IRIS-HEP) 
 
 ## Resources
 
 This area requires the following staff:
-* Training Lead - who will coordinate all training activities and assessment of those activities  [~1 FTE]
+* Training Lead - who will coordinate all training activities and assessment of those 
+activities  [~1 FTE]
 
-* Assessment Coordinator - who will coordinate the assessment efforts (this position could be shared with other parts of the project) [~.5 FTE] 
+* Assessment Coordinator - who will coordinate the assessment efforts (this position 
+could be shared with other parts of the project) [~.5 FTE] 
 
-* Research Coordinator who will lead the effort to gather experiences from research software projects [.25-.5 FTE]
+* Research Coordinator who will lead the effort to gather experiences from research 
+software projects [.25-.5 FTE]
 
 ## Methods
 
-This section provides more details on how we plan to design and execute each of these activities within URSSI.
+This section provides more details on how we plan to design and execute each of these 
+activities within URSSI.
 
 ### Develop and annually run a summer school on practices for sustainable software development for research software
 
-*Overview*: During the conceptualization phase, we identified a need for additional, focused training opportunities on sustainable software development practices for researchers who were not in a domain covered by an existing institute. One of the primary reasons for this need is that it is generally difficult for professors to make room for this type of content. We plan to meet this need with a summer school, which is a proven method for providing hand-on training to transfer these skills to students, in this case on sustainable software development practices for research software development. We conducted a Pilot Winter School as part of the conceptualization process. The details of that activity appear in Section 2.e. The plan described here builds on the key lessons learned, including: (1) the school needs to be longer to allow for both discussion time and focused time for students to work on their own code, applying the lessons from the lectures and (2) the presence of additional helpers outside of the primary instructors was quite beneficial to help answer specific questions from the students.
+*Overview*: During the conceptualization phase, we identified a need for additional, 
+focused training opportunities on sustainable software development practices for researchers 
+who were not in a domain covered by an existing institute. One of the primary reasons for 
+this need is that it is generally difficult for professors to make room for this type of 
+content. We plan to meet this need with a summer school, which is a proven method for 
+providing hand-on training to transfer these skills to students, in this case on sustainable 
+software development practices for research software development. We conducted a Pilot 
+Winter School as part of the conceptualization process. The details of that activity appear 
+in [Chapter 2](#chapter2-WinterSchool). The plan described here builds on the key lessons 
+learned, including: (1) the school needs to be longer to allow for both discussion time 
+and focused time for students to work on their own code, applying the lessons from the 
+lectures and (2) the presence of additional helpers outside of the primary instructors 
+was quite beneficial to help answer specific questions from the students.
 
-*Content*: Based on the needs identified during our survey, workshops, and other discussions, we identified the following topics as candidates for inclusion in such a school: (1) human factors in the software development process, (2) peer code review, (3) modern version control (i.e., git), (4) software design, (5) software testing, (6) open science principles, and (7) software citation. 
+*Content*: Based on the needs identified during our survey, workshops, and other discussions, 
+we identified the following topics as candidates for inclusion in such a school: (1) human 
+factors in the software development process, (2) peer code review, (3) modern version 
+control (i.e., git), (4) software design, (5) software testing, (6) open science principles, 
+and (7) software citation. 
 
-*Format*: The summer school will be a 1-week in-person event. We plan to follow the successful PNAS hackweek model [@Huppenkothen8872] where we lecture in the morning and provide time in the afternoons for hacking and putting concepts into practice. We will invite instructors with expertise in the different topic areas (see above) to participate and deliver the lectures in the mornings. To facilitate the afternoon “hacking” time, we will ask school participants to bring a code project they wish to work on during the school. The afternoon “hacking sessions” will allow ample time for the participants to have hands-on time applying the concepts learned to their own code projects. These sessions also provide time for code reviews and other ad hoc topics that arise during the school. The instructors will be available during this afternoon time to help the participants as needed. By the end of the school, the participants should have substantial intellectual knowledge and experiential knowledge. Because researchers often do not have sufficient time for training or to attend events like this one, as an alternative to the face-to-face summer school events, we also plan to package the content into Carpentries-style lessons that can be used either in shorter training sessions, webinars, or asynchronously.
+*Format*: The summer school will be a 1-week in-person event. We plan to follow the 
+successful PNAS hackweek model [@Huppenkothen8872] where we lecture in the morning and 
+provide time in the afternoons for hacking and putting concepts into practice. We will 
+invite instructors with expertise in the different topic areas (see above) to participate 
+and deliver the lectures in the mornings. To facilitate the afternoon “hacking” time, 
+we will ask school participants to bring a code project they wish to work on during the 
+school. The afternoon “hacking sessions” will allow ample time for the participants to 
+have hands-on time applying the concepts learned to their own code projects. These sessions 
+also provide time for code reviews and other ad hoc topics that arise during the school. 
+The instructors will be available during this afternoon time to help the participants as 
+needed. By the end of the school, the participants should have substantial intellectual 
+knowledge and experiential knowledge. Because researchers often do not have sufficient 
+time for training or to attend events like this one, as an alternative to the face-to-face 
+summer school events, we also plan to package the content into Carpentries-style lessons 
+that can be used either in shorter training sessions, webinars, or asynchronously.
 
 ### Develop a Research Project Carpentry lesson program that teaches people how to turn code into a formal project
 
-*Overview*: One challenge faced by many research software developers is how to convert a small (individual) coding effort into a more formal project. This situation occurs frequently as researchers develop small units of code to accomplish tasks important in their own work. When other researchers are exposed to these code units, they often want either to use the code, add to the code, or both. This is the point when the researcher needs to convert that code into a more formal project, both to ensure quality as others use it and to allow the community to contribute to it. Therefore, we propose to develop a Research Project Carpentry lesson plan, along similar lines as Software Carpentry, that will help researchers make this transition from an individual coding effort to a community-focused project. 
+*Overview*: One challenge faced by many research software developers is how to convert 
+a small (individual) coding effort into a more formal project. This situation occurs 
+frequently as researchers develop small units of code to accomplish tasks important in 
+their own work. When other researchers are exposed to these code units, they often want 
+either to use the code, add to the code, or both. This is the point when the researcher 
+needs to convert that code into a more formal project, both to ensure quality as others 
+use it and to allow the community to contribute to it. Therefore, we propose to develop 
+a Research Project Carpentry lesson plan, along similar lines as Software Carpentry, that 
+will help researchers make this transition from an individual coding effort to a 
+community-focused project. 
 
-*Content*: The goal of this effort will be to help projects develop a good project plan. As such, the Research Project Carpentries lesson program will focus on helping researchers understand what content a good plan needs to contain. It will also provide information researchers need for making choices about which of the various practices are most relevant to their particular project. The topics to be covered in Research Project Carpentry include: (1) Requirements solicitation, (2) Agility, (3) Issue tracking, (4) Source control, (5) Testing, (6) Documentation, (7), Pair programming, (8) Code review, (9) Metrics, and (10) Estimating Developer Time. Note that there is some overlap between the focus of Research Project Carpentry and the Summer School described above. We anticipate reusing relevant content between these efforts. 
+*Content*: The goal of this effort will be to help projects develop a good project plan. 
+As such, the Research Project Carpentries lesson program will focus on helping researchers 
+understand what content a good plan needs to contain. It will also provide information 
+researchers need for making choices about which of the various practices are most relevant 
+to their particular project. The topics to be covered in Research Project Carpentry include: 
+(1) Requirements solicitation, (2) Agility, (3) Issue tracking, (4) Source control, (5) Testing, 
+(6) Documentation, (7), Pair programming, (8) Code review, (9) Metrics, and (10) Estimating 
+Developer Time. Note that there is some overlap between the focus of Research Project Carpentry 
+and the Summer School described above. We anticipate reusing relevant content between these efforts. 
 
-*Format*: We will develop modules on the topics above as carpentries-style modules. This approach will allow the Research Projects Carpentries materials to be used either in a face-to-face training course, like the Summer School, or as stand-alone units. This flexibility will allow researchers to access the content in a mechanism that is most relevant to them.
+*Format*: We will develop modules on the topics above as carpentries-style modules. This approach 
+will allow the Research Projects Carpentries materials to be used either in a face-to-face training 
+course, like the Summer School, or as stand-alone units. This flexibility will allow researchers 
+to access the content in a mechanism that is most relevant to them.
 
-*Note*: While this activity is relevant to the URSSI effort, we believe that it will have appeal beyond URSSI. Therefore, even though we include it here in the plan, we will seek funding to support it from organizations outside of NSF. We also plan to solicit other organizations and individuals to contribute to this activity. Therefore, while URSSI will drive it and encourage external participation, URSSI will not have the bandwidth to perform all of the work.
+*Note*: While this activity is relevant to the URSSI effort, we believe that it will have appeal 
+beyond URSSI. Therefore, even though we include it here in the plan, we will seek funding to 
+support it from organizations outside of NSF. We also plan to solicit other organizations and 
+individuals to contribute to this activity. Therefore, while URSSI will drive it and encourage 
+external participation, URSSI will not have the bandwidth to perform all of the work.
 
 ### Plan a review service for software project plans
-Building on the work done for Research Project Carpentries, URSSI has identified the need for a service where experts review and comment on proposed project plans. Researchers who are interested in this service would submit a project plan in a specified format. Then, experts would review the plan to ensure both that it is (1) complete with respect to the content necessary for the type of project and its current stage as well as (2) the choices made for each aspect of the project plan are consistent with best practices. Once the review is completed, the reviewer would work with the project team to help resolve any deficiencies identified in the original project plan. 
+Building on the work done for Research Project Carpentries, URSSI has identified the need for 
+a service where experts review and comment on proposed project plans. Researchers who are 
+interested in this service would submit a project plan in a specified format. Then, experts 
+would review the plan to ensure both that it is (1) complete with respect to the content necessary 
+for the type of project and its current stage as well as (2) the choices made for each aspect of 
+the project plan are consistent with best practices. Once the review is completed, the reviewer 
+would work with the project team to help resolve any deficiencies identified in the original 
+project plan. 
 
-This activity is likely beyond the scope of URSSI, so we will create an initial plan for it, then seek to partner with other organizations who are pursuing similar efforts and explore external funding sources. In addition to the operating service, URSSI and partners will need to develop and make available the following resources: (1) templates for project plans, (2) checklists for researchers to follow when developing the plan, and (3) guidance on how to choose from various alternatives for each section of the plan.
+This activity is likely beyond the scope of URSSI, so we will create an initial plan for it, 
+then seek to partner with other organizations who are pursuing similar efforts and explore 
+external funding sources. In addition to the operating service, URSSI and partners will need 
+to develop and make available the following resources: (1) templates for project plans, 
+(2) checklists for researchers to follow when developing the plan, and (3) guidance on how 
+to choose from various alternatives for each section of the plan.
 
 
 ### Evaluate and document successes and failures of the use of industrial software development practices in research software
-Industrial software engineering has developed and refined a number of best practices for software engineering and software development. It is not always clear which of these practices are relevant for use in developing research software. It is also not always clear which aspects of the research software domain motivate the need to develop new software engineering or software development practices to handle the unique contexts within which research software exists. To accomplish this activity, URSSI will need to perform the following steps.
+Industrial software engineering has developed and refined a number of best practices for 
+software engineering and software development. It is not always clear which of these practices 
+are relevant for use in developing research software. It is also not always clear which aspects 
+of the research software domain motivate the need to develop new software engineering or 
+software development practices to handle the unique contexts within which research software 
+exists. To accomplish this activity, URSSI will need to perform the following steps.
 
-First, URSSI will gather experience reports describing the successful and unsuccessful use of industrial software engineering and software development practices in research software projects. Gathering these experiences will involve conducting surveys and interviews of developers of research software to document important information. In addition to the successes and failures with specific practices, the experience reports will also document cases where developers of research software encountered a situation or a problem for which they were unable to find software engineering or software development practices that were relevant. Cases where there is a lack of relevant practices suggest opportunities for creation of new practices.
+First, URSSI will gather experience reports describing the successful and unsuccessful use 
+of industrial software engineering and software development practices in research software 
+projects. Gathering these experiences will involve conducting surveys and interviews of 
+developers of research software to document important information. In addition to the 
+successes and failures with specific practices, the experience reports will also document 
+cases where developers of research software encountered a situation or a problem for which 
+they were unable to find software engineering or software development practices that were 
+relevant. Cases where there is a lack of relevant practices suggest opportunities for 
+creation of new practices.
 
-Second, URSSI will analyze the experience reports to systematize the successes and failures and develop a series of evidence-based lessons learned. Because this information will be based upon real experiences from research projects, they will have great value to other research software projects.
+Second, URSSI will analyze the experience reports to systematize the successes and failures 
+and develop a series of evidence-based lessons learned. Because this information will be 
+based upon real experiences from research projects, they will have great value to other 
+research software projects.
 
-The results of these efforts will feed into Activity 5 by providing concrete experiences that we can document into best practices. These experiences will be beneficial because we will draw them from experiences on real projects, with knowledge about the context within which the practice works. This context will help provide a description of the limitations on the practice, which is equally important to document.
+The results of these efforts will feed into Activity 5 by providing concrete experiences 
+that we can document into best practices. These experiences will be beneficial because we 
+will draw them from experiences on real projects, with knowledge about the context within 
+which the practice works. This context will help provide a description of the limitations 
+on the practice, which is equally important to document.
  
 ### Compile and maintain a body of knowledge of best practices for research software development
-Based on the outcomes of the above activities, URSSI will develop a portal to provide living information about best practices for research software development. In addition to including content developed from our own activities, URSSI will also actively find, through various means that include workshops and surveys, and curate information from other sites related to the development of research or scientific software. We will specifically ensure that information produced by the Carpentries is included, as relevant.
+Based on the outcomes of the above activities, URSSI will develop a portal to provide living 
+information about best practices for research software development. In addition to including 
+content developed from our own activities, URSSI will also actively find, through various 
+means that include workshops and surveys, and curate information from other sites related 
+to the development of research or scientific software. We will specifically ensure that 
+information produced by the Carpentries is included, as relevant.
 
 We will curate the following types of information: 
-Checklists for sustainable software - much of the content here will overlap with ideas discussed in earlier activities.
+1. Checklists for sustainable software - much of the content here will overlap with 
+ideas discussed in earlier activities.
 
-Templates for use in developing software, including templates for project plans, templates for documenting requirements, templates for test planning, and templates for community guidelines and policies.
+2. Templates for use in developing software, including templates for project plans, 
+templates for documenting requirements, templates for test planning, and templates 
+for community guidelines and policies.
 
-Badging efforts that provide recognition for various qualities of research software and research software projects.
+3. Badging efforts that provide recognition for various qualities of research software 
+and research software projects.
 
-In addition to best practices, the URSSI clearinghouse will also curate information about training resources. In addition to providing links to the URSSI-developed training (described above), we will also link to other relevant training resources developed through other efforts like MoLSSI, SGCI, and IRIS-HEP. To help individual researchers and teams better understand how to make use of the various training options, we will develop roadmaps that guide people to the most relevant training for their current situation.
+In addition to best practices, the URSSI clearinghouse will also curate information 
+about training resources. In addition to providing links to the URSSI-developed training 
+(described above), we will also link to other relevant training resources developed 
+through other efforts like MoLSSI, SGCI, and IRIS-HEP. To help individual researchers 
+and teams better understand how to make use of the various training options, we will 
+develop roadmaps that guide people to the most relevant training for their current situation.
 
 ## Methods
-To support the five activities described above, URSSI will also need to perform a number of cross-cutting activities as follows:
+To support the five activities described above, URSSI will also need to perform a number 
+of cross-cutting activities as follows:
 
-_Curriculum Development and Coordination_
-To achieve the goals stated above, URSSI will need to support the development of new training materials. We anticipate providing support to experts in the research software community who can take their existing knowledge and package it in a Carpentries-style format that is most amenable to be used in the various types of training activities URSSI will support. Importantly, the training proposed above is meant to build upon, and provide a compliment to existing educational outreach efforts. This training will provide follow on, more advanced content than the Carpentries and will be longer in duration.
+1. _Curriculum Development and Coordination_
+To achieve the goals stated above, URSSI will need to support the development of new 
+training materials. We anticipate providing support to experts in the research software 
+community who can take their existing knowledge and package it in a Carpentries-style 
+format that is most amenable to be used in the various types of training activities URSSI 
+will support. Importantly, the training proposed above is meant to build upon, and 
+provide a compliment to existing educational outreach efforts. This training will provide 
+follow on, more advanced content than the Carpentries and will be longer in duration.
 
-_Instructor Training_
-To help deliver all of the developed content to a wide range of audiences in various locations, URSSI will need to provide support for training instructors. These instructors will be integral to the success of the Summer School and the Research Projects Carpentry.
+2. _Instructor Training_
+To help deliver all of the developed content to a wide range of audiences in various 
+locations, URSSI will need to provide support for training instructors. These instructors 
+will be integral to the success of the Summer School and the Research Projects Carpentry.
 
-_Piloting Workshops_
-As we develop content, we will conduct smaller workshops to pilot the content to ensure its sufficiency before deploying it to a larger audience. Because we will be asking people to participate in content development by providing feedback, we will need to have resources to support the travel for instructors and participants.
+3. _Piloting Workshops_
+As we develop content, we will conduct smaller workshops to pilot the content to ensure 
+its sufficiency before deploying it to a larger audience. Because we will be asking people 
+to participate in content development by providing feedback, we will need to have resources 
+to support the travel for instructors and participants.
 
-_Gathering Experiences Successes and Failures of Software Practices_
-URSSI will support a team of researchers, who are experienced in survey and interview methods, to gather experiences. URSSI will need to provide support for the time required to gather these experiences as well as the travel for the team to meet with members of research projects.
+4. _Gathering Experiences Successes and Failures of Software Practices_
+URSSI will support a team of researchers, who are experienced in survey and interview methods, 
+to gather experiences. URSSI will need to provide support for the time required to gather 
+these experiences as well as the travel for the team to meet with members of research projects.
 
-_Conducting Workshops_
-URSSI will provide support for the Summer School and Research Project Carpentries instructors to travel to the workshops. URSSI will also provide small fellowships for the instructors to compensate for the time required to participate. In addition, to increase participation from a diverse community, URSSI will provide travel support for a small number of workshop participants, determined based on need in individual cases. 
+5. _Conducting Workshops_
+URSSI will provide support for the Summer School and Research Project Carpentries instructors 
+to travel to the workshops. URSSI will also provide small fellowships for the instructors 
+to compensate for the time required to participate. In addition, to increase participation 
+from a diverse community, URSSI will provide travel support for a small number of workshop 
+participants, determined based on need in individual cases. 
 
 ## Metrics/Milestones
-To ensure that the training activities are providing sufficient content, URSSI will conduct numerous assessment activities. These activities will occur both concurrently with the training activities, i.e., as entry and exit surveys, as well as longitudinally after training. The benefit of conducting assessment longitudinally is that it provides insight into whether the content learned during training is viewed as useful over time as real projects evolve.
+To ensure that the training activities are providing sufficient content, URSSI will conduct 
+numerous assessment activities. These activities will occur both concurrently with the 
+training activities, i.e., as entry and exit surveys, as well as longitudinally after 
+training. The benefit of conducting assessment longitudinally is that it provides insight 
+into whether the content learned during training is viewed as useful over time as real 
+projects evolve.
 
 Some of the specific measures that we will gather include:
-* Post event evaluations - for workshops and training courses, we will conduct follow-up surveys to evaluate the value of the content. We will conduct evaluations immediately at the end of each event while the information is fresh in the attendees’ minds. We will then conduct a follow-up survey 6 months, 1 year, and 3 years later to evaluate the applicability of the content to the attendees’ work.
+* Post event evaluations - for workshops and training courses, we will conduct follow-up surveys 
+to evaluate the value of the content. We will conduct evaluations immediately at the end of 
+each event while the information is fresh in the attendees’ minds. We will then conduct a 
+follow-up survey 6 months, 1 year, and 3 years later to evaluate the applicability of the 
+content to the attendees’ work.
 
-* Demand - we will measure demand for the content by the number of people who apply to attend various training events and workshops.
+* Demand - we will measure demand for the content by the number of people who apply to attend 
+various training events and workshops.
 
 * Use of material - we will measure downloads and use of the information that we produce.
