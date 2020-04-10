@@ -173,7 +173,95 @@ to encourage them to include software-focused roles where possible
 ### Planned Activity Pool
 
 
+This is the initial list of activities that URSSI will maintain, and choose from. The specific
+activities that will be chosen to start depend on the funding level for URSSI. Most activities
+include an amount of effort that is needed to accomplish them. Note that some activities include
+raising additional funds for those activities - that fund raising is part of the activity. Other
+activities, in the next subsection, are tracked but are beyond the scope of URSSI, and are more
+likely activities that others might perform, potentially in coordination with URSSI.
+
+High-level activities include:
+
+* Maintaining the list of potential activities and prioritizing them, including getting inputs
+from the overall community. These inputs will be collected and recorded by all members of the
+project in their interactions with the community, as well as by community members, via tagged
+GitHub issues. Community members will be able to see this list and react with a +1 to issues
+they think are important, and URSSI will use these reactions as an element of prioritization. (ongoing)
+
+* Tracking completed activities and their consequences (ongoing)
+
+* Collecting examples of good and bad policy, structures, and interventions from industry and
+from other disciplines (potential fellow project)
+
+* Developing an advocacy roadmap for how to effectively advocate (to universities, foundations,
+industry, national labs) (policy person & advisory committee, spread over 3 months)
+
+#### Policy Research Activities:
+
+These activities involve research, such as gathering and analyzing evidence and data.
+
 ... in progress ...
+
+#### Policy Advocacy Activities:
+
+These activities focus on advocacy. They generally depend on policy research or previously
+gathered evidence and data.
+
+... in progress ...
+
+#### Unplanned Activity Pool
+
+The activities listed here are those that would support URSSI but are beyond the scope of URSSI.
+They are listed here to provide ideas to others, and URSSI would potentially be willing to encourage
+and support them, but likely without resources.
+
+Staff career path policy - research actions:
+
+* Comparative study of research success at universities with core RSE groups vs those without.
+(potential research topic, not to be started by URSSI)
+
+Disentangle quality and impact of software policy - research actions:
+
+* Define what software quality means.
+
+* Define what software impact means and how to measure it. Impact can be looked at in many
+ways: scientific, economic, societal, etc.
+
+* Define how you know what software will be impactful (signals of high impact)
+
+* Capture the difference between quality and impact in written resources (blog post, paper, etc.)
+
+* Conduct a Delphi study or multiple Delphi studies across or between disciplines to determine
+a consensus on key indicators of software impact and related questions, such as: Does improving
+the quality of software improve its impact?
+
+* Perform randomized experiments of software impact where the treatment is improved software practices
+
+* Perform a retrospective study of software quality as related to “impact” of that software.
+
+Recognize the value and importance of software policy - research actions:
+
+* Study whether higher-quality software produces higher-impact science or more reliable science results
+
+General advocacy actions
+
+* Talk about problems with current software licenses/models and suggest alternatives
+
+Incentivize contributions to public software policy - advocacy actions:
+
+* Run a help desk once a week on-line for people who are running into difficulties in making contributions and need help
+
+Funding opportunities for software maintenance policy - advocacy actions:
+
+* Provide a system to match open source maintenance needs and open source programmers
+(e.g., classified ads), to be funded by URSSI, or URSSI could support proposals for such
+maintenance work (both morally and by providing guidance to the proposer)
+
+* Provide fellowships for programmers to “do good stuff” related to maintenance
+
+* Attach money for maintenance to some of the to-be-created awards for good software
+development, jointly named and funded with other communities
+
 
 
 
