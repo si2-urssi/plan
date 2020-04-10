@@ -175,3 +175,26 @@ to encourage them to include software-focused roles where possible
 
 ... in progress ...
 
+
+
+## Work with other parts of URSSI
+ 
+* Training – use to learn about problems, use training events to disseminate products and advocacy
+
+* Community – provide topics for fellows, work with on newsletter and dissemination, host champions,
+contribute to and disseminate best practices
+
+* Incubator – develop both general and specific guidance for projects
+ 
+## Metrics/Milestones
+
+* Amount of funding provided by US public and private funding agencies for research software
+development and maintenance
+
+* Number of US universities with RSE-like positions
+
+* Number of US university faculty who successfully use software work as an important part of
+their tenure packages
+
+* **TODO**: more needed
+
