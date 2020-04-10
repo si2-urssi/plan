@@ -215,7 +215,7 @@ maintaining and contributing to software development have important downstream
 impacts that shape innovation and engagement. The URSSI conceptualization
 has studied how these challenges can be practically overcome. 
 
-## Winter School
+## Winter School {#chapter2-WinterSchool}
 
 In late December 2019 we ran our
 first ever URSSI school on research software engineering. We began accepting
