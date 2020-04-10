@@ -200,14 +200,283 @@ industry, national labs) (policy person & advisory committee, spread over 3 mont
 
 These activities involve research, such as gathering and analyzing evidence and data.
 
-... in progress ...
+Faculty career path policy - research actions:
+
+* Study tenure guidance and policies, and find/document ways that software work is measured
+and recognized. Publish examples of successes. (2 months)
+ 
+Staff career path policy - research actions:
+
+* Document existing (known successful/viable, known failures) career paths for individuals
+creating research software (2 months)
+
+* Examine and document Industry career paths vs lab career paths vs academic career paths (1 month)
+
+* Create and maintain a  mailing list for those interested in career paths (mailing list to be
+supported by Community area) (ongoing, low level of effort)
+
+* Create a clearinghouse of job descriptions with criteria for performance assessment; distill
+out design patterns or different categories for different roles. This could also include documenting
+salary levels for different job descriptions, and connecting the job descriptions with then learning
+modules necessary for these jobs (3-4 months, plus ongoing maintenance)
+
+* Examine how salaries for RSEs compare with those of other researchers? (needs to follow clearinghouse, 1 month)
+ 
+Measuring the impact of individuals policy - research actions:
+
+* Identify factors (manual, such as evaluations, and automated, such as crawling repos) that are
+part of impact and publicize them. Some known factors to investigate include quantifying code
+contributions, code review, mentoring. Determine good practices (for formatting or housing the
+information on these factors) so those factors are discoverable and/or queryable. (6 months)
+ 
+Incentivize contributions to public software policy - research actions:
+
+* Gather data/examples that show when contributions to public projects increase your citation
+count or regular metrics (1 month)
+
+* Gather examples of successful use of individual contributions to public goods/infrastructure
+to gain academic promotion (1 month over 3-6 months)
+
+* Use regular surveys to better understand why people do and don’t contribute; get data to
+understand the value of public goods to community (1 month over 3-6 months each year)
+
+* Determine a way to make it easy for scientific communities to peer-review public good software
+(or contributions to such software), with the idea that peer-review is considered a mark of
+quality (ongoing, not well-scoped)
+
+* Research to counter the idea that publishing in the small set of “highest impact” journals is
+key, and expose actual impact of work instead (work with scholcom community, use what they have
+done, maybe adapt their work for software - maybe 2 months to start)
+ 
+Disentangle quality and impact of software policy - research actions:
+
+* Create checklists/review guidelines for different levels of peer-review for software; can be
+tiered, could issue stars or use another rating system; leverage information already available
+from journals and other resources. (1 week)
+ 
+Recognize the value and importance of software policy - research actions:
+
+* Find science/discovery cases where software was particularly fundamental, particularly digging
+into software that is not so generally well-known (1 month over 3 months)
+
+* Perform case studies in sustainable software value, e.g., NetCDF, HDF5, DS9 image viewer, GCM
+model(s) — how much money was invested in these, and how much maintains them? (3-month fellow project)
+
+* Quantify the money that has implicitly funded maintenance and sustainability, and has been saved
+or lost in the shift to open source (e.g., where have funds been spent on one-off software rather
+than maintaining existing open source software, and where has an investment in software maintenance
+saved funds from being spent on one-off software) (3-month fellow project)
+
+* Calculate bus factor for a bunch of key software in disciplines (partner with CHAOSS, or perhaps
+3-month fellow project)
+
+* Document maintenance and funding for critical packages for several disciplines, e.g. IRAF in astronomy
+(3-month fellow project)
+ 
+Funding opportunities for software maintenance policy - research actions:
+
+* Review the landscape of funding opportunities for software maintenance (and gather data about them)
+and provide a public summary, then keep the summary up-to-date. (jointly done with ReSA? Or CZI EOSS?)
+(1 month and some ongoing work)
+
+* Gather case studies of successful commercialization of open source projects and encourage the
+research community to understand and make use of them (2 months)
+
+* Review the scope of maintenance needs by various research disciplines. Determine the order of
+magnitude of the maintenance backlog for research software (with CHAOSS and others, unscoped)
+
+Diversity and inclusion policy - research actions:
+
+* Survey US research software projects to examine diversity of leadership and contributors (3 months)
+
+* Study/survey contributors who make a single contribution and those who make ongoing contributions
+vs membership in underrepresented groups (3 months)
+
+* Contribute to DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
+NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion)
+
+* Other items with CS&S and NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion),
+for example, creating a cookbook aimed at projects
+
+
 
 #### Policy Advocacy Activities:
 
 These activities focus on advocacy. They generally depend on policy research or previously
 gathered evidence and data.
 
-... in progress ...
+General advocacy actions (not mapped to specific goals):
+
+* Work with REU programs? – set up a network of software-focused REUs? Or focus on software
+aspects of more REUs? (provide training, guidance, language for proposals, ...)
+(2 month to start + ongoing)
+
+* Play universities (and their administrations) against each other (as has been done by
+the SSI in the UK to create RSE groups), foster competition, by highlighting software work
+(including internal investments to sustain projects that the university sees as important
+and prestigious) and successes (incl funded projects that focus on software) in some universities.
+Rank universities by something and publicize? (maybe with US-RSE) – via newsletter, blogs,
+press releases (run by URSSI community area? Would accept info from community, e.g.
+Laura Noren’s and Brad Stenger’s Data Science Community Newsletter (also work with ReSA
+to bi-directionally share info when appropriate)
+
+* Work in citation and credit (get publishers to recognize and highlight software in
+research) (with FORCE11 and others) (minor support of other activities)
+
+* Promote software management plans and software sustainability plans as part of proposals
+(3 months over a year, bringing together community and volunteers, work with ReSA and RDA)
+
+* Develop a set of options for how institutions can support research software (e.g., RSE groups,
+RSE careers, tenure and promotion guidelines) and disseminate it (with US-RSE, starting after year 1)
+
+* Create and operate a professional award program (working with other established organizations)
+e.g., ESA URSSI software award. The URSSI software contribution to research awards: URSSI/ESA
+(e.g. John Chambers software award from stats association). $10k funding available from URSSI
+(eventually domain societies would be asked to partially fund the awards). URSSI would need to
+define the categories, criteria/heuristics, etc. for awards beforehand. And find people
+(either staff or community volunteers) to run awards processes (accept nominations, make decisions)
+(2 weeks/year starting in year 2)
+
+* Work with NumFOCUS to provide guidance to projects on how to work with (including obtaining
+funding from) industry (sharing material with incubator area)
+
+* Offer training for software development proposals (or point to others who do)
+
+  * Develop and disseminate best practices for software development proposals (with NumFOCUS or
+  the Capentries)
+
+  * Training/materials could be asynchronous, or in-person with NSF program officers as well, if
+  they were willing to do so
+
+* Licensing (in partnership with OSI, Creative Commons, others)
+
+  * Provide (pointers to) guidance on licenses and copyright for research software (little work,
+  partner with OSI and point to existing best practices)
+
+Faculty career path policy - advocacy actions:
+
+* Promote best practices in recognizing and measuring software work in hiring practices and
+tenure letters via sample guidance documents for committees, for faculty, and for
+letter-of-reference authors. (needs focused workshop and follow-through, ~3 months over a year)
+
+* Commission a NAS report (similar to the one on [Open Source Software Policy Options for NASA
+Earth and Space Sciences](https://www.nap.edu/read/25217/chapter/1)) on career pathways/progression
+in academia (for scope see last item in next set of bullets)
+
+Staff career path policy - advocacy actions:
+
+* Seed “chapters” of research software folks (perhaps called URSSI chapters?) at existing
+universities / societies / organizations; create handbook, tools, best practices to support
+local organizers; assign an URSSI “coordinator” / community manager. These chapters could:
+talk about training, do consulting for problems, host hacky hours, study groups, software days,
+come together into a larger conference, perhaps an URSSI-wide event. Overall, this
+helps / grows / establishes the community (and make connections that could help chapter members
+meet the right person for their next career moves).
+
+  * (TODO: done with URSSI Community area; Policy part (1 month) is creating some materials,
+  e.g., guidance on how to set up a chapter, how to align it to local activities, and how to run it.)
+
+* Work to promote and support the establishment of RSE capabilities at universities around the US.
+Provide advice on how to talk to university administrators (and which ones) about this, etc. (1 month,
+jointly with US-RSE)
+
+* Provide examples of language to universities they can use in HR/job ads for RSE positions
+(1 month, jointly with US-RSE)
+
+* Commission a NAS report (similar to the one on [Open Source Software Policy Options for NASA
+Earth and Space Sciences](https://www.nap.edu/read/25217/chapter/1)) on
+{career pathways/progression in academia, recognition of software, evaluation of software developers,
+inclusion of software in hiring and promotion} Would need to define, then raise funds from
+outside URSSI (~$1m), then work with NAS to define a charge and to contract for the study.
+(4 months over 2.5 years)
+
+Measuring the impact of individuals policy - advocacy actions:
+
+* Create champions (e.g. librarians) to promote and educate individuals and projects of these
+good practices (working with Community area) **TODO**: ref best practices section in Communities
+
+* Help individuals understand how they can best promote themselves (e.g., claim software works on
+ORCID). **TODO**: ref best practices section in Communities
+
+Incentivize contributions to public software policy - advocacy actions:
+
+* Work to persuade high-profile individuals to make public contributions to public projects
+
+* Share examples of successful use of individual contributions to public goods/infrastructure
+to gain academic promotion, produce templates, advocacy toolkits and examples to help others
+to make their case. Similarly, work to persuade people that contributing to projects will
+increase their products within their normally accepted reward system (e.g., get more collaborators
+and papers; increase opportunities to meet/work with new/old collaborators; will build social
+connections/network)
+
+* Show how you can participate in public goods / infrastructure projects (e.g., how to
+structure an issue, how to write your first PR)
+**TODO**: ref best practices section in Communities
+
+* Produce templates based on successful use of individual contributions to public
+goods/infrastructure to gain academic promotion, advocacy toolkits, and examples to help
+others to make their case (1 month)
+
+* Reframe contributions as first class research products / objects (i.e., explain how building
+the best software is itself science, as it’s both discovery and creation). In order to do this,
+amplify existing efforts to build a taxonomy of such contributions to make it clear what those
+contributions are, and encourage people to claim/talk about/take pride in these contributions;
+work with publishers to highlight these contributions and the people who make them. Also advocate
+(materials, webinars, ambassadors, etc.) within academic communities (deans, faculty, science
+societies, review panels, funders) that public software contributions are research (also could
+be done by cross-disciplinary respected groups, such as the national academies)
+
+* Work to revise funder policies to ensure reviewers prioritize grant proposals that reuse,
+build-upon and contribute back to maintenance of public infrastructure
+
+* Create high-profile equivalent of “highest impact” journal for software and data work - need
+to reject a lot of work and move it to “lower class” venues
+
+Recognize the value and importance of software policy - advocacy actions:
+
+* Publicize science/discovery cases where software was particularly fundamental, focusing on
+demonstrating impact of software (1 week/year, ongoing)
+
+* Raise awareness that software needs to be maintained (low level, ongoing)
+
+Funding opportunities for software maintenance policy - advocacy actions:
+
+* Encourage funding agencies to require software management/maintenance plans (SMPs).
+Use them to couple the idea of maintenance to the idea of development, to make it clear
+that just doing development without maintenance doesn’t work. Note that this leads to
+questions about when maintenance should be stopped, and it’s also unclear how long-term
+maintenance would be supported (since grants are by definition time-limited).
+(1-2 months/year ongoing, work with ReSA)
+
+* Advocate for funding agencies to provide a funding pool for short-term maintenance grants
+for existing projects (e.g. CZI's EOSS program). (1-2 months/year)
+
+* Advocate for universities to support maintenance of software developed by their university
+as part of research impact (or possibly technology transfer). (2 months/year over multiple years)
+
+* Encourage companies to provide funds and channel these funds into maintaining research
+software projects, perhaps via a review process with reviewers from both academic software
+projects and the companies. This could be done jointly with NumFOCUS or a similar organization,
+similar to Tidelift (1-2 months/year)
+
+Diversity and inclusion - advocacy actions:
+
+* Advertise [DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
+NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion)
+
+* Other items with CS&S and NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion),
+such as advertising the cookbook aimed at projects
+
+* Reach out to projects to encourage them to mentor [Outreachy](https://www.outreachy.org) interns 
+and those from other programs (e.g.,
+[Linux Foundation diversity programs](https://www.linuxfoundation.org/about/diversity-inclusiveness/programs/),
+https://opensourcediversity.org/#programs), and to work with Google Summer of Code, maybe
+include some matchmaking. Consider URSSI as an organization that applies to a set of these
+programs on behalf of a set of software projects.
+
+* Build community mentoring program focused on diversity
+
+* Work with RLadies, Women in Data Science, etc.
 
 #### Unplanned Activity Pool
 
