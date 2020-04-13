@@ -24,7 +24,7 @@ formal training in a software development course, and 15% were self-taught. In f
 these results, Hettrick et al. report that 21% of respondents who develop their own software had 
 no training in software development [@simon_hettrick_2018_1183562; @Hettrick-blog]. A 2016 survey 
 of 704 PIs from the Biological Sciences Directorate of the US NSF found the most pressing unmet 
-needs are training in data integration, data management, and scaling analyses for HPC [@Barone2017]. 
+needs are training in data integration, data management, and scaling analyses for HPC [@barone2017unmet]. 
 And a 2018 survey of almost 1600 scientist-developers found that 82% of respondents felt that 
 they were spending “more time” or “much more time” developing software than they did 10 years ago [@Pinto2018].
 
