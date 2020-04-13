@@ -36,7 +36,8 @@ in the UK and 64% in the USA.
 
 This lack of training is not new, nor is it newly discovered. Greg Wilson has written 
 [@wilsong2016; @softwarecarpentryhistory] about the history of Software Carpentry:
-> In 1995–96, \[Wilson\] organized a series of articles in IEEE Computational Science & 
+
+> In 1995–96, [Wilson] organized a series of articles in IEEE Computational Science & 
 > Engineering titled, “What Should Computer Scientists Teach to Physical Scientists and 
 > Engineers?”. These grew out of the frustration he had working with scientists who wanted 
 > to run before they could walk, i.e., to parallelize complex programs that were not broken 
@@ -44,11 +45,13 @@ This lack of training is not new, nor is it newly discovered. Greg Wilson has wr
 > not under version control.
 
 > In response, John Reynders (then director of the Advanced Computing Laboratory at 
-> Los Alamos National Laboratory) invited \[Wilson\] and Brent Gorda (now at Intel) to 
+> Los Alamos National Laboratory) invited [Wilson] and Brent Gorda (now at Intel) to 
 > teach a week-long course to LANL staff. This course ran for the first time in July 
 > 1998, and was repeated nine times over the next four years. It eventually wound down 
-> as Gorda and \[Wilson\] moved on to other projects, but two valuable lessons were learned:
+> as Gorda and [Wilson] moved on to other projects, but two valuable lessons were learned:
+> 
 > 1. There is tremendous pent-up demand for training in basic skills.
+> 
 > 2. Textbook software engineering is not the right thing to teach most scientists.
 
 This led to the Software Carpentry organization, which built a successful train-the-trainer 
@@ -89,12 +92,14 @@ plan is likely out of scope of URSSI by itself)
 in research software
 
 5. Compile and maintain a body of knowledge of best practices for research software development 
-- this URSSI activity will seek to aggregate both existing practices, and serve as an outlet 
-for emerging practices from other domain-specific software institutes (e.g., MolSSI, SGCI, IRIS-HEP) 
+
+  *  this URSSI activity will seek to aggregate both existing practices, and serve as an outlet 
+  for emerging practices from other domain-specific software institutes (e.g., MolSSI, SGCI, IRIS-HEP) 
 
 ## Resources
 
 This area requires the following staff:
+
 * Training Lead - who will coordinate all training activities and assessment of those 
 activities  [~1 FTE]
 
@@ -182,6 +187,7 @@ individuals to contribute to this activity. Therefore, while URSSI will drive it
 external participation, URSSI will not have the bandwidth to perform all of the work.
 
 ### Plan a review service for software project plans
+
 Building on the work done for Research Project Carpentries, URSSI has identified the need for 
 a service where experts review and comment on proposed project plans. Researchers who are 
 interested in this service would submit a project plan in a specified format. Then, experts 
@@ -200,6 +206,7 @@ to choose from various alternatives for each section of the plan.
 
 
 ### Evaluate and document successes and failures of the use of industrial software development practices in research software
+
 Industrial software engineering has developed and refined a number of best practices for 
 software engineering and software development. It is not always clear which of these practices 
 are relevant for use in developing research software. It is also not always clear which aspects 
@@ -229,6 +236,7 @@ which the practice works. This context will help provide a description of the li
 on the practice, which is equally important to document.
  
 ### Compile and maintain a body of knowledge of best practices for research software development
+
 Based on the outcomes of the above activities, URSSI will develop a portal to provide living 
 information about best practices for research software development. In addition to including 
 content developed from our own activities, URSSI will also actively find, through various 
@@ -237,6 +245,7 @@ to the development of research or scientific software. We will specifically ensu
 information produced by the Carpentries is included, as relevant.
 
 We will curate the following types of information: 
+
 1. Checklists for sustainable software - much of the content here will overlap with 
 ideas discussed in earlier activities.
 
@@ -254,7 +263,8 @@ through other efforts like MoLSSI, SGCI, and IRIS-HEP. To help individual resear
 and teams better understand how to make use of the various training options, we will 
 develop roadmaps that guide people to the most relevant training for their current situation.
 
-## Methods
+## Cross-cutting Activities
+
 To support the five activities described above, URSSI will also need to perform a number 
 of cross-cutting activities as follows:
 
@@ -291,6 +301,7 @@ from a diverse community, URSSI will provide travel support for a small number o
 participants, determined based on need in individual cases. 
 
 ## Metrics/Milestones
+
 To ensure that the training activities are providing sufficient content, URSSI will conduct 
 numerous assessment activities. These activities will occur both concurrently with the 
 training activities, i.e., as entry and exit surveys, as well as longitudinally after 
@@ -299,6 +310,7 @@ into whether the content learned during training is viewed as useful over time a
 projects evolve.
 
 Some of the specific measures that we will gather include:
+
 * Post event evaluations - for workshops and training courses, we will conduct follow-up surveys 
 to evaluate the value of the content. We will conduct evaluations immediately at the end of 
 each event while the information is fresh in the attendees’ minds. We will then conduct a 
