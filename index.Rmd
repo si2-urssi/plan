@@ -14,7 +14,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: si2-urssi/plan
-description: "This is the repo for the implementation plan."
+description: "Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute."
 twitter-handle: si2-urssi
 ---
 
