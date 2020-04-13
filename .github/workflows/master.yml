@@ -1,36 +1,26 @@
 on:
   push:
-    branches: master
+    branches:
+      master
+  schedule:
+    - cron:  '0 12 * * *'
 
-name: bookdown
+name: Render-Book-from-master
 
 jobs:
-  build:
+  bookdown:
+    name: Render-Book
     runs-on: macOS-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@master
-
-      - name: Setup R
-        uses: r-lib/actions/setup-r@master
-
-      - name: Install pandoc and pandoc citeproc
-        run: |
-          brew install pandoc
-          brew install pandoc-citeproc
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+      - uses: r-lib/actions/setup-pandoc@v1
       - uses: r-lib/actions/setup-tinytex@v1
       - name: Cache R packages
         uses: actions/cache@v1
         with:
           path: ${{ env.R_LIBS_USER }}
           key: ${{ hashFiles('DESCRIPTION') }}
-
-      - name: Cache bookdown results
-        uses: actions/cache@v1
-        with:
-          path: _bookdown_files
-          key: bookdown-${{ hashFiles('**/*Rmd') }}
-          restore-keys: bookdown-
 
       - name: Install packages
         run: Rscript -e 'install.packages("remotes")'  -e 'remotes::install_deps()'
