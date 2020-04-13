@@ -9,11 +9,11 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/si2-urssi/plan" target="blank">Published from GitHub</a> via bookdown</li>
     edit: https://github.com/si2-urssi/plan/edit/master/%s
-    download: ["main.pdf", "main.epub"]
+    download: [pdf]
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
   citation_package: natbib
-  keep_tex: yes
-bookdown::epub_book: default
+bookdown::epub_book:
+  stylesheet: style.css
