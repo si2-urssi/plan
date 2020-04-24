@@ -8,10 +8,6 @@ Many of the current challenges around sustainability of software, and those who 
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Community-and0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-
 ## ii. Resources
 
 Managing communications (website with regular posts, mailing list), producing high quality newsletters and acting as a community liaison will require 2-3 FTEs. This could involve a Director of Community (could be part of a PI's time), with the remaining part of the area's workforce split over two positions: a community manager and fellowship coordinator (split with the Incubator Area), reporting to the Director of Community. Besides the budget for the 2-3 positions, the Community & Outreach area of the institute will also require budget for:
