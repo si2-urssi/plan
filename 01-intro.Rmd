@@ -42,8 +42,9 @@ We have spent the last two years engaged in a series of activities designed to g
 understanding of why research software is so unsustainable and what can be done about it.
 Through numerous discussions with diverse groups of researchers, we have brainstormed
 challenges and solutions that can meaningfully impact the largest number of researchers.
-This report describes those activities (in [Chapter 2](#chapter2)) and outlines plans
-(in [Chapter 3](#chapter3)) for a new institute that will work in multiple areas to improve
+This plan discusses the problem in this chapter,
+describes our activities (in [Chapter 2](#chapter2)), and outlines plans
+(in the remaining chapters) for a new institute that will work in multiple areas to improve
 research software and the careers of those that produce it, with an end goal of performing
 better research. 
 
