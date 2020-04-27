@@ -31,9 +31,9 @@ projects is the norm.
 
 ## Resources
 
-The policy area will require resources that include funding for salaries, for events, and for travel.
+The policy area will require resources that include funding for people, for events, and for travel.
 
-**Area Structure**
+### People
 
 <center>
 ![FigName](images/policy_structure.png)
@@ -69,25 +69,31 @@ Additional team members, not funded by the policy area:
 * Director for Policy, an URSSI co-PI, funded by URSSI at top level
 * Policy Advisory Group (appointed volunteers)
 * URSSI fellows, working in Policy Data Science Team and Policy Advocacy Team
-  * (**TODO**: Fellows program to be run by URSSI Community area; these policy fellows might
+  * (**TODO**: Fellows program to be run by URSSI [Community](#Ch-Comm) area; these policy fellows might
   be funded by policy area if needed)
 * Other community volunteers, in Policy Data Science Team and Policy Advocacy Team
 
+### Events
+
 **Funding for workshops**: **TODO**: TBD
  
-* Potentially including a policy conference / workshop(s) akin to Aspen Institute / CODATA - $370k,
-also could be part of an annual URSSI event
+* Potentially including a policy conference / workshop(s) akin to Aspen Institute or CODATA - $370k.
+This could also could be part of an annual URSSI event.
  
 **Funding for travel/speaking**: **TODO**: TBD
+
+* As part of advocacy activities, URSSI personnel will discuss findings and recommendations.
  
+### Flexibility
+
 If there is less budget available, we would cut back on workshop funding 
  
 If there is less budget available, we would:
 
 * Expand policy program to have a summer program for undergraduate and graduate students focused
-on software / science policy (e.g., an REU or something like a google summer of code for policy / law students)
+on software / science policy (e.g., an REU or something like a Google Summer of Code for policy / law students)
 
-* Hire communication staff to do outreach and engagement around policy topics (would be dedicated
+* Hire communication staff to do outreach and engagement around policy topics (dedicated
 expertise in policy as opposed to general outreach)
 
 ## Methods
