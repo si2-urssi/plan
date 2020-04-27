@@ -1,4 +1,4 @@
-# Community and Outreach
+# Community and Outreach {#Ch-Comm}
 
 Researchers in academia and national labs are incentivized to become experts in one or more specialized domains.
 While research software plays a critical role in achieving such mastery, skills to develop such software are rarely taught in formal settings.
@@ -56,7 +56,7 @@ Community calls: Modeled after the successful series organized by Mozilla and rO
 This free and open series will provide additional opportunity for the community to participate, especially for those that are constrained by travel.
 Past calls, including videos, code, and Q&A will be archived and made searchable by a dedicated community coordinator.
 
-**Curating and disseminating best practices**
+**Curating and disseminating best practices** {#Ch-Comm-Best-Practices}
 
 URSSI fellows will convene ad hoc panels of experts to curate information on state of the art practices for scientific computing.
 The topics will cover many foundations of research software engineering including but not limited to collaborative software developing with modern version control, software testing, code review, packaging and distribution, and overall software design.
