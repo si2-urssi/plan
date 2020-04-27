@@ -31,7 +31,7 @@ projects is the norm.
 
 ## Resources
 
-The policy area will require resources that include funding for people, for events, and for travel.
+The policy area will require resources that include funding for people and for events and travel.
 
 ### People
 
@@ -73,7 +73,7 @@ Additional team members, not funded by the policy area:
   be funded by policy area if needed)
 * Other community volunteers, in Policy Data Science Team and Policy Advocacy Team
 
-### Events
+### Events & travel
 
 **Funding for workshops**: **TODO**: TBD
  
