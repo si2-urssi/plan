@@ -10,7 +10,7 @@ bookdown::gitbook:
         <li><a href="https://github.com/si2-urssi/plan" target="blank">Published from GitHub</a> via bookdown</li>
     download: [pdf]
     edit:
-      link: https://github.com/si2-urssi/plan/%s
+      link: https://github.com/si2-urssi/plan/edit/%s
       text: "Edit this chapter"
     history:
       link: https://github.com/si2-urssi/plan/commits/master/%s
