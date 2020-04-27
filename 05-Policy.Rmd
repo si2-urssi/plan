@@ -1,4 +1,4 @@
-# Policy
+# Policy {#Ch-Policy}
 
 The Policy area’s intent is to support the people who develop and maintain research software, and to
 support research about research software, to ultimately increase the science & research impact of
