@@ -389,10 +389,10 @@ outside URSSI (~$1m), then work with NAS to define a charge and to contract for 
 **Measuring the impact of individuals policy - advocacy actions**:
 
 * Create champions (e.g. librarians) to promote and educate individuals and projects of these
-good practices (working with Community area) **TODO**: ref best practices section in Communities
+good practices, working with [best practices](#Ch-Comm-Best-Practices) activity in Community area.
 
 * Help individuals understand how they can best promote themselves (e.g., claim software works on
-ORCID). **TODO**: ref best practices section in Communities
+ORCID), working with [best practices](#Ch-Comm-Best-Practices) activity in Community area.
 
 **Incentivize contributions to public software policy - advocacy actions**:
 
@@ -532,12 +532,12 @@ development, jointly named and funded with other communities
 
 ## Work with other parts of URSSI
  
-* Training – use to learn about problems, use training events to disseminate products and advocacy
+* [Education & Training](#Ch-Edu) – use to learn about problems, use training events to disseminate products and advocacy
 
-* Community – provide topics for fellows, work with on newsletter and dissemination, host champions,
+* [Community](#Ch-Comm) – provide topics for fellows, work with on newsletter and dissemination, host champions,
 contribute to and disseminate best practices
 
-* Incubator – develop both general and specific guidance for projects
+* [Incubator](#Ch-Incubator) – develop both general and specific guidance for projects
  
 ## Metrics/Milestones
 
