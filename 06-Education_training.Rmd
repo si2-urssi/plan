@@ -1,4 +1,4 @@
-# Education & Training
+# Education & Training {#Ch-Edu}
 
 Researchers often view software development skills as separate from, but complementary to 
 their disciplinary training. This perspective introduces a dilemma for researchers, particularly 
