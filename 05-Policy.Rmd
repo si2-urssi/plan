@@ -7,30 +7,33 @@ decision makers can take to have a broad influence on the area, sometimes though
 including strategies and decisions to invest. Policy happens at multiple levels, including  national,
 funding agency, institution, and research group.
 
-The Policy area's activities are divided into two parts, research and advocacy.  Research is the collecting
+**The Policy area's activities are divided into two parts, research and advocacy**.  Research is the collecting
 and analyzing of data, while advocacy is the dissemination of the research results in such a way that it
 changes practices.
 
-## Subgoals
-
-The changes that the policy area seeks to make include:
+The changes that the Policy area seeks to make include:
 
 1. In funding agencies, direct funding of software maintenance other software sustainability activities
-is a core part of the mission, e.g., at NSF, this includes all program officers across all directorates
+is a core part of the mission, e.g., at NSF, this includes all program officers across all directorates.
 
 2. In universities and academic fields, positions for people developing and maintaining research software
-are available, recognized, and rewarded
+are available, recognized, and rewarded.
 
-3. In publishing, support and recognition for software as a core part of science is the norm
+3. In publishing, support and recognition for software as a core part of science is the norm.
 
 4. In industry, sharing best practices, coordinating efforts, and contributing to open source software
-projects is the norm
+projects is the norm.
 
-5. Open source software is recognized as a key element of open science and reproducibility
+5. Open source software is recognized as a key element of open science and reproducibility.
 
-6. Diversity of software project contributors is Increased
+6. Diversity of software project contributors is increased.
 
-## Area Structure
+
+## Resources
+
+The policy area will require resources that include funding for salaries, for events, and for travel.
+
+**Area Structure**
 
 <center>
 ![FigName](images/policy_structure.png)
@@ -55,10 +58,6 @@ to support research software to institutions, possibly integrating and building 
 team’s findings. Includes funded staff, URSSI fellows, and community volunteers.
 
 * Policy advisory board (appointed volunteers) who provide advice on potential policy area and activities
-
-## Resources
-
-The policy area will require resources that include funding for salaries, for events, and for travel.
 
 **Funding for personnel** (e.g., buying out parts of contracts):
 
