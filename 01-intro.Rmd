@@ -97,8 +97,8 @@ Carpentry and a handful of university courses offer training in analyzing data, 
 train researchers in modern open source software development. This gap remains to be filled.
 
 **Lack of diversity in research software**: Open source communities struggle to gain
-participation from women and more broadly from underrepresented groups. On average only
-1-5% of contributors to open source communities are female compared with approximately 
+participation from women and more broadly from underrepresented groups. Less than 10%
+of contributors to open source communities identify as female [@Lee2019] compared with approximately 
 25% of the overall computer science field [@NSF, @Vasilescu2012]. Cultivating a diversity of
 perspectives, ﬁelds, and backgrounds is important for growing a robust research software
 community. There is a need to understand the sources of diversity problems and work to 
