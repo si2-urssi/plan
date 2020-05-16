@@ -13,7 +13,7 @@ changes practices.
 
 The changes that the Policy area seeks to make include:
 
-1. In funding agencies, direct funding of software maintenance other software sustainability activities
+1. In funding agencies, direct funding of software maintenance and other software sustainability activities
 is a core part of the mission, e.g., at NSF, this includes all program officers across all directorates.
 
 2. In universities and academic fields, positions for people developing and maintaining research software
