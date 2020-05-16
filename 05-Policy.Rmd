@@ -88,7 +88,7 @@ This could also could be part of an annual URSSI event.
 
 If there is less budget available, we would cut back on workshop funding 
  
-If there is less budget available, we would:
+If there is more budget available, we would:
 
 * Expand policy program to have a summer program for undergraduate and graduate students focused
 on software / science policy (e.g., an REU or something like a Google Summer of Code for policy / law students)
@@ -207,7 +207,7 @@ These activities involve research, such as gathering and analyzing evidence and 
 **Faculty career path policy - research actions**:
 
 * Study tenure guidance and policies, and find/document ways that software work is measured
-and recognized. Publish examples of successes. (2 months)
+and recognized. Publish examples of successes. (ADSA is interesteded in partnerering on this; The ADSA Career Development Network is mostly faculty facing exactly these challenges.) (2 months)
  
 **Staff career path policy - research actions**:
 
@@ -395,10 +395,10 @@ outside URSSI (~$1m), then work with NAS to define a charge and to contract for 
 **Measuring the impact of individuals policy - advocacy actions**:
 
 * Create champions (e.g. librarians) to promote and educate individuals and projects of these
-good practices, working with [best practices](#Ch-Comm-Best-Practices) activity in Community area.
+good practices, working with [best practices](#Ch-Comm/#Ch-Comm-Best-Practices) activity in Community area.
 
 * Help individuals understand how they can best promote themselves (e.g., claim software works on
-ORCID), working with [best practices](#Ch-Comm-Best-Practices) activity in Community area.
+ORCID), working with [best practices](#Ch-Comm/#Ch-Comm-Best-Practices) activity in Community area.
 
 **Incentivize contributions to public software policy - advocacy actions**:
 
