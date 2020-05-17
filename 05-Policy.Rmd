@@ -395,10 +395,10 @@ outside URSSI (~$1m), then work with NAS to define a charge and to contract for 
 **Measuring the impact of individuals policy - advocacy actions**:
 
 * Create champions (e.g. librarians) to promote and educate individuals and projects of these
-good practices, working with [best practices](#Ch-Comm/#Ch-Comm-Best-Practices) activity in Community area.
+good practices, working with the best practices activity in [Community area](#Ch-Comm).
 
 * Help individuals understand how they can best promote themselves (e.g., claim software works on
-ORCID), working with [best practices](#Ch-Comm/#Ch-Comm-Best-Practices) activity in Community area.
+ORCID), working with the best practices activity in [Community area](#Ch-Comm).
 
 **Incentivize contributions to public software policy - advocacy actions**:
 
@@ -413,7 +413,7 @@ connections/network)
 
 * Show how you can participate in public goods / infrastructure projects (e.g., how to
 structure an issue, how to write your first PR)
-**TODO**: ref best practices section in Communities
+**TODO**: ref best practices section in [Community area](#Ch-Comm)
 
 * Produce templates based on successful use of individual contributions to public
 goods/infrastructure to gain academic promotion, advocacy toolkits, and examples to help
