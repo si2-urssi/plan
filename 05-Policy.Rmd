@@ -299,7 +299,7 @@ magnitude of the maintenance backlog for research software (with CHAOSS and othe
 * Study/survey contributors who make a single contribution and those who make ongoing contributions
 vs membership in underrepresented groups (3 months)
 
-* Contribute to DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
+* Contribute to [DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
 NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion)
 
 * Other items with CS&S and NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion),
