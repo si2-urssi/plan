@@ -143,7 +143,8 @@ the [Research Software Alliance](https://www.researchsoft.org),
 the [Software Sustainability Institute](https://software.ac.uk),
 the [US-RSE Association](https://us-rse.org),
 the (UK) [RSE Society](https://society-rse.org),
-The [Academic Data Science Alliance](https://www.academicdatascience.org),
+the [Academic Data Science Alliance](https://www.academicdatascience.org),
+the [American Association for the Advancement of Science (AAAS) Science & Technology Policy Fellows](https://www.aaas.org/programs/science-technology-policy-fellowships),
 [CaRCC](https://carcc.org),
 and any other projects and organizations that also seek to address overlapping challenges.
  
@@ -207,7 +208,7 @@ These activities involve research, such as gathering and analyzing evidence and 
 **Faculty career path policy - research actions**:
 
 * Study tenure guidance and policies, and find/document ways that software work is measured
-and recognized. Publish examples of successes. (ADSA is interesteded in partnerering on this; The ADSA Career Development Network is mostly faculty facing exactly these challenges.) (2 months)
+and recognized. Publish examples of successes. (ADSA is interesteded in partnerering on this; the ADSA Career Development Network is mostly faculty facing exactly these challenges.) (2 months)
  
 **Staff career path policy - research actions**:
 
