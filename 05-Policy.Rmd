@@ -212,7 +212,7 @@ and recognized. Publish examples of successes. (ADSA is interesteded in partnere
  
 **Staff career path policy - research actions**:
 
-(All the actions below should be coordinated with US-RSE and other national RSE organizations. Additionally, some infomation already exists that can be mined, such as international and national RSE surveys [@rse-survey], ...)
+(All the actions below will be coordinated with US-RSE and other national RSE organizations. Additionally, some infomation already exists that can be mined, such as international and national RSE surveys [@rse-survey], ...)
 
 * Document existing (known successful/viable, known failures) career paths for individuals
 creating research software (2 months)
