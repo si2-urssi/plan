@@ -92,8 +92,8 @@ plan is likely out of scope of URSSI by itself)
 in research software
 
 5. Compile and maintain a body of knowledge of best practices for research software development
-<br>this URSSI activity will seek to aggregate both existing practices, and serve as an outlet 
-  for emerging practices from other domain-specific software institutes (e.g., MolSSI, SGCI, IRIS-HEP) 
+<br><br>(This URSSI activity will seek to aggregate both existing practices, and serve as an outlet 
+  for emerging practices from other domain-specific software institute, e.g., MolSSI, SGCI, IRIS-HEP) 
 
 ## Resources
 
