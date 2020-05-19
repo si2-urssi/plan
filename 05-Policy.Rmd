@@ -13,13 +13,13 @@ changes practices.
 
 The changes that the Policy area seeks to make include:
 
-1. In funding agencies, direct funding of software maintenance other software sustainability activities
+1. In funding agencies, direct funding of software maintenance and other software sustainability activities
 is a core part of the mission, e.g., at NSF, this includes all program officers across all directorates.
 
 2. In universities and academic fields, positions for people developing and maintaining research software
 are available, recognized, and rewarded.
 
-3. In publishing, support and recognition for software as a core part of science is the norm.
+3. In publishing, support and recognition for software as a core part of scholarly research is the norm. (this includes the recognition that software is as valuable to the research community as the results themselves, that processes exist to evaluate software in papers, expectations for authorship for software developers are clear.) 
 
 4. In industry, sharing best practices, coordinating efforts, and contributing to open source software
 projects is the norm.
@@ -88,7 +88,7 @@ This could also could be part of an annual URSSI event.
 
 If there is less budget available, we would cut back on workshop funding 
  
-If there is less budget available, we would:
+If there is more budget available, we would:
 
 * Expand policy program to have a summer program for undergraduate and graduate students focused
 on software / science policy (e.g., an REU or something like a Google Summer of Code for policy / law students)
@@ -143,7 +143,8 @@ the [Research Software Alliance](https://www.researchsoft.org),
 the [Software Sustainability Institute](https://software.ac.uk),
 the [US-RSE Association](https://us-rse.org),
 the (UK) [RSE Society](https://society-rse.org),
-The [Academic Data Science Alliance](https://www.academicdatascience.org),
+the [Academic Data Science Alliance](https://www.academicdatascience.org),
+the [American Association for the Advancement of Science (AAAS) Science & Technology Policy Fellows](https://www.aaas.org/programs/science-technology-policy-fellowships),
 [CaRCC](https://carcc.org),
 and any other projects and organizations that also seek to address overlapping challenges.
  
@@ -207,14 +208,16 @@ These activities involve research, such as gathering and analyzing evidence and 
 **Faculty career path policy - research actions**:
 
 * Study tenure guidance and policies, and find/document ways that software work is measured
-and recognized. Publish examples of successes. (2 months)
+and recognized. Publish examples of successes. (ADSA is interesteded in partnerering on this; the ADSA Career Development Network is mostly faculty facing exactly these challenges.) (2 months)
  
 **Staff career path policy - research actions**:
+
+(All the actions below will be coordinated with US-RSE and other national RSE organizations. Additionally, some infomation already exists that can be mined, such as international and national RSE surveys [@rse-survey], ...)
 
 * Document existing (known successful/viable, known failures) career paths for individuals
 creating research software (2 months)
 
-* Examine and document Industry career paths vs lab career paths vs academic career paths (1 month)
+* Examine and document Industry career paths vs. lab career paths vs. academic career paths (1 month)
 
 * Create and maintain a  mailing list for those interested in career paths (mailing list to be
 supported by Community area) (ongoing, low level of effort)
@@ -296,7 +299,7 @@ magnitude of the maintenance backlog for research software (with CHAOSS and othe
 * Study/survey contributors who make a single contribution and those who make ongoing contributions
 vs membership in underrepresented groups (3 months)
 
-* Contribute to DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
+* Contribute to [DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
 NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion)
 
 * Other items with CS&S and NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion),
@@ -395,10 +398,10 @@ outside URSSI (~$1m), then work with NAS to define a charge and to contract for 
 **Measuring the impact of individuals policy - advocacy actions**:
 
 * Create champions (e.g. librarians) to promote and educate individuals and projects of these
-good practices, working with [best practices](#Ch-Comm-Best-Practices) activity in Community area.
+good practices, working with the best practices activity in [Community area](#Ch-Comm).
 
 * Help individuals understand how they can best promote themselves (e.g., claim software works on
-ORCID), working with [best practices](#Ch-Comm-Best-Practices) activity in Community area.
+ORCID), working with the best practices activity in [Community area](#Ch-Comm).
 
 **Incentivize contributions to public software policy - advocacy actions**:
 
@@ -413,7 +416,7 @@ connections/network)
 
 * Show how you can participate in public goods / infrastructure projects (e.g., how to
 structure an issue, how to write your first PR)
-**TODO**: ref best practices section in Communities
+**TODO**: ref best practices section in [Community area](#Ch-Comm)
 
 * Produce templates based on successful use of individual contributions to public
 goods/infrastructure to gain academic promotion, advocacy toolkits, and examples to help

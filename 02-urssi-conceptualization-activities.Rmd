@@ -338,7 +338,7 @@ the US. While these efforts, collectively, are comprehensive in their scope,
 the decentralized structure of this expertise is inefficient for both resource
 discovery and delivery of services. For example there are many points of expertise
 in research software development (e.g., SWEBOK, RSEs), education and training
-(e.g., academic initiatives, Carpentries), credit and metrics (e.g., CitAs),
+(e.g., academic initiatives, Carpentries), credit and metrics (e.g., CiteAs),
 incubation (e.g., ESIP, the UW eScience Institute) that are available to
 individuals at specific institutions. However, there is currently no comprehensive
 organization that can serve to coordinate these activities, promote centers of
