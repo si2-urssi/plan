@@ -144,9 +144,11 @@ the [Software Sustainability Institute](https://software.ac.uk),
 the [US-RSE Association](https://us-rse.org),
 the (UK) [RSE Society](https://society-rse.org),
 the [Academic Data Science Alliance](https://www.academicdatascience.org),
+the [Research Data Alliance](https://www.rd-alliance.org),
 the [American Association for the Advancement of Science (AAAS) Science & Technology Policy Fellows](https://www.aaas.org/programs/science-technology-policy-fellowships),
 [CaRCC](https://carcc.org),
-and any other projects and organizations that also seek to address overlapping challenges.
+[OECD](http://www.oecd.org),
+and any other projects and organizations that also seek to define and address overlapping challenges.
  
 The Policy area needs to build relationships with the following groups and organizations, and
 to work closely with them, particularly in policy activities.
