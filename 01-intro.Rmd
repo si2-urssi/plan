@@ -99,7 +99,7 @@ train researchers in modern open source software development. This gap remains t
 **Lack of diversity in research software**: Open source communities struggle to gain
 participation from women and more broadly from underrepresented groups. Less than 10%
 of contributors to open source communities identify as female [@Lee2019] compared with approximately 
-25% of the overall computer science field [@NSF, @Vasilescu2012]. Cultivating a diversity of
+25% of the overall computer science field [@NSF; @Vasilescu2012]. Cultivating a diversity of
 perspectives, ﬁelds, and backgrounds is important for growing a robust research software
 community. There is a need to understand the sources of diversity problems and work to 
 improve over the current state [@Daniel2013]. Contrary to the initial belief in open source 
@@ -110,8 +110,6 @@ a large percentage of female contributors have either been subject to or witness
 gender-based discrimination [@Powell2010] and have been discouraged from participating in these 
 projects because of the agressive nature of the discourse and the lack of female role
 models [@Reagle2012].
-
-
 
 ## Valuing producers of research software
 
