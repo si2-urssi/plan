@@ -69,7 +69,7 @@ Additional team members, not funded by the policy area:
 * Director for Policy, an URSSI co-PI, funded by URSSI at top level
 * Policy Advisory Group (appointed volunteers)
 * URSSI fellows, working in Policy Data Science Team and Policy Advocacy Team
-  * (**TODO**: Fellows program to be run by URSSI [Community](#Ch-Comm) area; these policy fellows might
+  * (Fellows program to be run by URSSI [Community](#Ch-Comm) area; these policy fellows might
   be funded by policy area if needed)
 * Other community volunteers, in Policy Data Science Team and Policy Advocacy Team
 
@@ -380,8 +380,10 @@ come together into a larger conference, perhaps an URSSI-wide event. Overall, th
 helps / grows / establishes the community (and make connections that could help chapter members
 meet the right person for their next career moves).
 
-  * (TODO: done with URSSI Community area; Policy part (1 month) is creating some materials,
-  e.g., guidance on how to set up a chapter, how to align it to local activities, and how to run it.)
+  * Done with URSSI [Community](#Ch-Comm) area; Policy part (1 month) is creating some materials,
+  e.g., guidance on how to set up a chapter, how to align it to local activities, and how to run it.
+  
+  * Also to be coordinated with US-RSE, as regional US-RSE groups might overlap regional URSSI chapters.
 
 * Work to promote and support the establishment of RSE capabilities at universities around the US.
 Provide advice on how to talk to university administrators (and which ones) about this, etc. (1 month,
@@ -417,8 +419,8 @@ and papers; increase opportunities to meet/work with new/old collaborators; will
 connections/network)
 
 * Show how you can participate in public goods / infrastructure projects (e.g., how to
-structure an issue, how to write your first PR)
-**TODO**: ref best practices section in [Community area](#Ch-Comm)
+structure an issue, how to write your first PR), collaboratively with best practices activity in
+URSSI [Community](#Ch-Comm) area (low initial effort, low ongoing effort to maintain)
 
 * Produce templates based on successful use of individual contributions to public
 goods/infrastructure to gain academic promotion, advocacy toolkits, and examples to help
