@@ -161,7 +161,7 @@ those skeptically interested)
 
 * Representatives from Open Source communities, particularly those that are already effective and working at scale
 
-* People working in science policy, such as in AAAS and the National Academies
+* People working in science policy, such as in AAAS and the National Academies (in particular, AAAS policy fellows might be interested in helping on time-constrained activities that match the purpose and period of their fellowship)
 
 * Representatives from organizations and companies serving OSS and RSE communities
 (e.g. [NumFOCUS](https://numfocus.org), [Code for Science & Society](https://codeforscience.org), GitHub, Code Ocean)
