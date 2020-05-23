@@ -130,10 +130,11 @@ lectures and (2) the presence of additional helpers outside of the primary instr
 was quite beneficial to help answer specific questions from the students.
 
 *Content*: Based on the needs identified during our survey, workshops, and other discussions, 
-we identified the following topics as candidates for inclusion in such a school: (1) human 
-factors in the software development process, (2) peer code review, (3) modern version 
-control (i.e., git), (4) software design, (5) software testing, (6) open science principles, 
-and (7) software citation. 
+we identified the following topics as candidates for inclusion in such a school:
+(1) software design (including modularity), (2) software testing, 
+(3) packaging and distributing code, 
+(4) collaborative software development with modern version control (i.e. git/GitHub),
+(5) peer code review, (6) open science principles, and (7) software ciatation. 
 
 *Format*: The summer school will be a 1-week in-person event. We plan to follow the 
 successful PNAS hackweek model [@Huppenkothen8872] where we lecture in the morning and 
@@ -169,9 +170,9 @@ As such, the Research Project Carpentries lesson program will focus on helping r
 understand what content a good plan needs to contain. It will also provide information 
 researchers need for making choices about which of the various practices are most relevant 
 to their particular project. The topics to be covered in Research Project Carpentry include: 
-(1) Requirements solicitation, (2) Agility, (3) Issue tracking, (4) Source control, (5) Testing, 
-(6) Documentation, (7), Pair programming, (8) Code review, (9) Metrics, and (10) Estimating 
-Developer Time. Note that there is some overlap between the focus of Research Project Carpentry 
+(1) Requirements elicitation, (2) Issue tracking, (3) Source control, (4) Testing, 
+(5) Documentation, (6) Packaging and Distribution, (7) Pair programming, (8) Code review, and
+(9) Metrics. Note that there is some overlap between the focus of Research Project Carpentry 
 and the Summer School described above. We anticipate reusing relevant content between these efforts. 
 
 *Format*: We will develop modules on the topics above as carpentries-style modules. This approach 
