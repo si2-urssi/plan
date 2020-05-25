@@ -133,8 +133,8 @@ was quite beneficial to help answer specific questions from the students.
 we identified the following topics as candidates for inclusion in such a school:
 (1) software design (including modularity), (2) software testing, 
 (3) packaging and distributing code, 
-(4) collaborative software development with modern version control (i.e. git/GitHub),
-(5) peer code review, (6) open science principles, and (7) software ciatation. 
+(4) collaborative software development with modern version control (i.e., git/GitHub),
+(5) peer code review, (6) open science principles, and (7) software citation. 
 
 *Format*: The summer school will be a 1-week in-person event. We plan to follow the 
 successful PNAS hackweek model [@Huppenkothen8872] where we lecture in the morning and 
