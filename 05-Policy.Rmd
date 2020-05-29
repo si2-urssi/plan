@@ -251,7 +251,8 @@ understand the value of public goods to community (1 month over 3-6 months each 
 
 * Determine a way to make it easy for scientific communities to peer-review public good software
 (or contributions to such software), with the idea that peer-review is considered a mark of
-quality (ongoing, not well-scoped)
+quality. This could be done by starting a new journal or working with existing journals or conferences,
+or via existing community organizations or software-focused organizations (ongoing, not well-scoped)
 
 * Research to counter the idea that publishing in the small set of “highest impact” journals is
 key, and expose actual impact of work instead (work with scholcom community, use what they have
