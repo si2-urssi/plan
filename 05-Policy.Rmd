@@ -377,7 +377,7 @@ in academia (for scope see last item in next set of bullets)
 universities / societies / organizations; create handbook, tools, best practices to support
 local organizers; assign an URSSI “coordinator” / community manager. These chapters could:
 talk about training, do consulting for problems, host hacky hours, study groups, software days,
-come together into a larger conference, perhaps an URSSI-wide event. Overall, this
+and come together in a larger event, perhaps a regional workshop or an URSSI-wide conference. Overall, this
 helps / grows / establishes the community (and make connections that could help chapter members
 meet the right person for their next career moves).
 
