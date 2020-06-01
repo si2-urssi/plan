@@ -462,7 +462,10 @@ maintenance would be supported (since grants are by definition time-limited).
 for existing projects (e.g. CZI's EOSS program). (1-2 months/year)
 
 * Advocate for universities to support maintenance of software developed by their university
-as part of research impact (or possibly technology transfer). (2 months/year over multiple years)
+as part of research impact (or possibly technology transfer), in part by including how software
+we highlight in the success stories campaign was paid for, including university and RSE contributions,
+then using this collectively to demonstrate the impact of specific university-funded activities,
+to encourage other unviersities to step up. (2 months/year over multiple years)
 
 * Encourage companies to provide funds and channel these funds into maintaining research
 software projects, perhaps via a review process with reviewers from both academic software
