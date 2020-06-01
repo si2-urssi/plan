@@ -439,8 +439,8 @@ be done by cross-disciplinary respected groups, such as the national academies)
 * Work to revise funder policies to ensure reviewers prioritize grant proposals that reuse,
 build-upon and contribute back to maintenance of public infrastructure
 
-* Create high-profile equivalent of “highest impact” journal for software and data work - need
-to reject a lot of work and move it to “lower class” venues
+* Create high-profile equivalent of “highest impact” journal for software and data work - where publication
+is seen as an accomplishment indicating the significance of the software
 
 **Recognize the value and importance of software policy - advocacy actions**:
 
