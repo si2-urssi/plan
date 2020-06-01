@@ -566,5 +566,15 @@ development and maintenance
 * Number of US university faculty who successfully use software work as an important part of
 their tenure packages
 
+* Number of participants in policy events, and their satisfaction based on exit surveys
+
+* Collect "thank yous" and anecdotes where URSSI is recognized for helping do something
+
+* Number of requests from universities for talks from URSSI staff
+
+* Number of talks by others where URSSI is discussed
+
+* Number of views and citations of URSSI policy documents and web sites
+
 * **TODO**: more needed
 
