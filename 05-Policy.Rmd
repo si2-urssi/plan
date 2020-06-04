@@ -383,7 +383,7 @@ in academia (for scope see last item in next set of bullets)
 
 **Staff career path policy - advocacy actions**:
 
-* Seed “chapters” of research software folks (perhaps called URSSI chapters?) at existing
+* Help start organizational “chapters” of research software developers (perhaps called URSSI chapters?) at existing
 universities / societies / organizations; create handbook, tools, best practices to support
 local organizers; assign an URSSI “coordinator” / community manager. These chapters could:
 talk about training, do consulting for problems, host hacky hours, study groups, software days,
