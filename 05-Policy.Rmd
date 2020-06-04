@@ -26,7 +26,7 @@ projects is the norm.
 
 5. Open source software is recognized as a key element of open science and reproducibility.
 
-6. Diversity of software project contributors is increased, so that research software is built and maintained by a diverse and inclusive group of contributors.
+6. Research software is built and maintained by a diverse and inclusive group.
 
 
 ## Resources
