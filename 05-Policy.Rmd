@@ -324,14 +324,19 @@ programs? – set up a network of software-focused REUs? Or focus on software
 aspects of more REUs? (provide training, guidance, language for proposals, ...)
 (2 month to start + ongoing)
 
-* Play universities (and their administrations) against each other (as has been done by
-the SSI in the UK to create RSE groups), foster competition, by highlighting software work
-(including internal investments to sustain projects that the university sees as important
-and prestigious) and successes (incl funded projects that focus on software) in some universities.
-Rank universities by something and publicize? (maybe with US-RSE) – via newsletter, blogs,
-press releases (run by URSSI community area? Would accept info from community, e.g.
-Laura Noren’s and Brad Stenger’s Data Science Community Newsletter (also work with ReSA
-to bi-directionally share info when appropriate)
+* Foster competition between universities (and their administrations), as has been done by
+the SSI in the UK to create RSE groups, by:
+
+  * Highlighting software work (including internal investments to sustain projects that the
+  university sees as important and prestigious) and successes (including funded projects that
+  focus on software) in some universities.
+  
+  * Ranking the contributions of universities to software or their structure for software developers,
+  and publicizing the ranking (maybe with US-RSE) – via newsletter, blogs, press releases
+  (pontentally run by or at least coordinated with the URSSI community area). This could be based in
+  part on information submitted by the software community, e.g. Laura Noren’s and Brad Stenger’s Data
+  Science Community Newsletter. These rankings and information would also be bi-directionally shared
+  with ReSA.
 
 * Work in citation and credit (get publishers to recognize and highlight software in
 research) (with FORCE11 and others) (minor support of other activities)
