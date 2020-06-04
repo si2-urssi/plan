@@ -93,7 +93,7 @@ If there is less budget available, we would cut back on workshop funding
 If there is more budget available, we would:
 
 * Expand policy program to have a summer program for undergraduate and graduate students focused
-on software / science policy (e.g., an REU or something like a Google Summer of Code for policy / law students)
+on software / science policy (e.g., an [NSF REU site](https://www.nsf.gov/crssprgm/reu/faculty.jsp) or something like a Google Summer of Code for policy / law students)
 
 * Hire communication staff to do outreach and engagement around policy topics (dedicated
 expertise in policy as opposed to general outreach)
@@ -319,7 +319,7 @@ gathered evidence and data.
 **General advocacy actions (not mapped to specific goals)**:
 
 * Work with REU^[REU is refers to both [NSF's Research Experience for Undergradautes](https://www.nsf.gov/crssprgm/reu/)
-programa as well as a generic term for summer and other programs that provide undergraduates with research experience]
+programa as well as being a generic term for summer and other programs that provide undergraduates with research experience]
 programs? – set up a network of software-focused REUs? Or focus on software
 aspects of more REUs? (provide training, guidance, language for proposals, ...)
 (2 month to start + ongoing)
