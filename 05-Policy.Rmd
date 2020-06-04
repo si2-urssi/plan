@@ -61,7 +61,7 @@ team’s findings. Includes funded staff, URSSI fellows, and community volunteer
 * Policy advisory board (appointed volunteers) who provide advice on potential policy area
 research questions and advocacy activities.
 
-**Funding for personnel** (e.g., support for personnel):
+**Funding for personnel**:
 
 * 3 FTEs, divided across Assistant Director for Policy Advocacy, Policy Data Science Team
 (potentially a postdoc), Policy Advocacy Team
