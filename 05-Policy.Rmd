@@ -571,9 +571,9 @@ contribute to and disseminate best practices
 * Amount of funding provided by US public and private funding agencies for research software
 development and maintenance
 
-* Number of US universities with RSE-like positions
+* Number and fraction of US universities with RSE-like positions, and number of such positions at each university
 
-* Number of US university faculty who successfully use software work as an important part of
+* Number and fraction of US university faculty who successfully use software work as an important part of
 their tenure packages
 
 * Number of participants in policy events, and their satisfaction based on exit surveys
