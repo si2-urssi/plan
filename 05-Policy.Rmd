@@ -26,7 +26,7 @@ projects is the norm.
 
 5. Open source software is recognized as a key element of open science and reproducibility.
 
-6. Diversity of software project contributors is increased.
+6. Diversity of software project contributors is increased, so that research software is built and maintained by a diverse and inclusive group of contributors.
 
 
 ## Resources
@@ -45,7 +45,8 @@ The policy area comprises:
 Policy Advisory Board and Policy staff to define and execute policy research and advocacy activities.
 
 * Policy Data Science Team: performs research aimed at informing policy, but not about policy
-itself, for example, with regard to software usage metrics, empirical studies would be most effective.
+itself, for example, with regard to software usage metrics, empirical studies would be most effective,
+but this team would not recommend policy language based on those studies.
 Includes funded staff, URSSI fellows, and community volunteers.
 
 * Assistant Director for Policy Advocacy, focuses more on planning advocacy that in doing it,
@@ -53,13 +54,14 @@ by understanding different stakeholders, and building a roadmap for how to effec
 (within universities, foundations, industry, national labs, etc.)
 
 * Policy Advocacy Team, focused on policy development (such as use cases and examples of practices
-that are effective for sustainability), which ultimately would be used for presenting turnkey ways
+that are effective for sustainability), which ultimately would be used for presenting actionable ways
 to support research software to institutions, possibly integrating and building upon the data science
 team’s findings. Includes funded staff, URSSI fellows, and community volunteers.
 
-* Policy advisory board (appointed volunteers) who provide advice on potential policy area and activities
+* Policy advisory board (appointed volunteers) who provide advice on potential policy area
+research questions and advocacy activities.
 
-**Funding for personnel** (e.g., buying out parts of contracts):
+**Funding for personnel** (e.g., support for personnel):
 
 * 3 FTEs, divided across Assistant Director for Policy Advocacy, Policy Data Science Team
 (potentially a postdoc), Policy Advocacy Team
@@ -98,8 +100,8 @@ expertise in policy as opposed to general outreach)
 
 ## Methods
 
-Initial activities are planned with respect to the set of challenges that follows, but other
-challenges can also be introduced.  The URSSI leadership group will regularly review suggestions
+Initial activities are planned around an initial set of challenges articulated below, where additional
+challenges also will be suggested.  The URSSI leadership group will regularly review suggestions
 of new challenges, and will determine a rough desired level of activity across the challenges.
 
 The policy team will then develop and scope activities to match these desired levels, with review
@@ -114,7 +116,7 @@ the longer-term activities.
 
 ### Challenges
 
-Initially, the policy area has the following set of challenges to address:
+Initially, the policy area will work to address the following set of challenges:
 
 1. Career paths (including titles and evaluation criteria for hiring and promotion) aren’t well
 established.
@@ -182,7 +184,8 @@ to encourage them to include software-focused roles where possible
 
 This is the initial list of activities that URSSI will maintain, and choose from. The specific
 activities that will be chosen to start depend on the funding level for URSSI. Most activities
-include an amount of effort that is needed to accomplish them. Note that some activities include
+include an amount of effort (generally in person-months) that is needed to accomplish them.
+Note that some activities (the items below) include
 raising additional funds for those activities - that fund raising is part of the activity. Other
 activities, in the next subsection, are tracked but are beyond the scope of URSSI, and are more
 likely activities that others might perform, potentially in coordination with URSSI.
@@ -219,7 +222,7 @@ and recognized. Publish examples of successes. (ADSA is interesteded in partnere
 * Document existing (known successful/viable, known failures) career paths for individuals
 creating research software (2 months)
 
-* Examine and document Industry career paths vs. lab career paths vs. academic career paths (1 month)
+* Examine and document industry career paths vs. national laboratory career paths vs. academic career paths (1 month)
 
 * Create and maintain a  mailing list for those interested in career paths (mailing list to be
 supported by Community area) (ongoing, low level of effort)
@@ -249,7 +252,7 @@ to gain academic promotion (1 month over 3-6 months)
 * Use regular surveys to better understand why people do and don’t contribute; get data to
 understand the value of public goods to community (1 month over 3-6 months each year)
 
-* Determine a way to make it easy for scientific communities to peer-review public good software
+* Determine a way to make it easy for scientific communities to peer-review public-good software
 (or contributions to such software), with the idea that peer-review is considered a mark of
 quality. This could be done by starting a new journal or working with existing journals or conferences,
 or via existing community organizations or software-focused organizations (ongoing, not well-scoped)
@@ -315,7 +318,9 @@ gathered evidence and data.
 
 **General advocacy actions (not mapped to specific goals)**:
 
-* Work with REU programs? – set up a network of software-focused REUs? Or focus on software
+* Work with REU^[REU is refers to both [NSF's Research Experience for Undergradautes](https://www.nsf.gov/crssprgm/reu/)
+programa as well as a generic term for summer and other programs that provide undergraduates with research experience]
+programs? – set up a network of software-focused REUs? Or focus on software
 aspects of more REUs? (provide training, guidance, language for proposals, ...)
 (2 month to start + ongoing)
 
