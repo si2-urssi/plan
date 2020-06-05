@@ -131,7 +131,8 @@ collaborative like software development.
 5. There is a lack of recognition of the value and importance of software.
 
 6. There is a lack of funding opportunities and stable funding for maintenance of software that
-is important but doesn’t have a generic market, and “lumpy” project funding (projects that are
+is important but doesn’t have a generic market and/or isn't considered novel in the eyes of the
+average funder/reviewer, and “lumpy” project funding (projects that are
 competitively funded for fixed periods, often with gaps between funded project periods) means
 that maintenance/sustainability can’t be reliably folded into project costs.
 
