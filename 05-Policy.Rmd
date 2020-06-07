@@ -250,7 +250,8 @@ modules necessary for these jobs (3-4 months, plus ongoing maintenance)
 * Identify factors (manual, such as evaluations, and automated, such as crawling repos) that are
 part of impact and publicize them. Some known factors to investigate include quantifying code
 contributions, code review, mentoring. Determine good practices (for formatting or housing the
-information on these factors) so those factors are discoverable and/or queryable. (6 months)
+information on these factors) so those factors are discoverable and/or queryable.
+(An initial effort of 6 months will make progress and better scope additional work that could be performed.)
  
 **Incentivize contributions to public software policy - research actions**:
 
