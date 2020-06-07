@@ -185,7 +185,7 @@ systematic and regular analysis of the impact this software has on research
 
 * Promoting software credit and citation mechanisms
 
-* Studying methods to catalog and promote research software
+* Studying and disseminating methods to catalog and promote research software
 
 * Supporting the use of software in reproducibility
 
