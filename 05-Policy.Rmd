@@ -78,6 +78,13 @@ Additional team members, not funded by the policy area:
   be funded by policy area if needed)
 * Other community volunteers, in Policy Data Science Team and Policy Advocacy Team
 
+### Additional resources
+
+Additional resources may be needed by the research group for data collection, management, analysis, etc.,
+and by the advocacy team for dissemination of materials and community organization and support.
+Both teams may need additional resources for producing materials, including graphic design, copy editing, etc).
+Amount are **TODO** TBD
+
 ### Events & travel
 
 **Funding for workshops**: **TODO**: TBD
