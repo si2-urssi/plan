@@ -1,6 +1,6 @@
 # Policy {#Ch-Policy}
 
-The Policy area’s intent is to support the people who develop and maintain research software, and to
+The Policy area’s intent is create an enablng environment to support the people who develop and maintain research software, and to
 support research about research software, to ultimately increase the science & research impact of
 software.  It does this by focusing on potential initiatives (actions, mandates, incentives, directives)
 decision makers can take to have a broad influence on the area, sometimes thought of as leverage points,
