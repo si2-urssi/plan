@@ -46,27 +46,28 @@ The policy area comprises:
 * Director for Policy, an URSSI co-PI, leads the overall Policy area, working with the
 Policy Advisory Board and Policy staff to define and execute policy research and advocacy activities.
 
-* Policy Data Science Team: performs research aimed at informing policy, but not about policy
-itself, for example, with regard to software usage metrics, empirical studies would be most effective,
+* Policy Data Science Team: performs research such as finding, collecting, and analyzing data,
+aimed at informing policy, but not about policy
+itself. For example, with regard to software usage metrics, empirical studies would be most effective,
 but this team would not recommend policy language based on those studies.
-Includes funded staff, URSSI fellows, and community volunteers.
-
-* Assistant Director for Policy Advocacy, focuses more on planning advocacy that in doing it,
-by understanding different stakeholders, and building a roadmap for how to effectively advocate
-(within universities, foundations, industry, national labs, etc.)
+Includes a possible assistant director, funded staff, URSSI fellows, and community volunteers.
 
 * Policy Advocacy Team, focused on policy development (such as use cases and examples of practices
 that are effective for sustainability), which ultimately would be used for presenting actionable ways
 to support research software to institutions, possibly integrating and building upon the data science
-team’s findings. Includes funded staff, URSSI fellows, and community volunteers.
+team’s findings. This team focuses more on planning advocacy that in doing it,
+by understanding different stakeholders, and building a roadmap for how to effectively advocate
+(within universities, foundations, industry, national labs, etc.)
+Includes a possible assistant director, funded staff, URSSI fellows, and community volunteers.
 
 * Policy advisory board (appointed volunteers) who provide advice on potential policy area
 research questions and advocacy activities.
 
 **Funding for personnel**:
 
-* 3 FTEs, divided across Assistant Director for Policy Advocacy, Policy Data Science Team
-(potentially a postdoc), Policy Advocacy Team
+* 3 FTEs, divided across possibly part-time Assistant Directors for Policy Data Science and Policy Advocacy,
+the Policy Data Science Team (potentially a postdoc), and the Policy Advocacy Team.
+The Director for Policy might also act as one of the Assistant Directors, depending on that person's background.
 
 Additional team members, not funded by the policy area:
 
