@@ -19,7 +19,9 @@ is a core part of the mission, e.g., at NSF, this includes all program officers 
 2. In universities and academic fields, positions for people developing and maintaining research software
 are available, recognized, and rewarded.
 
-3. In publishing, support and recognition for software as a core part of scholarly research is the norm. (this includes the recognition that software is as valuable to the research community as the results themselves, that processes exist to evaluate software in papers, expectations for authorship for software developers are clear.) 
+3. In publishing, support and recognition for software as a core part of scholarly research is the norm.
+(This includes the recognition that software is as valuable to the research community as the results themselves,
+that processes exist to evaluate software in papers, expectations for authorship for software developers are clear.) 
 
 4. In industry, sharing best practices, coordinating efforts, and contributing to open source software
 projects is the norm.
