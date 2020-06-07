@@ -116,8 +116,8 @@ Some topics are partially or completely out-of-scope for URSSI:
 **Software Commercialization**. As an institute, URSSI will position
 itself as a broker to existing bodies of knowledge or expertise, and
 seek to fill needed gaps where no expertise already exists. Relevant
-to this positioning is a route to sustainability through the
-commercialization of research software. We view this path to sustainability
+to this positioning is a route to research software sustainability through
+software commercialization. We view this path to sustainability
 as already well supported by existing programs and initiatives, some of
 which are already funded by NSF. As a principle, URSSI is not opposed
 to or discouraging of research software commercialization. We will actively
