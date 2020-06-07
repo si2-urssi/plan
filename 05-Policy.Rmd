@@ -2,14 +2,14 @@
 
 The Policy area’s intent is create an enablng environment to support the people who develop and maintain research software, and to
 support research about research software, to ultimately increase the science & research impact of
-software.  It does this by focusing on potential initiatives (actions, mandates, incentives, directives)
-decision makers can take to have a broad influence on the area, sometimes thought of as leverage points,
-including strategies and decisions to invest. Policy happens at multiple levels, including  national,
-funding agency, institution, and research group.
-
+software.  
 **The Policy area's activities are divided into two parts, research and advocacy**.  Research is the collecting
 and analyzing of data, while advocacy is the dissemination of the research results in such a way that it
 changes practices.
+The Policy area focuses on understanding and then advocating for potential initiatives (actions, mandates, incentives, directives)
+that decision makers can take, sometimes thought of as leverage points,
+including strategies and decisions to invest. Policy happens at multiple levels, including  national,
+funding agency, institution, and research group.
 
 The changes that the Policy area seeks to make include:
 
