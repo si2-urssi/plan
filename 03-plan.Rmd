@@ -167,8 +167,8 @@ a factor in the hiring and promotion of software developers and maintainers
 
 * Promoting the publication of research software
 
-* Creating and providing training for those who want to develop and maintain
-research software
+* Coordinating community efforts, including by URSSI, to create and provide training
+for those who want to develop and maintain research software
 
 * Encouraging a diverse set of participants to enter the research software
 development and maintenance field and decreasing structural and systemic
