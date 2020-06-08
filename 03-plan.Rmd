@@ -147,7 +147,7 @@ ecosystem that will improve research software and to empower the people who
 create and maintain that software.
  
 <center>
-![FigName](images/URSSI-impact.png)
+![FigName](images/URSSI-impact-drawing.png)
 </center>
 
 For software, URSSI aims to improve the sustainability of research software by
