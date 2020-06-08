@@ -141,7 +141,7 @@ to close.
 ## Desired impact
 
 URSSI's ultimate desired impact, as stated in the vision, is on scholarly
-research in science, engineering, and the humanities.  URSSI aims to achieve
+research in all fields.  URSSI aims to achieve
 this impact by enabling and encouraging the contribution of the resources and training to the research software
 ecosystem that will improve research software and to empower the people who
 create and maintain that software.
