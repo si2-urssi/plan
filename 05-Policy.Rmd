@@ -331,7 +331,7 @@ gathered evidence and data.
 **General advocacy actions (not mapped to specific goals)**:
 
 * Work with REU^[REU is refers to both [NSF's Research Experience for Undergradautes](https://www.nsf.gov/crssprgm/reu/)
-programa as well as being a generic term for summer and other programs that provide undergraduates with research experience]
+program, as well as being a generic term for summer and other programs that provide undergraduates with research experience]
 programs? – set up a network of software-focused REUs? Or focus on software
 aspects of more REUs? (provide training, guidance, language for proposals, ...)
 (2 month to start + ongoing)
