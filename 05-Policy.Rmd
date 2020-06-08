@@ -282,21 +282,21 @@ from journals and other resources. (1 week)
 **Recognize the value and importance of software policy - research actions**:
 
 * Find science/discovery cases where software was particularly fundamental, particularly digging
-into software that is not so generally well-known (1 month over 3 months)
+into software that is not so generally well-known (2 months over 6 months)
 
 * Perform case studies in sustainable software value, e.g., NetCDF, HDF5, DS9 image viewer, GCM
-model(s) — how much money was invested in these, and how much maintains them? (3-month fellow project)
+model(s) — how much money was invested in these, and how much maintains them? (6-month fellow project)
 
 * Quantify the money that has implicitly funded maintenance and sustainability, and has been saved
 or lost in the shift to open source (e.g., where have funds been spent on one-off software rather
 than maintaining existing open source software, and where has an investment in software maintenance
-saved funds from being spent on one-off software) (3-month fellow project)
+saved funds from being spent on one-off software) (6-month fellow project)
 
 * Calculate bus factor for a bunch of key software in disciplines (partner with CHAOSS, or perhaps
-3-month fellow project)
+6-month fellow project)
 
 * Document maintenance and funding for critical packages for several disciplines, e.g. IRAF in astronomy
-(3-month fellow project)
+(6-month fellow project)
  
 **Funding opportunities for software maintenance policy - research actions**:
 
