@@ -284,8 +284,10 @@ from journals and other resources. (1 week)
 * Find science/discovery cases where software was particularly fundamental, particularly digging
 into software that is not so generally well-known (2 months over 6 months)
 
-* Perform case studies in sustainable software value, e.g., NetCDF, HDF5, DS9 image viewer, GCM
-model(s) — how much money was invested in these, and how much maintains them? (6-month fellow project)
+* Research and deliver case studies in sustainable software value, e.g., NetCDF, HDF5, DS9 image viewer,
+GCM model(s). How much money was invested in these projects and how did these projects return value to
+the community? Examples of value could include: number of research projects taking advantage of these
+solutions, amount saved by not having to reinvent these technologies. (6-to-12-month fellow project)
 
 * Quantify the money that has implicitly funded maintenance and sustainability, and has been saved
 or lost in the shift to open source (e.g., where have funds been spent on one-off software rather
