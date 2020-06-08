@@ -25,5 +25,5 @@ twitter-handle: si2-urssi
 knitr::include_graphics("images/plan.jpg")
 ```
 
-This public report is a very early outline of the final report. Many of these sections are under internal review before being posted here. We expect most sections to be posted by April 2020.
+This public document is a draft of the final URSSI plan. Empty sections are under internal review before being posted here.
 
