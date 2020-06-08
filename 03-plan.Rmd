@@ -107,8 +107,8 @@ leaders, active users)
 
 * Coordinate activities rather than start new ones when possible
 
-* Advocate and promote a diversity of career paths, recognizing that no one
-correct version of a career is likely to exist across institutions
+* Advocate and promote a variety of solutions to challenges, recognizing that no one
+solution is likely to work for all stakeholders or in all situations
 
 Some topics are partially or completely out-of-scope for URSSI:
 [**TODO**: what should be out-of-scope for URSSI?]
