@@ -224,7 +224,12 @@ These activities involve research, such as gathering and analyzing evidence and 
 **Faculty career path policy - research actions**:
 
 * Study tenure guidance and policies, and find/document ways that software work is measured
-and recognized. Publish examples of successes. (ADSA is interesteded in partnerering on this; the ADSA Career Development Network is mostly faculty facing exactly these challenges.) (2 months)
+and recognized. Publish examples of successes.
+(ADSA is interesteded in partnerering on this; the ADSA Career Development Network is mostly faculty facing exactly these challenges.
+Additionally, RDA is in the processing of developing an [Open Science Registry](www.openscienceregistry.org)^[This link may not yet work]
+that aims to provide a new a new collaborative platform to share both the intention and outcomes of pilots
+and other initiatives taken by different actors that specifically address the academic reward system.
+This work is an outcome of the [Open Source Policy Platform final report] (https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform).) (2 months)
  
 **Staff career path policy - research actions**:
 
