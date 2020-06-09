@@ -226,7 +226,7 @@ These activities involve research, such as gathering and analyzing evidence and 
 * Study tenure guidance and policies, and find/document ways that software work is measured
 and recognized. Publish examples of successes.
 (ADSA is interesteded in partnerering on this; the ADSA Career Development Network is mostly faculty facing exactly these challenges.
-Additionally, RDA is in the processing of developing an [Open Science Registry](www.openscienceregistry.org)^[This link may not yet work]
+Additionally, RDA is in the processing of developing an [Open Science Registry](www.openscienceregistry.org)^[This link may not yet work.]
 as a collaborative platform to share both the intention and outcomes of pilots
 and other initiatives that specifically address the academic reward system, as an outcome of the
 European Union Open Source Policy Platform (OSPP) final report [@OSPP_report].) (2 months)
@@ -338,7 +338,7 @@ gathered evidence and data.
 **General advocacy actions (not mapped to specific goals)**:
 
 * Work with REU^[REU is refers to both [NSF's Research Experience for Undergradautes](https://www.nsf.gov/crssprgm/reu/)
-program, as well as being a generic term for summer and other programs that provide undergraduates with research experience]
+program, as well as being a generic term for summer and other programs that provide undergraduates with research experience.]
 programs? – set up a network of software-focused REUs? Or focus on software
 aspects of more REUs? (provide training, guidance, language for proposals, ...)
 (2 month to start + ongoing)
