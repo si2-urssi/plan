@@ -111,9 +111,8 @@ leaders, active users)
 solution is likely to work for all stakeholders or in all situations
 
 Some topics are partially or completely out-of-scope for URSSI:
-[**TODO**: what should be out-of-scope for URSSI?]
 
-**Software Commercialization**. As an institute, URSSI will position
+* **Software Commercialization**. As an institute, URSSI will position
 itself as a broker to existing bodies of knowledge or expertise, and
 seek to fill needed gaps where no expertise already exists. Relevant
 to this positioning is a route to research software sustainability through
@@ -137,6 +136,8 @@ investments in software. A majority of even the best research software projects
 won't be commercially viable given the size and scope of their audience. It is
 this critical gap, between commercialization and open-source, that URSSI seeks
 to close. 
+
+* [**TODO**: what else should be out-of-scope for URSSI?]
 
 ## Desired impact
 
