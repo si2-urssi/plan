@@ -6,8 +6,9 @@ All work to be done in URSSI (including management and coordination) is structur
 
 <center>
 ![FigName](images/WPs-v3.jpg)
-Fig. Areas and WPs: A WP can exist in one or more areas. The WP “Project coordination, risk management and reporting” spans all four areas and lasts for the duration of the project. WPx, for example, is part of Education & Training, Incubator, and Outreach & Community. WPy, WPz, and WPw each exist in a single area.
 </center>
+Fig. Areas and WPs: A WP can exist in one or more areas. The WP “Project coordination, risk management and reporting” spans all four areas and lasts for the duration of the project. WPx, for example, is part of Education & Training, Incubator, and Outreach & Community. WPy, WPz, and WPw each exist in a single area.
+
 
 ## Management structure and procedures 
 Management of URSSI includes activities that occur at different levels, appropriate to the size and structure of the institute. This section presents the project's organizational and decision-making mechanisms, as well as its process for ensuring effective information interchange between the individual work packages. Central to the project's management is a key set of roles and committees, which are described in detail below: the PI, the Co-PIs, the Work Package Leaders, a sustainability officer, an evaluator, and the Steering Committee. Work Package leaders may be Co-PIs or other URSSI staff.
