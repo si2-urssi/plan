@@ -137,10 +137,10 @@ won't be commercially viable given the size and scope of their audience. It is
 this critical gap, between commercialization and open-source, that URSSI seeks
 to close. 
 
-* **Software Development and Maitenance**. URSSI staff will not develop or
+* **Software Development and Maintenance**. URSSI staff will not develop or
 maintain research software, nor will URSSI provide funds to projects to do this,
 other than as part of focused incubation or training activity. Given the small size
-of URSSI and the large size of the software development and maitenance community,
+of URSSI and the large size of the software development and maintenance community,
 such hands-on software work is not a useful way for URSSI to have an impact.
 
 [**TODO**: what else should be out-of-scope for URSSI?]
