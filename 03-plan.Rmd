@@ -53,6 +53,11 @@ maintainers, contributors, and users.
 
 The following assumptions are inputs to our planning process: 
 
+* Our plan is based on the idea of proposing to NSF, and therefore, focuses on the
+US community. We will, however, work with like-minded organization both inside and
+outside the US, including the [Research Software Alliance (ReSA)](https://www.researchsoft.org).
+(Also see the potential partners listed in [Chapter 5 (Policy)](#Ch-Policy)
+
 * We will propose an institute with a 5-year duration and a potential 5-year
 extension, based on NSF’s current institutes and published documents.
 
