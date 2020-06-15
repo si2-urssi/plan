@@ -85,7 +85,8 @@ Given the mission and vision, and our assumptions, we plan to use a set of metho
 to ensure that URSSI is successful:
  
 * URSSI must choose a set of initial targeted communities and efforts, focus on
-them for some period, then move on to the next set of targets
+them for some period (until some predefined metrics of success are met or some predefined
+time period has passed without success), then move on to the next set of targets
 
 * URSSI must work closely with partners to amplify its efforts
 
