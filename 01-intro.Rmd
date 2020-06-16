@@ -18,7 +18,7 @@ software ecosystem is fragile and the source of numerous problems that plague mo
 computational science [@carver2018conceptualization].
 
 Researchers today are under intense pressure to demonstrate expertise in their chosen domains
-while also trying to maintain a working current knowledge of software engineering practices.
+while also trying to maintain a working current knowledge of digital skills such as software engineering.
 This combination is unsustainable for most researchers. With little bandwidth to keep up
 with best practices or sufficient recognition of software development as a scholarly activity,
 much research software is developed in a manner that makes it wholly unsustainable, despite
@@ -71,7 +71,7 @@ to break the problem down into the following four areas:
 **Research software itself is not sustainably developed**: In many fields research software
 is developed by academics for other academics. Because these people have spent much of their
 careers developing deep domain expertise, but not developing deep software expertise,
-software does not get the same level of care as other aspects of the research enterprise
+software does not often get the same level of care as other aspects of the research enterprise
 ([https://www.nature.com/articles/s41592-019-0686-2](https://www.nature.com/articles/s41592-019-0686-2)).
 Therefore the quality of the software is highly variable, making it hard to sustain. Mounting
 technical debt often makes it easier to develop software from scratch than to use existing
@@ -79,13 +79,13 @@ tools. Versions of software used in papers are exceedingly hard to track down, m
 challenging to reproduce research findings or reuse research software. When Collberg and
 colleagues [@collberg2014measuring; @collberg2015repeatability] decided to measure the extent
 of the problem precisely, they investigated the availability of code and data as well as the
-extent to which this code would actually build with reasonable effort. The results were
+extent to which this code would actually run with reasonable effort. The results were
 dramatic: of the 515 (out of 613) potentially reproducible papers, across applied
 computational research, the authors managed to ultimately run only 102 (less than 20%).
 These low numbers only count the authors' success in running the code, not in actually
 validating the results. 
 
-**Lack of career opportunities**: Software does not count for career advancement (e.g.,
+**Lack of career opportunities**: Software does not often count for career advancement (e.g.,
 promotion and tenure) in academia, making it an invisible scholarly contribution. Research
 software is often not cited (31-43%), even in high impact journals [@howison2016software].
 Besides the negative impact on career trajectories, this lack of visibility means that
@@ -98,7 +98,7 @@ but such positions are not very common in the United States.
 their biggest challenges in leveraging vast amounts of data currently available, lack of
 training was listed as the single biggest challenge [@barone2017unmet]. Although this
 training deficit describes the ability to use existing data science software, the skills
-needed to develop them are harder to come by [citation]. While programs like Software
+needed to develop them are harder to come by [@df80bc12-en]. While programs like Software
 Carpentry and a handful of university courses offer training in analyzing data, very few
 train researchers in modern open source software development. This gap remains to be filled.
 
@@ -193,8 +193,8 @@ who have a consultancy agreement and could support a project in the different st
 their life cycle – from spinning up a project to first results and uptake of software to
 planning its sustainability after the funding ends.
 
-2. **Education & Training**: Many universities offer curricula in software engineering to
-students but there is a lack of training to meet the community needs to go into depth for
+2. **Education & Training**: Many universities offer curricula in conceptual software engineering to
+students but there is a lack of practical training to meet the community needs to go into depth for
 different technologies. The survey showed that there is a need to choose a format and
 timeframe that is suitable for people in the role of Research Software Engineers (RSEs)
 who lack formal or informal training. While The Carpentries, for example, does an
