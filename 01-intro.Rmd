@@ -25,7 +25,7 @@ much research software is developed in a manner that makes it wholly unsustainab
 the obvious role that it plays in modern research, for a multitude of reasons. Academic
 promotion and tenure, even in institutions with liberal policies, consider peer-reviewed
 publications to be the primary metric of progress in most disciplines. Even when the impact
-of software is made clear through citation, it is usually not considered a traditional
+of software is made clear through [@df80bc12-en], it is usually not considered a traditional
 scholarly activity, making it very challenging to get credit. There is no shortage of horror
 stories of academics who have built demonstrably impactful software, only to be denied tenure.
 Even outside the tenure track, only a few academic jobs offer meaningful career progression
@@ -98,7 +98,7 @@ but such positions are not very common in the United States.
 their biggest challenges in leveraging vast amounts of data currently available, lack of
 training was listed as the single biggest challenge [@barone2017unmet]. Although this
 training deficit describes the ability to use existing data science software, the skills
-needed to develop them are harder to come by [@df80bc12-en]. While programs like Software
+needed to develop them are harder to come by. While programs like Software
 Carpentry and a handful of university courses offer training in analyzing data, very few
 train researchers in modern open source software development. This gap remains to be filled.
 
