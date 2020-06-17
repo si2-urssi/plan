@@ -308,6 +308,12 @@ to compensate for the time required to participate. In addition, to increase par
 from a diverse community, URSSI will provide travel support for a small number of workshop 
 participants, determined based on need in individual cases. 
 
+6. _Packaging and Sharing_
+As URSSI develops content related to the educational activities described in this chapter, we
+will package that content in a shareable format. We will make the content freely 
+available on GitHub. We will also archive each release of content on Zenodo using a proper 
+license that allows anyone to use and/or modify the content as needed. 
+
 ## Metrics/Milestones
 
 To ensure that the training activities are providing sufficient content, URSSI will conduct 
