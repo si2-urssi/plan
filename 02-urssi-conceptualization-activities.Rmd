@@ -304,10 +304,10 @@ agency to provide fellowships to RSEs, and building up an association with about
 As a number of non-UK people (including some URSSI PIs) started attending UK RSE
 conferences, the SSI also supported activities to grow the international community.
 These self-developed and SSI-supported activities have led to RSE groups in Germany,
-the Netherlands, the Nordic countries, the US, Canada, and South Africa, some of
+the Netherlands, the Nordic countries, the US, Canada, Australia/New Zealand, South Africa, and Belgium, some of
 which have now held national workshops and conferences. The US Research Software
 Engineer Association (US-RSE) formed in 2018, with the support and participation
-of three of the five URSSI PIs, and has 340 members as of February 2020. The US-RSE
+of three of the five URSSI PIs, and has 420 members as of May 2020. The US-RSE
 Association is centered around three main goals:
 
 * _Community_: to provide a coherent association of those who identify with the role
