@@ -120,15 +120,15 @@ activities within URSSI.
 *Overview*: During the conceptualization phase, we identified a need for additional, 
 focused training opportunities on sustainable software development practices for researchers 
 who were not in a domain covered by an existing institute. One of the primary reasons for 
-this need is that it is generally difficult for professors to make room for this type of 
+this need is that it is generally difficult for degree programs to make room for this type of 
 content. We plan to meet this need with a summer school, which is a proven method for 
-providing hand-on training to transfer these skills to students, in this case on sustainable 
+providing hands-on training to transfer these skills to students, in this case on sustainable 
 software development practices for research software development. We conducted a Pilot 
 Winter School as part of the conceptualization process. The details of that activity appear 
 in [Chapter 2](#chapter2-WinterSchool). The plan described here builds on the key lessons 
 learned, including: (1) the school needs to be longer to allow for both discussion time 
 and focused time for students to work on their own code, applying the lessons from the 
-lectures and (2) the presence of additional helpers outside of the primary instructors 
+lectures, and (2) the presence of additional helpers outside of the primary instructors 
 was quite beneficial to help answer specific questions from the students.
 
 *Content*: Based on the needs identified during our survey, workshops, and other discussions, 
@@ -139,16 +139,16 @@ we identified the following topics as candidates for inclusion in such a school:
 (5) peer code review, (6) open science principles, and (7) software citation. 
 
 *Format*: The summer school will be a 1-week in-person event. We plan to follow the 
-successful PNAS hackweek model [@Huppenkothen8872] where we lecture in the morning and 
-provide time in the afternoons for hacking and putting concepts into practice. We will 
+successful PNAS hackweek model [@Huppenkothen8872] where we allocate 50% of the time
+to lectures and 50% of the time to putting the concepts into practice. We will 
 invite instructors with expertise in the different topic areas (see above) to participate 
-and deliver the lectures in the mornings. To facilitate the afternoon “hacking” time, 
+and deliver the lectures. To facilitate the “hacking” time, 
 we will ask school participants to bring a code project they wish to work on during the 
-school. The afternoon “hacking sessions” will allow ample time for the participants to 
-have hands-on time applying the concepts learned to their own code projects. These sessions 
+school. The “hacking sessions” will provide ample opportunities for the participants to 
+have hands-on time applying the concepts from the lectures to their own code projects. These sessions 
 also provide time for code reviews and other ad hoc topics that arise during the school. 
-The instructors will be available during this afternoon time to help the participants as 
-needed. By the end of the school, the participants should have substantial intellectual 
+The instructors will be available during the hands-on time to help participants as 
+needed. By the end of the school, participants should have substantial intellectual 
 knowledge and experiential knowledge. Because researchers often do not have sufficient 
 time for training or to attend events like this one, as an alternative to the face-to-face 
 summer school events, we also plan to package the content into Carpentries-style lessons 
