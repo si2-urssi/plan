@@ -172,9 +172,9 @@ As such, the Research Project Carpentries lesson program will focus on helping r
 understand what content a good plan needs to contain. It will also provide information 
 researchers need for making choices about which of the various practices are most relevant 
 to their particular project. The topics to be covered in Research Project Carpentry include: 
-(1) Requirements elicitation, (2) Issue tracking, (3) Source control, (4) Testing, 
-(5) Documentation, (6) Packaging and Distribution, (7) Pair programming, (8) Code review, and
-(9) Metrics. Note that there is some overlap between the focus of Research Project Carpentry 
+(1) requirements elicitation, (2) issue tracking, (3) source and version control, (4) testing, 
+(5) documentation, (6) packaging and distribution, (7) pair programming, (8) code review, and
+(9) metrics. Note that there is some overlap between the focus of Research Project Carpentry 
 and the Summer School described above. We anticipate reusing relevant content between these efforts. 
 
 *Format*: We will develop modules on the topics above as carpentries-style modules. This approach 
@@ -183,10 +183,10 @@ course, like the Summer School, or as stand-alone units. This flexibility will a
 to access the content in a mechanism that is most relevant to them.
 
 *Note*: While this activity is relevant to the URSSI effort, we believe that it will have appeal 
-beyond URSSI. Therefore, even though we include it here in the plan, we will seek funding to 
+beyond URSSI. Therefore, even though we include it here in the plan, we will also seek funding to 
 support it from organizations outside of NSF. We also plan to solicit other organizations and 
-individuals to contribute to this activity. Therefore, while URSSI will drive it and encourage 
-external participation, URSSI will not have the bandwidth to perform all of the work.
+individuals to contribute to this activity. URSSI will lead this work, organizing a community
+that will include external participants.
 
 ### Plan a review service for software project plans
 
