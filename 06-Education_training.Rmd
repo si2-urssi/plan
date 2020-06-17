@@ -304,10 +304,9 @@ participants, determined based on need in individual cases.
 
 6. _Packaging and Sharing_
 As URSSI develops content related to the educational activities described in this chapter, we
-will package that content into Carpentries-style lessons. We will make the content freely 
+will package that content in a shareable format. We will make the content freely 
 available on GitHub. We will also archive each release of content on Zenodo using a proper 
-license that allows anyone to use and/or modify the content as needed. Finally, we will seek
-to work with the Carpentries to have URSSI content included as Carpentries content.
+license that allows anyone to use and/or modify the content as needed. 
 
 ## Metrics/Milestones
 
