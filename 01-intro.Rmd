@@ -48,8 +48,8 @@ describes our activities (in [Chapter 2](#chapter2)), outlines high-level plans 
 (mangement and coordination in [Chapter 4](#Ch-Org), policy activities in [Chapter 5](#Ch-Policy),
 education and training activities in [Chapter 6](#Ch-Edu), incubator activities in [Chapter 7](#Ch-Incubator),
 and community and outreach activities in [Chapter 8](#Ch-Comm)),
-talks about budget in [Chapter 9](#Ch-Budget), discusses metrics and evaluation in [Chapter 10](#Ch-Metrics),
-and then concludes in [Chapter 11](#Ch-Summary). This complete document is the justification and plan
+talks about budget (in [Chapter 9](#Ch-Budget)), discusses metrics and evaluation (in [Chapter 10](#Ch-Metrics)),
+and then concludes (in [Chapter 11](#Ch-Summary)). This complete document is the justification and plan
 for a new institute that will work in multiple areas to improve
 research software and the careers of those that produce it, with an end goal of performing
 better research. 
