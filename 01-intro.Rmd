@@ -195,14 +195,14 @@ planning its sustainability after the funding ends.
 
 2. **Education & Training**: Many universities offer curricula in conceptual software engineering to
 students but there is a lack of practical training to meet the community needs to go into depth for
-different technologies. The survey showed that there is a need to choose a format and
-timeframe that is suitable for people in the role of Research Software Engineers (RSEs)
-who lack formal or informal training. While The Carpentries, for example, does an
+different technologies. The survey showed that there is a need to choose formats and
+timeframes that are suitable for people in the role of Research Software Engineers (RSEs)
+who lack formal or informal training. While the Carpentries, for example, does an
 excellent job of teaching basic programming and computational & data analytic methods to
 researchers in a peer-to-peer model, mostly in 2-day courses, URSSI could fill the gap in
 teaching more in-depth software engineering, software project management, and community
 development practices in longer engagements, such as a 5-day summer- and/or winter-school.
-URSSI would collaborate on topics with The Carpentries and the existing software
+URSSI would collaborate on topics with the Carpentries and the existing software
 sustainability institutes, such as the Science Gateways Community Institute and the
 Molecular Sciences Software Institute, so that rather than replicate effort, it identifies
 the training in the overall research software landscape that is now missing.
