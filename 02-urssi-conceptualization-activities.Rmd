@@ -284,22 +284,25 @@ likely co-organized with [FORCE11](https://www.force11.org/) and
 
 ### Research Software Engineering (RSE)
 
-In a 2012 workshop sponsored by the UK SSI, a number of UK researchers who develop
+In a 2012 workshop run by the UK SSI, a number of UK researchers who develop
 software realized that while they internally recognized a number of common elements
 to the work they did, along with others at their universities, there was no
 commonality to how others saw this work and these roles, and they needed to come
 together to build and develop a community. As stated by James Hetheringon, they
 decided they needed to "develop the profession of a scientific software engineer
-and the career track of software developers in academia." They studied academic job
+and the career track of software developers in academia." The SSI studied academic job
 descriptions in the UK, and found about 10000, of which about 400 were related to
 software development, with 194 different job titles. To build recognition of the
-common software elements of these positions, they chose the name "research software
-engineer". They then began publicizing this idea, building a community of people who
-identified with the role and encouraged them to also identify with this title,
-building RSE groups in UK universities, encouraging universities to change their
-job titles, holding workshops and then conferences for RSEs, encouraging a funding
-agency to provide fellowships to RSEs, and building up an association with about
-2000 members, which later developed into a professional society [@RSEHettrick].
+common software elements of these positions, the SSI chose the name "research software
+engineer". The SSI then began publicizing this idea, building a community of people who
+identified with the role, leading to the formation of the UK RSE Association, which is
+now the [Society of Research Software Engineering](https://society-rse.org).
+The SSI and RSE Association/Society encouraged people who were performing RSE-like work
+to also identify with this title,
+built RSE groups in UK universities, encouraged universities to change their
+job titles, held workshops and then conferences for RSEs, encouraged a funding
+agency to provide fellowships to RSEs, and built up the association/society,
+which now has about 2000 members [@RSEHettrick].
 
 As a number of non-UK people (including some URSSI PIs) started attending UK RSE
 conferences, the SSI also supported activities to grow the international community.
