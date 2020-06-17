@@ -7,7 +7,9 @@ sufficiently-good software engineering skills. When forced to choose, they typic
 or take shortcuts in software engineering, as they view their disciplinary skills and knowledge as 
 more important to their careers, and more rewarded by current incentive systems. Further, many 
 researchers do not aspire to become software engineering experts, but approach the acquisition of 
-software skills as a means to a research end. As a result of this approach, there are valuable 
+software skills as a means to a research end. This approach is implicitly encouraged by the fact
+that the educational content of most disciplines that require software skills does not actually 
+include sufficient discussion of software development or engineering. As a result, there are valuable 
 skills such as packaging, testing, releasing, archiving, and even designing research software that 
 are dramatically underdeveloped in the overall research ecosystem. 
 
@@ -66,7 +68,7 @@ Alamos), for example, joint activities run by
 [XSEDE](https://www.xsede.org/for-users/training), and Argonne's 
 [ATPESC](https://extremecomputingtraining.anl.gov). Given the success of the Carpentries, 
 these computing center training events often either include or contribute to Carpentries 
-lessons, or complement them  In addition, other NSF-funded software institutes (e.g., 
+lessons, or complement them. In addition, other NSF-funded software institutes (e.g., 
 MolSSI, SGCI, and IRIS-HEP) are also developing training resources for their target 
 communities, similarly making use of, contributing to, and complementing the Carpentries.
 
@@ -78,37 +80,37 @@ coordinate and facilitate the acquisition of software engineering expertise by r
 engaged in various development activities. Rather than reinventing content, we anticipate 
 collaborating with and pointing to relevant resources developed through other related efforts.
 
-The Education & Training thrust of the URSSI  institute complements and builds upon existing 
-efforts through the following activities. We plan to: 
+The Education & Training thrust of URSSI complements and builds upon existing efforts through 
+the following planned activities (more detail appears below):
 
 1. Develop and annually run a summer school on practices for sustainable software development 
-for research software
+for research software.
 
 2. Develop a Research Project Carpentry lesson program that teaches people how to turn code 
-into a formal project
+into a formal project.
 
 3. Plan a review service for software project plans (and note that the implementation of this 
-plan is likely out of scope of URSSI by itself)
+plan is likely out of scope of URSSI by itself).
 
 4. Evaluate and document successes and failures of industrial software development practices 
-in research software
+in research software.
 
-5. Compile and maintain a body of knowledge of best practices for research software development
-<br><br>(This URSSI activity will seek to aggregate both existing practices, and serve as an outlet 
+5. Compile and maintain a body of knowledge of best practices for research software development.
+(This URSSI activity will seek to aggregate both existing practices, and serve as an outlet 
   for emerging practices from other domain-specific software institute, e.g., MolSSI, SGCI, IRIS-HEP) 
 
 ## Resources
 
 This area requires the following staff:
 
-* Training Lead - who will coordinate all training activities and assessment of those 
-activities  [~1 FTE]
+* Training Lead: coordinates all training activities and assessment of those 
+activities  (~1 FTE).
 
-* Assessment Coordinator - who will coordinate the assessment efforts (this position 
-could be shared with other parts of the project) [~.5 FTE] 
+* Assessment Coordinator: coordinates the assessment efforts (this position 
+could be shared with other parts of the project) (~.5 FTE). 
 
-* Research Coordinator who will lead the effort to gather experiences from research 
-software projects [.25-.5 FTE]
+* Research Coordinator: leads the effort to gather experiences from research 
+software projects (.25-.5 FTE).
 
 ## Methods
 
@@ -194,14 +196,14 @@ Building on the work done for Research Project Carpentries, URSSI has identified
 a service where experts review and comment on proposed project plans. Researchers who are 
 interested in this service would submit a project plan in a specified format. Then, experts 
 would review the plan to ensure both that it is (1) complete with respect to the content necessary 
-for the type of project and its current stage as well as (2) the choices made for each aspect of 
+for the type of project and its current stage, as well as (2) the choices made for each aspect of 
 the project plan are consistent with best practices. Once the review is completed, the reviewer 
 would work with the project team to help resolve any deficiencies identified in the original 
-project plan. 
+project plan. This model is akin to that used by many "incubators" for start-up companies.
 
 This activity is likely beyond the scope of URSSI, so we will create an initial plan for it, 
 then seek to partner with other organizations who are pursuing similar efforts and explore 
-external funding sources. In addition to the operating service, URSSI and partners will need 
+external funding sources. In addition to the operating the service, URSSI and partners will need 
 to develop and make available the following resources: (1) templates for project plans, 
 (2) checklists for researchers to follow when developing the plan, and (3) guidance on how 
 to choose from various alternatives for each section of the plan.
@@ -210,8 +212,10 @@ to choose from various alternatives for each section of the plan.
 ### Evaluate and document successes and failures of the use of industrial software development practices in research software
 
 Industrial software engineering has developed and refined a number of best practices for 
-software engineering and software development. It is not always clear which of these practices 
-are relevant for use in developing research software. It is also not always clear which aspects 
+software engineering and software development, resulting in a large body of related literature. 
+Conversely, it is not always clear which of these practices are relevant for use in developing 
+research software, most notably because of the different incentive structures for developers
+in the research arena. It is also not always clear which aspects 
 of the research software domain motivate the need to develop new software engineering or 
 software development practices to handle the unique contexts within which research software 
 exists. To accomplish this activity, URSSI will need to perform the following steps.
@@ -220,7 +224,7 @@ First, URSSI will gather experience reports describing the successful and unsucc
 of industrial software engineering and software development practices in research software 
 projects. Gathering these experiences will involve conducting surveys and interviews of 
 developers of research software to document important information. In addition to the 
-successes and failures with specific practices, the experience reports will also document 
+successes and failures with specific practices, these experience reports will also document 
 cases where developers of research software encountered a situation or a problem for which 
 they were unable to find software engineering or software development practices that were 
 relevant. Cases where there is a lack of relevant practices suggest opportunities for 
@@ -277,7 +281,9 @@ community who can take their existing knowledge and package it in a Carpentries-
 format that is most amenable to be used in the various types of training activities URSSI 
 will support. Importantly, the training proposed above is meant to build upon, and 
 provide a compliment to existing educational outreach efforts. This training will provide 
-follow on, more advanced content than the Carpentries and will be longer in duration.
+follow on, more advanced content than the Carpentries, and will be longer in duration.
+We can provide this advanced content because our target audience is a subset of the audience
+focused on by the Carpentries.
 
 2. _Instructor Training_
 To help deliver all of the developed content to a wide range of audiences in various 
@@ -290,10 +296,10 @@ its sufficiency before deploying it to a larger audience. Because we will be ask
 to participate in content development by providing feedback, we will need to have resources 
 to support the travel for instructors and participants.
 
-4. _Gathering Experiences Successes and Failures of Software Practices_
+4. _Gathering Experiences on Successes and Failures of Software Practices_
 URSSI will support a team of researchers, who are experienced in survey and interview methods, 
-to gather experiences. URSSI will need to provide support for the time required to gather 
-these experiences as well as the travel for the team to meet with members of research projects.
+to gather experiences, summarize the results, and document the findings. In addition, URSSI will 
+need to provide support for travel for URSSI personnel to meet with members of research projects.
 
 5. _Conducting Workshops_
 URSSI will provide support for the Summer School and Research Project Carpentries instructors 
@@ -313,13 +319,13 @@ projects evolve.
 
 Some of the specific measures that we will gather include:
 
-* Post event evaluations - for workshops and training courses, we will conduct follow-up surveys 
+* Post-event evaluations: For workshops and training courses, we will conduct follow-up surveys 
 to evaluate the value of the content. We will conduct evaluations immediately at the end of 
 each event while the information is fresh in the attendees’ minds. We will then conduct a 
 follow-up survey 6 months, 1 year, and 3 years later to evaluate the applicability of the 
 content to the attendees’ work.
 
-* Demand - we will measure demand for the content by the number of people who apply to attend 
+* Demand: We will measure demand for the content by the number of people who apply to attend 
 various training events and workshops.
 
-* Use of material - we will measure downloads and use of the information that we produce.
+* Use of material: We will measure downloads and use of the information that we produce.
