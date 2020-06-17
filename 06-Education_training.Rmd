@@ -54,7 +54,7 @@ This lack of training is not new, nor is it newly discovered. Greg Wilson has wr
 > 
 > 2. Textbook software engineering is not the right thing to teach most scientists.
 
-This led to the Software Carpentry organization, which built a successful train-the-trainer 
+This need led to the Software Carpentry organization, which built a successful train-the-trainer 
 model for collaborative lesson development and delivery, and which was used as a model 
 to build Data Carpentry, which then merged with Software Carpentry into The Carpentries, 
 and now also includes Library Carpentry. The Carpentries has developed highly impactful 
@@ -70,7 +70,9 @@ lessons, or complement them  In addition, other NSF-funded software institutes (
 MolSSI, SGCI, and IRIS-HEP) are also developing training resources for their target 
 communities, similarly making use of, contributing to, and complementing the Carpentries.
 
-We believe that there is an important role that a US-based research software institute 
+While many researchers may learn how to program on their own, the opportunities for them
+to learn software engineering and software deisgn are less available. Therefore, we believe 
+that there is an important role that a US-based research software institute 
 can play to expand the breadth and depth of the training available, and to further 
 coordinate and facilitate the acquisition of software engineering expertise by researchers 
 engaged in various development activities. Rather than reinventing content, we anticipate 
