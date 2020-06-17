@@ -231,7 +231,7 @@ and develop a series of evidence-based lessons learned. Because this information
 based upon real experiences from research projects, they will have great value to other 
 research software projects.
 
-The results of these efforts will feed into Activity 5 by providing concrete experiences 
+The results of these efforts will feed into the next activity by providing concrete experiences 
 that we can document into best practices. These experiences will be beneficial because we 
 will draw them from experiences on real projects, with knowledge about the context within 
 which the practice works. This context will help provide a description of the limitations 
