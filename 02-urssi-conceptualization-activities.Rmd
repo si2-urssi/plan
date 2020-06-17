@@ -13,7 +13,7 @@ conceptualization activities and what role we believe URSSI should play in
 addressing these challenges.
 
 <center>
-![FigName](images/conceptualization_activities.jpg)
+[![FigName](images/conceptualization_activities.jpg)](https://plan.urssi.us/images/conceptualization_activities.jpg)
 </center>
 
 ## Workshops
