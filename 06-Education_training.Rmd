@@ -312,7 +312,8 @@ participants, determined based on need in individual cases.
 As URSSI develops content related to the educational activities described in this chapter, we
 will package that content in a shareable format. We will make the content freely 
 available on GitHub. We will also archive each release of content on Zenodo using a proper 
-license that allows anyone to use and/or modify the content as needed. 
+license that allows anyone to use and/or modify the content as needed. In addition, we will
+strive to work with the Carpentries to enable the content to reach more people.
 
 ## Metrics/Milestones
 
