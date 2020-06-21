@@ -56,7 +56,7 @@ The following assumptions are inputs to our planning process:
 * Our plan is based on the idea of proposing to NSF, and therefore, focuses on the
 US community. We will, however, work with like-minded organization both inside and
 outside the US, including the [Research Software Alliance (ReSA)](https://www.researchsoft.org).
-(Also see the potential partners listed in [Chapter 5 (Policy)](#Ch-Policy)
+(Also see the potential partners listed the next subsection.)
 
 * We will propose an institute with a 5-year duration and a potential 5-year
 extension, based on NSF’s current institutes and published documents.
@@ -75,7 +75,7 @@ potentially on different timelines.
 and URSSI cannot solve this need in all fields by itself.
 
 * There are many partners who can help URSSI achieve some of its goals, as there
-is overlap between these goals and the goals of those partners.
+is overlap between these goals and the goals of those partners (see the next subsection)
 
 * It is not practical for URSSI to directly work with the US software development
 community due to the small size of URSSI and the large size of the community, so
@@ -88,7 +88,7 @@ to ensure that URSSI is successful:
 them for some period (until some predefined metrics of success are met or some predefined
 time period has passed without success), then move on to the next set of targets
 
-* URSSI must work closely with partners to amplify its efforts
+* URSSI must work closely with partners to amplify its efforts (see the next subsection)
 
 * URSSI must be clever about using resources, attempting to achieve multiple outputs
 for activities whenever possible.
@@ -150,6 +150,31 @@ of URSSI and the large size of the software development and maintenance communit
 such hands-on software work is not a useful way for URSSI to have an impact.
 
 [**TODO**: what else should be out-of-scope for URSSI?]
+
+## Partners
+
+URSSI will work with a variety of partners with whom we have overlapping goals.
+For the purpose of this plan, we list partners with whom we will seek to work, recognizing that
+these potential partner organizations have not made a commitment, and such commitments will
+depend on specific activities, and specific funding opportunities. In the following table, we list
+these potential partners and the areas in which we see an opportunity for collaboration. See the
+appropriate chapters (e.g. [Policy (Chapter 5)](Ch-Policy), [Education & training (Chapter 6)](Ch-Edu), etc.)
+for the specific partnering opportunities in each area of URSSI's work.
+
+| Potential partner | Partnering area(s) |
+| --- | --- |
+| other NSF SI2/CSSI Institutes & Centers of Excellence (e.g. [SGCI](https://sciencegateways.org), [MolSSI](https://molssi.org), [IRIS-HEP](https://iris-hep.org)) | policy, education & training, incubator, community & outreach |
+| the [Research Software Alliance](https://www.researchsoft.org) | policy, community & outreach |
+| the [Software Sustainability Institute](https://software.ac.uk) | policy, education & training, incubator, community & outreach |
+| [US-RSE Association](https://us-rse.org) | policy, education & training, community & outreach |
+| (UK) [RSE Society](https://society-rse.org) | policy, education & training, community & outreach |
+| [Academic Data Science Alliance](https://www.academicdatascience.org) | policy, community & outreach |
+| [Research Data Alliance](https://www.rd-alliance.org) | policy, education & training |
+| [American Association for the Advancement of Science (AAAS) Science & Technology Policy Fellows](https://www.aaas.org/programs/science-technology-policy-fellowships) | policy, community & outreach |
+| [CaRCC](https://carcc.org) | policy |
+| [OECD](http://www.oecd.org) | policy |
+| [the Carpenties](https://carpentries.org) | education & training |
+
 
 ## Desired impact
 
