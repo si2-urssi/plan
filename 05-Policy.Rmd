@@ -150,7 +150,9 @@ that maintenance/sustainability can’t be reliably folded into project costs.
 
 ### Partners
 
-The Policy area will work with other NSF SI2/CSSI Institutes & Centers of Excellence
+The Policy area will seek to work with partners listed in the "Partners" section of [Chapter 3](#chapter3), specifically including:
+
+other NSF SI2/CSSI Institutes & Centers of Excellence
 (e.g. [SGCI](https://sciencegateways.org), [MolSSI](https://molssi.org), [IRIS-HEP](https://iris-hep.org)),
 the [Research Software Alliance](https://www.researchsoft.org),
 the [Software Sustainability Institute](https://software.ac.uk),
