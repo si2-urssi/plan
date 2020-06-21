@@ -164,17 +164,17 @@ for the specific partnering opportunities in each area of URSSI's work.
 | Potential partner | Partnering area(s) |
 | --- | --- |
 | other NSF SI2/CSSI Institutes & Centers of Excellence (e.g. [SGCI](https://sciencegateways.org), [MolSSI](https://molssi.org), [IRIS-HEP](https://iris-hep.org)) | policy, education & training, incubator, community & outreach |
-| the [Research Software Alliance](https://www.researchsoft.org) | policy, community & outreach |
-| the [Software Sustainability Institute](https://software.ac.uk) | policy, education & training, incubator, community & outreach |
+| [Research Software Alliance (ReSA)](https://www.researchsoft.org) | policy, community & outreach |
+| Software Sustainability Institute (SSI)](https://software.ac.uk) | policy, education & training, incubator, community & outreach |
 | fiscal sponsors (e.g. [NumFOCUS](https://numfocus.org), [Code for Science & Society](https://codeforscience.org)) | policy, incubator, community & outreach |
 | [US-RSE Association](https://us-rse.org) | policy, education & training, community & outreach |
 | (UK) [RSE Society](https://society-rse.org) | policy, education & training, community & outreach |
-| [Academic Data Science Alliance](https://www.academicdatascience.org) | policy, community & outreach |
-| [Research Data Alliance](https://www.rd-alliance.org) | policy, education & training |
+| [Academic Data Science Alliance (ASDA)](https://www.academicdatascience.org) | policy, community & outreach |
+| [Research Data Alliance (RDA)](https://www.rd-alliance.org) | policy, education & training |
 | [American Association for the Advancement of Science (AAAS) Science & Technology Policy Fellows](https://www.aaas.org/programs/science-technology-policy-fellowships) | policy, community & outreach |
 | [CaRCC](https://carcc.org) | policy |
 | [OECD](http://www.oecd.org) | policy |
-| [the Carpenties](https://carpentries.org) | education & training |
+| [The Carpenties](https://carpentries.org) | education & training |
 
 
 ## Desired impact
