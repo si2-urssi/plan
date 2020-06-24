@@ -18,7 +18,7 @@ A 2017 survey of US National Postdoctoral Association members regarding postdocs
 research and their training regarding software development found that 95% of respondents use research 
 software. However, 54% (n = 104) of the respondents to this survey reported that they have not 
 received any training in software development [@nangia_katz_2017]. A similar survey of software 
-use and training from the UK repeats this finding: In 2014, Heatrick et al. asked researchers at 
+use and training from the UK repeats this finding: In 2014, Hettrick et al. asked researchers at 
 randomly selected researchers at 15 Russell Group universities about their software use and training. 
 Of the 417 responses, 45% reported having no training in software development. Of the 55% of respondents 
 that reported having received training in software development, 73% had received some form of 
