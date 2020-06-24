@@ -102,6 +102,8 @@ Guiding principles:
 * Leverage available resources (software, services, credit systems, training
 materials, etc.) where possible rather than reinvent
 
+* Share resources we create to allow others to reuse and build on elsewhere
+
 * Respect and learn from volunteers
 
 * Activities should have an end or a sustainability plan beyond URSSI
