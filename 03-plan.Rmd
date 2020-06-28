@@ -77,8 +77,9 @@ and URSSI cannot solve this need in all fields by itself.
 * There are many partners who can help URSSI achieve some of its goals, as there
 is overlap between these goals and the goals of those partners (see the next subsection)
 
-* It is not practical for URSSI to directly work with the US software development
-community due to the small size of URSSI and the large size of the community, so
+* It is not practical for URSSI to directly work with the US research software development
+community (all of those who develop research software in the US, including in academia,
+national laboratories, and industry) due to the small size of URSSI and the very large size of this community, so
 URSSI needs to work indirectly by leveraging other groups.
 
 Given the mission and vision, and our assumptions, we plan to use a set of methods
