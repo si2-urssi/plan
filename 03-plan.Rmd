@@ -98,7 +98,7 @@ Guiding principles:
 
 * Leverage existing organizations for authority, credibility, resources
 
-* Focus on individuals (i.e., aim at people not projects)
+* Focus on people, not projects
 
 * Leverage available resources (software, services, credit systems, training
 materials, etc.) where possible rather than reinvent
