@@ -152,6 +152,12 @@ other than as part of focused incubation or training activity. Given the small s
 of URSSI and the large size of the software development and maintenance community,
 such hands-on software work is not a useful way for URSSI to have an impact.
 
+* **Infrastructure**. URSSI will not run infrastructure for the research software
+community.  If new infrastructure is needed, URSSI will work with other organizations
+to instigate projects to create and maintain that infrastructure, run by those other
+organizations.
+
+to create and maintain that infrastructure, run 
 [**TODO**: what else should be out-of-scope for URSSI?]
 
 ## Partners
