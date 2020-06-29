@@ -263,7 +263,7 @@ that we could build up these future partners of a later full URSSI institute.
 
 ### Research Software Alliance (ReSA)
 
-[ReSA]](http://www.researchsoft.org) was founded in 2018 to support recognition and valuing of research software as a
+[ReSA](http://www.researchsoft.org) was founded in 2018 to support recognition and valuing of research software as a
 fundamental and vital component of research worldwide, instigated by URSSI,
 the UK [Software Sustainability Institute](https://software.ac.uk),
 and the [Australian Research Data Commons](https://ardc.edu.au).
@@ -272,12 +272,13 @@ software communities together to collaborate on the advancement of research soft
 Recent achievements include:
 
 * Development of research software guidelines for policy makers, funder, publishers and
-the research community for inclusion in the RDA COVID-19 Guidelines and Recommendations
+the research community for inclusion in the RDA COVID-19 Guidelines and Recommendations (**TODO** add link to final document after release on 30 June)
 
 * Inclusion of software in the draft revision of the OECD Committee for Science and Technology
-Policy’s Enhanced Access to Publicly Funded Data for Science, Technology and Innovation (which will become soft law)
+Policy’s Enhanced Access to Publicly Funded Data for Science, Technology and Innovation (which will become soft law) (**TODO** add link to final document after release)
 
-* Co-leadership of the FAIR 4 Research Software taskforce with [FORCE11](https://www.force11.org/)
+* Co-leadership of the [FAIR 4 Research Software taskforce](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)
+with [FORCE11](https://www.force11.org/)
 and [RDA](https://www.rd-alliance.org/) to develop community-agreed principles and implementation guidelines
 
 * Support from the Gordon and Betty Moore Foundation to achieve ReSA’s goals
@@ -288,7 +289,7 @@ The Director of ReSA is Michelle Barker and the Steering Committee is comprised 
 * Catherine Jones, Software Engineering Group Leader, STFC, UK
 * Daniel S. Katz, Assistant Director for Scientific Software and Applications, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
 * Chris Mentzel, Executive Director, Stanford University, USA
-* Karthik Ram, URSSI lead, University of California, Berkeley, USA
+* Karthik Ram, URSSI PI, University of California, Berkeley, USA
 * Andrew Treloar, Director, Platforms and Engagements, Australian Research Data Commons, Australia
 
 ### Research Software Engineering (RSE)
