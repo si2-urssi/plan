@@ -213,7 +213,7 @@ activities that will be chosen to start depend on the funding level for URSSI. M
 include an amount of effort (generally in person-months) that is needed to accomplish them.
 Note that some activities (the items below) include
 raising additional funds for those activities - that fund raising is part of the activity. Other
-activities, in the next subsection, are tracked but are beyond the scope of URSSI, and are more
+activities (in the "Unplanned Activity Pool" subsection) are tracked but are beyond the scope of URSSI, and are more
 likely activities that others might perform, potentially in coordination with URSSI.
 
 Activities are divided into two types:
@@ -239,9 +239,17 @@ from other disciplines (potential fellow project)
 * Developing an advocacy roadmap for how to effectively advocate (to universities, foundations,
 industry, national labs) (policy person & advisory committee, spread over 3 months)
 
+Additionally, while this is a plan and not a proposal (it doesn't have a budget envelope it is working to fit in,
+it is not responding to a specific solicitation, and the potential funder's goals are unclear) we have
+considered priorities for these activities. Initial activities will mostly focus on research, as most advocacy
+activities would follow and be based on the results and lessons of the research activities. In addition,
+as mentioned above, final prioritization will also need inputs from the Policy Advisory Board and the URSSI
+leadership team. Activities with a preceding "(+)" are considered higher priority than other activities.
+
+
 #### Career Path Activities (Aim 1)
 
-**Faculty career path policy research actions**:
+**Faculty career path policy research activities**:
 
 * Study tenure guidance and policies, and find/document ways that software work is measured
 and recognized. Publish examples of successes.
@@ -251,7 +259,7 @@ as a collaborative platform to share both the intention and outcomes of pilots
 and other initiatives that specifically address the academic reward system, as an outcome of the
 European Union Open Source Policy Platform (OSPP) final report [@OSPP_report].) (2 months)
  
-**Faculty career path policy advocacy actions**:
+**Faculty career path policy advocacy activities**:
 
 * Promote best practices in recognizing and measuring software work in hiring practices and
 tenure letters via sample guidance documents for committees, for faculty, and for
@@ -259,18 +267,20 @@ letter-of-reference authors. (needs focused workshop and follow-through, ~3 mont
 
 * Commission a NAS report (similar to the one on [Open Source Software Policy Options for NASA
 Earth and Space Sciences](https://www.nap.edu/read/25217/chapter/1)) on career pathways/progression
-in academia (for scope see last item in next set of bullets)
+in academia. Would need to define, then raise funds from
+outside URSSI (~$1m), then work with NAS to define a charge and to contract for the study.
+(4 months over 2.5 years, overlaping with related item in staff career path policy advocacy activities)
 
-**Staff career path policy research actions**:
+**Staff career path policy research activities**:
 
-(All the actions below will be coordinated with US-RSE and other national RSE organizations. Additionally, some infomation already exists that can be mined, such as international and national RSE surveys [@rse-survey], ...)
+(All the activities below will be coordinated with US-RSE and other national RSE organizations. Additionally, some infomation already exists that can be mined, such as international and national RSE surveys [@rse-survey], ...)
 
-* Document existing (known successful/viable, known failures) career paths for individuals
+* (+) Document existing (known successful/viable, known failures) career paths for individuals
 creating research software (2 months)
 
-* Examine and document industry career paths vs. national laboratory career paths vs. academic career paths (1 month)
+* (+) Examine and document industry career paths vs. national laboratory career paths vs. academic career paths (1 month)
 
-* Create and maintain a  mailing list for those interested in career paths (mailing list to be
+* (+) Create and maintain a  mailing list for those interested in career paths (mailing list to be
 supported by Community area) (ongoing, low level of effort)
 
 * Create a clearinghouse of job descriptions with criteria for performance assessment; distill
@@ -280,9 +290,9 @@ modules necessary for these jobs (3-4 months, plus ongoing maintenance)
 
 * Examine how salaries for RSEs compare with those of other researchers? (needs to follow clearinghouse, 1 month)
  
-**Staff career path policy advocacy actions**:
+**Staff career path policy advocacy activities**:
 
-* Help start organizational “chapters” of research software developers (perhaps called URSSI chapters?) at existing
+* (+) Help start organizational “chapters” of research software developers (perhaps called URSSI chapters?) at existing
 universities / societies / organizations; create handbook, tools, best practices to support
 local organizers; assign an URSSI “coordinator” / community manager. These chapters could:
 talk about training, do consulting for problems, host hacky hours, study groups, software days,
@@ -307,12 +317,12 @@ Earth and Space Sciences](https://www.nap.edu/read/25217/chapter/1)) on
 {career pathways/progression in academia, recognition of software, evaluation of software developers,
 inclusion of software in hiring and promotion} Would need to define, then raise funds from
 outside URSSI (~$1m), then work with NAS to define a charge and to contract for the study.
-(4 months over 2.5 years)
+(4 months over 2.5 years, overlaping with related item in faculty career path policy advocacy activities)
 
 
 #### The impact of individuals (Aim 2)
 
-**The impact of individuals policy - research actions**:
+**The impact of individuals policy research activities**:
 
 * Identify factors (manual, such as evaluations, and automated, such as crawling repos) that are
 part of impact and publicize them. Some known factors to investigate include quantifying code
@@ -320,7 +330,7 @@ contributions, code review, mentoring. Determine good practices (for formatting 
 information on these factors) so those factors are discoverable and/or queryable.
 (An initial effort of 6 months will make progress and better scope additional work that could be performed.)
  
-**Measuring the impact of individuals policy advocacy actions**:
+**Measuring the impact of individuals policy advocacy activities**:
 
 * Create champions (e.g. librarians) to promote and educate individuals and projects of these
 good practices, working with the best practices activity in [Community area](#Ch-Comm).
@@ -331,15 +341,15 @@ ORCID), working with the best practices activity in [Community area](#Ch-Comm).
 
 #### Incentivize contributions to public software (Aim 3)
 
-**Incentivize contributions to public software policy research actions**:
+**Incentivize contributions to public software policy research activities**:
 
 * Gather data/examples that show when contributions to public projects increase your citation
 count or regular metrics (1 month)
 
-* Gather examples of successful use of individual contributions to public goods/infrastructure
+* (+) Gather examples of successful use of individual contributions to public goods/infrastructure
 to gain academic promotion (1 month over 3-6 months)
 
-* Use regular surveys to better understand why people do and don’t contribute; get data to
+* (+) Use regular surveys to better understand why people do and don’t contribute; get data to
 understand the value of public goods to community (1 month over 3-6 months each year)
 
 * Determine a way to make it easy for scientific communities to peer-review public-good software
@@ -351,18 +361,18 @@ or via existing community organizations or software-focused organizations (ongoi
 key, and expose actual impact of work instead (work with scholcom community, use what they have
 done, maybe adapt their work for software - maybe 2 months to start)
  
-**Incentivize contributions to public software policy advocacy actions**:
+**Incentivize contributions to public software policy advocacy activities**:
 
 * Work to persuade high-profile individuals to make public contributions to public projects
 
-* Share examples of successful use of individual contributions to public goods/infrastructure
+* (+) Share examples of successful use of individual contributions to public goods/infrastructure
 to gain academic promotion, produce templates, advocacy toolkits and examples to help others
 to make their case. Similarly, work to persuade people that contributing to projects will
 increase their products within their normally accepted reward system (e.g., get more collaborators
 and papers; increase opportunities to meet/work with new/old collaborators; will build social
-connections/network)
+connections/network) (ongoing, not well-scoped)
 
-* Show how you can participate in public goods / infrastructure projects (e.g., how to
+* (+) Show how you can participate in public goods / infrastructure projects (e.g., how to
 structure an issue, how to write your first PR), collaboratively with best practices activity in
 URSSI [Community](#Ch-Comm) area (low initial effort, low ongoing effort to maintain)
 
@@ -379,7 +389,7 @@ work with publishers to highlight these contributions and the people who make th
 societies, review panels, funders) that public software contributions are research (also could
 be done by cross-disciplinary respected groups, such as the national academies)
 
-* Work to revise funder policies to ensure reviewers prioritize grant proposals that reuse,
+* (+) Work to revise funder policies to ensure reviewers prioritize grant proposals that reuse,
 build-upon and contribute back to maintenance of public infrastructure
 
 * Create high-profile equivalent of “highest impact” journal for software and data work - where publication
@@ -388,13 +398,13 @@ is seen as an accomplishment indicating the significance of the software
 
 #### Disentangle quality and impact of software (Aim 4)
 
-**Disentangle quality and impact of software policy research actions**:
+**Disentangle quality and impact of software policy research activities**:
 
 * Create checklists/review guidelines for different levels of peer-review for software; can be
 tiered, could issue stars or use another rating system; leverage information already available
 from journals and other resources. (1 week)
 
-**Disentangle quality and impact of software policy advocacy actions**:
+**Disentangle quality and impact of software policy advocacy activities**:
 
 * Disseminate peer-review for software checklists/review guidelines to publishers and other organizations
 that review software, via a working group. (2 months over 2 years)
@@ -402,12 +412,12 @@ that review software, via a working group. (2 months over 2 years)
 
 #### Better recognize the value and importance of software (Aim 5)
 
-**Recognize the value and importance of software policy research actions**:
+**Recognize the value and importance of software policy research activities**:
 
-* Find science/discovery cases where software was particularly fundamental, particularly digging
+* (+) Find science/discovery cases where software was particularly fundamental, particularly digging
 into software that is not so generally well-known (2 months over 6 months)
 
-* Research and deliver case studies in sustainable software value, e.g., NetCDF, HDF5, DS9 image viewer,
+* (+) Research and deliver case studies in sustainable software value, e.g., NetCDF, HDF5, DS9 image viewer,
 GCM model(s). How much money was invested in these projects and how did these projects return value to
 the community? Examples of value could include: number of research projects taking advantage of these
 solutions, amount saved by not having to reinvent these technologies. (6-to-12-month fellow project)
@@ -423,19 +433,19 @@ saved funds from being spent on one-off software) (6-month fellow project)
 * Document maintenance and funding for critical packages for several disciplines, e.g. IRAF in astronomy
 (6-month fellow project)
  
-**Recognize the value and importance of software policy advocacy actions**:
+**Recognize the value and importance of software policy advocacy activities**:
 
-* Publicize science/discovery cases where software was particularly fundamental, focusing on
+* (+) Publicize science/discovery cases where software was particularly fundamental, focusing on
 demonstrating impact of software (1 week/year, ongoing)
 
-* Raise awareness that software needs to be maintained (low level, ongoing)
+* (+) Raise awareness that software needs to be maintained (low level, ongoing)
 
 
 #### Funding opportunities for software maintenance (Aim 6)
 
-**Funding opportunities for software maintenance policy research actions**:
+**Funding opportunities for software maintenance policy research activities**:
 
-* Review the landscape of funding opportunities for software maintenance (and gather data about them)
+* (+) Review the landscape of funding opportunities for software maintenance (and gather data about them)
 and provide a public summary, then keep the summary up-to-date. (jointly done with ReSA? Or CZI EOSS?)
 (1 month and some ongoing work)
 
@@ -445,7 +455,7 @@ research community to understand and make use of them (2 months)
 * Review the scope of maintenance needs by various research disciplines. Determine the order of
 magnitude of the maintenance backlog for research software (with CHAOSS and others, unscoped)
 
-**Funding opportunities for software maintenance policy advocacy actions**:
+**Funding opportunities for software maintenance policy advocacy activities**:
 
 * Encourage funding agencies to require software management/maintenance plans (SMPs).
 Use them to couple the idea of maintenance to the idea of development, to make it clear
@@ -457,11 +467,11 @@ maintenance would be supported (since grants are by definition time-limited).
 * Advocate for funding agencies to provide a funding pool for short-term maintenance grants
 for existing projects (e.g. CZI's EOSS program). (1-2 months/year)
 
-* Advocate for universities to support maintenance of software developed by their university
+* (+) Advocate for universities to support maintenance of software developed by their university
 as part of research impact (or possibly technology transfer), in part by including how software
 we highlight in the success stories campaign was paid for, including university and RSE contributions,
 then using this collectively to demonstrate the impact of specific university-funded activities,
-to encourage other unviersities to step up. (2 months/year over multiple years)
+to encourage other universities to step up. (2 months/year over multiple years)
 
 * Encourage companies to provide funds and channel these funds into maintaining research
 software projects, perhaps via a review process with reviewers from both academic software
@@ -471,25 +481,25 @@ similar to Tidelift (1-2 months/year)
 
 #### Increase diversity of software community (Aim 7)
 
-**Diversity and inclusion policy research actions**:
+**Diversity and inclusion policy research activities**:
 
-* Survey US research software projects to examine diversity of leadership and contributors (3 months)
+* (+) Survey US research software projects to examine diversity of leadership and contributors (3 months)
 
 * Study/survey contributors who make a single contribution and those who make ongoing contributions
 vs membership in underrepresented groups (3 months)
 
-* Contribute to [DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
+* (+) Contribute to [DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
 NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion)
 
 * Other items with CS&S and NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion),
 for example, creating a cookbook aimed at projects
 
-**Diversity and inclusion advocacy actions**:
+**Diversity and inclusion advocacy activities**:
 
-* Advertise [DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
+* (+) Advertise [DISCOVER event cookbook](https://discover-cookbook.numfocus.org), working with
 NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion)
 
-* Other items with CS&S and NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion),
+* (+) Other items with CS&S and NumFOCUS's [DISC](https://numfocus.org/programs/diversity-inclusion),
 such as advertising the cookbook aimed at projects
 
 * Reach out to projects to encourage them to mentor [Outreachy](https://www.outreachy.org) interns 
@@ -504,7 +514,7 @@ programs on behalf of a set of software projects.
 * Work with RLadies, Women in Data Science, etc.
 
 
-#### General advocacy actions (not mapped to specific Aims)
+#### General advocacy activities (not mapped to specific Aims)
 
 * Work with REU^[REU is refers to both [NSF's Research Experience for Undergradautes](https://www.nsf.gov/crssprgm/reu/)
 program, as well as being a generic term for summer and other programs that provide undergraduates with research experience.]
@@ -532,10 +542,10 @@ research) (with FORCE11 and others) (minor support of other activities)
 * Promote software management plans and software sustainability plans as part of proposals
 (3 months over a year, bringing together community and volunteers, work with ReSA and RDA)
 
-* Develop a set of options for how institutions can support research software (e.g., RSE groups,
+* (+) Develop a set of options for how institutions can support research software (e.g., RSE groups,
 RSE careers, tenure and promotion guidelines) and disseminate it (with US-RSE, starting after year 1)
 
-* Create and operate a professional award program (working with other established organizations)
+* (+) Create and operate a professional award program (working with other established organizations)
 e.g., ESA URSSI software award. The URSSI software contribution to research awards: URSSI/ESA
 (e.g. John Chambers software award from stats association). $10k funding available from URSSI
 (eventually domain societies would be asked to partially fund the awards). URSSI would need to
@@ -543,10 +553,10 @@ define the categories, criteria/heuristics, etc. for awards beforehand. And find
 (either staff or community volunteers) to run awards processes (accept nominations, make decisions)
 (2 weeks/year starting in year 2)
 
-* Work with NumFOCUS to provide guidance to projects on how to work with (including obtaining
+* (+) Work with NumFOCUS to provide guidance to projects on how to work with (including obtaining
 funding from) industry (sharing material with incubator area)
 
-* Offer training for software development proposals (or point to others who do)
+* (+) Offer training for software development proposals (or point to others who do)
 
   * Develop and disseminate best practices for software development proposals (with NumFOCUS or
   the Capentries)
@@ -566,16 +576,16 @@ The activities listed here are those that would support URSSI but are beyond the
 They are listed here to provide ideas to others, and URSSI would potentially be willing to encourage
 and support them, but likely without resources.
 
-##### Staff career path policy research actions (Aim 1)
+##### Staff career path policy research activities (Aim 1)
 
 * Comparative study of research success at universities with core RSE groups vs those without.
 (potential research topic, not to be started by URSSI)
 
-##### Incentivize contributions to public software policy advocacy actions (Aim 3)
+##### Incentivize contributions to public software policy advocacy activities (Aim 3)
 
 * Run a help desk once a week on-line for people who are running into difficulties in making contributions and need help
 
-##### Disentangle quality and impact of software policy research actions (Aim 4)
+##### Disentangle quality and impact of software policy research activities (Aim 4)
 
 * Define what software quality means.
 
@@ -594,11 +604,11 @@ the quality of software improve its impact?
 
 * Perform a retrospective study of software quality as related to “impact” of that software.
 
-##### Recognize the value and importance of software policy research actions (Aim 5)
+##### Recognize the value and importance of software policy research activities (Aim 5)
 
 * Study whether higher-quality software produces higher-impact science or more reliable science results
 
-##### Funding opportunities for software maintenance policy advocacy actions (Aim 6)
+##### Funding opportunities for software maintenance policy advocacy activities (Aim 6)
 
 * Provide a system to match open source maintenance needs and open source programmers
 (e.g., classified ads), to be funded by URSSI, or URSSI could support proposals for such
@@ -609,7 +619,7 @@ maintenance work (both morally and by providing guidance to the proposer)
 * Attach money for maintenance to some of the to-be-created awards for good software
 development, jointly named and funded with other communities
 
-##### General advocacy actions (not mapped to specific Aims)
+##### General advocacy activities (not mapped to specific Aims)
 
 * Talk about problems with current software licenses/models and suggest alternatives
 
