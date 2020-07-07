@@ -11,7 +11,7 @@ that decision makers can take, sometimes thought of as leverage points,
 including strategies and decisions to invest. Policy happens at multiple levels, including  national,
 funding agency, institution, and research group.
 
-The changes that the Policy area seeks to make include:
+The Changes that the Policy area seeks to make include:
 
 1. In funding agencies, direct funding of software maintenance and other software sustainability activities
 is a core part of the mission, e.g., at NSF, this includes all program officers across all directorates.
@@ -130,14 +130,24 @@ Initially, the policy area will work to address the following set of aims:
 
 1. Establish career paths (including titles and evaluation criteria for hiring and promotion).
 
+  - addresses Changes 2, 5 (from list of changes at the start of this chapter)
+
 2. Improve the measurement of impact of individuals, especially in activities that are inherently
 collaborative like software development. 
 
+  - addresses Changes 1, 2, 3
+
 3. Incentivizes contributions to public goods / infrastructure within the academic credit model 
+
+  - addresses Changes 1, 3, 5
 
 4. Disentangle software quality and software impact.
 
+  - addresses Changes 1, 4, 5
+
 5. Better recognize the value and importance of software.
+
+  - addresses Changes 1, 2, 3, 5
 
 6. Improve/increase funding opportunities and stable funding for maintenance of software that
 is important but doesn’t have a generic market and/or isn't considered novel in the eyes of the
@@ -145,7 +155,11 @@ average funder/reviewer. Today “lumpy” project funding (projects that are
 competitively funded for fixed periods, often with gaps between funded project periods) means
 that maintenance/sustainability can’t be reliably folded into project costs.
 
+  - addresses Changes 1, 4, 5
+
 7. Increase the diversity of the development and maintenance community to acheive the diversity of the overall US population.
+
+  - addresses Change 6
 
 ### Partners
 
