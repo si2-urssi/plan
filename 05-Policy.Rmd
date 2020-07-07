@@ -110,23 +110,23 @@ expertise in policy as opposed to general outreach)
 
 ## Methods
 
-Initial activities are planned around an initial set of challenges articulated below, where additional
-challenges also will be suggested.  The URSSI leadership group will regularly review suggestions
-of new challenges, and will determine a rough desired level of activity across the challenges.
+Initial activities are planned around an initial set of aims articulated below, where additional
+aims also will be suggested.  The URSSI leadership group will regularly review suggestions
+of new aims, and will determine a rough desired level of activity across the aims.
 
 The policy team will then develop and scope activities to match these desired levels, with review
-from the Policy Advisory Board, which will also be able to suggest adding or removing challenges
+from the Policy Advisory Board, which will also be able to suggest adding or removing aims
 back to the leadership group.
 
 The policy team will also maintain this listing of active, planned, and potential activities and
-its mapping to the challenges. Activities will be split into those that, if successful, are likely
+its mapping to the aim. Activities will be split into those that, if successful, are likely
 to lead to significant changes in 1-2 years, 3-5 years, and longer-term, with an initial goal of
 applying 50% of resources to the 1-2 year activities, 40% to the 3-5 year activities, and 10% to
 the longer-term activities.
 
-### Challenges
+### Aims
 
-Initially, the policy area will work to address the following set of challenges:
+Initially, the policy area will work to address the following set of aims:
 
 1. Career paths (including titles and evaluation criteria for hiring and promotion) aren’t well
 established.
@@ -163,7 +163,7 @@ the [Research Data Alliance](https://www.rd-alliance.org),
 the [American Association for the Advancement of Science (AAAS) Science & Technology Policy Fellows](https://www.aaas.org/programs/science-technology-policy-fellowships),
 [CaRCC](https://carcc.org),
 [OECD](http://www.oecd.org),
-and any other projects and organizations that also seek to define and address overlapping challenges.
+and any other projects and organizations that also seek to define and address overlapping aims.
  
 The Policy area needs to build relationships with the following groups and organizations, and
 to work closely with them, particularly in policy activities.
