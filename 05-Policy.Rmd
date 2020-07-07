@@ -31,7 +31,7 @@ projects is the norm.
 6. Research software is built and maintained by a diverse and inclusive group.
 
 
-## Resources
+## Policy resources
 
 The policy area will require resources that include funding for people and for events and travel.
 
@@ -108,7 +108,7 @@ on software / science policy (e.g., an [NSF REU site](https://www.nsf.gov/crsspr
 * Hire communication staff to do outreach and engagement around policy topics (dedicated
 expertise in policy as opposed to general outreach)
 
-## Methods
+## Policy methods
 
 Initial activities are planned around an initial set of aims articulated below, where additional
 aims also will be suggested.  The URSSI leadership group will regularly review suggestions
@@ -618,7 +618,7 @@ article appropriate system. For instance, find a software ecosystem-native way t
 inside a code management system, or "publish" software by giving a specific version of code a DOI
 
 
-## Work with other parts of URSSI
+## Work between Policy and other URSSI Areas
  
 * [Education & Training](#Ch-Edu) – use to learn about problems, use training events to disseminate products and advocacy
 
@@ -627,7 +627,7 @@ contribute to and disseminate best practices
 
 * [Incubator](#Ch-Incubator) – develop both general and specific guidance for projects
  
-## Metrics/Milestones
+## Policy metrics/milestones
 
 * Amount of funding provided by US public and private funding agencies for research software
 development and maintenance
