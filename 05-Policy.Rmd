@@ -310,7 +310,7 @@ outside URSSI (~$1m), then work with NAS to define a charge and to contract for 
 (4 months over 2.5 years)
 
 
-#### Ihe impact of individuals (Aim 2)
+#### The impact of individuals (Aim 2)
 
 **The impact of individuals policy - research actions**:
 
@@ -566,16 +566,16 @@ The activities listed here are those that would support URSSI but are beyond the
 They are listed here to provide ideas to others, and URSSI would potentially be willing to encourage
 and support them, but likely without resources.
 
-**Staff career path policy research actions (Aim 1)**:
+##### Staff career path policy research actions (Aim 1)
 
 * Comparative study of research success at universities with core RSE groups vs those without.
 (potential research topic, not to be started by URSSI)
 
-**Incentivize contributions to public software policy advocacy actions (Aim 3)**:
+##### Incentivize contributions to public software policy advocacy actions (Aim 3)
 
 * Run a help desk once a week on-line for people who are running into difficulties in making contributions and need help
 
-**Disentangle quality and impact of software policy research actions (Aim 4)**:
+##### Disentangle quality and impact of software policy research actions (Aim 4)
 
 * Define what software quality means.
 
@@ -594,11 +594,11 @@ the quality of software improve its impact?
 
 * Perform a retrospective study of software quality as related to “impact” of that software.
 
-**Recognize the value and importance of software policy research actions (Aim 5)**:
+##### Recognize the value and importance of software policy research actions (Aim 5)
 
 * Study whether higher-quality software produces higher-impact science or more reliable science results
 
-**Funding opportunities for software maintenance policy advocacy actions (Aim 6)**:
+##### Funding opportunities for software maintenance policy advocacy actions (Aim 6)
 
 * Provide a system to match open source maintenance needs and open source programmers
 (e.g., classified ads), to be funded by URSSI, or URSSI could support proposals for such
@@ -609,7 +609,7 @@ maintenance work (both morally and by providing guidance to the proposer)
 * Attach money for maintenance to some of the to-be-created awards for good software
 development, jointly named and funded with other communities
 
-**General advocacy actions (not mapped to specific Aims)**:
+##### General advocacy actions (not mapped to specific Aims)
 
 * Talk about problems with current software licenses/models and suggest alternatives
 
