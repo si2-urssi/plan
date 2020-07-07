@@ -128,25 +128,24 @@ the longer-term activities.
 
 Initially, the policy area will work to address the following set of aims:
 
-1. Career paths (including titles and evaluation criteria for hiring and promotion) aren’t well
-established.
+1. Establish career paths (including titles and evaluation criteria for hiring and promotion).
 
-2. It’s hard to measure the impact of individuals, especially in activities that are inherently
+2. Improve the measurement of impact of individuals, especially in activities that are inherently
 collaborative like software development. 
 
-3. The academic credit model disincentivizes individual contributions to public goods / infrastructure
+3. Incentivizes contributions to public goods / infrastructure within the academic credit model 
 
-4. We conflate quality and impact of software and need to disentangle them.
+4. Disentangle software quality and software impact.
 
-5. There is a lack of recognition of the value and importance of software.
+5. Better recognize the value and importance of software.
 
-6. There is a lack of funding opportunities and stable funding for maintenance of software that
+6. Improve/increase funding opportunities and stable funding for maintenance of software that
 is important but doesn’t have a generic market and/or isn't considered novel in the eyes of the
-average funder/reviewer, and “lumpy” project funding (projects that are
+average funder/reviewer. Today “lumpy” project funding (projects that are
 competitively funded for fixed periods, often with gaps between funded project periods) means
 that maintenance/sustainability can’t be reliably folded into project costs.
 
-7. The development and maintenance community is much less diverse than the overall US population.
+7. Increase the diversity of the development and maintenance community to acheive the diversity of the overall US population.
 
 ### Partners
 
