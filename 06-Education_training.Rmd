@@ -104,13 +104,16 @@ in research software.
 This area requires the following staff:
 
 * Training Lead: coordinates all training activities and assessment of those 
-activities  (~2 FTE).
+activities (1 FTE).
 
-* Assessment Coordinator: coordinates the assessment efforts (this position 
-could be shared with other parts of the project) (~.5 FTE). 
+* Training Officer: assists Training Lead in coordination of training activities, 
+develops and delivers training activities (1 FTE).
+
+* Assessment Coordinator: leads the assessment efforts, in conjunction with the Training
+Lead (this position could be shared with other parts of the project) (0.5 FTE). 
 
 * Research Coordinator: leads the effort to gather experiences from research 
-software projects (.25-.5 FTE).
+software projects (0.25-0.5 FTE).
 
 ## Methods
 
