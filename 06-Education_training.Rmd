@@ -104,7 +104,7 @@ in research software.
 This area requires the following staff:
 
 * Training Lead: coordinates all training activities and assessment of those 
-activities  (~1 FTE).
+activities  (~2 FTE).
 
 * Assessment Coordinator: coordinates the assessment efforts (this position 
 could be shared with other parts of the project) (~.5 FTE). 
@@ -280,7 +280,7 @@ training materials. We anticipate providing support to experts in the research s
 community who can take their existing knowledge and package it in a Carpentries-style 
 format that is most amenable to be used in the various types of training activities URSSI 
 will support. Importantly, the training proposed above is meant to build upon, and 
-provide a compliment to existing educational outreach efforts. This training will provide 
+provide a complement to existing educational outreach efforts. This training will provide 
 follow on, more advanced content than the Carpentries, and will be longer in duration.
 We can provide this advanced content because our target audience is a subset of the audience
 focused on by the Carpentries.
@@ -330,7 +330,8 @@ Some of the specific measures that we will gather include:
 to evaluate the value of the content. We will conduct evaluations immediately at the end of 
 each event while the information is fresh in the attendees’ minds. We will then conduct a 
 follow-up survey 6 months, 1 year, and 3 years later to evaluate the applicability of the 
-content to the attendees’ work.
+content to the attendees’ work. In conducting these evaluations, we will build on lessons 
+learned and guidance from [The Carpentries Assessment Network](https://carpentries.org/assessment-network/). 
 
 * Demand: We will measure demand for the content by the number of people who apply to attend 
 various training events and workshops.

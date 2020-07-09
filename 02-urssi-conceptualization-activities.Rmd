@@ -263,24 +263,34 @@ that we could build up these future partners of a later full URSSI institute.
 
 ### Research Software Alliance (ReSA)
 
-URSSI instigated (along with the UK [Software Sustainability Institute](https://software.ac.uk)
-and [Australian Research Data Commons](https://ardc.edu.au)) a global community
-of organizations interested in promoting and sustaining software, called the
-[Research Software Alliance (ReSA)](http://www.researchsoft.org).  ReSA has
-held three meetings, at RSE18, eScience2018, and RSEConUK19, with representatives
-from about 20 other organizations and has assembled a mailing list with about 40
-such organizations and an umbrella organization under which all these groups can
-collaborate to strengthen all of our activities. ReSA is currently working on
-defining governance and other activities to formalize ReSA, and at the same time,
-it has started a set of [task forces](http://www.researchsoft.org/resa-taskforces-join-us/)
-to 1) analyze and document the landscape of different communities and topics of
-interest for the research software community (e.g., preservation, RSEs, citation,
-productivity, sustainability), 2) collect and share evidence for the importance of
-research software, and 3) assemble and maintain a register of research software
-funding opportunities. Additionally, ReSA is currently working with other members
-of the scholarly community to start up a task force to define FAIR for software,
-likely co-organized with [FORCE11](https://www.force11.org/) and
-[RDA](https://www.rd-alliance.org/).
+[ReSA](http://www.researchsoft.org) was founded in 2018 to support recognition and valuing of research software as a
+fundamental and vital component of research worldwide, instigated by URSSI,
+the UK [Software Sustainability Institute](https://software.ac.uk),
+and the [Australian Research Data Commons](https://ardc.edu.au).
+ReSA’s mission is to bring research
+software communities together to collaborate on the advancement of research software.
+Recent achievements include:
+
+* Development of research software guidelines for policy makers, funder, publishers and
+the research community for inclusion in the RDA COVID-19 Guidelines and Recommendations [@RDA-covid-recs-final]
+
+* Inclusion of software in the draft revision of the OECD Committee for Science and Technology
+Policy’s Enhanced Access to Publicly Funded Data for Science, Technology and Innovation (which will become soft law) (**TODO** add link to final document after release)
+
+* Co-leadership of the [FAIR 4 Research Software taskforce](https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)
+with [FORCE11](https://www.force11.org/)
+and [RDA](https://www.rd-alliance.org/) to develop community-agreed principles and implementation guidelines
+
+* Support from the Gordon and Betty Moore Foundation to achieve ReSA’s goals
+
+The Director of ReSA is Michelle Barker and the Steering Committee is comprised of:
+
+* Neil Chue Hong, Director, Software Sustainability Institute, UK
+* Catherine Jones, Software Engineering Group Leader, STFC, UK
+* Daniel S. Katz, Assistant Director for Scientific Software and Applications, National Center for Supercomputing Applications (NCSA), University of Illinois, USA
+* Chris Mentzel, Executive Director, Stanford University, USA
+* Karthik Ram, URSSI PI, University of California, Berkeley, USA
+* Andrew Treloar, Director, Platforms and Engagements, Australian Research Data Commons, Australia
 
 ### Research Software Engineering (RSE)
 
