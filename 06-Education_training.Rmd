@@ -104,7 +104,7 @@ in research software.
 This area requires the following staff:
 
 * Training Lead: coordinates all training activities and assessment of those 
-activities  (~1 FTE).
+activities  (~2 FTE).
 
 * Assessment Coordinator: coordinates the assessment efforts (this position 
 could be shared with other parts of the project) (~.5 FTE). 
