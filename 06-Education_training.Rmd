@@ -330,7 +330,8 @@ Some of the specific measures that we will gather include:
 to evaluate the value of the content. We will conduct evaluations immediately at the end of 
 each event while the information is fresh in the attendees’ minds. We will then conduct a 
 follow-up survey 6 months, 1 year, and 3 years later to evaluate the applicability of the 
-content to the attendees’ work.
+content to the attendees’ work. In conducting these evaluations, we will build on lessons 
+learned and guidance from [The Carpentries Assessment Network](https://carpentries.org/assessment-network/). 
 
 * Demand: We will measure demand for the content by the number of people who apply to attend 
 various training events and workshops.
