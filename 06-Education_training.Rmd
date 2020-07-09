@@ -280,7 +280,7 @@ training materials. We anticipate providing support to experts in the research s
 community who can take their existing knowledge and package it in a Carpentries-style 
 format that is most amenable to be used in the various types of training activities URSSI 
 will support. Importantly, the training proposed above is meant to build upon, and 
-provide a compliment to existing educational outreach efforts. This training will provide 
+provide a complement to existing educational outreach efforts. This training will provide 
 follow on, more advanced content than the Carpentries, and will be longer in duration.
 We can provide this advanced content because our target audience is a subset of the audience
 focused on by the Carpentries.
