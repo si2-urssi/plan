@@ -322,7 +322,7 @@ available on GitHub. We will also archive each release of content on Zenodo usin
 license that allows anyone to use and/or modify the content as needed. In addition, we will
 strive to work with the Carpentries to enable the content to reach more people.
 
-## Metrics/Milestones
+## Education & Training Metrics/Milestones
 
 To ensure that the training activities are providing sufficient content, URSSI will conduct 
 numerous assessment activities. These activities will occur both concurrently with the 
