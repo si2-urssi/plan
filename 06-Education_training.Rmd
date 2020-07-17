@@ -101,6 +101,10 @@ in research software.
 
 ## Resources
 
+<center>
+![FigName](images/education_structure.png)
+</center>
+
 This area requires the following staff:
 
 * Training Lead: coordinates all training activities and assessment of those 
