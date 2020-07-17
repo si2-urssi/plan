@@ -98,7 +98,7 @@ However, there is no equivalent university guidance for software projects that w
 4. Provide guidance and mentorship in best practices for development, licensing, project coordination, and advice for funding to projects wishing to grow into community software projects.
 This component of the Incubator will draw upon expertise and guidance that is developed in URSSI’s Education and Policy areas.  
 
-## Resources 
+## Incubator Resources 
 
 Personnel  
 
@@ -112,7 +112,7 @@ Additional Resources that may be valuable for an incubator program to succeed:
 - Annual Incubator showcase, or a “demo day”,  for projects that have successfully graduated or exited the URSSI’s program. This activity could be part of a larger URSSI annual event that coordinates the community dedicated to software sustainability. Invitations to this event would be extended to public and private funders who may see an overlap with their own programs during pitches. This can result in matchmaking between projects and funders. 
 - Incubated project funding: Monetary (or in-kind service) award for projects that will be given a budget to advance goals during a period of “incubation”. Each project should receive a similar allocation of money. This money would be similar to how the SSI currently funds research fellows at a standard rate across their period of engagement. The money could be discretionary to the project so that it could be used for travel, advocacy, website development, assistance in writing documentation, etc.   
 
-## Methods
+## Incubator Methods
 
 URSSI's Incubator program will include a process for soliciting applications (or call for participation), selecting participants, a cycle of activities, and a standard for successfully exiting or graduating from the Incubator.
 The incubator will run on a semi-annual schedule so that new project cohorts can enter the Incubator in either January or July of each year.
@@ -244,7 +244,7 @@ Successfully graduating from the incubator program should act as an informal sig
 In this scenario, completing the URSSI Incubator would act as an informal quality check.
 Funders would have greater assurance about the potential for a project to succeed, for funding new directions of the project, or potentially funding an institution or group around the project so as to better support sustainability.
 
-## Metrics/Milestones               
+## Incubator Metrics/Milestones               
 For Incubated projects there will be two periods of evaluation. 
 
 Short-term evaluation (1-2 years):
