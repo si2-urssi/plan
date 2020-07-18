@@ -99,7 +99,11 @@ in research software.
 (This URSSI activity will seek to aggregate both existing practices, and serve as an outlet 
   for emerging practices from other domain-specific software institute, e.g., MolSSI, SGCI, IRIS-HEP) 
 
-## Resources
+## Education & Training Resources
+
+<center>
+![FigName](images/education_structure.png)
+</center>
 
 This area requires the following staff:
 
@@ -115,7 +119,7 @@ Lead (this position could be shared with other parts of the project) (0.5 FTE).
 * Research Coordinator: leads the effort to gather experiences from research 
 software projects (0.25-0.5 FTE).
 
-## Methods
+## Education & Training Methods
 
 This section provides more details on how we plan to design and execute each of these 
 activities within URSSI.
@@ -318,7 +322,7 @@ available on GitHub. We will also archive each release of content on Zenodo usin
 license that allows anyone to use and/or modify the content as needed. In addition, we will
 strive to work with the Carpentries to enable the content to reach more people.
 
-## Metrics/Milestones
+## Education & Training Metrics/Milestones
 
 To ensure that the training activities are providing sufficient content, URSSI will conduct 
 numerous assessment activities. These activities will occur both concurrently with the 
