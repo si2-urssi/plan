@@ -20,14 +20,14 @@ of researchers. This plan discusses the problem in this chapter, describes our a
 (in [Chapter 2](#chapter2)),
 outlines high-level plans and methods (in [Chapter 3](#chapter3)),
 discusses more detailed plans in the following five chapters
-(community and outreach activities in [Chapter 4](#Ch-Comm),
+(community & outreach activities in [Chapter 4](#Ch-Comm),
 education & training activities in [Chapter 5](#Ch-Edu),
 incubator activities in [Chapter 6](#Ch-Incubator),
 policy activities in [Chapter 7](#Ch-Policy),
 and
 mangement & coordination in [Chapter 8](#Ch-Org)),
 talks about budget (in [Chapter 9](#Ch-Budget)),
-discusses metrics and evaluation (in [Chapter 10](#Ch-Metrics)),
+discusses metrics & evaluation (in [Chapter 10](#Ch-Metrics)),
 and then concludes (in [Chapter 11](#Ch-Summary)).
 This complete document is the justification and plan for a new institute that will work
 in multiple areas to improve research software and the careers of those that produce it,
