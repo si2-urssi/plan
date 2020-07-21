@@ -64,7 +64,7 @@ We used a wide range of approaches to understand the core social and technical c
 
 ## What we plan to do and why
  
-The conceptualization phase with its survey, workshops, and ethnographic studies elucidated the need in the community for different components of a potential implementation of URSSI. We identified four areas for supporting the research software community - to accelerate science for diverse research domains as well as software engineering as a research area in its own right. Each of these activities contributes  to the desired impacts described in [section 3.3](https://plan.urssi.us/chapter3.html#desired-impact).
+The conceptualization phase with its survey, workshops, and ethnographic studies elucidated the need in the community for different components of a potential implementation of URSSI. We identified four areas for supporting the research software community - to accelerate science for diverse research domains as well as software engineering as a research area in its own right. Each of these activities contributes  to the desired impacts described in [Section 3.4](https://plan.urssi.us/chapter3.html#desired-impact).
 
 1. **Incubator**: Sustainability of research software has many aspects beyond good software engineering practices that overlap with diverse areas of expertise. Such areas include technology advice, project management, business planning, usability advice, license management, etc. The incubator service area would focus on providing projects with experts who have a consultancy agreement and could support a project in the different stages of their life cycle – from spinning up a project to first results and uptake of software to planning its sustainability after the funding ends.
 
