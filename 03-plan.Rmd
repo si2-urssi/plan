@@ -4,7 +4,7 @@ Throughout the URSSI conceptualization process, the team worked on overall
 planning iteratively, using slides at workshops and the URSSI website to
 disseminate current thoughts, using the survey and the ethnographic studies as
 inputs, using workshops (including slides and shared note documents) and the
-discussion forum (using Discource on https://discuss.urssi.us) to gather and record feedback. Together,
+discussion forum (using Discourse on https://discuss.urssi.us) to gather and record feedback. Together,
 these activities plus internal discussions of the team and a focused mission and
 vision working group have led to most of the content of this document.
 
