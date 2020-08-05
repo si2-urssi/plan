@@ -185,7 +185,7 @@ for the specific partnering opportunities in each area of URSSI's work.
 | [Campus Research Computing Consortium (CaRCC)](https://carcc.org) | policy |
 | [Organisation for Economic Co-operation and Development (OECD)](http://www.oecd.org) | policy |
 | [The Carpenties](https://carpentries.org) | education & training |
-
+| [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org/) | community and engagement |
 
 ## Desired impact
 
