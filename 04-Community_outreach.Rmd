@@ -1,4 +1,4 @@
-# Community and Outreach {#Ch-Comm}
+# Community & Outreach {#Ch-Comm}
 
 Researchers in academia and national labs are incentivized to become experts in one or more specialized domains.
 While research software plays a critical role in achieving such mastery, skills to develop such software are rarely taught in formal settings.
@@ -19,7 +19,7 @@ URSSI's Community & Outreach area will achieve this mission through the set of a
 
 
 
-## Community and Outreach Resources
+## Community & Outreach resources
 
 Managing communications (website with regular posts, mailing list), producing high quality newsletters and acting as a community liaison will require 2-3 FTEs.
 This could involve a Director of Community (could be part of a PI's time), with the remaining part of the area's workforce split over two positions: a community manager and fellowship coordinator (split with the Incubator Area), reporting to the Director of Community.
@@ -34,7 +34,7 @@ Besides the budget for the 2-3 positions, the Community & Outreach area of the i
 -  Base costs for an annual URSSI conference (with the rest to be supported by registration and sponsorships)
 
 
-## Community and Outreach Methods
+## Community & Outreach methods
 
 
 ### In-person events
@@ -86,7 +86,7 @@ Besides the activities described above, the institute will feature these ongoing
 *   Hosting a blog, with a series of staff and guest blog posts, including cross-posting relevant blog posts from others
 
 
-## Metrics of success
+## Community & Outreach metrics
 
 **Goals: **
 

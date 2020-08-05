@@ -4,7 +4,7 @@ Throughout the URSSI conceptualization process, the team worked on overall
 planning iteratively, using slides at workshops and the URSSI website to
 disseminate current thoughts, using the survey and the ethnographic studies as
 inputs, using workshops (including slides and shared note documents) and the
-discuss forum (https://discuss.urssi.us) to gather and record feedback. Together,
+discussion forum (using Discourse on https://discuss.urssi.us) to gather and record feedback. Together,
 these activities plus internal discussions of the team and a focused mission and
 vision working group have led to most of the content of this document.
 
@@ -167,7 +167,7 @@ For the purpose of this plan, we list partners with whom we will seek to work, r
 these potential partner organizations have not made a commitment, and such commitments will
 depend on specific activities, and specific funding opportunities. In the following table, we list
 these potential partners and the areas in which we see an opportunity for collaboration. See the
-appropriate chapters (e.g. [Policy (Chapter 5)](Ch-Policy), [Education & training (Chapter 6)](Ch-Edu), etc.)
+appropriate chapters (e.g. [Community & outreach (Chapter 4)](Ch-Comm), [Education & training (Chapter 5)](Ch-Edu), etc.)
 for the specific partnering opportunities in each area of URSSI's work.
 
 | Potential partner | Partnering area(s) |
