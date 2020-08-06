@@ -5,10 +5,10 @@ While research software plays a critical role in achieving such mastery, skills 
 These skills are often picked up from secondary special interest communities and online resources.
 We plan to formalize such community resources and associated activities in our institute plans. 
 
-The institute's Community area will build a thriving community of like-minded peers for researchers to seek advice, learn about training opportunities and funding announcements.
-A community manager will curate state of the art information on best practices for research software development.
+The institute's Community area will build a thriving community of like-minded peers for researchers to seek advice, learn about training opportunities, and funding announcements.
+A community manager will curate state of the art information on best practices for research software development. We will work closely with The Center for Scientific Collaboration and Community Engagement (CSCCE) to train a research engineer who seeks to pursue a career in community management. CSCCE specalizes in professionalizing scientific community building and their training program can be completed while the community manager is getting started with their position. 
 The Community area will also administer a competitive fellowship program for early career researchers.
-These fellowships will provide funding, training, and prestige to pursue a career that promotes the development and use of research software.
+These fellowships will provide funding, training, and prestige/recognition to pursue a career that promotes the development and use of research software.
 The thriving community will also provide venues and annual conference focused on software across disciplines where researchers can share their work, learn about new software, and software development techniques. 
 
 Many of the current challenges around sustainability of software, and those who produce it, are mostly social and cultural and not limited by any unassailable technical challenges.
@@ -22,12 +22,12 @@ URSSI's Community & Outreach area will achieve this mission through the set of a
 ## Community & Outreach resources
 
 Managing communications (website with regular posts, mailing list), producing high quality newsletters and acting as a community liaison will require 2-3 FTEs.
-This could involve a Director of Community (could be part of a PI's time), with the remaining part of the area's workforce split over two positions: a community manager and fellowship coordinator (split with the Incubator Area), reporting to the Director of Community.
+This could involve a Director of Community (could be part of a PI's time), with the remaining part of the area's workforce split over two positions: a community manager and fellowship coordinator (to be split with the Incubator Area), reporting to the Director of Community.
 Besides the budget for the 2-3 positions, the Community & Outreach area of the institute will also require budget for:
 
 -  Technical infrastructure (including: website, mailing list, archiving of resources) 
 
--  One URSSI fellow (as part of a cohort of 4-5 fellows/year)
+-  One URSSI fellow (as part of a cohort of 4-5 fellows/year). Much like the BSSW fellowship, an URSSI fellow can propose a community related topic to pursue for the year of their fellowship. 
 
 -  Participant support for fellows to attend annual meetings
 
@@ -50,7 +50,7 @@ The costs for such an event will be supplemented by a mix of registration fees a
 ### Online community events
 
 Promote existing activities: One of URSSI's strengths will lie in amplifying the work of existing initiatives.
-We will achieve this by showcasing projects in our weekly newsletter, by inviting projects to present their work on monthly community calls (aka webinars), and by highlighting/crossposting news via partner organizations such as the Carpentries, rOpenSci, Workshop on Sustainable Software for Science (WSSSPE), Mozilla, and others.
+We will achieve this by showcasing projects in our weekly newsletter, by inviting projects to present their work on monthly community calls (aka webinars), and by highlighting/crossposting news via partner organizations such as the Carpentries, rOpenSci, Workshop on Sustainable Software for Science (WSSSPE), Mozilla, and others. The community manager will work with various parters and data feeds to curate and disseminate a high quality newsletter similar to the the data science newsletter operated by the academic data science allaince. The institute will budget for costs associated with newsfeed subscriptions. 
 
 Community calls: Modeled after the successful series organized by Mozilla and rOpenSci, a monthly webinar series will expose researchers to the latest best practices and new trends in research software, and will provide them an opportunity to interact with prominent research software engineers.
 This free and open series will provide additional opportunity for the community to participate, especially for those that are constrained by travel.
@@ -82,7 +82,10 @@ Besides the activities described above, the institute will feature these ongoing
 
 *   URSSI will serve as a broker for software expertise and connect developers to scientific projects [TODO: Flesh out details of this program]
 *   Promote training events from URSSI and other communities
-*   Develop an ambassador program for early career researchers to promote sustainable software and current issues to their local communities. [TODO: Flesh out details of this program]
+*  Develop an ambassador program for early career researchers to promote sustainable software and current issues to their local communities. Examples of similar programs include the [Campus Champions program](https://www.xsede.org/community-engagement/campus-champions) at [XSEDE](https://www.xsede.org/), and the SSI fellows program [@10.12688/f1000research.16231.1].
+
+An URSSI ambassador program will be a light touch activity (less engaged than the fellows program) and provide students at US colleges and universities with resources to support campus colleagues effectively use research software to advance their research. The program will provide a venue to build community among early stage students (advanced undergraduates, beginning graduate students).
+
 *   Hosting a blog, with a series of staff and guest blog posts, including cross-posting relevant blog posts from others
 
 
