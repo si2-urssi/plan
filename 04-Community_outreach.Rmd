@@ -18,6 +18,10 @@ The institute will  provide necessary resources to address shared challenges and
 URSSI's Community & Outreach area will achieve this mission through the set of activities described below.
 
 
+## Fellowship Program
+
+URSSI will run an annual fellowship program modeled heavily on the successful program run by the UK Software Sustainability Institute [@10.12688/f1000research.16231.1]. We will recruit 3-5 fellows from a pool of US graduate students, postdocs, and research software engineers. Each fellow will affiliate with one or more areas of URSSI (Policy, Education, Community, Incubator) and propose an activity that would take no more than 1 day a week. Fellowship stipend will provide an appropriate time buyout and also cover travel to [biannual collaborations workshops ](https://eng.ox.ac.uk/events/ssi-collaborations-workshop-2020/). Fellows will be given an additional travel budget to present their research software activities at society and discipline conferences. Each fellow will be paired with an URSSI mentor and success will be based on entry and exit interviews. 
+
 
 ## Community & Outreach resources
 
@@ -80,7 +84,7 @@ Besides the activities described above, the institute will feature these ongoing
 
 
 
-*   URSSI will serve as a broker for software expertise and connect developers to scientific projects [TODO: Flesh out details of this program]
+*  URSSI will serve as a broker for software expertise and connect developers to scientific projects seeking contractors, expert advice or collaborators on grants. The community team will coordinate some combination of a job/skills board to better leverage expertise among US institutions. [TODO: Flesh out details of this program]
 *   Promote training events from URSSI and other communities
 *  Develop an ambassador program for early career researchers to promote sustainable software and current issues to their local communities. Examples of similar programs include the [Campus Champions program](https://www.xsede.org/community-engagement/campus-champions) at [XSEDE](https://www.xsede.org/), and the SSI fellows program [@10.12688/f1000research.16231.1].
 
