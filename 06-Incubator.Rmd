@@ -176,7 +176,7 @@ In preparation for a new cohort entering the incubator, the Program Lead will pu
 Below are activities that we imagine to be consistent across each cohort.
 These activities are not chronologically organized - a project can work on any of these activities at any time in their period of incubation. 
 
-![A general depiction of how the URSSI Incuabtor may be organized](images/URSSI-Incubator.jpg)
+![A general depiction of how the URSSI Incubator may be organized](images/URSSI-Incubator.jpg)
 
 **Project roles**                  
 The project lead will, under the guidance of the mentor and program lead, establish a formal definition of roles that a project member is to play.
