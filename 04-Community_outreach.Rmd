@@ -46,9 +46,9 @@ Besides the budget for the 2-3 positions, the Community & Outreach area of the i
 ### In-person events
 
 Create new community events:
-Building upon the work of small workshops such as WSSSPE, there is an opportunity for URSSI to host an annual in-person conference for scientists, developers, and students to connect and discuss research software development and their applications.
+Building upon the work of small workshops such as Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE), there is an opportunity for URSSI to host an annual in-person conference for scientists, developers, and students to connect and discuss research software development and their applications.
 One of the criteria used to select funded attendees will be a diversity statement that applicants will be required to submit, and at least 25% of the selected applicants to be funded will be members of underrepresented groups.
-The conference will initially be small (with a limit of 300 participants) and grow depending on the interest.
+The conference will initially be medium sized (with a limit of 300 participants) and grow depending on the interest.
 Talks and workshops will span the entire continuum from applied computational research to software development.
 The event will also feature a “demo day” for URSSI incubated projects.
 The costs for such an event will be supplemented by a mix of registration fees and sponsorships.
