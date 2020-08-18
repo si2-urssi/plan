@@ -20,7 +20,9 @@ URSSI's Community & Outreach area will achieve this mission through the set of a
 
 ## Fellowship Program
 
-URSSI will run an annual fellowship program modeled heavily on the successful program run by the UK Software Sustainability Institute [@10.12688/f1000research.16231.1]. We will recruit 3-5 fellows from a pool of US graduate students, postdocs, and research software engineers. Each fellow will affiliate with one or more areas of URSSI (Policy, Education, Community, Incubator) and propose an activity that would take no more than 1 day a week. Fellowship stipend will provide an appropriate time buyout and also cover travel to [biannual collaborations workshops ](https://eng.ox.ac.uk/events/ssi-collaborations-workshop-2020/). Fellows will be given an additional travel budget to present their research software activities at society and discipline conferences. Each fellow will be paired with an URSSI mentor and success will be based on entry and exit interviews. 
+URSSI will run an annual fellowship program modeled heavily on the successful program run by the UK Software Sustainability Institute [@10.12688/f1000research.16231.1]. We will recruit 3-5 fellows from a pool of US graduate students, postdocs, and research software engineers. 
+One of the criteria used to select fellows will be a diversity statement that fellows will be required to submit, and at least 25% of the selected fellows will be members of underrepresented groups.
+Each fellow will affiliate with one or more areas of URSSI (Policy, Education, Community, Incubator) and propose an activity that would take no more than 1 day a week. Fellowship stipend will provide an appropriate time buyout and also cover travel to [biannual collaborations workshops ](https://eng.ox.ac.uk/events/ssi-collaborations-workshop-2020/). Fellows will be given an additional travel budget to present their research software activities at society and discipline conferences. Each fellow will be paired with an URSSI mentor and success will be based on entry and exit interviews. 
 
 
 ## Community & Outreach resources
@@ -45,6 +47,7 @@ Besides the budget for the 2-3 positions, the Community & Outreach area of the i
 
 Create new community events:
 Building upon the work of small workshops such as WSSSPE, there is an opportunity for URSSI to host an annual in-person conference for scientists, developers, and students to connect and discuss research software development and their applications.
+One of the criteria used to select funded attendees will be a diversity statement that applicants will be required to submit, and at least 25% of the selected applicants to be funded will be members of underrepresented groups.
 The conference will initially be small (with a limit of 300 participants) and grow depending on the interest.
 Talks and workshops will span the entire continuum from applied computational research to software development.
 The event will also feature a “demo day” for URSSI incubated projects.
@@ -59,6 +62,7 @@ We will achieve this by showcasing projects in our weekly newsletter, by invitin
 Community calls: Modeled after the successful series organized by Mozilla and rOpenSci, a monthly webinar series will expose researchers to the latest best practices and new trends in research software, and will provide them an opportunity to interact with prominent research software engineers.
 This free and open series will provide additional opportunity for the community to participate, especially for those that are constrained by travel.
 Past calls, including videos, code, and Q&A will be archived and made searchable by a dedicated community coordinator.
+We will consider diversity when chosing participants who will present in these calls, and seek to have at least 25% of the presenters being members of underrepresented groups.
 
 **Curating and disseminating best practices** {#Ch-Comm-Best-Practices}
 
@@ -85,12 +89,13 @@ Besides the activities described above, the institute will feature these ongoing
 
 
 *  URSSI will serve as a broker for software expertise and connect developers to scientific projects seeking contractors, expert advice or collaborators on grants. The community team will coordinate some combination of a job/skills board to better leverage expertise among US institutions. [TODO: Flesh out details of this program]
-*   Promote training events from URSSI and other communities
+*  Promote training events from URSSI and other communities
 *  Develop an ambassador program for early career researchers to promote sustainable software and current issues to their local communities. Examples of similar programs include the [Campus Champions program](https://www.xsede.org/community-engagement/campus-champions) at [XSEDE](https://www.xsede.org/), and the SSI fellows program [@10.12688/f1000research.16231.1].
 
 An URSSI ambassador program will be a light touch activity (less engaged than the fellows program) and provide students at US colleges and universities with resources to support campus colleagues effectively use research software to advance their research. The program will provide a venue to build community among early stage students (advanced undergraduates, beginning graduate students).
+One of the criteria used to select ambassadors will be a diversity statement that potential ambassadors will be required to submit, and at least 25% of the ambassadors will be members of underrepresented groups.
 
-*   Hosting a blog, with a series of staff and guest blog posts, including cross-posting relevant blog posts from others
+*  Hosting a blog, with a series of staff and guest blog posts, including cross-posting relevant blog posts from others
 
 
 ## Community & Outreach metrics
