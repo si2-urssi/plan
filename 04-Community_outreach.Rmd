@@ -28,22 +28,28 @@ Managing the URSSI community will require the following staff and resources:
 
 Besides the budget for the 2-3 positions, the Community & Outreach area of the institute will also require budget for:
 
--  Technical infrastructure (including: website, mailing list, archiving of resources) 
+-  Technical infrastructure (including: website, mailing list, archiving of resources). Maintaining a high quality newsletter will require access to high quality data feeds, all of which require paid subscriptions. The team will also require technical help to maintain a static site on GitHub. 
 
--  One URSSI fellow (as part of a cohort of 4-5 fellows/year). Much like the BSSW fellowship, an URSSI fellow can propose a community related topic to pursue for the year of their fellowship. 
+-  One URSSI fellow (as part of a cohort of 4-5 fellows/year) can be asked to focus on community. Much like the BSSW fellowship, an URSSI fellow can propose a community related topic to pursue for the year of their fellowship. 
 
--  Participant support for fellows to attend annual meetings
+-  Participant support for fellows and speakers to attend annual meetings
 
 -  Base costs for an annual URSSI conference (with the rest to be supported by registration and sponsorships)
+
+<center>
+![community](https://i.imgur.com/FGuhpGo.png)
+</center>
+
 
 
 ## Community & Outreach methods
 
 ### Fellowship Program
 
-URSSI will run an annual fellowship program modeled heavily on the successful program run by the UK Software Sustainability Institute [@10.12688/f1000research.16231.1]. We will recruit 3-5 fellows from a pool of US graduate students, postdocs, and research software engineers. 
+URSSI will run an annual fellowship program modeled heavily on the successful program run by the UK Software Sustainability Institute [@10.12688/f1000research.16231.1]. We will recruit 3-5 fellows from a pool of US graduate students, postdocs, and research software engineers.
+Since research software suffers from a lack of diversity, the fellowship selection process committee will focus on providing opportunities for candidates from underrepresented groups. The community team will rely on existing research and tools on candidate selection to make decision making transparent and free from human biases as much as possible [@10.1371/journal.pone.0231939].
 One of the criteria used to select fellows will be a diversity statement that fellows will be required to submit, and at least 25% of the selected fellows will be members of underrepresented groups.
-Each fellow will affiliate with one or more areas of URSSI (Policy, Education, Community, Incubator) and propose an activity that would take no more than 1 day a week. Fellowship stipend will provide an appropriate time buyout and also cover travel to [biannual collaborations workshops ](https://eng.ox.ac.uk/events/ssi-collaborations-workshop-2020/). Fellows will be given an additional travel budget to present their research software activities at society and discipline conferences. Each fellow will be paired with an URSSI mentor and success will be based on entry and exit interviews. 
+Each fellow will affiliate with one or more areas of URSSI (Policy, Education, Community, Incubator) and propose an activity that would take no more than 1 day a week of their time. Fellowship stipend will provide an appropriate time buyout and also cover travel to [biannual collaborations workshops](https://eng.ox.ac.uk/events/ssi-collaborations-workshop-2020/), and the annual URSSI conference. Fellows will be given an additional travel budget to present their research software activities at society and discipline conferences. Each fellow will be paired with an URSSI mentor and success will be based on entry and exit interviews. 
 
 ### In-person events
 
@@ -52,14 +58,14 @@ Building upon the work of small workshops such as Workshop on Sustainable Softwa
 One of the criteria used to select funded attendees will be a diversity statement that applicants will be required to submit, and at least 25% of the selected applicants to be funded will be members of underrepresented groups.
 The conference will initially be medium sized (with a limit of 300 participants) and grow depending on the interest.
 Talks and workshops will span the entire continuum from applied computational research to software development.
-The event will also feature a “demo day” for URSSI incubated projects.
+The event will also feature a “demo day” for URSSI incubated projects, which would be a cross cutting activity with the Incubator program.
 The costs for such an event will be supplemented by a mix of registration fees and sponsorships.
 
 
 ### Online community events
 
 Promote existing activities: One of URSSI's strengths will lie in amplifying the work of existing initiatives.
-We will achieve this by showcasing projects in our weekly newsletter, by inviting projects to present their work on monthly community calls (aka webinars), and by highlighting/crossposting news via partner organizations such as the Carpentries, rOpenSci, Workshop on Sustainable Software for Science (WSSSPE), Mozilla, and others. The community manager will work with various parters and data feeds to curate and disseminate a high quality newsletter similar to the the data science newsletter operated by the academic data science allaince. The institute will budget for costs associated with newsfeed subscriptions. 
+We will achieve this by showcasing projects in our weekly newsletter, by inviting projects to present their work on monthly community calls (aka webinars), and by highlighting/crossposting news via partner organizations such as the Carpentries, rOpenSci, Workshop on Sustainable Software for Science (WSSSPE), Mozilla, and others. The community manager will work with various parters and data feeds to curate and disseminate a high quality newsletter similar to the the data science newsletter operated by the Academic Data Science Allaince (ADSA). The institute will budget for costs associated with newsfeed subscriptions. 
 
 Community calls: Modeled after the successful series organized by Mozilla and rOpenSci, a monthly webinar series will expose researchers to the latest best practices and new trends in research software, and will provide them an opportunity to interact with prominent research software engineers.
 This free and open series will provide additional opportunity for the community to participate, especially for those that are constrained by travel.
@@ -100,10 +106,9 @@ One of the criteria used to select ambassadors will be a diversity statement tha
 *  Hosting a blog, with a series of staff and guest blog posts, including cross-posting relevant blog posts from others
 
 
-## Community & Outreach metrics
+## Community & Outreach Assessment and Metrics
 
 **Goals: **
-
 
 
 *   Steadily grow the number of subscribers and participants each year
@@ -115,10 +120,7 @@ One of the criteria used to select ambassadors will be a diversity statement tha
 **Metrics:**
 
 
-
-*   Number of subscribers to the newsletter, visitors to the website, and social media followers over time
 *   Number of subscribers to the newsletter, visitors to the website, and social media followers over time
 *   Quantify instructors, presenters, lesson developers, and participants by demographic and geographic breakdown
-*   
 *   Count citations of software that have participated in URSSI
 *   Tracking career paths of fellows will also act as a measure of success for the program
