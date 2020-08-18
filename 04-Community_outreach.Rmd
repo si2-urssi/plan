@@ -18,13 +18,6 @@ The institute will  provide necessary resources to address shared challenges and
 URSSI's Community & Outreach area will achieve this mission through the set of activities described below.
 
 
-## Fellowship Program
-
-URSSI will run an annual fellowship program modeled heavily on the successful program run by the UK Software Sustainability Institute [@10.12688/f1000research.16231.1]. We will recruit 3-5 fellows from a pool of US graduate students, postdocs, and research software engineers. 
-One of the criteria used to select fellows will be a diversity statement that fellows will be required to submit, and at least 25% of the selected fellows will be members of underrepresented groups.
-Each fellow will affiliate with one or more areas of URSSI (Policy, Education, Community, Incubator) and propose an activity that would take no more than 1 day a week. Fellowship stipend will provide an appropriate time buyout and also cover travel to [biannual collaborations workshops ](https://eng.ox.ac.uk/events/ssi-collaborations-workshop-2020/). Fellows will be given an additional travel budget to present their research software activities at society and discipline conferences. Each fellow will be paired with an URSSI mentor and success will be based on entry and exit interviews. 
-
-
 ## Community & Outreach resources
 
 Managing communications (website with regular posts, mailing list), producing high quality newsletters and acting as a community liaison will require 2-3 FTEs.
@@ -42,6 +35,11 @@ Besides the budget for the 2-3 positions, the Community & Outreach area of the i
 
 ## Community & Outreach methods
 
+### Fellowship Program
+
+URSSI will run an annual fellowship program modeled heavily on the successful program run by the UK Software Sustainability Institute [@10.12688/f1000research.16231.1]. We will recruit 3-5 fellows from a pool of US graduate students, postdocs, and research software engineers. 
+One of the criteria used to select fellows will be a diversity statement that fellows will be required to submit, and at least 25% of the selected fellows will be members of underrepresented groups.
+Each fellow will affiliate with one or more areas of URSSI (Policy, Education, Community, Incubator) and propose an activity that would take no more than 1 day a week. Fellowship stipend will provide an appropriate time buyout and also cover travel to [biannual collaborations workshops ](https://eng.ox.ac.uk/events/ssi-collaborations-workshop-2020/). Fellows will be given an additional travel budget to present their research software activities at society and discipline conferences. Each fellow will be paired with an URSSI mentor and success will be based on entry and exit interviews. 
 
 ### In-person events
 
