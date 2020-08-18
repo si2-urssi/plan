@@ -151,8 +151,11 @@ we identified the following topics as candidates for inclusion in such a school:
 successful PNAS hackweek model [@Huppenkothen8872] where we allocate 50% of the time
 to lectures and 50% of the time to putting the concepts into practice. We will 
 invite instructors with expertise in the different topic areas (see above) to participate 
-and deliver the lectures. To facilitate the “hacking” time, 
-we will ask school participants to bring a code project they wish to work on during the 
+and deliver the lectures, and will take diversity into consideration when selecting instructors.
+One of the criteria used to select participants will be a diversity statement that potential participants
+will be required to submit, and at least 25% of the selected participants will be members of underrepresented groups.
+To facilitate the “hacking” time, 
+we will ask participants to bring a code project they wish to work on during the 
 school. The “hacking sessions” will provide ample opportunities for the participants to 
 have hands-on time applying the concepts from the lectures to their own code projects. These sessions 
 also provide time for code reviews and other ad hoc topics that arise during the school. 
@@ -189,7 +192,9 @@ and the Summer School described above. We anticipate reusing relevant content be
 *Format*: We will develop modules on the topics above as carpentries-style modules. This approach 
 will allow the Research Projects Carpentries materials to be used either in a face-to-face training 
 course, like the Summer School, or as stand-alone units. This flexibility will allow researchers 
-to access the content in a mechanism that is most relevant to them.
+to access the content in a mechanism that is most relevant to them. When this material is tested,
+we will use use a diversity statement submitted by potential participants as an input to the decision
+process, and at least 25% of the selected participants will be members of underrepresented groups.
 
 *Note*: While this activity is relevant to the URSSI effort, we believe that it will have appeal 
 beyond URSSI. Therefore, even though we include it here in the plan, we will also seek funding to 
