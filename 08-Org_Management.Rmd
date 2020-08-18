@@ -41,6 +41,10 @@ work closely with the Work Package Leaders to manage the technical work of the p
 **Work Package Leaders** will be responsible for the progress of their individual work packages, the
 timely production and quality of deliverables, and the achievement of milestones.
 The **Sustainability Officer** will work towards ensuring the sustainability of the overall institute.
+The **Diversity Officer** will ensure that URSSI meets its internal and external diversity goals, and will
+suggest additional activities as needed.
+The **Evaluator** will ensure that URSSI activities progress towards the overall goals of URSSI are measured and,
+and will suggest corrective actions when needed.
 The **Steering Committee** will advise and support the PI and Co-PIs. **Senior Personnel** are
 responsible for tasks assigned to them by Work Package leaders. Tasks include administrative tasks for the project.
 
@@ -66,6 +70,8 @@ The project management team comprises
 
 - Sustainability Officer
 
+- Diversity Officer
+
 - Evaluator
 
 - Senior Personnel
@@ -74,6 +80,7 @@ In addition to this team, the project will rely on a Steering Committee.
 
 <center>
 ![FigName](images/managementStructure.png)
+  TODO: Add Diversity Officer to figure
 </center>
 
 The Project Management Team will meet on an annual basis, starting with an initial meeting in the
@@ -184,6 +191,13 @@ collaborations and analysing and/or applying for additional funding streams. The
 closely with the incubator area to use its methods for spinning out work packages to be self-sustainable
 beyond the duration and funding of the project. 
 
+### Diversity Officer
+The diversity officer ensures that all actions and work packages are analyzed regarding their
+contribution to the diversity of the institute and the overall community. The diversity officer will
+also be an ombudsperson for any diversity-related issues that arise, where individuals inside or outside
+the project want to privately point out problems or make suggestions. The diversity officer will also
+help in building partnerships with communities that enable the project to increase diversity.
+ 
 ### Evaluator
 The evaluator is responsible for assessing the performance of the project, including by defining appropriate
 metrics, and suggesting appropriate measures if performance is found to be lacking or goals of the project
