@@ -124,7 +124,7 @@ A cohort will consist of a minimum of five projects that will go through the inc
 The cohort model enables a network effect and should allow URSSI to scale incubator activities appropriate to the personnel and resources available. 
 
 The incubator application will ask a project to identify its goals for developing, growing, improving development practices, and/or maturing a software product in some targeted way, as well as a description of the limitations preventing the project from making the software useful beyond a small community.
-The application will ask project leaders to clearly articulate the problem the software is trying to solve and provide evidence of the need for a generalizable solution that will serve a broad community of users and the potential to attract new contributors.
+The application will ask project leaders to clearly articulate the problem the software is trying to solve and provide evidence of the need for a generalizable solution that will serve a broad community of users and the potential to attract new contributors, and how the project is contributing to diversity.
 The project lead (defined below) should also clearly state how or if the project is seeking to transition to a new model of development.
 Acceptance into the URSSI Incubator will not require the project to be seeking a transition or an attempt at growth per se.
 We are designing the incubator to be accomodating to software projects that seek either a shift or change in development models or to solidify and establish best practices within an existing model of development. 
@@ -133,7 +133,8 @@ In short, the Incubator will select projects based on their potential to:
 
 - Address a demonstrated or emerging need in scholarship
 - Organize development in an open-source or equivalent model 
-- Attract and sustain a developer community 
+- Attract and sustain a developer community
+- Contribute to diversity
 - Benefit from a network of URSSI mentors  
 
 The URSSI Incubator Selection Committee will select projects on a semi-annual basis. In the Apache incubator model this committee is the Incubator [Project Management Committee](http://incubator.apache.org/whoweare.html).

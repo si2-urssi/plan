@@ -100,6 +100,8 @@ Guiding principles:
 
 * Focus on people, not projects
 
+* Embed diversity and inclusion within all aspects of URSSI
+
 * Leverage available resources (software, services, credit systems, training
 materials, etc.) where possible rather than reinvent
 
