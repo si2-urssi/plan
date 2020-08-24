@@ -396,15 +396,15 @@ build-upon and contribute back to maintenance of public infrastructure
 is seen as an accomplishment indicating the significance of the software
 
 
-#### Disentangle quality and impact of software (Aim 4)
+#### Disentangle software quality and software impact (Aim 4)
 
-**Disentangle quality and impact of software policy research activities**:
+**Disentangle software quality and software impact policy research activities**:
 
 * Create checklists/review guidelines for different levels of peer-review for software; can be
 tiered, could issue stars or use another rating system; leverage information already available
 from journals and other resources. (1 week)
 
-**Disentangle quality and impact of software policy advocacy activities**:
+**Disentangle software quality and software impact policy advocacy activities**:
 
 * Disseminate peer-review for software checklists/review guidelines to publishers and other organizations
 that review software, via a working group. (2 months over 2 years)
@@ -585,7 +585,7 @@ and support them, but likely without resources.
 
 * Run a help desk once a week on-line for people who are running into difficulties in making contributions and need help
 
-##### Disentangle quality and impact of software policy research activities (Aim 4)
+##### Disentangle software quality and software impact policy research activities (Aim 4)
 
 * Define what software quality means.
 
@@ -594,7 +594,7 @@ ways: scientific, economic, societal, etc.
 
 * Define how you know what software will be impactful (signals of high impact)
 
-* Capture the difference between quality and impact in written resources (blog post, paper, etc.)
+* Capture the difference between software quality and software impact in written resources (blog post, paper, etc.)
 
 * Conduct a Delphi study or multiple Delphi studies across or between disciplines to determine
 a consensus on key indicators of software impact and related questions, such as: Does improving
