@@ -111,7 +111,7 @@ materials, etc.) where possible rather than reinvent
 
 * Activities should have an end or a sustainability plan beyond URSSI
 
-* Distinguish between quality (badging/intrinsic) and impact (reuse) measures
+* Distinguish between software quality measures (badging, intrinsic) and software impact measures (reuse, citation) 
 
 * Sustain software by sustaining its communities (stewards, developers, maintainers,
 leaders, active users)
