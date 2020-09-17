@@ -1,5 +1,4 @@
-# Community & Outreach
-{#Ch-Comm}
+# Community & Outreach {#Ch-Comm}
 
 Researchers in academia and national labs are incentivized to become experts in one or more specialized domains.
 While research software plays a critical role in achieving such mastery, skills to develop such software are rarely taught in formal settings.
