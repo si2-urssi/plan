@@ -80,7 +80,6 @@ In addition to this team, the project will rely on a Steering Committee.
 
 <center>
 ![FigName](images/managementStructure.png)
-  TODO: Add Diversity Officer to figure
 </center>
 
 The Project Management Team will meet on an annual basis, starting with an initial meeting in the
