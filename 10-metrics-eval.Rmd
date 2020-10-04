@@ -1,3 +1,34 @@
 # Metrics and Evaluation {#Ch-Metrics}
 
 This chapter is being developed.
+
+This table maps URSSI activities to the three portions of URSSI's intended impact. Activities are
+preceded by a letter to indicate what area of URSSI they are from
+(C = community and outreach,
+E = education and training,
+I = incubator,
+P = policy), 
+and in the impact cells, X indicates a designed primary impact on an activity, and y indicates
+a designed secondard impact.
+
+| Activity | Impact on research software sustainability | Impact on people and careers | Impact on research software ecosystem |
+| --- | --- | --- | --- |
+| C: Fellowships |   | X |   |
+| C: In-person events |   | X |  X |
+| C: Community calls | X | X | X |
+| C: Curate best practices | X | y | y |
+| C: Newsletter & social media |   | y | X |
+| E: Summer school | y | X | y |
+| E: Projects Carpentry | X |   | y |
+| E: Review service for software project plans | X |   |   |
+| E: Examine use of industrial software development practices in research software | X |   | y |
+| E: Book of knowledge of software dev best practices | X |   | y |
+| I: Incubator | X | X |   |
+| P: Career path |   | X | y |
+| P: Impact of individuals |   | X | y |
+| P: Incentivize contributions to public software | y | y | X |
+| P: Disentangle software quality and software impact |   |   | X |
+| P: Better recognize the value and importance of software |   |   | X |
+| P: Funding opportunities for software maintenance | y |   | X |
+| P: Increase diversity of software community |   | X | y |
+| P: award program |   | y | X |
