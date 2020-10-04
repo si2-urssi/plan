@@ -166,7 +166,7 @@ time for training or to attend events like this one, as an alternative to the fa
 summer school events, we also plan to package the content into Carpentries-style lessons 
 that can be used either in shorter training sessions, webinars, or asynchronously.
 
-The URSSI summer school is primarily aimed at the the people and careers portion of URSSI's impact goals, and secondarily at the research software sustainability and research software ecosystem portions.
+The URSSI summer school is primarily aimed at the people and careers portion of URSSI's impact goals, and secondarily at the research software sustainability and research software ecosystem portions.
 
 ### Develop a Research Project Carpentry lesson program that teaches people how to turn code into a formal project
 
