@@ -79,14 +79,14 @@ We will consider diversity when chosing participants who will present in these c
 
 Online community events are aimed at all three portions of URSSI's impact goals: research software sustainability, people and careers, and the research software ecosystem.
 
-**Curating and disseminating best practices** {#Ch-Comm-Best-Practices}
+### Curating and disseminating best practices {#Ch-Comm-Best-Practices}
 
 URSSI fellows will convene ad hoc panels of experts to curate information on state of the art practices for scientific computing.
 The topics will cover many foundations of research software engineering including but not limited to collaborative software developing with modern version control, software testing, code review, packaging and distribution, and overall software design.
 The materials will also provide strong guidance on open science practices to increase impact of such work.
 These include guidance on licensing, properly archiving research software, and citation.
 
-Curating and disseminating best practices is primarily aimed at all the research software sustainability portion of URSSI's impact goals, and secondarily at the people and careers and research software ecosystem portions.
+Curating and disseminating best practices is primarily aimed at the research software sustainability portion of URSSI's impact goals, and secondarily at the people and careers and research software ecosystem portions.
 
 
 ### Newsletter and social media
