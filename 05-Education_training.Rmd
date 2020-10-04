@@ -166,6 +166,8 @@ time for training or to attend events like this one, as an alternative to the fa
 summer school events, we also plan to package the content into Carpentries-style lessons 
 that can be used either in shorter training sessions, webinars, or asynchronously.
 
+The URSSI summer school is primarily aimed at the the people and careers portion of URSSI's impact goals, and secondarily at the research software sustainability and research software ecosystem portions.
+
 ### Develop a Research Project Carpentry lesson program that teaches people how to turn code into a formal project
 
 *Overview*: One challenge faced by many research software developers is how to convert 
@@ -202,6 +204,10 @@ support it from organizations outside of NSF. We also plan to solicit other orga
 individuals to contribute to this activity. URSSI will lead this work, organizing a community
 that will include external participants.
 
+The Research Project Carpentry lesson program is primarily aimed at the research software sustainability portion of URSSI's impact goals, and secondarily at the research software ecosystem portion.
+
+
+
 ### Plan a review service for software project plans
 
 Building on the work done for Research Project Carpentries, URSSI has identified the need for 
@@ -220,6 +226,7 @@ to develop and make available the following resources: (1) templates for project
 (2) checklists for researchers to follow when developing the plan, and (3) guidance on how 
 to choose from various alternatives for each section of the plan.
 
+The softare project plan review service is aimed at the research software sustainability portion of URSSI's impact goals.
 
 ### Evaluate and document successes and failures of the use of industrial software development practices in research software
 
@@ -252,7 +259,9 @@ that we can document into best practices. These experiences will be beneficial b
 will draw them from experiences on real projects, with knowledge about the context within 
 which the practice works. This context will help provide a description of the limitations 
 on the practice, which is equally important to document.
- 
+
+This activity is primarily aimed at the research software sustainability portion of URSSI's impact goals, and secondarily at the research software ecosystem portion.
+
 ### Compile and maintain a body of knowledge of best practices for research software development
 
 Based on the outcomes of the above activities, URSSI will develop a portal to provide living 
@@ -280,6 +289,8 @@ about training resources. In addition to providing links to the URSSI-developed 
 through other efforts like MoLSSI, SGCI, and IRIS-HEP. To help individual researchers 
 and teams better understand how to make use of the various training options, we will 
 develop roadmaps that guide people to the most relevant training for their current situation.
+
+This activity is also primarily aimed at the research software sustainability portion of URSSI's impact goals, and secondarily at the research software ecosystem portion.
 
 ## Cross-cutting activities
 
