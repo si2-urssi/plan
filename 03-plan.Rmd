@@ -196,7 +196,10 @@ research in all fields.  URSSI aims to achieve
 this impact by enabling and encouraging the contribution of the resources and training to the research software
 ecosystem that will improve research software and to empower the people who
 create and maintain that software.
- 
+In the remainder of this chapter, for each of these three elements of impact, we describe our activities that we believe
+will contribute to them. Additionally, in [Chapter 10 (Metrics and Evaluation)](Ch-Metrics),
+we show the full set of activities and their intended impacts.
+
 <center>
 ![FigName](images/URSSI-impact-drawing.png)
 </center>
