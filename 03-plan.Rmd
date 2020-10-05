@@ -239,7 +239,7 @@ research software by:
 
 * Developing and advocating for research software usage and impact metrics to be
 a factor in the hiring and promotion of software developers and maintainers,
-includind promoting the publication of research software
+including promoting the publication of research software
 
 * Encouraging a diverse set of participants to enter the research software
 development and maintenance field and decreasing structural and systemic
