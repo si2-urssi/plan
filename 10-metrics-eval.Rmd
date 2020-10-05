@@ -9,7 +9,7 @@ E = education and training,
 I = incubator,
 P = policy), 
 and in the impact cells, X indicates a designed primary impact on an activity, and y indicates
-a designed secondard impact.
+a designed secondary impact.
 
 | Activity | Impact on research software sustainability | Impact on people and careers | Impact on research software ecosystem |
 | --- | --- | --- | --- |
