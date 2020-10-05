@@ -204,7 +204,7 @@ create and maintain that software.
 For software, URSSI aims to improve the sustainability of research software by
 
 * Developing and curating best practices for software projects,
-including examing practices in industry,
+including examining practices in industry,
 for testing, governance, codes of conduct, continuous integration.
 
 * Sharing information and pratices through communities calls, training
