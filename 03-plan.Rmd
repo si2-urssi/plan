@@ -196,51 +196,99 @@ research in all fields.  URSSI aims to achieve
 this impact by enabling and encouraging the contribution of the resources and training to the research software
 ecosystem that will improve research software and to empower the people who
 create and maintain that software.
- 
+In the remainder of this chapter, for each of these three elements of impact, we describe our activities that we believe
+will contribute to them. Additionally, in [Chapter 10 (Metrics and Evaluation)](Ch-Metrics),
+we show the full set of activities and their intended impacts.
+
 <center>
 ![FigName](images/URSSI-impact-drawing.png)
 </center>
 
 For software, URSSI aims to improve the sustainability of research software by
 
-* Developing and sharing good-enough and best practices for software projects,
-including for testing, governance, codes of conduct, continuous integration
+* Developing and curating best practices for software projects,
+including examining practices in industry,
+for testing, governance, codes of conduct, continuous integration.
 
+* Sharing information and practices through communities calls, training
+opportunities, an incubator, and a community-developed book
+
+<!--
 * Documenting sustainability models and providing guidance on how to choose among them
+-->
 
-* Promoting communities and appropriate governance models for open source research software
-
+<!--
 * Building models to make best use of and support transient software contributors (e.g. students)
- 
+-->
+
+The activities that have a primary impact on the sustainability of research software are described in
+[Community & outreach (Chapter 4)](Ch-Comm),
+[Education & training (Chapter 5)](Ch-Edu), and
+[Incubator (Chapter 6)](Ch-Incubator).
+Additionally, some activities in
+[Policy (Chapter 7)](Ch-Policy) have a secondary impact
+on the sustainability of research software.
+
 For people, URSSI aims to improve the careers of those who develop and maintain
 research software by:
+
+* Fellowships
+
+* In-person events and community calls
+
+* A summer school, and the incubator program
 
 * Promoting new career paths for those who develop and maintain research software
 
 * Developing and advocating for research software usage and impact metrics to be
-a factor in the hiring and promotion of software developers and maintainers 
-
-* Promoting the publication of research software
-
-* Coordinating community efforts, including by URSSI, to create and provide training
-for those who want to develop and maintain research software
+a factor in the hiring and promotion of software developers and maintainers,
+including promoting the publication of research software
 
 * Encouraging a diverse set of participants to enter the research software
 development and maintenance field and decreasing structural and systemic
 barriers to productive careers for members of underrepresented groups
  
+The activities that have a primary impact on people and careers are described in
+the four following chapters, on
+[Community & outreach (Chapter 4)](Ch-Comm),
+[Education & training (Chapter 5)](Ch-Edu),
+[Incubator (Chapter 6)](Ch-Incubator), and
+[Policy (Chapter 7)](Ch-Policy).
+
 For the research software ecosystem, URSSI aims to improve the understanding and functioning of the ecosystem by
+
+* In-person events and community calls
+
+* A newsletter and and an active social media presence
+
+* Incentivizing contributions to public software
+
+* Disentangling software quality and software impact, including
+promoting software credit and citation mechanisms
 
 * Documenting the use of research software in research and providing
 systematic and regular analysis of the impact this software has on research 
 
-* Growing and participating in communities around the field of research software
-
 * Promoting an increased understanding of the importance of research software in research
 
-* Promoting software credit and citation mechanisms
+* Advocating for increased funding opportunities for software maintenance
 
+* Creating an award program to recognize software contributions
+
+* Growing and participating in communities around the field of research software
+
+<!--
 * Studying and disseminating methods to catalog and promote research software
+-->
 
+<!--
 * Supporting the use of software in reproducibility
+-->
 
+The activities that have a primary impact on the research software ecosystem are described in
+[Community & outreach (Chapter 4)](Ch-Comm) and
+[Policy (Chapter 7)](Ch-Policy).
+Additionally, some activities in
+[Education & training (Chapter 5)](Ch-Edu)
+have a secondary impact
+on the research software ecosystem.

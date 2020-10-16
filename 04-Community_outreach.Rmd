@@ -52,6 +52,8 @@ Since research software suffers from a lack of diversity, the fellowship selecti
 One of the criteria used to select fellows will be a diversity statement that fellows will be required to submit, and ~50% of the selected fellows will be members of underrepresented groups, with a lower bound of 25%.
 Each fellow will affiliate with one or more areas of URSSI (Policy, Education, Community, Incubator) and propose an activity that would take no more than 1 day a week of their time. Fellowship stipend will provide an appropriate time buyout and also cover travel to [biannual collaborations workshops](https://eng.ox.ac.uk/events/ssi-collaborations-workshop-2020/), and the annual URSSI conference. Fellows will be given an additional travel budget to present their research software activities at society and discipline conferences. Each fellow will be paired with an URSSI mentor and success will be based on entry and exit interviews. 
 
+The fellowship program is aimed at the people and careers portion of URSSI's impact goals.
+
 ### In-person events
 
 Create new community events:
@@ -61,6 +63,8 @@ The conference will initially be medium sized (with a limit of 300 participants)
 Talks and workshops will span the entire continuum from applied computational research to software development.
 The event will also feature a “demo day” for URSSI incubated projects, which would be a cross cutting activity with the Incubator program.
 The costs for such an event will be supplemented by a mix of registration fees and sponsorships.
+
+In-person events are aimed at the people and careers and research software ecosystem portions of URSSI's impact goals.
 
 
 ### Online community events
@@ -73,12 +77,16 @@ This free and open series will provide additional opportunity for the community 
 Past calls, including videos, code, and Q&A will be archived and made searchable by a dedicated community coordinator.
 We will consider diversity when chosing participants who will present in these calls, and seek to have at least 25% of the presenters being members of underrepresented groups.
 
-**Curating and disseminating best practices** {#Ch-Comm-Best-Practices}
+Online community events are aimed at all three portions of URSSI's impact goals: research software sustainability, people and careers, and the research software ecosystem.
+
+### Curating and disseminating best practices {#Ch-Comm-Best-Practices}
 
 URSSI fellows will convene ad hoc panels of experts to curate information on state of the art practices for scientific computing.
 The topics will cover many foundations of research software engineering including but not limited to collaborative software developing with modern version control, software testing, code review, packaging and distribution, and overall software design.
 The materials will also provide strong guidance on open science practices to increase impact of such work.
 These include guidance on licensing, properly archiving research software, and citation.
+
+Curating and disseminating best practices is primarily aimed at the research software sustainability portion of URSSI's impact goals, and secondarily at the people and careers and research software ecosystem portions.
 
 
 ### Newsletter and social media
@@ -90,6 +98,8 @@ For community calls, we will invite speakers from related communities such as SS
 All material will be stored in public GitHub repositories under a permissive license to allow people to use and remix the content while contributing back to the original source.
 
 The four major channels of communication will be a website, a newsletter, mailing list, and accounts on social media such as Twitter and Slack.
+
+The newsletter and social media are primarily aimed at all the research software ecosystem portion of URSSI's impact goals, and secondarily at the research software sustainability and people and careers portions.
 
 
 ### Other activities  

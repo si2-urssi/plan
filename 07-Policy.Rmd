@@ -1,6 +1,6 @@
 # Policy {#Ch-Policy}
 
-The Policy area’s intent is create an enablng environment to support the people who develop and maintain research software, and to
+The Policy area’s intent is create an enabling environment to support the people who develop and maintain research software, and to
 support research about research software, to ultimately increase the science & research impact of
 software.  
 **The Policy area's activities are divided into two parts, research and advocacy**.  Research is the collecting
@@ -55,7 +55,7 @@ Includes a possible assistant director, funded staff, URSSI fellows, and communi
 * Policy Advocacy Team, focused on policy development (such as use cases and examples of practices
 that are effective for sustainability), which ultimately would be used for presenting actionable ways
 to support research software to institutions, possibly integrating and building upon the data science
-team’s findings. This team focuses more on planning advocacy that in doing it,
+teams findings. This team focuses more on planning advocacy that in doing it,
 by understanding different stakeholders, and building a roadmap for how to effectively advocate
 (within universities, foundations, industry, national labs, etc.)
 Includes a possible assistant director, funded staff, URSSI fellows, and community volunteers.
@@ -131,23 +131,28 @@ Initially, the policy area will work to address the following set of aims:
 1. Establish career paths (including titles and evaluation criteria for hiring and promotion).
 
   - addresses Changes 2, 5 (from list of changes at the start of this chapter)
+  - aims primarily at the people and careers portion of URSSI's impact goal, and secondarily at the research software ecosystem portion
 
 2. Improve the measurement of impact of individuals, especially in activities that are inherently
 collaborative like software development. 
 
   - addresses Changes 1, 2, 3
+  - aims primarily at the people and careers portion of URSSI's impact goal, and secondarily at the research software ecosystem portion
 
 3. Incentivizes contributions to public goods / infrastructure within the academic credit model 
 
   - addresses Changes 1, 3, 5
+  - aims primarily at the research software sustainability portion of URSSI's impact goal, and secondarily at the people and careers and research software ecosystem portions
 
 4. Disentangle software quality and software impact.
 
   - addresses Changes 1, 4, 5
+  - aims at the research software ecosystem portion of URSSI's impact goal
 
 5. Better recognize the value and importance of software.
 
   - addresses Changes 1, 2, 3, 5
+  - aims at the research software ecosystem portion of URSSI's impact goal
 
 6. Improve/increase funding opportunities and stable funding for maintenance of software that
 is important but doesn’t have a generic market and/or isn't considered novel in the eyes of the
@@ -156,10 +161,12 @@ competitively funded for fixed periods, often with gaps between funded project p
 that maintenance/sustainability can’t be reliably folded into project costs.
 
   - addresses Changes 1, 4, 5
+  - aims primarily at the research software ecosystem portion of URSSI's impact goal, and secondarily at the research software sustainability portion
 
 7. Increase the diversity of the development and maintenance community to achieve the diversity of the overall US population.
 
   - addresses Change 6
+  - aims primarily at the people and careers portion of URSSI's impact goal, and secondarily at the research software ecosystem portion
 
 ### Partners
 
@@ -253,7 +260,7 @@ leadership team. Activities with a preceding "(+)" are considered higher priorit
 
 * Study tenure guidance and policies, and find/document ways that software work is measured
 and recognized. Publish examples of successes.
-(ADSA is interesteded in partnerering on this; the ADSA Career Development Network is mostly faculty facing exactly these challenges.
+(ADSA is interested in partnering on this; the ADSA Career Development Network is mostly faculty facing exactly these challenges.
 Additionally, RDA is in the processing of developing an [Open Science Registry](www.openscienceregistry.org)^[This link may not yet work.]
 as a collaborative platform to share both the intention and outcomes of pilots
 and other initiatives that specifically address the academic reward system, as an outcome of the
@@ -269,11 +276,11 @@ letter-of-reference authors. (needs focused workshop and follow-through, ~3 mont
 Earth and Space Sciences](https://www.nap.edu/read/25217/chapter/1)) on career pathways/progression
 in academia. Would need to define, then raise funds from
 outside URSSI (~$1m), then work with NAS to define a charge and to contract for the study.
-(4 months over 2.5 years, overlaping with related item in staff career path policy advocacy activities)
+(4 months over 2.5 years, overlapping with related item in staff career path policy advocacy activities)
 
 **Staff career path policy research activities**:
 
-(All the activities below will be coordinated with US-RSE and other national RSE organizations. Additionally, some infomation already exists that can be mined, such as international and national RSE surveys [@rse-survey], ...)
+(All the activities below will be coordinated with US-RSE and other national RSE organizations. Additionally, some information already exists that can be mined, such as international and national RSE surveys [@rse-survey], ...)
 
 * (+) Document existing (known successful/viable, known failures) career paths for individuals
 creating research software (2 months)
@@ -317,7 +324,7 @@ Earth and Space Sciences](https://www.nap.edu/read/25217/chapter/1)) on
 {career pathways/progression in academia, recognition of software, evaluation of software developers,
 inclusion of software in hiring and promotion} Would need to define, then raise funds from
 outside URSSI (~$1m), then work with NAS to define a charge and to contract for the study.
-(4 months over 2.5 years, overlaping with related item in faculty career path policy advocacy activities)
+(4 months over 2.5 years, overlapping with related item in faculty career path policy advocacy activities)
 
 
 #### The impact of individuals (Aim 2)

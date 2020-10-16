@@ -118,6 +118,8 @@ URSSI's Incubator program will include a process for soliciting applications (or
 The incubator will run on a semi-annual schedule so that new project cohorts can enter the Incubator in either January or July of each year.
 In the following subsections we describe the intended processes for running each stage of the Incubator.
 
+We view the Incubator as a single activity from the point-of-view of impact, and it is aimed at both the research software sustainability and people and careers  portions of URSSI's impact goals.
+
 ### Project solicitation and selection: 
 The URSSI Incubator will solicit proposals for projects three months in advance of the formation of a new incubator cohort.
 A cohort will consist of a minimum of five projects that will go through the incubator activities (described below) at the same time.
