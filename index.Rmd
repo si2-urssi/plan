@@ -18,11 +18,10 @@ description: "Implementation plan of the US Research Software Sustainability Ins
 twitter-handle: si2-urssi
 ---
 
-# Welcome {-}
-
+# Welcome  {-}
 
 ```{r cover-image, echo = FALSE}
-knitr::include_graphics("images/plan.jpg")
+knitr::include_graphics("images/plan_png.png")
 ```
 
 This public document is a draft of the final URSSI plan. Empty sections are under internal review before being posted here.
