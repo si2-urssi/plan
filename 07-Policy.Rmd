@@ -666,3 +666,20 @@ their tenure packages
 
 * **TODO**: more needed
 
+**Impacts:**
+
+This table maps URSSI activities from this chapter to the three portions of URSSI's intended impact.
+(A complete table of impacts from all URSSI activities can be found in [Chapter 10 (Metrics and Evaluation)](Ch-Metrics).)
+In the impact cells, X indicates a designed primary impact on an activity, and y indicates
+a designed secondary impact.
+
+| Activity | Impact on research software sustainability | Impact on people and careers | Impact on research software ecosystem |
+| --- | --- | --- | --- |
+| Career path |   | X | y |
+| Impact of individuals |   | X | y |
+| Incentivize contributions to public software | y | y | X |
+| Disentangle software quality and software impact |   |   | X |
+| Better recognize the value and importance of software |   |   | X |
+| Funding opportunities for software maintenance | y |   | X |
+| Increase diversity of software community |   | X | y |
+| award program |   | y | X |
