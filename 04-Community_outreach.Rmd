@@ -135,3 +135,18 @@ One of the criteria used to select ambassadors will be a diversity statement tha
 *   Quantify instructors, presenters, lesson developers, and participants by demographic and geographic breakdown
 *   Count citations of software that have participated in URSSI
 *   Tracking career paths of fellows will also act as a measure of success for the program
+
+**Impacts:**
+
+This table maps URSSI activities from this chapter to the three portions of URSSI's intended impact.
+(A complete table of impacts from all URSSI activities can be found in [Chapter 10 (Metrics and Evaluation)](Ch-Metrics).)
+In the impact cells, X indicates a designed primary impact on an activity, and y indicates
+a designed secondary impact.
+
+| Activity | Impact on research software sustainability | Impact on people and careers | Impact on research software ecosystem |
+| --- | --- | --- | --- |
+| Fellowships |   | X |   |
+| In-person events |   | X |  X |
+| Community calls | X | X | X |
+| Curate best practices | X | y | y |
+| Newsletter & social media |   | y | X |
