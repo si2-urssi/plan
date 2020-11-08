@@ -266,3 +266,13 @@ For the Incubator program evaluation may include any of the following:
 
 - In years 1-3 URSSI will select at least 15 projects for incubation. The program should be evaluated based on the success of projects’ graduating from the Incubator, and whether or not those projects meet both short and long term milestones (as described above).  
 - Funders participation (i.e., that the program attracts funded projects to enter and exit URSSI Incubator)  
+
+**Impacts:**
+
+While in other chapters, we have mapped the activities from that chapter to the three portions of URSSI's intended impact,
+here we treat the incubator as a single activity.
+(A complete table of impacts from all URSSI activities can be found in [Chapter 10 (Metrics and Evaluation)](Ch-Metrics).)
+
+| Activity | Impact on research software sustainability | Impact on people and careers | Impact on research software ecosystem |
+| --- | --- | --- | --- |
+| Incubator | X | X |   |
