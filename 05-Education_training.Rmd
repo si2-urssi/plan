@@ -360,3 +360,18 @@ learned and guidance from [The Carpentries Assessment Network](https://carpentri
 various training events and workshops.
 
 * Use of material: We will measure downloads and use of the information that we produce.
+
+**Impacts:**
+
+This table maps URSSI activities from this chapter to the three portions of URSSI's intended impact.
+(A complete table of impacts from all URSSI activities can be found in [Chapter 10 (Metrics and Evaluation)](Ch-Metrics).)
+In the impact cells, X indicates a designed primary impact on an activity, and y indicates
+a designed secondary impact.
+
+| Activity | Impact on research software sustainability | Impact on people and careers | Impact on research software ecosystem |
+| --- | --- | --- | --- |
+| Summer school | y | X | y |
+| Projects Carpentry | X |   | y |
+| Review service for software project plans | X |   |   |
+| Examine use of industrial software development practices in research software | X |   | y |
+| Book of knowledge of software dev best practices | X |   | y |
