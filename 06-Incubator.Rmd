@@ -1,24 +1,22 @@
 # Incubator {#Ch-Incubator}
 
-The Incubator area’s intent is to support software projects seeking to grow, transition to an open-source model of development, or improve software engineering practices.
-It does this by providing mentorship, a small amount of funding, and guided activities focused on improving governance, documentation, financial planning, and evaluating development practices.
-The following sections describe the motivation for an Incubator program focused on research software. 
+The intent of an URSSI Incubator is to support software projects seeking to grow, transition to an open-source model of development, or improve software engineering practices. The incubator plans to do this by providing mentorship, a small amount of funding, and guided support for improving governance, documentation, financial planning, and evaluating development practices. The following sections describe the motivation for an Incubator program focused on research software.
 
-## Background 
+## Background
 Common tasks solved by research software often include the generation, analysis, visualization, and processing of data.
-These software solutions are, just as often, generalizable beyond the immediate needs of an individual researcher, research group, or a particular research effort.
-However, there are few institutional and personal incentives to develop generalizable research software, package this software for reuse, create meaningful documentation, and share software in open repositories.
+These software solutions are, just as often, generalizable beyond the immediate needs of an individual researcher, research group, or a particular research effort. However, there are few institutional and personal incentives to develop generalizable research software, package this software for reuse, create meaningful documentation, and share software in open repositories.
 Each of these activities requires substantial investments of time, money, and effort.
+
 For researchers the return on this investment may be minimal - software is rarely cited in scholarly literature [@howison2016software; @hwang2017software; @hsu2019comparing; @park2019research], tenure and promotion committees rarely consider software contributions [@moher2018assessing], and grant funding often acknowledges software development as a byproduct of rather than a substantive contribution to a research project [@broman2017recommendations; @siepel2019challenges].  
 
 These challenges are despite increasing evidence of the value of software sharing and reuse in addressing research challenges that require fast and efficient community response.
 For example, the Medical Research Center in the UK is currently using a 13 year old pandemic simulation codebase to model control measures for COVID-19.
 In doing so, they’ve attracted collaborators from Microsoft, the Abdul Latif Jameel Institute for Disease and Emergency Analytics, and the WHO Collaborating Centre for Infectious Disease Modelling to document, refactor, and extend this code.
-While the original author of the simulation code acknowledged its numerous imperfections ^[See [Sean Furguson’s tweet](https://twitter.com/neil_ferguson/status/1241835454707699713) for an extended commentary], the ability to start from an existing working model saved time, money, and effort in combating a global pandemic. 
+While the original author of the simulation code acknowledged its numerous imperfections ^[See [Neil Furguson’s tweet](https://twitter.com/neil_ferguson/status/1241835454707699713) for an extended commentary], the ability to start from an existing working model saved time, money, and effort in combating a global pandemic.
 
 Contemporary research is littered with similar examples - imperfect software that is valuable for one purpose can be made more broadly useful by being shared, properly documented, and made available for sustainable reuse.
 Finding ways to encourage and support research software so that it remains accessible for future improvements and uses is a primary goal of URSSI.
-But, there currently exists little guidance for how a single research software project can transition from the individual efforts of a small set of researchers to a distributed open model of development that attracts and retains valuable communities of contributors [@howison2015sustaining]. 
+But, there currently exists little guidance for how a single research software project can transition from the individual efforts of a small set of researchers to a distributed open model of development that attracts and retains valuable communities of contributors [@howison2015sustaining].
 
 Open source models are a helpful, but not the only, reference for the forms of cooperative community organizing that we believe will be valuable to developing a more sustainable research software ecosystem.
 An open-source model has some basic features for community development that are necessary for sustainable research software: code is openly licensed for reuse, members are distributed across time and space, and the organization of development efforts depend, in part, upon loosely connected individuals making small contributions (or peer-production) ^[ See the Open Source guide on [building community](https://opensource.guide/building-community/)].
@@ -43,35 +41,36 @@ Underdeveloped documentation is true of all software development ^[In GitHub’s
 Maintenance includes solving problems introduced by operating system changes, code defects, and evolving software to meet emerging user requirements [@bourque2004swebok].
 Open-source projects often face practical challenges in attracting and retaining maintainers.
 Previous empirical studies show that many projects on GitHub, for example, have only 1 maintainer [@eghbal2016roads].
-Recent surveys of developers report that up to 86% of projects have no maintainer [@coelho2017modern]. 
+Recent surveys of developers report that up to 86% of projects have no maintainer [@coelho2017modern].
 
 - **Licensing** is a key feature defining an open-source model of software development.
 But, developers often have a difficult time making licensing decisions without consultation of legal experts.
 A recent survey makes this point clear - up to 38% (n=375) of experienced developers were not able to select an appropriate license given a scenario in which they were asked to identify an appropriate license for a given software library [@almeida2017software].
-Developers' understanding of how to interpret licensing restrictions also significantly decreased in scenarios where multiple licenses were required. 
+Developers' understanding of how to interpret licensing restrictions also significantly decreased in scenarios where multiple licenses were required.
 
 For software projects that have the potential to broadly impact research communities, we believe that, at minimum, there should be greater support for making decisions about governance and licensing, and assistance in creating useful documentation that can attract new contributors or ease maintenance tasks.
-Rather than simply creating a guidebook or articulating best practices for adopting open-source models of software development, a meaningful intervention for URSSI could include close interaction with and service to research software development projects that seek a route towards sustainability through community engagement and collaboration. 
+Rather than simply creating a guidebook or articulating best practices for adopting open-source models of software development, a meaningful intervention for URSSI could include close interaction with and service to research software development projects that seek a route towards sustainability through community engagement and collaboration.
 
-## Incubators background 
+## Incubators background
 Incubators or business accelerators are a common way for venture capitalists to support  entrepreneurs and “start-up” companies attempting to break into a new market.
 These types of incubator programs often provide mentorship as well as fiscal support for a founder or product owner to identify market fit, build out or expand software features, and develop a network of interested stakeholders.
 Successful graduation or exit from a start-up incubator is viewed as securing funding or launching a new product (often with a culminating event where the founder / product owner “pitches” the product to potential investors).
-Successful start-up incubators like [Tech stars](http://www.techstars.com/) or [Y Combinator](https://www.ycombinator.com/) have designed processes for attracting, evaluating, and helping promising software-based projects achieve financial success. Y combinator for example has successfully graduated over 2000 companies that collectively have a market valuation over $155 billion. 
+Successful start-up incubators like [Tech stars](http://www.techstars.com/) or [Y Combinator](https://www.ycombinator.com/) have designed processes for attracting, evaluating, and helping promising software-based projects achieve financial success. Y combinator for example has successfully graduated over 2000 companies that collectively have a market valuation over $155 billion.
 
-Open source incubators are less common.
-The most successful and long running is the Apache Software Foundation incubator, which provides a well documented process for software projects wishing to become part of the Apache Foundation.
+Open source incubators are less common. Perhaps the most successful and long running open-source incubator is by the [Apache Software Foundation](https://incubator.apache.org/), which provides a well documented process for software projects wishing to become part of the Apache Foundation [@schweik2012internet].
 Similar to a start-up incubator, the Apache model of incubation includes a project mentor and dedicated resources (infrastructure) for projects to develop releases of their software that comply with the Apache Foundation's standards.
-Success, or graduation, in the Apache incubator is thus dependent upon making two consecutive software releases that are evaluated, and ultimately accepted by Apache developers. 
+Success, or graduation, in the Apache incubator is thus dependent upon making two consecutive software releases that are evaluated, and ultimately accepted by Apache developers.
 
 Through conceptualization activities, notably community workshops, we began to formulate a plan for *incubating* research software projects that would focus specifically on providing project developers time and support to improve the sustainability of their software projects.
 A research software incubator would help projects identify and make strategic decisions about governance, assist research projects in creating valuable documentation, and strategically plan for transitions from individual or small teams to fostering a community of contributors and maintainers.
 
 We believe that a research software incubator should have features similar to start-up and existing open-source incubators, but also should differ in appreciable ways.
+
 First, we do not intend successful graduation or exit to be based solely on funding or code acceptance into a particular foundation structure.
 Start-up incubators in particular focus on software development as a means to a company being acquired or receiving a large investment for future development.
 Instead of focusing solely on growth for funding, we see a research software incubator model as providing the necessary time, mentorship, and financial support that will help a promising software project make decisions about how to improve the sustainability of their software and their project organization.
 Second, and importantly, start-up incubators often provide financial support for founders to dedicate all of their time and attention to a project’s successful graduation. This level of financial support is likely infeasible for URSSI.
+
 Additionally, most researchers would have a very difficult time in dropping all other responsibilities at their institution to focus solely on a single software project that doesn’t have the potential for a significant financial return on their investment of time and effort.
 Therefore, we believe it is important to design a research software sustainability incubator in which a researcher can complete it with a small amount of effort and mentorship from the URSSI community.
 We do not not expect that URSSI Incubator activities can or should be a project team’s only focus.  
@@ -80,9 +79,9 @@ We do not not expect that URSSI Incubator activities can or should be a project 
 Our plan addresses problems related to credit, reward, and acknowledgement of research software development activities in its Policy area.
 The URSSI Incubator proposal aims to provide multiple alternative pathways to sustainability through mentorship, project development advice or guidance, and strategic planning for governance.
 We seek to help projects that show promise in solving general research problems mature, both the code and the project itself, in ways that are valuable to a broad community of potential users.
-In doing so, we believe there is an opportunity to  increase the sustainability of research software. 
+In doing so, we believe there is an opportunity to  increase the sustainability of research software.
 
-The broad goals of the URSSI Incubator program are: 
+The broad goals of the URSSI Incubator program are:
 
 1. Provide the social and technical infrastructure to help research software projects become more sustainable.
 For projects that are growing, support will focus on how to achieve this growth in manageable ways.
@@ -90,26 +89,26 @@ For projects that are already at a community level of contribution and developme
 
 2. Provide research software projects, at various points in the development lifecycle, the opportunity to improve their development and organizational practices so as to mature, or develop, in ways that are broadly valuable to scholarship.
 
-3. Provide an alternative to academic technology transfer offices for scholarly research software that is focused not on commercialization but on a transition to open-source community models.
-Technology transfer programs at universities and through research funding agencies (e.g. I-Corps, SBIR/STTR) are well established and have been successful at helping entrepreneurially-focused software projects recognize and execute viable business models.
-This transition pathway is promoted for software that has a potential to sustain itself through fees or licensing agreements.
-However, there is no equivalent university guidance for software projects that would like to pursue non-commercial open source models for sustainability. 
+3. Provide an alternative to academic technology transfer offices. We believe there is an emerging need for guidance to scholarly research software projects that us focused not on commercialization but on a transition to open-source community models.
+Technology transfer programs at universities and through research funding agencies (e.g. I-Corps, SBIR/STTR) are well established and have been successful at helping entrepreneurially-focused software projects recognize and execute viable business models. More recent examples of this model have focused on transition pathways towards openness, with a  particular focus on open-source (e.g. the [Open@RIT](https://www.rit.edu/research/open) program at Rochester Institute of Technology)
+The commercial transition pathway is promoted for software that has the potential to sustain itself through fees or licensing agreements.
+However, there are currently few equivalent university guidance for software projects that would like to pursue non-commercial open source models for sustainability.
 
 4. Provide guidance and mentorship in best practices for development, licensing, project coordination, and advice for funding to projects wishing to grow into community software projects.
 This component of the Incubator will draw upon expertise and guidance that is developed in URSSI’s Education and Policy areas.  
 
-## Incubator resources 
+## Incubator resources
 
 Personnel  
 
-- 0.5 FTE Program Director shared with Education + Teaching, Policy, or Communications 
-- 1 FTE Program Lead. This individual would be in charge of coordinating the application and selection process, administering incubated projects, tracking success, coordinating an Incubator Advisory Board (described in detail below), and acting as the URSSI Incubator project manager. 
-- Advisory Board (Volunteers). A group of senior researchers and software engineers who can offer strategic guidance to the Incubator program for meeting targeted goals. 
-- Project Mentors (Volunteers + Graduated projects). Provide intensive, one on one mentoring to research software projects based on existing expertise in a discipline, software language, stage of development, or other criteria of compatibility. 
+- 0.5 FTE Program Director shared with Education + Teaching, Policy, or Communications
+- 1 FTE Program Lead. This individual would be in charge of coordinating the application and selection process, administering incubated projects, tracking success, coordinating an Incubator Advisory Board (described in detail below), and acting as the URSSI Incubator project manager.
+- Advisory Board (Volunteers). A group of senior researchers and software engineers who can offer strategic guidance to the Incubator program for meeting targeted goals.
+- Project Mentors (Volunteers + Graduated projects). Provide intensive, one on one mentoring to research software projects based on existing expertise in a discipline, software language, stage of development, or other criteria of compatibility.
 
-Additional Resources that may be valuable for an incubator program to succeed: 
+Additional Resources that may be valuable for an incubator program to succeed:
 
-- Annual Incubator showcase, or a “demo day”,  for projects that have successfully graduated or exited the URSSI’s program. This activity could be part of a larger URSSI annual event that coordinates the community dedicated to software sustainability. Invitations to this event would be extended to public and private funders who may see an overlap with their own programs during pitches. This can result in matchmaking between projects and funders. 
+- Annual Incubator showcase, or a “demo day”,  for projects that have successfully graduated or exited the URSSI’s program. This activity could be part of a larger URSSI annual event that coordinates the community dedicated to software sustainability. Invitations to this event would be extended to public and private funders who may see an overlap with their own programs during pitches. This can result in matchmaking between projects and funders.
 - Incubated project funding: Monetary (or in-kind service) award for projects that will be given a budget to advance goals during a period of “incubation”. Each project should receive a similar allocation of money. This money would be similar to how the SSI currently funds research fellows at a standard rate across their period of engagement. The money could be discretionary to the project so that it could be used for travel, advocacy, website development, assistance in writing documentation, etc.   
 
 ## Incubator methods
@@ -120,21 +119,21 @@ In the following subsections we describe the intended processes for running each
 
 We view the Incubator as a single activity from the point-of-view of impact, and it is aimed at both the research software sustainability and people and careers  portions of URSSI's impact goals.
 
-### Project solicitation and selection: 
+### Project solicitation and selection:
 The URSSI Incubator will solicit proposals for projects three months in advance of the formation of a new incubator cohort.
 A cohort will consist of a minimum of five projects that will go through the incubator activities (described below) at the same time.
-The cohort model enables a network effect and should allow URSSI to scale incubator activities appropriate to the personnel and resources available. 
+The cohort model enables a network effect and should allow URSSI to scale incubator activities appropriate to the personnel and resources available.
 
 The incubator application will ask a project to identify its goals for developing, growing, improving development practices, and/or maturing a software product in some targeted way, as well as a description of the limitations preventing the project from making the software useful beyond a small community.
 The application will ask project leaders to clearly articulate the problem the software is trying to solve and provide evidence of the need for a generalizable solution that will serve a broad community of users and the potential to attract new contributors, and how the project is contributing to diversity.
 The project lead (defined below) should also clearly state how or if the project is seeking to transition to a new model of development.
 Acceptance into the URSSI Incubator will not require the project to be seeking a transition or an attempt at growth per se.
-We are designing the incubator to be accomodating to software projects that seek either a shift or change in development models or to solidify and establish best practices within an existing model of development. 
+We are designing the incubator to be accomodating to software projects that seek either a shift or change in development models or to solidify and establish best practices within an existing model of development.
 
 In short, the Incubator will select projects based on their potential to:
 
 - Address a demonstrated or emerging need in scholarship
-- Organize development in an open-source or equivalent model 
+- Organize development in an open-source or equivalent model
 - Attract and sustain a developer community
 - Contribute to diversity
 - Benefit from a network of URSSI mentors  
@@ -143,27 +142,27 @@ The URSSI Incubator Selection Committee will select projects on a semi-annual ba
 This committee will include a mix of URSSI staff including the Program Lead (described above), URSSI steering committee / senior personnel members, and selected external URSSI community members such as recognized leaders in open-source research software as well as previous incubator participants.
 Selection committee members will serve a two year term, with some initial members serving either a 1 or 3 year term to guarantee continuity.
 In this way, no more than 50% of the committee will change in a given year.
-The advisory board will also conduct incubator project evaluations (described below). 
+The advisory board will also conduct incubator project evaluations (described below).
 
 Over time, there may be an opportunity to build cohorts around a particular theme, a point in development, a particular software language, or even sponsorship by a particular funding agency.
 For example, URSSI might be contracted by the Alfred P. Sloan Foundation to run a cohort of projects that have been funded and are potentially in need of guidance.
-For the initial cohorts we plan to simply run an open call for applications and select, as stated above, at least five projects per year. 
+For the initial cohorts we plan to simply run an open call for applications and select, as stated above, at least five projects per year.
 
-### Project entry 
-Selection as a participant in an URSSI incubator cohort will require at minimum: 
+### Project entry
+Selection as a participant in an URSSI incubator cohort will require at minimum:
 
 1. A project lead who is responsible for completing incubator activities in a timely manner and managing any funding allocated to the project.
 The project lead would be the equivalent of the PI on a funded grant.
-The project lead is further responsible for coordinating activities and communicating with the URSSI incubator program administrator. 
+The project lead is further responsible for coordinating activities and communicating with the URSSI incubator program administrator.
 
   - Importantly, URSSI will not be prescriptive as to who can play the role of a project lead.
   A project lead could be anyone - a senior student who worked on the code and wants to make the project more sustainable, a PI or co-PI of grant (but not assuming the PI will stop being a researcher to be a software developer), or a dedicated contributor to a project that seeks a more permanent leadership role.
   This model could resemble the NSF’s [I-Corps program](https://www.nsf.gov/news/special_reports/i-corps/), which focuses on transitioning promising technologies to commercialization, but instead be focused on a transition to sustainable open-source.
-  We see the project lead as beneficial to the individual: recognition of making it into the URSSI Incubator program can then be their badge of merit to helping to secure promotion or preparing the lead for future positions of leadership. 
+  We see the project lead as beneficial to the individual: recognition of making it into the URSSI Incubator program can then be their badge of merit to helping to secure promotion or preparing the lead for future positions of leadership.
 
 2. An identified and dedicated mentor (from the URSSI community) who will strategically offer advice and guidance through the set of activities described below.
 A mentor should not be seen as administrative support, but instead a trusted person for whom the project team can consult when making decisions.
-In the Apache incubation model, this mentor role is often described as critical to a project’s ultimate success in graduating from incubation. 
+In the Apache incubation model, this mentor role is often described as critical to a project’s ultimate success in graduating from incubation.
 
 3. A code repository that is openly accessible.
 The repository should be a central hub where documentation (e.g., contributor guidance, governance, licensing, etc.), code, reviews, and issue tracking can take place.  
@@ -171,13 +170,13 @@ The repository should be a central hub where documentation (e.g., contributor gu
 ### Incubator activities
 After projects join an Incubator cohort, URSSI will match them with a project mentor.
 The mentor will help guide the project through the Incubator activities described in this subsection.
-The mentor will further evaluate and offer feedback on the successful completion of each activity. 
- 
+The mentor will further evaluate and offer feedback on the successful completion of each activity.
+
 URSSI Incubator activities will likely be consistent across each cohort.
-In preparation for a new cohort entering the incubator, the Program Lead will publish an URSSI Incubator Cookbook (similar to the Apache Model) that describes the activities, expectations for project leaders, and evaluation metrics. 
+In preparation for a new cohort entering the incubator, the Program Lead will publish an URSSI Incubator Cookbook (similar to the Apache Model) that describes the activities, expectations for project leaders, and evaluation metrics.
 
 Below are activities that we imagine to be consistent across each cohort.
-These activities are not chronologically organized - a project can work on any of these activities at any time in their period of incubation. 
+These activities are not chronologically organized - a project can work on any of these activities at any time in their period of incubation.
 
 ![A general depiction of how the URSSI Incubator may be organized](images/URSSI-Incubator.jpg)
 
@@ -185,38 +184,38 @@ These activities are not chronologically organized - a project can work on any o
 The project lead will, under the guidance of the mentor and program lead, establish a formal definition of roles that a project member is to play.
 If a project already has a set of predefined roles then those roles will be reviewed for improvement, and formally documented.  
 
-- Roles will likely be similar across projects, but can and should leave some room for interpretation depending on the maturity of the project and the project’s stated goals. 
-- Formally defining roles within the project is meant to ensure transparency, encourage participation, and efficacy in onboarding new or explaining the expectations for contributing to a project. As an example, Node.JS defines [three](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951) roles for a project’s governance: 
+- Roles will likely be similar across projects, but can and should leave some room for interpretation depending on the maturity of the project and the project’s stated goals.
+- Formally defining roles within the project is meant to ensure transparency, encourage participation, and efficacy in onboarding new or explaining the expectations for contributing to a project. As an example, Node.JS defines [three](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951) roles for a project’s governance:
   - A *Contributor* is any individual creating or commenting on an issue or pull request
   - A *Committer* is a subset of contributors who have been given write access to the repository
   - A *TC (Technical Committee)* is a group of committers representing the required technical expertise to resolve rare disputes
 
 **Project governance**               
 In addition to defining roles, the project lead will, under the guidance of the mentor and Program Lead, establish a model of governing the project that is clear about expectations in how decisions are made, establishing a roadmap or release schedule, and adjudicating disputes that may arise.
-(Note: URSSI does not have to develop this guidance from scratch, but can modify and adapt [existing guides](https://opensource.guide/leadership-and-governance/) for research software. 
+(Note: URSSI does not have to develop this guidance from scratch, but can modify and adapt [existing guides](https://opensource.guide/leadership-and-governance/) for research software.
 
 In addition, a governance model should also include:
 
-- Code of conduct - which can follow existing [best practice recommendations](https://opensource.guide/code-of-conduct/ as a guide) 
-- Process and expectation for citing software, acknowledging use, and authoring papers related to the project, including how credit should be given to different  project contributors. (Jupyter has a very good [model](https://github.com/jupyter/governance/blob/master/papers.md) for this governance documentation) 
+- Code of conduct - which can follow existing [best practice recommendations](https://opensource.guide/code-of-conduct/ as a guide)
+- Process and expectation for citing software, acknowledging use, and authoring papers related to the project, including how credit should be given to different  project contributors. (Jupyter has a very good [model](https://github.com/jupyter/governance/blob/master/papers.md) for this governance documentation)
 
-A key component of the governance model will be selecting a license which dictates the proper uses of the intellectual property of the project. 
+A key component of the governance model will be selecting a license which dictates the proper uses of the intellectual property of the project.
 
 **Establishing best (or good enough) software engineering practices**            
 This components of the incubator will be provided by the URSSI Education & Training area, and include, but not limited to activities such as:
 
 - Version control management
-- Test coverage and code integration 
-- Code reviews 
-- Issue templates and tracking 
+- Test coverage and code integration
+- Code reviews
+- Issue templates and tracking
 - Software design
 - Release management
 
 **Documentation**              
-Incubator activities around creating or improving documentation related to a software project will include guidance for creating helpful ReadMe files (e.g. WriteTheDocs' [recommendations](https://www.writethedocs.org/videos/na/2016/write-the-readable-readme-daniel-beck/)) on readable readme documentation], project descriptions, creating style guides for documentation, and review of documentation with a technical writer. 
+Incubator activities around creating or improving documentation related to a software project will include guidance for creating helpful ReadMe files (e.g. WriteTheDocs' [recommendations](https://www.writethedocs.org/videos/na/2016/write-the-readable-readme-daniel-beck/)) on readable readme documentation], project descriptions, creating style guides for documentation, and review of documentation with a technical writer.
 
 **Project funding & financial planning**                
-The project team should develop a policy for accepting donations, managing funds, seeking grants, etc. After a project lead formalizes this policy, it should be added to the governance documentation. 
+The project team should develop a policy for accepting donations, managing funds, seeking grants, etc. After a project lead formalizes this policy, it should be added to the governance documentation.
 
 **Project evaluation**                
 Projects would, under the guidance of the program lead and mentors, establish appropriate metrics to track (e.g. following guidance from the open source handbook on [metrics](https://opensource.guide/metrics/)).
@@ -224,8 +223,8 @@ Guidance on this work will be informed by the metrics work URSSI is engaged in t
 These metrics could include a number of potential evaluations:
 
 - Discovery - CodeMeta or appropriate metadata is created for the repository to be discovered and reused
-- Usage - formal citations, stars or forks on GitHub, etc. 
-- Contribution / Maintenance 
+- Usage - formal citations, stars or forks on GitHub, etc.
+- Contribution / Maintenance
 - Retention of contributors or maintainers
 
 ### Project graduation or exit             
@@ -240,31 +239,34 @@ Graduation from the Incubator should send a positive signal about the sustainabi
 Similar to other incubator programs (e.g. YC, or Apache) graduation should be viewed as a significant achievement in itself.   
 
 ### Relationship to funding and external awards                
+
 An incubated project could have a relationship to external funding or funders in a variety of ways.
 Most significantly, we view the incubator as a potential matchmaker between promising research software projects and potential funders.
 Thus, funders will be invited and are an important participant in the Incubator showcase or graduate events.
+
 Successfully graduating from the incubator program should act as an informal signal to funders that the project has the potential for further investment.
 In this scenario, completing the URSSI Incubator would act as an informal quality check.
 Funders would have greater assurance about the potential for a project to succeed, for funding new directions of the project, or potentially funding an institution or group around the project so as to better support sustainability.
 
 ## Incubator metrics/milestones               
-For Incubated projects there will be two periods of evaluation. 
+For Incubated projects there will be two periods of evaluation.
 
 Short-term evaluation (1-2 years):
 
 - Increase in the number of mentions in research projects on GitHub, publications, and software dependencies compared to other research software of similar age.
 - Increase in the number of GitHub stars, forks, downloads (from package managers) relative to other projects of similar age that have not gone through the incubation process.
-- Improvement in codebase, documentation, governance, licensing, or strategic planning. This improvement can be defined with project mentors that set specific targets or goals for individual projects. 
+- Improvement in codebase, documentation, governance, licensing, or strategic planning. This improvement can be defined with project mentors that set specific targets or goals for individual projects.
 
-Long-term evaluation (3-5 years): 
+Long-term evaluation (3-5 years):
 
 - Number of projects that attract follow-on funding
 - Persistence - This could be measured by the number of projects that continue to exist 5 years from incubator graduation, software that has regular contributions or updates to the repository, and active maintainers that have been identified as part of the project for different stages of development.  
-- Attracted contributors - This could be measured over a portion of time that looks at commit history of different individuals contributing to a repository. 
+- Attracted contributors - This could be measured over a portion of time that looks at commit history of different individuals contributing to a repository.
+- Returning Mentors - This could be measured by mentors who had graduated the incubator and return to provide guidance and help to new incubator projects.
 
-For the Incubator program evaluation may include any of the following: 
+For the Incubator program evaluation may include any of the following:
 
-- In years 1-3 URSSI will select at least 15 projects for incubation. The program should be evaluated based on the success of projects’ graduating from the Incubator, and whether or not those projects meet both short and long term milestones (as described above).  
+- In years 1-3 URSSI will select at least 15 projects (~ 5 per year) for incubation. The program should be evaluated based on the success of projects’ graduating from the Incubator, and whether or not those projects meet both short and long term milestones (as described above).  
 - Funders participation (i.e., that the program attracts funded projects to enter and exit URSSI Incubator)  
 
 **Impacts:**
