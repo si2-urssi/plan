@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 2 URSSI Conceptualization | URSSI Implementation Plan</title>
+  <meta name="description" content="Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute." />
+  <meta name="generator" content="bookdown 0.21.4 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 2 URSSI Conceptualization | URSSI Implementation Plan" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute." />
+  <meta name="github-repo" content="si2-urssi/plan" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 2 URSSI Conceptualization | URSSI Implementation Plan" />
+  <meta name="twitter:site" content="@si2-urssi" />
+  <meta name="twitter:description" content="Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute." />
+  
+
+<meta name="author" content="Karthik Ram" />
+<meta name="author" content="Jeffrey Carver" />
+<meta name="author" content="Sandra Gesing" />
+<meta name="author" content="Daniel S. Katz" />
+<meta name="author" content="Nic Weber" />
+
+
+<meta name="date" content="2020-11-13" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="intro.html"/>
+<link rel="next" href="chapter3.html"/>
+<script src="libs/header-attrs-2.5/header-attrs.js"></script>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0/anchor-sections.js"></script>
+<script src="https://hypothes.is/embed.js" async></script>
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">URSSI Implementation Plan</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Welcome</a></li>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="intro.html"><a href="intro.html#nature-of-the-problem"><i class="fa fa-check"></i><b>1.1</b> Nature of the problem</a></li>
+<li class="chapter" data-level="1.2" data-path="intro.html"><a href="intro.html#valuing-producers-of-research-software"><i class="fa fa-check"></i><b>1.2</b> Valuing producers of research software</a></li>
+<li class="chapter" data-level="1.3" data-path="intro.html"><a href="intro.html#why-we-ran-this-conceptualization"><i class="fa fa-check"></i><b>1.3</b> Why we ran this conceptualization</a></li>
+<li class="chapter" data-level="1.4" data-path="intro.html"><a href="intro.html#what-we-plan-to-do-and-why"><i class="fa fa-check"></i><b>1.4</b> What we plan to do and why</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="chapter2.html"><a href="chapter2.html"><i class="fa fa-check"></i><b>2</b> URSSI Conceptualization</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="chapter2.html"><a href="chapter2.html#workshops"><i class="fa fa-check"></i><b>2.1</b> Workshops</a></li>
+<li class="chapter" data-level="2.2" data-path="chapter2.html"><a href="chapter2.html#website-newsletter-blog"><i class="fa fa-check"></i><b>2.2</b> Website / Newsletter/ Blog</a></li>
+<li class="chapter" data-level="2.3" data-path="chapter2.html"><a href="chapter2.html#survey"><i class="fa fa-check"></i><b>2.3</b> Survey</a></li>
+<li class="chapter" data-level="2.4" data-path="chapter2.html"><a href="chapter2.html#ethnography"><i class="fa fa-check"></i><b>2.4</b> Ethnography</a></li>
+<li class="chapter" data-level="2.5" data-path="chapter2.html"><a href="chapter2.html#chapter2-WinterSchool"><i class="fa fa-check"></i><b>2.5</b> Winter School</a></li>
+<li class="chapter" data-level="2.6" data-path="chapter2.html"><a href="chapter2.html#joint-activities"><i class="fa fa-check"></i><b>2.6</b> Joint Activities</a>
+<ul>
+<li class="chapter" data-level="2.6.1" data-path="chapter2.html"><a href="chapter2.html#research-software-alliance-resa"><i class="fa fa-check"></i><b>2.6.1</b> Research Software Alliance (ReSA)</a></li>
+<li class="chapter" data-level="2.6.2" data-path="chapter2.html"><a href="chapter2.html#research-software-engineering-rse"><i class="fa fa-check"></i><b>2.6.2</b> Research Software Engineering (RSE)</a></li>
+</ul></li>
+<li class="chapter" data-level="2.7" data-path="chapter2.html"><a href="chapter2.html#synthesis-of-urssi-activities"><i class="fa fa-check"></i><b>2.7</b> Synthesis of URSSI Activities</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="chapter3.html"><a href="chapter3.html"><i class="fa fa-check"></i><b>3</b> URSSI Plan</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="chapter3.html"><a href="chapter3.html#mission-and-vision"><i class="fa fa-check"></i><b>3.1</b> Mission and Vision</a></li>
+<li class="chapter" data-level="3.2" data-path="chapter3.html"><a href="chapter3.html#planning-assumptions-methods-and-principles"><i class="fa fa-check"></i><b>3.2</b> Planning assumptions, methods, and principles</a></li>
+<li class="chapter" data-level="3.3" data-path="chapter3.html"><a href="chapter3.html#partners"><i class="fa fa-check"></i><b>3.3</b> Partners</a></li>
+<li class="chapter" data-level="3.4" data-path="chapter3.html"><a href="chapter3.html#desired-impact"><i class="fa fa-check"></i><b>3.4</b> Desired impact</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="Ch-Comm.html"><a href="Ch-Comm.html"><i class="fa fa-check"></i><b>4</b> Community &amp; Outreach</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="Ch-Comm.html"><a href="Ch-Comm.html#community-outreach-resources"><i class="fa fa-check"></i><b>4.1</b> Community &amp; Outreach Resources</a></li>
+<li class="chapter" data-level="4.2" data-path="Ch-Comm.html"><a href="Ch-Comm.html#community-outreach-methods"><i class="fa fa-check"></i><b>4.2</b> Community &amp; Outreach Methods</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="Ch-Comm.html"><a href="Ch-Comm.html#fellowship-program"><i class="fa fa-check"></i><b>4.2.1</b> Fellowship Program</a></li>
+<li class="chapter" data-level="4.2.2" data-path="Ch-Comm.html"><a href="Ch-Comm.html#in-person-events"><i class="fa fa-check"></i><b>4.2.2</b> In-person events</a></li>
+<li class="chapter" data-level="4.2.3" data-path="Ch-Comm.html"><a href="Ch-Comm.html#online-community-events"><i class="fa fa-check"></i><b>4.2.3</b> Online community events</a></li>
+<li class="chapter" data-level="4.2.4" data-path="Ch-Comm.html"><a href="Ch-Comm.html#Ch-Comm-Best-Practices"><i class="fa fa-check"></i><b>4.2.4</b> Curating and disseminating best practices</a></li>
+<li class="chapter" data-level="4.2.5" data-path="Ch-Comm.html"><a href="Ch-Comm.html#newsletter-and-social-media"><i class="fa fa-check"></i><b>4.2.5</b> Newsletter and social media</a></li>
+<li class="chapter" data-level="4.2.6" data-path="Ch-Comm.html"><a href="Ch-Comm.html#other-activities"><i class="fa fa-check"></i><b>4.2.6</b> Other activities</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="Ch-Comm.html"><a href="Ch-Comm.html#community-outreach-assessment-and-metrics"><i class="fa fa-check"></i><b>4.3</b> Community &amp; Outreach Assessment and Metrics</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="Ch-Edu.html"><a href="Ch-Edu.html"><i class="fa fa-check"></i><b>5</b> Education &amp; Training</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="Ch-Edu.html"><a href="Ch-Edu.html#education-training-resources"><i class="fa fa-check"></i><b>5.1</b> Education &amp; Training resources</a></li>
+<li class="chapter" data-level="5.2" data-path="Ch-Edu.html"><a href="Ch-Edu.html#education-training-methods"><i class="fa fa-check"></i><b>5.2</b> Education &amp; Training methods</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="Ch-Edu.html"><a href="Ch-Edu.html#develop-and-annually-run-a-summer-school-on-practices-for-sustainable-software-development-for-research-software"><i class="fa fa-check"></i><b>5.2.1</b> Develop and annually run a summer school on practices for sustainable software development for research software</a></li>
+<li class="chapter" data-level="5.2.2" data-path="Ch-Edu.html"><a href="Ch-Edu.html#develop-a-research-project-carpentry-lesson-program-that-teaches-people-how-to-turn-code-into-a-formal-project"><i class="fa fa-check"></i><b>5.2.2</b> Develop a Research Project Carpentry lesson program that teaches people how to turn code into a formal project</a></li>
+<li class="chapter" data-level="5.2.3" data-path="Ch-Edu.html"><a href="Ch-Edu.html#plan-a-review-service-for-software-project-plans"><i class="fa fa-check"></i><b>5.2.3</b> Plan a review service for software project plans</a></li>
+<li class="chapter" data-level="5.2.4" data-path="Ch-Edu.html"><a href="Ch-Edu.html#evaluate-and-document-successes-and-failures-of-the-use-of-industrial-software-development-practices-in-research-software"><i class="fa fa-check"></i><b>5.2.4</b> Evaluate and document successes and failures of the use of industrial software development practices in research software</a></li>
+<li class="chapter" data-level="5.2.5" data-path="Ch-Edu.html"><a href="Ch-Edu.html#compile-and-maintain-a-body-of-knowledge-of-best-practices-for-research-software-development"><i class="fa fa-check"></i><b>5.2.5</b> Compile and maintain a body of knowledge of best practices for research software development</a></li>
+</ul></li>
+<li class="chapter" data-level="5.3" data-path="Ch-Edu.html"><a href="Ch-Edu.html#cross-cutting-activities"><i class="fa fa-check"></i><b>5.3</b> Cross-cutting activities</a></li>
+<li class="chapter" data-level="5.4" data-path="Ch-Edu.html"><a href="Ch-Edu.html#education-training-metricsmilestones"><i class="fa fa-check"></i><b>5.4</b> Education &amp; Training metrics/milestones</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html"><i class="fa fa-check"></i><b>6</b> Incubator</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#background"><i class="fa fa-check"></i><b>6.1</b> Background</a></li>
+<li class="chapter" data-level="6.2" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#evidence-base"><i class="fa fa-check"></i><b>6.2</b> Evidence base</a></li>
+<li class="chapter" data-level="6.3" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#incubators-background"><i class="fa fa-check"></i><b>6.3</b> Incubators background</a></li>
+<li class="chapter" data-level="6.4" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#urssi-incubator"><i class="fa fa-check"></i><b>6.4</b> URSSI Incubator</a></li>
+<li class="chapter" data-level="6.5" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#incubator-resources"><i class="fa fa-check"></i><b>6.5</b> Incubator resources</a></li>
+<li class="chapter" data-level="6.6" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#incubator-methods"><i class="fa fa-check"></i><b>6.6</b> Incubator methods</a>
+<ul>
+<li class="chapter" data-level="6.6.1" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#project-solicitation-and-selection"><i class="fa fa-check"></i><b>6.6.1</b> Project solicitation and selection:</a></li>
+<li class="chapter" data-level="6.6.2" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#project-entry"><i class="fa fa-check"></i><b>6.6.2</b> Project entry</a></li>
+<li class="chapter" data-level="6.6.3" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#incubator-activities"><i class="fa fa-check"></i><b>6.6.3</b> Incubator activities</a></li>
+<li class="chapter" data-level="6.6.4" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#project-graduation-or-exit"><i class="fa fa-check"></i><b>6.6.4</b> Project graduation or exit</a></li>
+<li class="chapter" data-level="6.6.5" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#relationship-to-funding-and-external-awards"><i class="fa fa-check"></i><b>6.6.5</b> Relationship to funding and external awards</a></li>
+</ul></li>
+<li class="chapter" data-level="6.7" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html#incubator-metricsmilestones"><i class="fa fa-check"></i><b>6.7</b> Incubator metrics/milestones</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="Ch-Policy.html"><a href="Ch-Policy.html"><i class="fa fa-check"></i><b>7</b> Policy</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="Ch-Policy.html"><a href="Ch-Policy.html#policy-resources"><i class="fa fa-check"></i><b>7.1</b> Policy resources</a>
+<ul>
+<li class="chapter" data-level="7.1.1" data-path="Ch-Policy.html"><a href="Ch-Policy.html#people"><i class="fa fa-check"></i><b>7.1.1</b> People</a></li>
+<li class="chapter" data-level="7.1.2" data-path="Ch-Policy.html"><a href="Ch-Policy.html#additional-resources"><i class="fa fa-check"></i><b>7.1.2</b> Additional resources</a></li>
+<li class="chapter" data-level="7.1.3" data-path="Ch-Policy.html"><a href="Ch-Policy.html#events-travel"><i class="fa fa-check"></i><b>7.1.3</b> Events &amp; travel</a></li>
+<li class="chapter" data-level="7.1.4" data-path="Ch-Policy.html"><a href="Ch-Policy.html#flexibility"><i class="fa fa-check"></i><b>7.1.4</b> Flexibility</a></li>
+</ul></li>
+<li class="chapter" data-level="7.2" data-path="Ch-Policy.html"><a href="Ch-Policy.html#policy-methods"><i class="fa fa-check"></i><b>7.2</b> Policy methods</a>
+<ul>
+<li class="chapter" data-level="7.2.1" data-path="Ch-Policy.html"><a href="Ch-Policy.html#aims"><i class="fa fa-check"></i><b>7.2.1</b> Aims</a></li>
+<li class="chapter" data-level="7.2.2" data-path="Ch-Policy.html"><a href="Ch-Policy.html#partners-1"><i class="fa fa-check"></i><b>7.2.2</b> Partners</a></li>
+<li class="chapter" data-level="7.2.3" data-path="Ch-Policy.html"><a href="Ch-Policy.html#planned-activity-pool"><i class="fa fa-check"></i><b>7.2.3</b> Planned Activity Pool</a></li>
+</ul></li>
+<li class="chapter" data-level="7.3" data-path="Ch-Policy.html"><a href="Ch-Policy.html#work-between-policy-and-other-urssi-areas"><i class="fa fa-check"></i><b>7.3</b> Work between Policy and other URSSI Areas</a></li>
+<li class="chapter" data-level="7.4" data-path="Ch-Policy.html"><a href="Ch-Policy.html#policy-metricsmilestones"><i class="fa fa-check"></i><b>7.4</b> Policy metrics/milestones</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="Ch-Org.html"><a href="Ch-Org.html"><i class="fa fa-check"></i><b>8</b> Management &amp; Coordination Area</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="Ch-Org.html"><a href="Ch-Org.html#work-packages"><i class="fa fa-check"></i><b>8.1</b> Work packages</a></li>
+<li class="chapter" data-level="8.2" data-path="Ch-Org.html"><a href="Ch-Org.html#management-structure-and-procedures"><i class="fa fa-check"></i><b>8.2</b> Management structure and procedures</a></li>
+<li class="chapter" data-level="8.3" data-path="Ch-Org.html"><a href="Ch-Org.html#project-management-team"><i class="fa fa-check"></i><b>8.3</b> Project Management Team</a>
+<ul>
+<li class="chapter" data-level="8.3.1" data-path="Ch-Org.html"><a href="Ch-Org.html#steering-committee"><i class="fa fa-check"></i><b>8.3.1</b> Steering Committee</a></li>
+<li class="chapter" data-level="8.3.2" data-path="Ch-Org.html"><a href="Ch-Org.html#pi"><i class="fa fa-check"></i><b>8.3.2</b> PI</a></li>
+<li class="chapter" data-level="8.3.3" data-path="Ch-Org.html"><a href="Ch-Org.html#leadership-team-pi-and-co-pis"><i class="fa fa-check"></i><b>8.3.3</b> Leadership Team (PI and Co-PIs)</a></li>
+<li class="chapter" data-level="8.3.4" data-path="Ch-Org.html"><a href="Ch-Org.html#work-package-leaders"><i class="fa fa-check"></i><b>8.3.4</b> Work Package Leaders</a></li>
+<li class="chapter" data-level="8.3.5" data-path="Ch-Org.html"><a href="Ch-Org.html#sustainability-officer"><i class="fa fa-check"></i><b>8.3.5</b> Sustainability Officer</a></li>
+<li class="chapter" data-level="8.3.6" data-path="Ch-Org.html"><a href="Ch-Org.html#diversity-officer"><i class="fa fa-check"></i><b>8.3.6</b> Diversity Officer</a></li>
+<li class="chapter" data-level="8.3.7" data-path="Ch-Org.html"><a href="Ch-Org.html#evaluator"><i class="fa fa-check"></i><b>8.3.7</b> Evaluator</a></li>
+</ul></li>
+<li class="chapter" data-level="8.4" data-path="Ch-Org.html"><a href="Ch-Org.html#risk-management"><i class="fa fa-check"></i><b>8.4</b> Risk management</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="Ch-Budget.html"><a href="Ch-Budget.html"><i class="fa fa-check"></i><b>9</b> Budget</a></li>
+<li class="chapter" data-level="10" data-path="Ch-Metrics.html"><a href="Ch-Metrics.html"><i class="fa fa-check"></i><b>10</b> Metrics and Evaluation</a></li>
+<li class="chapter" data-level="11" data-path="Ch-Summary.html"><a href="Ch-Summary.html"><i class="fa fa-check"></i><b>11</b> Final Words</a></li>
+<li class="chapter" data-level="" data-path="glossary.html"><a href="glossary.html"><i class="fa fa-check"></i>Glossary</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/si2-urssi/plan" target="blank">Published from GitHub</a> via bookdown</li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">URSSI Implementation Plan</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="chapter2" class="section level1" number="2">
+<h1><span class="header-section-number">Chapter 2</span> URSSI Conceptualization</h1>
+<p>The purpose of this conceptualization project was to create a roadmap for a US
+Research Software Sustainability Institute (URSSI). The roadmap was to be
+informed by and responsive to a community of potential stakeholders, including
+researchers, software developers and users, funders, and program / product managers.
+To engage this diverse group of people and institutions we completed the
+research described in this section including a series of workshops, community outreach and
+communication, a survey, set of ethnographic studies, and a pilot Winter School
+for early-career researchers. At the conclusion of this section we offer a
+summary of the challenges identified, collectively, across all of the URSSI
+conceptualization activities and what role we believe URSSI should play in
+addressing these challenges.</p>
+<center>
+<a href="https://plan.urssi.us/images/conceptualization_activities.jpg"><img src="images/conceptualization_activities.jpg" alt="FigName" /></a>
+</center>
+<div id="workshops" class="section level2" number="2.1">
+<h2><span class="header-section-number">2.1</span> Workshops</h2>
+<p><strong>Community wide workshops</strong>: In 2018 we held two community workshops with
+URSSI stakeholders in Berkeley (April) and Chicago (October). We invited participants
+based on their ability to represent diverse roles, institutions, and
+perspectives on research software. The general goal of the two community workshops
+was to determine which topics this diverse group of stakeholders consider to be
+well-understood, which topics still have uncertainty or a need for guidance, and what work
+remains to be done in supporting sustainable research software. URSSI PIs
+facilitated broad discussions and participated in small group breakout
+discussions. Additionally, participants at each workshop gave presentations
+about their on-going research software activities.</p>
+<p><strong>Thematic Workshops</strong>: Participants at the first community workshop identified
+two topics worthy of more focused discussion and community input.
+We organized the following workshops to better understand those topics:</p>
+<ul>
+<li><p>The <strong>Metrics, Credit and Citation Workshop</strong>, held in Santa Barbara,
+California in January 2019, focused on reseach software metrics, citation,
+and impact evaluatin. The 23 participants had strong expertise in the
+various workshop themes, including the PIs of the CodeMeta project, Zenodo,
+and software credit initiatives such as SourceCred.</p></li>
+<li><p>The <strong>Research Incubators Workshop</strong>, held in College Park, Maryland
+in February 2019, focused on methods for incubating new and existing research projects.
+The 20 participants had strong expertise in
+research software project development, including program officers from
+various government agencies, open-source research software developers,
+and organizational scholars that have studied research software processes.</p></li>
+</ul>
+<p><strong>URSSI Design Workshop</strong>: In April 2019 members of the Senior Personnel
+and Advisory Committees participated in a workshop in Chicago, IL. PIs
+presented preliminary results from our research (ethnographies and survey)
+as well as lessons learned from the four previously held URSSI workshops.</p>
+</div>
+<div id="website-newsletter-blog" class="section level2" number="2.2">
+<h2><span class="header-section-number">2.2</span> Website / Newsletter/ Blog</h2>
+<p>One of the major goals of the conceptualization project was to build awareness
+of the need for an institute, publicize our activities, and increase overall community interest.
+To achieve this goal, we used a <a href="http://urssi.us">website</a>, nine <a href="http://urssi.us/newsletter/">newsletters</a>,
+36 <a href="http://urssi.us/blog/">blog posts</a>, and a seires of public talks and webinars given
+by the PIs and others. We sent the newsletters to the URSSI email list, which consists
+of workshop attendees and other interested members of the community.
+We also publicized the newsletter and blog posts via the <a href="https://twitter.com/si2urssi/">URSSI twitter account</a>,
+which has over 500 followers.</p>
+</div>
+<div id="survey" class="section level2" number="2.3">
+<h2><span class="header-section-number">2.3</span> Survey</h2>
+<p>We developed and disseminated a survey to compliment workshop participation.
+The primary goal of the survey was to gather the opinions, preferences, and
+self-reported activities of the research software community regarding
+development practices, development tools, training, funding/institutional
+support, career paths, credit for software work, and diversity/inclusion.
+For each of these topics, we asked a small number of general questions and
+then allowed participants to self-select to answer more detailed questions
+about any area of particular interest. We distributed the survey to PIs of
+currently funded NSF and NIH projects and to relevant mailing lists. The
+survey closed in May 2019 after receiving approximately 1200 responses.</p>
+<p>The results of the survey highlighted some areas where URSSI could play a
+key role in advancing the sustainability of research software in the United States.</p>
+<ol style="list-style-type: decimal">
+<li><p>There was a mismatch between how respondents wanted to allocate their
+time and their actual allocation of time. This result provides an opportunity
+for URSSI to work with developers and teams to help them focus their efforts
+on the tasks that are most relevant.</p></li>
+<li><p>The aspects of the software development process respondents viewed as
+being more difficult than they should be tended to be people-related
+activities rather than technical activities. This result suggests that URSSI
+could support teams and developers by providing training and/or
+resources related to human factors in the software development process.</p></li>
+<li><p>Respondents indicated they use a number of software development practices.
+However, one key practice that was underutilized is peer code review. URSSI
+can provide training on peer code review and work with teams to ensure that
+the infrastructure is in place to appropriately support this activity in the
+research software space.</p></li>
+<li><p>The respondents indicated that software development practices including
+<em>requirements</em>, <em>design</em>, <em>maintenance</em>, and <em>documentation</em> were not
+well-supported by tools.</p></li>
+<li><p>In terms of version control, there is still a sizable percentage of
+people who use methods like <em>copying files to another location</em> and
+<em>zip file backups</em> as version control. This result suggests that URSSI
+could provide additional training and tools to help teams use modern
+version control systems.</p></li>
+<li><p>Many of the items above relate to training, or the lack thereof. The
+survey results suggest a large percentage of respondents have not received
+training in software development. While the respondents indicated there were
+sufficient opportunities for training, most of them suggested they did not
+have sufficient time for training. URSSI could help by providing training
+in different formats that work better with the demands of the research
+software developers’ environments.</p></li>
+<li><p>Many respondents also found the level of support, in terms of funding,
+to be inadequate to be successful. URSSI could help by advocating both at
+the national funding level as well as at the University level for increased
+funding for important research software development activities.</p></li>
+<li><p>Respondents also indicated their software contributions were not
+significantly valued in performance reviews. URSSI could help by developing
+and advocating for policies that help research software developers get
+adequate recognition for their work.</p></li>
+<li><p>Most projects lack a formal diversity plan. URSSI could help by providing
+template diversity plans and support for developing
+appropriate plans for individual projects.</p></li>
+</ol>
+</div>
+<div id="ethnography" class="section level2" number="2.4">
+<h2><span class="header-section-number">2.4</span> Ethnography</h2>
+<p>To gain a deeper understanding of the practices and experiences of researchers
+who are actively engaged in software development, we have undertaken a series of
+ethnographic studies. These studies focused on software projects of varying
+size and complexity in the fields of hydrology, astronomy, and biochemistry.
+Using observations, semi-structured interviews, and a
+series of archival documents, we produced case studies of how, over time, these
+projects overcame challenges of recruiting contributors, building a governance
+model, seeking funding, and sharing credit in sustaining a software project that
+has demonstrable impact on a community of researchers.</p>
+<p>We developed two of these studies, Astropy and Rosetta Commons, as full case
+studies. Both projects face unique sustainability challenges that they solved
+somewhat differently. While the main findings of this work are not novel
+in the sense that they will surprise anyone familiar with challenges to sustaining
+research software, the value of this work is in comparing the two cases. By better
+understanding common approaches to overcoming sustainability challenges, we believe
+there is a valuable opportunity to abstract these approaches into models of success
+that research software projects in other domains can modify or tailor.
+The following is a brief summary of the findings from these two case studies.</p>
+<p>Points of comparison:</p>
+<ul>
+<li><p><em>Distributed work coordination</em>: Key to the success of both Astropy and Rosetta
+Commons is coordination of remote collaborative work. Astropy mirrors Python’s
+core development team in structuring contributor guidelines and supporting
+designated maintainers. Rosetta Commons differs substantially in that the project
+employs four full-time infrastructure maintainers. This offloading of
+maintenance responsibilities frees up contributors (distributed labs throughout
+the USA) to focus on conducting research and driving innovations that extend
+Rosetta’s key functionality.</p></li>
+<li><p><em>Funding</em>: Astropy is fiscally sponsored by NumFocus, but depends upon grant
+funding from a variety of sources to sustain its collective work. A recent
+grant from Gordon and Betty Moore Foundation, “Sustaining and Growing the
+Astropy Project,” is focused exclusively on maintenance and governance for
+the project’s long-term viability to practicing astronomers. Rosetta Commons
+combines licensing and grant funding to sustain its work. Licenses for
+commercial use and an NIH infrastructure maintenance grant have continuously
+supported the project since 2005.</p></li>
+<li><p><em>Credit</em>: Both projects have had a number of papers published about their
+development. Astropy suggests two publications to cite when acknowledging
+use of the software <span class="citation">(Robitaille et al. <a href="#ref-robitaille2013astropy" role="doc-biblioref">2013</a>; Price-Whelan et al. <a href="#ref-price2018astropy" role="doc-biblioref">2018</a>)</span>. These two
+publications, combined, have over 3000 citations. Rosetta Commons,
+because it has many versions, methods, and language specific implementations,
+has no canonical citation. Interviews with contributors to Rosetta noted
+that this lack of canonical citation causes confusion for authors when rushing towards publication.
+Many researchers have sought a centralized source they could acknowledge.
+Despite the lack of a canonical citation, two papers describing Rosetta and
+its use in predicting protein structures have, combined, over 4300
+citations <span class="citation">(Rohl et al. <a href="#ref-rohl2004protein" role="doc-biblioref">2004</a>; Salmena et al. <a href="#ref-salmena2011cerna" role="doc-biblioref">2011</a>)</span>.</p></li>
+</ul>
+<p>We observe differences in the two projects that seem marginal at first
+glance, but upon further analysis have important practical consequences
+for software development activities. For example, two substantial
+differences in the projects have consequences for the long-term sustainability
+of each project:</p>
+<ul>
+<li><p>Astropy, in following an open model of contribution, focuses time and
+attention on clearly documenting and making contributor guidelines
+accessible to research software engineers. The maintenance team
+therefore focuses their effort on ensuring contributors are supported
+while simultaneously keeping various packages up to date and available
+to the community that depends upon this code for their research. This approach is
+partially a result of the software ecosystem being broadly useful to a
+discipline (Astronomy), as compared to Rosetta Commons, which focused on
+specific analytic tasks within a subfield of biological engineering
+(Macromolecular modelling).</p></li>
+<li><p>Continuous annual grant funding and licensing fees allow Rosetta to
+centralize infrastructure tasks to a core team whose sole job is
+maintenance. This approach in turn encourages innovation and expansion of feature
+sets for labs that focus solely on producing new research insights.
+Astropy has, over time, centralized maintenance of the project’s software
+development and maintenance. But until very recently, this maintenance has been a
+volunteer activity. Shifting time, attention, and energy towards organizing
+an open-source model of development impacts career trajectories for
+practicing astronomers and contributes to a more fragile ecosystem for astronomy.</p></li>
+</ul>
+<p>We recognize that software sustainability is more than just financial support,
+but what these case studies make clear is that the economic realities of
+maintaining and contributing to software development have important downstream
+impacts that shape innovation and engagement. The URSSI conceptualization
+has studied how these challenges can be practically overcome.</p>
+</div>
+<div id="chapter2-WinterSchool" class="section level2" number="2.5">
+<h2><span class="header-section-number">2.5</span> Winter School</h2>
+<p>In late December 2019 we ran our
+first ever URSSI school on research software engineering. We began accepting
+applications in July and received an overwhelming response to our call for
+applications. For the 30 participant slots available, we received 169
+applications, meaning we had a challenging time selecting the participants
+and had to turn away a large number of interested researchers. While the
+selection committee used multiple criteria to evaluate and select participants,
+successful applicants already had some experience with Python programming, Git,
+and Unix skills, which was necessary to benefit from the workshop. Our goal
+was not to repeat the same material covered in bootcamps and Software Carpentry
+style workshops, but to focus on the research software engineering skills that
+not formally taught in any setting. These skills include best practices
+for packaging code as software, testing, collaborative software development,
+code review, and related topics such as licensing and archiving. The school
+lasted 2.5 days.</p>
+<p>Based on the demand described above, this experience made evident the strong
+need for the skills covered in the school. The overall feedback from the
+school was also positive (more on that below). Some key lessons from this
+pilot that impact our design of a Summer School as part of URSSI are: 1) the
+school needs to be longer to allow for both discussion time and focused time
+for students to work on their own code, applying the lessons from the lectures;
+and 2) the presence of additional helpers outside of the primary instructors was
+quite beneficial to help answer specific questions from the students.</p>
+<p>A few example quotes from the Winter School feedback form include:</p>
+<ul>
+<li><p>“I really can’t say enough good things about this super empowering workshop!
+You did an amazing job identifying the things I didn’t know that I didn’t know,
+and teaching them at a level that was immediately actionable in my work.”</p></li>
+<li><p>“Thank you so much to everyone for taking this amazing initiative to teach young
+scientists on software sustainability.”</p></li>
+<li><p>“Thank you for putting together this winter-school, it was super useful to me
+and I’m looking forward to applying everything I learned to my future projects
+and to go deeper into the topics that were covered.”</p></li>
+</ul>
+</div>
+<div id="joint-activities" class="section level2" number="2.6">
+<h2><span class="header-section-number">2.6</span> Joint Activities</h2>
+<p>During the URSSI conceptualization process, we helped start two new activities that
+overlapped our goals, both so that we could promote these goals and also so
+that we could build up these future partners of a later full URSSI institute.</p>
+<div id="research-software-alliance-resa" class="section level3" number="2.6.1">
+<h3><span class="header-section-number">2.6.1</span> Research Software Alliance (ReSA)</h3>
+<p><a href="http://www.researchsoft.org">ReSA</a> was founded in 2018 to support recognition and valuing of research software as a
+fundamental and vital component of research worldwide, instigated by URSSI,
+the UK <a href="https://software.ac.uk">Software Sustainability Institute</a>,
+and the <a href="https://ardc.edu.au">Australian Research Data Commons</a>.
+ReSA’s mission is to bring research
+software communities together to collaborate on the advancement of research software.
+Recent achievements include:</p>
+<ul>
+<li><p>Development of research software guidelines for policy makers, funder, publishers and
+the research community for inclusion in the RDA COVID-19 Guidelines and Recommendations <span class="citation">(Research Data Alliance <a href="#ref-RDA-covid-recs-final" role="doc-biblioref">2020</a>)</span></p></li>
+<li><p>Inclusion of software in the draft revision of the OECD Committee for Science and Technology
+Policy’s Enhanced Access to Publicly Funded Data for Science, Technology and Innovation (which will become soft law) (<strong>TODO</strong> add link to final document after release)</p></li>
+<li><p>Co-leadership of the <a href="https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg">FAIR 4 Research Software taskforce</a>
+with <a href="https://www.force11.org/">FORCE11</a>
+and <a href="https://www.rd-alliance.org/">RDA</a> to develop community-agreed principles and implementation guidelines</p></li>
+<li><p>Support from the Gordon and Betty Moore Foundation to achieve ReSA’s goals</p></li>
+</ul>
+<p>The Director of ReSA is Michelle Barker and the Steering Committee is comprised of:</p>
+<ul>
+<li>Neil Chue Hong, Director, Software Sustainability Institute, UK</li>
+<li>Catherine Jones, Software Engineering Group Leader, STFC, UK</li>
+<li>Daniel S. Katz, Assistant Director for Scientific Software and Applications, National Center for Supercomputing Applications (NCSA), University of Illinois, USA</li>
+<li>Chris Mentzel, Executive Director, Stanford University, USA</li>
+<li>Karthik Ram, URSSI PI, University of California, Berkeley, USA</li>
+<li>Andrew Treloar, Director, Platforms and Engagements, Australian Research Data Commons, Australia</li>
+</ul>
+</div>
+<div id="research-software-engineering-rse" class="section level3" number="2.6.2">
+<h3><span class="header-section-number">2.6.2</span> Research Software Engineering (RSE)</h3>
+<p>In a 2012 workshop run by the UK SSI, a number of UK researchers who develop
+software realized that while they internally recognized a number of common elements
+to the work they did, along with others at their universities, there was no
+commonality to how others saw this work and these roles, and they needed to come
+together to build and develop a community. As stated by James Hetheringon, they
+decided they needed to “develop the profession of a scientific software engineer
+and the career track of software developers in academia.” The SSI studied academic job
+descriptions in the UK, and found about 10000, of which about 400 were related to
+software development, with 194 different job titles. To build recognition of the
+common software elements of these positions, the SSI chose the name “research software
+engineer”. The SSI then began publicizing this idea, building a community of people who
+identified with the role, leading to the formation of the UK RSE Association, which is
+now the <a href="https://society-rse.org">Society of Research Software Engineering</a>.
+The SSI and RSE Association/Society encouraged people who were performing RSE-like work
+to also identify with this title,
+built RSE groups in UK universities, encouraged universities to change their
+job titles, held workshops and then conferences for RSEs, encouraged a funding
+agency to provide fellowships to RSEs, and built up the association/society,
+which now has about 2000 members <span class="citation">(Hettrick <a href="#ref-RSEHettrick" role="doc-biblioref">2016</a>)</span>.</p>
+<p>As a number of non-UK people (including some URSSI PIs) started attending UK RSE
+conferences, the SSI also supported activities to grow the international community.
+These self-developed and SSI-supported activities have led to RSE groups in Germany,
+the Netherlands, the Nordic countries, the US, Canada, Australia/New Zealand, South Africa, and Belgium, some of
+which have now held national workshops and conferences. The US Research Software
+Engineer Association (US-RSE) formed in 2018, with the support and participation
+of three of the five URSSI PIs, and has 420 members as of May 2020. The US-RSE
+Association is centered around three main goals:</p>
+<ul>
+<li><p><em>Community</em>: to provide a coherent association of those who identify with the role
+(not necessarily title) of Research Software Engineer, and to provide the members
+of the community the ability to share knowledge, professional connections, and resources.</p></li>
+<li><p><em>Advocacy</em>: to promote RSEs’ impact on research, highlighting the increasingly
+critical and valuable role RSEs serve.</p></li>
+<li><p><em>Resources</em>: to provide useful resources to multiple demographics, including technical
+and career development resources, and information and material to support the
+establishment and expansion of RSE positions and groups within the research ecosystem.</p></li>
+</ul>
+<p>There are thus some overlaps between US-RSE’s goals and URSSI’s and a clear reason
+for us to work together going forward.</p>
+</div>
+</div>
+<div id="synthesis-of-urssi-activities" class="section level2" number="2.7">
+<h2><span class="header-section-number">2.7</span> Synthesis of URSSI Activities</h2>
+<p>In the following section we describe common challenges and dilemmas we
+identified across URSSI’s conceptualization activities. Where possible, we identify
+the role URSSI could play in helping overcome these challenges as a funded institute.</p>
+<p><strong>Challenge 1: Decentralized expertise</strong></p>
+<p>Throughout the planning activities, the community of stakeholders recognized
+that there already exist a number of individual efforts to help improve the
+development, maintenance, and overall sustainability of research software in
+the US. While these efforts, collectively, are comprehensive in their scope,
+the decentralized structure of this expertise is inefficient for both resource
+discovery and delivery of services. For example there are many points of expertise
+in research software development (e.g., SWEBOK, RSEs), education and training
+(e.g., academic initiatives, Carpentries), credit and metrics (e.g., CiteAs),
+incubation (e.g., ESIP, the UW eScience Institute) that are available to
+individuals at specific institutions. However, there is currently no comprehensive
+organization that can serve to coordinate these activities, promote centers of
+expertise, and ensure that effort is not duplicated– a role that is played
+admirably in the UK by the Software Sustainability Institute.</p>
+<p>As a coordinating center, URSSI could help solve this challenge in the following ways:</p>
+<ul>
+<li><p>Broker connections between points of expertise and serve to coordinate
+efforts and funding such that different experts could better collaborate on
+sustainable development, education, and policy initiatives.</p></li>
+<li><p>Identify and convene experts to help fill gaps that exist between service
+delivery, for example, where the Carpentries see gaps in knowledge skill or
+acquisition in sustaining software education.</p></li>
+<li><p>Disseminate best practices from specific disciplines to the broader
+research community. By acting as a center of research software excellence
+URSSI could be a space where solutions from one domain could be learned and
+efficiently transferred to another.</p></li>
+<li><p>Coordinate and help to curate relevant research software packages through
+discovery portals, such as <a href="https://libraries.io/" class="uri">https://libraries.io/</a></p></li>
+</ul>
+<p><strong>Challenge 2: Pathways to sustainability for non-commercial research software</strong></p>
+<p>Throughout the URSSI conceptualization activities, participants voiced concern
+for the viability of valuable software projects that do not seek
+commercialization. Technology transfer programs at universities and through
+research funding agencies (e.g. I-Corps, SBIR/STTR) are well established
+and have been successful at helping entrepreneurially-focused software projects
+recognize and execute viable business models. This transition pathway is
+promoted for software that has a potential to sustain itself through fees or
+licensing agreements. However, there is no equivalent university guidance for
+software projects that would like to pursue non-commercial open source models
+for sustainability.</p>
+<p>There is a need for a US-based institute, divorced from any single university,
+to help valuable research software projects realize a non-commercial
+open-source route to sustainability. This support could include a program, such as an
+incubator, that would guide research software projects towards developing
+open-source governance, budgeting, licensing, and fiscal sponsorship in service
+of non-commercial sustainability. We view this route, and its guidance from an
+institute, as critical to promoting an ecosystem of diverse research software
+projects that may not be readily amenable to commercialization, or have the
+potential to build healthy and viable volunteer developer communities as an
+alternative to licensing.</p>
+<p><strong>Challenge 3: Coordinated advocacy and analysis for policy change</strong></p>
+<p>Related to the first challenge of decentralized expertise, there is a need
+for coordination and targeted leadership around policy for sustainable
+research software. Participants in URSSI workshops described a need for
+coordinating communities around emerging national, institutional, and even
+disciplinary specific policies that have a downstream impact on sustainability,
+such as software citation principles, tenure and promotion guidelines that
+recognize research software contributions, sustained funding or financial
+support for research software maintenance, and software management plans
+that explicitly document expectations around software development and archiving.</p>
+<p>Currently, community members take on many of these policy activities as additional
+professional service, or as volunteer work. This secondary focus on any
+one policy issue, in turn, leads to slow progress, high turnover of volunteers,
+and does not allow any one person or institution to develop the deep expertise
+needed for effective sustained analysis or advocacy.</p>
+<p>An institute that could dedicate time and attention to policy design, invest
+personnel time in developing needed expertise, and coordinate a sustainable
+lobbying network would allow advocacy work to become more manageable,
+effective, and result in better outcomes for research software stakeholders.
+Further, there is often a need to conduct advocacy work driven by
+empirical research that can substantiate how or why one policy decision is
+better than another. An institute dedicated to these activities would
+facilitate data-driven policy research that could lead to stronger advocacy
+positions, and benefit funding agencies, universities, and research
+institutions that seek to adopt new policy aimed at improving research
+software sustainability.</p>
+<p><strong>Challenge 4: Signals of viability</strong></p>
+<p>A valuable contribution of the URSSI workshop and engagement activities has
+been convening stakeholders with expertise in the evaluation and funding of
+research software. These stakeholders include current and former program officers
+from NSF, NIH, DoE, DoD, and IMLS, as well as philanthropic organizations
+like the Gordon and Betty Moore and Alfred P. Sloan foundations. These
+participants have a collective desire for an institute to develop stronger
+signals of a research software project’s viability; to help evaluate a
+project’s potential for long-term sustainability; and help communities of
+research software stakeholders coalesce around strategic funding initiatives
+that could benefit research through software investments.</p>
+<p>A dedicated US institute focused on software sustainability could help meet
+this challenge in a number of ways, but we recognize that there is no
+overarching or simple solution. The plan we describe below explains,
+in numerous places, how URSSI can and should convene different communities
+to address complex problems like strategic financial investment, evaluation
+for viability, etc.</p>
+<p><strong>Challenge 5: Career Advancement and Credit</strong></p>
+<p>Closely related to Challenges 1, 3 and 4 is a desire of URSSI stakeholders to
+see an institute dedicate time and resources towards promoting recognition
+for research software activities and helping to shape reliable career pathways
+for research software engineers (RSEs). At URSSI workshops, there was
+near-unanimous agreement that the acknowledgement of research software
+contributions remains difficult for career advancement and there is a lack
+of clear guidance for both universities and funding agencies on how to make
+progress on these issues.</p>
+<p>A dedicated US-based institute for research software sustainability could
+play a leading role in advocating for best practices in the measurement,
+reward, and credit for research software activities. This activity would include
+dedicated research into measuring and evaluating software development activities,
+advancing techniques for use and user impact evaluation, and promoting formative
+metrics that are conducive to long-term viability. Relatedly, a dedicated US-based
+institute could better evaluate and promote the impact of research software
+engineering positions that currently exist and advocate for their creation
+where they do not.</p>
+<p>In the next chapter, we describe URSSI’s plan to meet each of these challenges.
+In particular, we focus on how a strategic investment in a US-based software
+sustainability institute would practically organize itself, allocate budgets,
+and measure progress on each of the challenges identified in the conceptualization phase.</p>
+
+</div>
+</div>
+<h3>References</h3>
+<div id="refs" class="references hanging-indent">
+<div id="ref-RSEHettrick">
+<p>Hettrick, Simon. 2016. “A Brief History of Research Software Engineers in the UK.” <a href="http://bit.ly/RSEHettrick">http://bit.ly/RSEHettrick</a>.</p>
+</div>
+<div id="ref-price2018astropy">
+<p>Price-Whelan, A. M., B. M. Sipőcz, H. M. Günther, P. L. Lim, S. M. Crawford, S. Conseil, D. L. Shupe, M. W. Craig, N. Dencheva, and others. 2018. “The Astropy Project: Building an Inclusive, Open-Science Project and Status of the V2.0 Core Package.” <em>arXiv Preprint arXiv:1801.02634</em>. <a href="https://doi.org/10.3847/1538-3881/aabc4f">https://doi.org/10.3847/1538-3881/aabc4f</a>.</p>
+</div>
+<div id="ref-RDA-covid-recs-final">
+<p>Research Data Alliance. 2020. “Final Release: COVID-19 Guidelines.” RDA. <a href="https://doi.org/10.15497/RDA00052">https://doi.org/10.15497/RDA00052</a>.</p>
+</div>
+<div id="ref-robitaille2013astropy">
+<p>Robitaille, Thomas P., Erik J. Tollerud, Perry Greenfield, Michael Droettboom, Erik Bray, Tom Aldcroft, Matt Davis, et al. 2013. “Astropy: A Community Python Package for Astronomy.” <em>Astronomy &amp; Astrophysics</em> 558: A33. <a href="https://doi.org/10.1051/0004-6361/201322068">https://doi.org/10.1051/0004-6361/201322068</a>.</p>
+</div>
+<div id="ref-rohl2004protein">
+<p>Rohl, Carol A., Charlie E. M. Strauss, Kira M. S. Misura, and David Baker. 2004. “Protein Structure Prediction Using Rosetta.” In <em>Methods in Enzymology</em>, 383:66–93. Elsevier. <a href="https://doi.org/10.1016/S0076-6879(04)83004-0">https://doi.org/10.1016/S0076-6879(04)83004-0</a>.</p>
+</div>
+<div id="ref-salmena2011cerna">
+<p>Salmena, Leonardo, Laura Poliseno, Yvonne Tay, Lev Kats, and Pier Paolo Pandolfi. 2011. “A ceRNA Hypothesis: The Rosetta Stone of a Hidden RNA Language?” <em>Cell</em> 146 (3): 353–58. <a href="https://doi.org/10.1016/j.cell.2011.07.014">https://doi.org/10.1016/j.cell.2011.07.014</a>.</p>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="intro.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="chapter3.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/si2-urssi/plan/edit/master/02-urssi-conceptualization-activities.Rmd",
+"text": "Edit this chapter"
+},
+"history": {
+"link": "https://github.com/si2-urssi/plan/commits/master/02-urssi-conceptualization-activities.Rmd",
+"text": "Chapter edit history"
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["main.pdf"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
