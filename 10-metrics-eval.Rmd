@@ -16,7 +16,7 @@ library(kableExtra, warn.conflicts = TRUE)
 options(knitr.kable.NA = '')
 df <- readr::read_csv("intended_impact.csv")
 
-knitr::kable(df, align = "c", caption = 'Impact table',  
+knitr::kable(df, align = "lccc", caption = 'Impact table',  
              col.names = c("Activity", "Impact on Research Software", "Impact on people and careers", "Impact on research software ecosystem"),
              booktabs = TRUE)
 detach("package:kableExtra", unload = TRUE)
