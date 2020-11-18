@@ -673,13 +673,12 @@ This table maps URSSI activities from this chapter to the three portions of URSS
 In the impact cells, X indicates a designed primary impact on an activity, and y indicates
 a designed secondary impact.
 
-| Activity | Impact on research software sustainability | Impact on people and careers | Impact on research software ecosystem |
-| --- | --- | --- | --- |
-| Career path |   | X | y |
-| Impact of individuals |   | X | y |
-| Incentivize contributions to public software | y | y | X |
-| Disentangle software quality and software impact |   |   | X |
-| Better recognize the value and importance of software |   |   | X |
-| Funding opportunities for software maintenance | y |   | X |
-| Increase diversity of software community |   | X | y |
-| award program |   | y | X |
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(kableExtra, warn.conflicts = TRUE)
+options(knitr.kable.NA = '')
+df <- readr::read_csv("pol_intended_impact.csv")
+knitr::kable(df, align = "lccc", caption = 'Impact table',  
+             col.names = c("Activity", "Impact on Research Software", "Impact on people and careers", "Impact on research software ecosystem"),
+             booktabs = TRUE)
+detach("package:kableExtra", unload = TRUE)
+```
