@@ -1,46 +1,92 @@
 on:
   push:
     branches:
-      master
+      - master
+  pull_request:
+    branches:
+      - master
   schedule:
-    - cron:  '0 12 * * *'
+    # run every day at 11 PM
+    - cron: '0 23 * * *'
 
-name: Render-Book-from-master
+name: build-book
+
 
 jobs:
-  bookdown:
-    name: Render-Book
+  build:
     runs-on: macOS-latest
+    env:
+      NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+      isExtPR: ${{ github.event.pull_request.head.repo.fork == true }}
     steps:
-      - name: Install pandoc and pandoc citeproc
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@master
+
+      - name: Setup pandoc
+        uses: r-lib/actions/setup-pandoc@master
+
+      - name: Cache R packages
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-${{ steps.install-r.outputs.installed-r-version }}-1-
+
+      - name: Install pak
         run: |
-          brew install pandoc
-          brew install pandoc-citeproc
-      - uses: actions/checkout@v2 
-      - uses: r-lib/actions/setup-r@v1
-      - uses: r-lib/actions/setup-tinytex@v1
+          install.packages("pak", repos = "https://r-lib.github.io/p/pak/dev/")
+        shell: Rscript {0}
 
+      - name: Install macOS system dependencies
+        if: runner.os == 'macOS'
+        run: |
+          brew install libgit2
 
-      - name: Install packages
-        run: Rscript -e 'install.packages("remotes")'  -e 'remotes::install_deps()'
+      - name: Install dependencies
+        run: |
+          pak::local_install_dev_deps()
+        shell: Rscript {0}
+
+      - name: Session info
+        run: |
+          options(width = 100)
+          pkgs <- installed.packages()[, "Package"]
+          sessioninfo::session_info(pkgs, include_base = TRUE)
+        shell: Rscript {0}
+
+      - name: Configure Git user
+        run: |
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+
+      - name: Cache bookdown results
+        uses: actions/cache@v2
+        with:
+          path: _bookdown_files
+          key: bookdown-1-${{ hashFiles('**/*Rmd') }}
+
       - name: Build site
         run: Rscript -e 'bookdown::render_book("index.Rmd", quiet = TRUE)'
 
-      - name: Render book PDF
-        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_book", output_dir = "pdfbook")'
+      - name: Copy
+        run: cp _redirects _book/
 
-      - name: Render book EPUB
-        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::epub_book", output_dir = "epubbook")'
-
-      - name: Move files around
-        run: Rscript -e 'file.copy(from = "pdfbook/main.pdf", to = "_book/main.pdf")' -e 'file.copy(from = "epubbook/main.epub", to = "_book/main.epub")'
-
-      - name: Commit results
-        run: |
-          cd _book
-          git init
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m 'update book'
-          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:gh-pages --force
+      - name: Deploy to Netlify
+        if: contains(env.isExtPR, 'false')
+        id: netlify-deploy
+        uses: nwtgck/actions-netlify@v1.1
+        with:
+          publish-dir: './_book'
+          production-branch: master
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          deploy-message:
+            'Deploy from GHA: ${{ github.event.pull_request.title || github.event.head_commit.message }} (${{ github.sha }})'
+          # these all default to 'true'
+          enable-pull-request-comment: false
+          enable-commit-comment: false
+          # enable-commit-status: true
+          #o verwrites-pull-request-comment: true
+        timeout-minutes: 1
