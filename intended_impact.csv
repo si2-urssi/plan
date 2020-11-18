@@ -1,20 +1,20 @@
 Activity,Impact.on.research.software.sustainability,Impact.on.people.and.careers,Impact.on.research.software.ecosystem
-Fellowships,NA,X,NA
-In-person events,NA,X,X
-Community calls,X,X,X
-Curate best practices,X,y,y
-Newsletter & social media,NA,y,X
-Summer school,y,X,y
-Projects Carpentry,X,NA,y
-Review service for software project plans,X,NA,NA
-Examine use of industrial software development practices in research software,X,NA,y
-Book of knowledge of software dev best practices,X,NA,y
-Incubator,X,X,NA
-Career path,NA,X,y
-Impact of individuals,NA,X,y
-Incentivize contributions to public software,y,y,X
-Disentangle software quality and software impact,NA,NA,X
-Better recognize the value and importance of software,NA,NA,X
-Funding opportunities for software maintenance,y,NA,X
-Increase diversity of software community,NA,X,y
-award program,NA,y,X
+C:Fellowships,NA,X,NA
+C:In-person events,NA,X,X
+C:Community calls,X,X,X
+C:Curate best practices,X,y,y
+C:Newsletter & social media,NA,y,X
+E:Summer school,y,X,y
+E:Projects Carpentry,X,NA,y
+E:Review service for software project plans,X,NA,NA
+E:Examine use of industrial software development practices in research software,X,NA,y
+E:Book of knowledge of software dev best practices,X,NA,y
+I:Incubator,X,X,NA
+P:Career path,NA,X,y
+P:Impact of individuals,NA,X,y
+P:Incentivize contributions to public software,y,y,X
+P:Disentangle software quality and software impact,NA,NA,X
+P:Better recognize the value and importance of software,NA,NA,X
+P:Funding opportunities for software maintenance,y,NA,X
+P:Increase diversity of software community,NA,X,y
+P:Award program,NA,y,X
