@@ -25,5 +25,3 @@ knitr::include_graphics("images/plan_png.png")
 ```
 
 This public document is a draft of the final URSSI plan. Empty sections are under internal review before being posted here.
-
-TESTING.
