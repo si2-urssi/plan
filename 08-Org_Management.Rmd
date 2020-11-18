@@ -5,7 +5,15 @@ community feedback; and ensure project sustainability) and foster collaboration 
 other areas of URSSI: Policy, Education & Training, Incubator, and Outreach & Community. 
 
 ## Management resources
-The leading PI and Co-PIs are funded with 0.25 FTE of their time and are supported by staff at their home institutions for writing reports and budgeting etc. The role of Work Package Leaders are filled by PIs and/or senior personnel and will receive around 0.1 FTE per year for leading a work package. The Sustainability Officer, Diversity Officer and Evaluator are each planned with 0.1 - 0.25 FTE depending on the phase of the institute. Especially ramping up the institute, defining work packages (see definition below) and services as well as detailed project plans with 1-year to 5-year goals will require more effort at the beginning as well as a revisiting effort after about 18 months and 48 months. Besides continuous monitoring of progress and risks and potential refactoring of work and addressing risks, work on sustainability, evaluation and diversity, will be major topics.  
+The PI and Co-PIs are funded at 0.25 FTE and are supported by staff at their home institutions for
+writing reports and budgeting, etc. The Work Package Leader roles are filled by PIs and/or senior
+personnel and are funded at around 0.1 FTE for leading a work package. The Sustainability Officer,
+Diversity Officer and Evaluator are each planned at 0.1 - 0.25 FTE depending on the phase of the
+institute. The initial phases of ramping up the institute, defining work packages (see definition below)
+and services, as well as detailed project plans with 1-year to 5-year goals will require more effort
+at the beginning, and we will revisit the level of effort after about 18 months and 48 months.
+In addition to continuous monitoring of progress and risks and potential refactoring of work and
+addressing risks, work on sustainability, evaluation and diversity, will be major topics.  
 
 ## Work packages
 All work to be done in URSSI (including management and coordination) is structured into
@@ -56,7 +64,7 @@ This structure has been developed to:
 - Ensure effective management of the project;
 - Ensure clearly defined communication channels both internal and external to the project;
 - Establish clear procedures for making decisions and resolving conflicts;
-- Ensure the project proceeds within the framework of the budget including efficient reallocation of budget if necessary and according to administrative, financial, and legal principles defined by NSF; and
+- Ensure the project proceeds within the framework of the budget, including efficient reallocation of budget if necessary and according to administrative, financial, and legal principles defined by NSF; and
 - Ensure that the participants meet their obligations in the project.
 
 ## Project Management Team
@@ -155,8 +163,8 @@ example. The sustainability officer can suggest and lead work packages such as b
 collaborations and analyzing and/or applying for additional funding streams. They would collaborate
 closely with the incubator area to use its methods for spinning out work packages to be self-sustainable
 beyond the duration and funding of the project. The sustainability officer is planned as part of the
-advisory board and not as Co-PI to be not involved in day-to-day management of an area or work packages.
-The goal is that this role can keep the high-level and outside perspective on impact and measures for sustainability.
+advisory board, not as a Co-PI, so they are not involved in day-to-day management of an area or work packages.
+The goal is that this role maintains and provides a high-level external perspective on impact and measures for sustainability.
 
 ### Diversity Officer
 The diversity officer ensures that all actions and work packages are analyzed regarding their
@@ -186,16 +194,16 @@ existing institutes for complementing each other’s activities.
 | Risk | Likelihood | Impact | Rating | Mitigation                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Coordination risks                                                                                                                                                                                            |            |        |        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| The coordination of many project team members can be difficult and problems in communication and organization can upset the project.                                                                          | 2          | 2      | 4      | Prevention: Clear communication channels Regular meetings Measures in the case of occurrence: Improve communications among team members with scheduling more meetings and adding communication channels                                                                                                                                                                                                                                                                         |
+| The coordination of many project team members can be difficult and problems in communication and organization can upset the project.                                                                          | 2          | 2      | 4      | Prevention: Clear communication channels; regular meetings. Measures in the case of occurrence: Improve communications among team members with scheduling more meetings and adding communication channels                                                                                                                                                                                                                                                                         |
 | Problems in task delivering                                                                                                                                                                                   |            |        |        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| A task will be not or late delivered  due to several problems: financial, organizational or technical.                                                                                                        | 1          | 2      | 2      | Prevention: The implementation and execution risk is minimised by the detailed work package descriptions and resources allocation, by the complementary expertise and roles in the work packages The project plant will continuously assess project risks based on input from the project team. Measures in the case of occurrence: Appropriate corrective actions will be decided as necessary, and tracked to completion to avoid or reduce the effect of any risk detected.  |
+| A task will be not or late delivered  due to several problems: financial, organizational or technical.                                                                                                        | 1          | 2      | 2      | Prevention: The implementation and execution risk is minimised by the detailed work package descriptions and resources allocation, by the complementary expertise and roles in the work packages; the project plant will continuously assess project risks based on input from the project team. Measures in the case of occurrence: Appropriate corrective actions will be decided as necessary, and tracked to completion to avoid or reduce the effect of any risk detected.  |
 | Loss of project team member                                                                                                                                                                                   |            |        |        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Parts of the intended results cannot be delivered and the expertise of the team member is missing. That could delay or - dependent on the team member and on the point of time - endanger the whole project.  | 2          | 3      | 6      | Prevention: Mitigate by having overlapping expertise between team members.Code of conduct to avoid conflicts between team members. Measures in the case of occurrence: Providing clear communication channels if conflicts occur. Redefining of goals and responsibilities and acquiring staffing if a team member leaves.                                                                                                                                                      |
+| Parts of the intended results cannot be delivered and the expertise of the team member is missing. That could delay or - dependent on the team member and on the point of time - endanger the whole project.  | 2          | 3      | 6      | Prevention: Have overlapping expertise between team members; code of conduct to avoid conflicts between team members. Measures in the case of occurrence: Providing clear communication channels if conflicts occur; redefining goals and responsibilities and acquiring staffing if a team member leaves.                                                                                                                                                      |
 | Low impact on community building and community growth                                                                                                                                                         |            |        |        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| Activities may have less impact as expected                                                                                                                                                                   | 1          | 3      | 3      | Prevention: Evaluation of work packages and tasks and collecting feedback from the community on different activities  Measures in the case of occurrence: Adapting of the work plan and further outreach activities                                                                                                                                                                                                                                                             |
+| Activities may have less impact as expected                                                                                                                                                                   | 1          | 3      | 3      | Prevention: Evaluation of work packages and tasks and collecting feedback from the community on different activities.  Measures in the case of occurrence: Adapting of the work plan and further outreach activities.                                                                                                                                                                                                                                                           |
 | Choice of communities to engage with are not at the right point in their lifecycle / do not have sufficient effort to engage | 2 | 3 |  3 | Prevention: Interviews with community leaders and selected community members before engaging on a large scale. Measures in the case of occurrence: Planning the engagement with the community beyond low effort such as newsletters for a later point of time. 
 |
-| Impact is affected by community politics for a specific community | 2 | 3 | 3 | Prevention: Interviews with community leaders and selected community members. Measures in the case of occurrence: Analyzing whether a change of community politics is expected and if yes, invest larger community building effort. Regular check of impact of actions on the community for recognizing slow or minor uptake. 
+| Impact is affected by community politics for a specific community | 2 | 3 | 3 | Prevention: Interviews with community leaders and selected community members. Measures in the case of occurrence: Analyzing whether a change of community politics is expected and if yes, invest larger community building effort;regular check of impact of actions on the community for recognizing slow or minor uptake. 
 |
 
 ## Management metrics/milestones
@@ -204,22 +212,22 @@ The Management & Coordination Area provides the structure to efficiently manage 
 
 First phase (1-3 months):
 
-- Announcing and filling open job positions of the institute under consideration of diversity
+- Announcing and filling open job positions of the institute, and strongly considering diversity while doing so
 
-- Defining the project management framework and tools supporting this framework, e.g., following the concept of Traction and work with Trello Boards 
+- Defining the project management framework and tools supporting this framework, e.g., following the concept of Traction and working with Trello Boards 
 
-- Defining mission, vision and culture of URSSI
+- Defining the mission, vision and culture of URSSI
 
 - Defining 1-year, 3-year and 5-year goals
 
-- Defining work packages starting the first year for 18 months
+- Defining work packages, starting with the first 18 months
 
 
 Second phase (4-18 months)
 
-- Evaluating of management structure whether it is efficient, e.g., are additional roles/positions needed, are maybe fewer positions needed
+- Evaluating the efficiency of the management structure, e.g., are additional roles/positions needed, are fewer positions needed
 
-- Evaluating project management framework
+- Evaluating the project management framework
 
 - Evaluating and revisiting active work packages
 
@@ -257,7 +265,8 @@ Strengths
 
 Weaknesses
 
-- Awareness for URSSI in a large set of communities
+- Awareness of URSSI in a large set of communities
+
 
 Opportunities
 
