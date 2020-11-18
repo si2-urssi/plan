@@ -275,6 +275,12 @@ While in other chapters, we have mapped the activities from that chapter to the 
 here we treat the incubator as a single activity.
 (A complete table of impacts from all URSSI activities can be found in [Chapter 10 (Metrics and Evaluation)](Ch-Metrics).)
 
-| Activity | Impact on research software sustainability | Impact on people and careers | Impact on research software ecosystem |
-| --- | --- | --- | --- |
-| Incubator | X | X |   |
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(kableExtra, warn.conflicts = TRUE)
+options(knitr.kable.NA = '')
+df <- readr::read_csv("inc_intended_impact.csv")
+knitr::kable(df, align = "lccc", caption = 'Impact table',  
+             col.names = c("Activity", "Impact on Research Software", "Impact on people and careers", "Impact on research software ecosystem"),
+             booktabs = TRUE)
+detach("package:kableExtra", unload = TRUE)
+```
