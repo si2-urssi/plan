@@ -4,6 +4,9 @@ usually in work packages; monitor, mitigate, and respond to risks; provide repor
 community feedback; and ensure project sustainability) and foster collaboration between the four
 other areas of URSSI: Policy, Education & Training, Incubator, and Outreach & Community. 
 
+## Management resources
+The leading PI and Co-PIs are funded with 0.25 FTE of their time and are supported by staff at their home institutions for writing reports and budgeting etc. The role of Work Package Leaders are filled by PIs and/or senior personnel and will receive around 0.1 FTE per year for leading a work package. The Sustainability Officer, Diversity Officer and Evaluator are each planned with 0.1 - 0.25 FTE depending on the phase of the institute. Especially ramping up the institute, defining work packages (see definition below) and services as well as detailed project plans with 1-year to 5-year goals will require more effort at the beginning as well as a revisiting effort after about 18 months and 48 months. Besides continuous monitoring of progress and risks and potential refactoring of work and addressing risks, work on sustainability, evaluation and diversity, will be major topics.  
+
 ## Work packages
 All work to be done in URSSI (including management and coordination) is structured into
 work packages (WPs), which are organized around the project’s goals and areas, with an additional
@@ -51,29 +54,19 @@ responsible for tasks assigned to them by Work Package leaders. Tasks include ad
 This structure has been developed to:
 
 - Ensure effective management of the project;
-
 - Ensure clearly defined communication channels both internal and external to the project;
-
 - Establish clear procedures for making decisions and resolving conflicts;
-
-- Ensure the project proceeds within the framework of the budget and according to administrative, financial,
-and legal principles defined by NSF; and
-
+- Ensure the project proceeds within the framework of the budget including efficient reallocation of budget if necessary and according to administrative, financial, and legal principles defined by NSF; and
 - Ensure that the participants meet their obligations in the project.
 
 ## Project Management Team
 The project management team comprises
 
 - Leadership Team (the PI and Co-PIs)
-
 - Work Package Leaders
-
 - Sustainability Officer
-
 - Diversity Officer
-
 - Evaluator
-
 - Senior Personnel
 
 In addition to this team, the project will rely on a Steering Committee.
@@ -94,9 +87,7 @@ The Project Management Team will contribute to the strategic orientation of the 
 the interests of all participants. Its main tasks are to:
 
 - Collect feedback from potential user researcher communities and developer communities;
-
 - Disseminate the project’s latest results via publications and presentations at conferences and workshops; and
-
 - Accomplish the work packages.
 
 ### Steering Committee
@@ -109,10 +100,8 @@ additional terms if both the member and the project (PI and Co-PIs) agree.
 The Steering Committee will be the ultimate advisory group in the running of the project. Its role is to 
 
 - Give guidance to the PI, Co-PIs and Work Package Leaders;
-
 - Exchange experiences and formulate ideas for interoperation with other SI2/CSSI projects
 (e.g. MolSSI, IRIS-HEP) and on sustainability;
-
 - Advise in scientific decisions.
 
 The Steering Committee will be invited to every Project Management Team meeting.
@@ -121,41 +110,26 @@ The Steering Committee will be invited to every Project Management Team meeting.
 The PI will coordinate the project and will:
 
 - Address all recommendations submitted by the Steering Committee and the Project Management Team, taking appropriate actions;
-
 - Address ethical, legal and diversity issues relevant to the project;
-
 - Approve project budgets;
-
 - Ensure the project proceeds according to administrative, financial, and legal principles defined by NSF;
-
 - Participate in annual NSF PI meetings; and
-
 - Report to NSF.
 
 ### Leadership Team (PI and Co-PIs)
 The PI and Co-PIs form the Leadership Team: the decision-making body of the project. They will:
 
 - Set the strategic direction of the project;
-
 - Ensure effective operation of the project and ensure that all efforts are focused towards achieving its objectives;
-
 - Define work packages and the assign work package leaders;
-
 - Invite Steering Committee members;
-
 - Address risks that may impair progress towards the project’s objectives and propose strategies to address those risks;
-
 - Direct the project according to the work plan taking corrective actions as needed;
-
 - Ensure the free flow of information between Work Package Leaders and ensure cooperation and liaison between
 the individual work packages takes place;
-
 - Ensure that the work packages interact effectively;
-
 - Ensure deliverables are of good quality and on time;
-
 - Assemble progress reports and deliverables;
-
 - Monitor the progress of work packages towards their milestones and deliverables.
 
 ### Work Package Leaders
@@ -163,21 +137,13 @@ A work package leader is responsible for the effective planning, execution, and 
 They will be responsible for:
 
 - Coordinating the communication and work between partners within their work package;
-
 - Understanding work package constraints and coordination issues, especially if a work package falls into several areas;
-
 - Ensuring progress towards work package milestones and deliverables;
-
 - Ensuring  all work package reports and deliverables are produced in a timely fashion;
-
 - Ensuring all results and outputs are disseminated effectively to other work packages;
-
 - Ensuring good communication with other work packages;
-
 - Reporting the progress of their work package to the PI and Co-PIs;
-
 - Providing support for the PI;
-
 - Setting up regular meetings (about weekly or bi-weekly) between participants within their work package
 via telephone conference, video conference or both.
 
@@ -186,9 +152,11 @@ The sustainability officer ensures that all actions and work packages are analyz
 contribution to the sustainability of the institute. Work packages might be effective at the beginning
 of the institute but might phase out over time or need to be redefined with different metrics, for
 example. The sustainability officer can suggest and lead work packages such as building additional
-collaborations and analysing and/or applying for additional funding streams. They would collaborate
+collaborations and analyzing and/or applying for additional funding streams. They would collaborate
 closely with the incubator area to use its methods for spinning out work packages to be self-sustainable
-beyond the duration and funding of the project. 
+beyond the duration and funding of the project. The sustainability officer is planned as part of the
+advisory board and not as Co-PI to be not involved in day-to-day management of an area or work packages.
+The goal is that this role can keep the high-level and outside perspective on impact and measures for sustainability.
 
 ### Diversity Officer
 The diversity officer ensures that all actions and work packages are analyzed regarding their
@@ -225,7 +193,56 @@ existing institutes for complementing each other’s activities.
 | Parts of the intended results cannot be delivered and the expertise of the team member is missing. That could delay or - dependent on the team member and on the point of time - endanger the whole project.  | 2          | 3      | 6      | Prevention: Mitigate by having overlapping expertise between team members.Code of conduct to avoid conflicts between team members. Measures in the case of occurrence: Providing clear communication channels if conflicts occur. Redefining of goals and responsibilities and acquiring staffing if a team member leaves.                                                                                                                                                      |
 | Low impact on community building and community growth                                                                                                                                                         |            |        |        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | Activities may have less impact as expected                                                                                                                                                                   | 1          | 3      | 3      | Prevention: Evaluation of work packages and tasks and collecting feedback from the community on different activities  Measures in the case of occurrence: Adapting of the work plan and further outreach activities                                                                                                                                                                                                                                                             |
+| Choice of communities to engage with are not at the right point in their lifecycle / do not have sufficient effort to engage | 2 | 3 |  3 | Prevention: Interviews with community leaders and selected community members before engaging on a large scale. Measures in the case of occurrence: Planning the engagement with the community beyond low effort such as newsletters for a later point of time. 
+|
+| Impact is affected by community politics for a specific community | 2 | 3 | 3 | Prevention: Interviews with community leaders and selected community members. Measures in the case of occurrence: Analyzing whether a change of community politics is expected and if yes, invest larger community building effort. Regular check of impact of actions on the community for recognizing slow or minor uptake. 
+|
 
+## Management metrics/milestones
 
+The Management & Coordination Area provides the structure to efficiently manage URSSI. There are three main phases for building and evaluating the structure and defining tools for supporting the management process. 
+First phase (1-3 months):
+- Announcing and filling open job positions of the institute under consideration of diversity
+- Defining the project management framework and tools supporting this framework, e.g., following the concept of Traction and work with Trello Boards 
+- Defining mission, vision and culture of URSSI
+- Defining 1-year, 3-year and 5-year goals
+- Defining work packages starting the first year for 18 months
 
+Second phase (4-18 months)
+- Evaluating of management structure whether it is efficient, e.g., are additional roles/positions needed, are maybe fewer positions needed
+- Evaluating project management framework
+- Evaluating and revisiting active work packages
+- Defining work packages for 18 - 60 months
+- Define sustainability metrics for work packages
+
+Third phase (18-60 months)
+- Evaluating and revisiting work packages
+- Distinguishing and preparing to ramp down services that can be managed sustainably by the community and services that should be sustainably delivered by URSSI
+
+## SWOT (Strengths, Weaknesses, Opportunities, Threats)
+
+A SWOT analysis helps find the best match between environmental trends (opportunities and threats) and internal capabilities. 
+
+- A strength is a resource or capacity the organization can use effectively to achieve its objectives.
+- A weakness is a limitation, fault, or defect in the organization that will keep it from achieving its objectives.
+- An opportunity is any favorable situation in the organization's environment. It is usually a trend or change of some kind or an overlooked need that increases demand for a product or service and permits the firm to enhance its position by supplying it.
+- A threat is any unfavorable situation in the organization's environment that is potentially damaging to its strategy. The threat may be a barrier, a constraint, or anything external that might cause problems, damage or injury.
+
+The SWOT analysis is based on experiences in the conceptualization phase of URSSI.
+
+Strengths
+- Conceptualization of URSSI created already awareness and some community involvement
+- Experience with winter school
+- Results of survey and ethnographic studies
+
+Weaknesses
+- Awareness for URSSI in a large set of communities
+
+Opportunities
+- Close collaboration with existing NSF sustainability institutes, carpentries, UK SSI, US-RSE, ReSA, BSSw, ...
+- Yearly surveys on research software engineering
+
+Threats
+- Overlapping effort from projects hindering uptake of URSSI activities
+- A plethora of target communities
 
