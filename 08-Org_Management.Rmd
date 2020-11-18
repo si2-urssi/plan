@@ -201,23 +201,39 @@ existing institutes for complementing each other’s activities.
 ## Management metrics/milestones
 
 The Management & Coordination Area provides the structure to efficiently manage URSSI. There are three main phases for building and evaluating the structure and defining tools for supporting the management process. 
+
 First phase (1-3 months):
+
 - Announcing and filling open job positions of the institute under consideration of diversity
+
 - Defining the project management framework and tools supporting this framework, e.g., following the concept of Traction and work with Trello Boards 
+
 - Defining mission, vision and culture of URSSI
+
 - Defining 1-year, 3-year and 5-year goals
+
 - Defining work packages starting the first year for 18 months
 
+
 Second phase (4-18 months)
+
 - Evaluating of management structure whether it is efficient, e.g., are additional roles/positions needed, are maybe fewer positions needed
+
 - Evaluating project management framework
+
 - Evaluating and revisiting active work packages
+
 - Defining work packages for 18 - 60 months
+
 - Define sustainability metrics for work packages
 
+
 Third phase (18-60 months)
+
 - Evaluating and revisiting work packages
+
 - Distinguishing and preparing to ramp down services that can be managed sustainably by the community and services that should be sustainably delivered by URSSI
+
 
 ## SWOT (Strengths, Weaknesses, Opportunities, Threats)
 
@@ -231,18 +247,28 @@ A SWOT analysis helps find the best match between environmental trends (opportun
 The SWOT analysis is based on experiences in the conceptualization phase of URSSI.
 
 Strengths
+
 - Conceptualization of URSSI created already awareness and some community involvement
+
 - Experience with winter school
+
 - Results of survey and ethnographic studies
 
+
 Weaknesses
+
 - Awareness for URSSI in a large set of communities
 
 Opportunities
+
 - Close collaboration with existing NSF sustainability institutes, carpentries, UK SSI, US-RSE, ReSA, BSSw, ...
+
 - Yearly surveys on research software engineering
 
+
 Threats
+
 - Overlapping effort from projects hindering uptake of URSSI activities
+
 - A plethora of target communities
 
