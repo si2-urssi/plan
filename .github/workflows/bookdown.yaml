@@ -20,7 +20,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Setup R
+      - name: tex
+      - uses: r-lib/actions/setup-tinytex@master
+
+
         uses: r-lib/actions/setup-r@master
 
       - name: Setup pandoc

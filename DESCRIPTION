@@ -3,4 +3,4 @@ Type: Book
 Title: Does not matter.
 Version: 0.0.1
 Imports: bookdown, kableExtra, sessioninfo, readr
-Remotes: rstudio/bookdown, yihui/tinytex
+Remotes: rstudio/bookdown
