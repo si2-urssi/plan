@@ -23,9 +23,6 @@ jobs:
       - name: tex
         uses: r-lib/actions/setup-tinytex@master
 
-      -name: gs
-       run: sudo apt-get install ghostscript
-
       - name: setup
         uses: r-lib/actions/setup-r@master
 
@@ -69,6 +66,10 @@ jobs:
 
       - name: Render book PDF
         run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_book",output_dir = "_book")'
+
+      - name: Install gs
+        run: sudo apt-get install ghostscript
+
 
       - name: Deploy to Netlify
         if: contains(env.isExtPR, 'false')
