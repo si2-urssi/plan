@@ -1,5 +1,7 @@
 on: [push]
 
+name: combine-pdfs
+
 jobs:
   combine_pdfs:
     runs-on: ubuntu-latest
