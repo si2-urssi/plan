@@ -19,3 +19,18 @@ jobs:
         with:
           name: combined-pdf
           path: final/combined.pdf
+
+  - name: Deploy to Netlify
+    if: contains(env.isExtPR, 'false')
+    id: netlify-deploy
+    uses: nwtgck/actions-netlify@v1.1
+    with:
+      publish-dir: './final'
+      production-branch: master
+      github-token: ${{ secrets.GITHUB_TOKEN }}
+      deploy-message:
+        'Deploy from GHA: ${{ github.event.pull_request.title || github.event.head_commit.message }} (${{ github.sha }})'
+      # these all default to 'true'
+      enable-pull-request-comment: false
+      enable-commit-comment: false
+    timeout-minutes: 1
