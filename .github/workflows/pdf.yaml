@@ -1,0 +1,19 @@
+on: [push]
+
+jobs:
+  combine_pdfs:
+    runs-on: ubuntu-latest
+    name: Combine PDFs
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Combine PDFs
+        id: combine
+        uses: amoeba/combine-pdf-action@v1
+        with:
+          path: final
+      - name: Upload combined pdf
+        uses: actions/upload-artifact@v2
+        with:
+          name: combined-pdf
+          path: final/combined.pdf

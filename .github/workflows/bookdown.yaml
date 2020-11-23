@@ -65,7 +65,7 @@ jobs:
         run: Rscript -e 'bookdown::render_book("index.Rmd", quiet = TRUE)'
 
       - name: Render book PDF
-        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_book",output_dir = "_book")'
+        run: Rscript -e 'bookdown::render_book("index.Rmd", "bookdown::pdf_book",output_dir = "final")'
 
       - name: Deploy to Netlify
         if: contains(env.isExtPR, 'false')
