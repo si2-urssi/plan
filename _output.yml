@@ -1,24 +1,18 @@
+bookdown::bs4_book:
+  theme:
+    primary: "#637238"
+  repo: https://github.com/si2-urssi/plan
+
 bookdown::gitbook:
-  includes:
-      in_header: hypothesis.html
-  css: style.css
   config:
     toc:
+      collapse: section
       before: |
-        <li><a href="./">URSSI Implementation Plan</a></li>
-      after: |
-        <li><a href="https://github.com/si2-urssi/plan" target="blank">Published from GitHub</a> via bookdown</li>
-    download: [pdf]
+        <li><strong><a href="./">URSSI Plan</a></strong></li>
     edit:
       link: https://github.com/si2-urssi/plan/edit/master/%s
-      text: "Edit this chapter"
-    history:
-      link: https://github.com/si2-urssi/plan/commits/master/%s
-      text: "Chapter edit history"
+      text: "Edit"
+    sharing: no
+  css: urssi_plan.css
 bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-bookdown::epub_book:
-  stylesheet: style.css
+  latex_engine: "xelatex"

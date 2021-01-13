@@ -1,21 +1,16 @@
 ---
+knit: "bookdown::render_book"
 title: "URSSI Implementation Plan"
-author:
-- Karthik Ram
-- Jeffrey Carver
-- Sandra Gesing
-- Daniel S. Katz
-- Nic Weber
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-output: bookdown::gitbook
-documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
-link-citations: yes
-github-repo: si2-urssi/plan
+author: "Karthik Ram, Jeffrey Carver, Sandra Gesing, Daniel S. Katz, Nic Weber"
 description: "Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute."
+date: "`r Sys.Date()`"
+url: 'https\://plan.urssi.us'
+github-repo: si2-urssi/plan
 twitter-handle: si2-urssi
+bibliography: [book.bib, packages.bib]
+cover-image: plan_png.png
+site: bookdown::bookdown_site
+documentclass: book
 ---
 
 # Welcome  {-}
@@ -24,4 +19,5 @@ twitter-handle: si2-urssi
 knitr::include_graphics("images/plan_png.png")
 ```
 
-This public document is a draft of the final URSSI plan. Empty sections are under internal review before being posted here..
+This public document is a draft of the final URSSI plan. Empty sections are under internal review before being posted here.
+
