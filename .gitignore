@@ -7,3 +7,6 @@ rsconnect
 /main.Rmd
 /main.pdf
 /main.log
+
+# Local Netlify folder
+.netlify
