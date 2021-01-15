@@ -3,7 +3,6 @@
 .RData
 _publish.R
 rsconnect
-_book/
 /main.tex
 /main.Rmd
 /main.pdf
