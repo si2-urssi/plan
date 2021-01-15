@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Chapter 3 URSSI Plan | URSSI Implementation Plan</title>
+<meta name="author" content="Karthik Ram, Jeffrey Carver, Sandra Gesing, Daniel S. Katz, Nic Weber">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.6.4/header-attrs.js"></script><script src="libs/jquery-3.5.1/jquery-3.5.1.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.5.3/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.5.3/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.2.3.9000/tabs.js"></script><script src="libs/bs3compat-0.2.3.9000/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS -->
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">URSSI Implementation Plan</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">Welcome</a></li>
+<li><a class="" href="intro.html"><span class="header-section-number">1</span> Introduction</a></li>
+<li><a class="" href="chapter2.html"><span class="header-section-number">2</span> URSSI Conceptualization</a></li>
+<li><a class="active" href="chapter3.html"><span class="header-section-number">3</span> URSSI Plan</a></li>
+<li><a class="" href="Ch-Comm.html"><span class="header-section-number">4</span> Community &amp; Outreach</a></li>
+<li><a class="" href="Ch-Edu.html"><span class="header-section-number">5</span> Education &amp; Training</a></li>
+<li><a class="" href="Ch-Incubator.html"><span class="header-section-number">6</span> Incubator</a></li>
+<li><a class="" href="Ch-Policy.html"><span class="header-section-number">7</span> Policy</a></li>
+<li><a class="" href="Ch-Org.html"><span class="header-section-number">8</span> Management &amp; Coordination Area</a></li>
+<li><a class="" href="Ch-Budget.html"><span class="header-section-number">9</span> Budget</a></li>
+<li><a class="" href="Ch-Metrics.html"><span class="header-section-number">10</span> Metrics and Evaluation</a></li>
+<li><a class="" href="Ch-Summary.html"><span class="header-section-number">11</span> Final Words</a></li>
+<li><a class="" href="glossary.html">Glossary</a></li>
+<li><a class="" href="references.html">References</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/si2-urssi/plan">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="chapter3" class="section level1" number="3">
+<h1>
+<span class="header-section-number">3</span> URSSI Plan<a class="anchor" aria-label="anchor" href="#chapter3"><i class="fas fa-link"></i></a>
+</h1>
+<p>Throughout the URSSI conceptualization process, the team worked on overall
+planning iteratively, using slides at workshops and the URSSI website to
+disseminate current thoughts, using the survey and the ethnographic studies as
+inputs, using workshops (including slides and shared note documents) and the
+discussion forum (using Discourse on <a href="https://discuss.urssi.us" class="uri">https://discuss.urssi.us</a>) to gather and record feedback. Together,
+these activities plus internal discussions of the team and a focused mission and
+vision working group have led to most of the content of this document.</p>
+<div id="mission-and-vision" class="section level2" number="3.1">
+<h2>
+<span class="header-section-number">3.1</span> Mission and Vision<a class="anchor" aria-label="anchor" href="#mission-and-vision"><i class="fas fa-link"></i></a>
+</h2>
+<p>URSSI PIs began to develop mission and vision statements in late 2018. The intent
+of these statements was to succinctly state the purpose for URSSI’s existence
+(mission) and based on that purpose what URSSI strives to achieve (vision). The
+process for developing these statements was:</p>
+<ul>
+<li><p>At the first two workshops, we asked participants about the goals and vision
+that a US research software sustainability institute should pursue.</p></li>
+<li><p>The URSSI PIs then identified institutions with similar goals and collected
+their mission and vision statements for comparison.</p></li>
+<li><p>Eight members of the Senior Personnel and Advisory Committee participated in
+a working group focused on developing URSSI’s mission and vision statement.</p></li>
+<li><p>Each working group participant provided a written set of three mission and
+three vision statements based on the conceptualization proposal, workshop
+participant’s feedback, and guidance from the URSSI PIs.</p></li>
+<li><p>Neil Chue Hong, director of the Software Sustainability Institute in the UK,
+facilitated a synthesis of the working group’s feedback. This synthesis process included a
+teleconference with participants to discuss and refine versions of each
+mission and vision statement.</p></li>
+<li><p>The URSSI PIs then presented drafts of each statement to workshop participants
+at the final URSSI meeting in Chicago and refined a final version of each statement.</p></li>
+</ul>
+<p>The mission and vision of URSSI are as follows:</p>
+<p><strong>Mission</strong>: Our mission is to improve the recognition, development, and use of
+software for a more sustainable research enterprise. We achieve this mission
+through collaboratively developing education, outreach, and software services
+that emphasize open, transparent reproducible, and cooperative practices. URSSI
+is an institute for software expertise as well as a social infrastructure that
+promotes an inclusive and diverse community of research software engineers,
+maintainers, contributors, and users.</p>
+<p><strong>Vision</strong>: Empowered people, building better software, enabling exceptional research</p>
+</div>
+<div id="planning-assumptions-methods-and-principles" class="section level2" number="3.2">
+<h2>
+<span class="header-section-number">3.2</span> Planning assumptions, methods, and principles<a class="anchor" aria-label="anchor" href="#planning-assumptions-methods-and-principles"><i class="fas fa-link"></i></a>
+</h2>
+<p>The following assumptions are inputs to our planning process:</p>
+<ul>
+<li><p>Our plan is based on the idea of proposing to NSF, and therefore, focuses on the
+US community. We will, however, work with like-minded organization both inside and
+outside the US, including the <a href="https://www.researchsoft.org">Research Software Alliance (ReSA)</a>.
+(Also see the potential partners listed the next subsection.)</p></li>
+<li><p>We will propose an institute with a 5-year duration and a potential 5-year
+extension, based on NSF’s current institutes and published documents.</p></li>
+<li><p>The budget of URSSI will be $3m-$5m per year. We take $3m as the baseline
+minimum funding level needed to operate an institute, below which an institute
+is not the right method to achieve the mission and vision, and then build higher
+cost and higher return activities on that baseline.</p></li>
+<li><p>There is demonstrated interest in supporting some URSSI goals from private
+foundations and potential interest from other federal agencies, so URSSI
+activities should be planned as a set of reinforcing (but separable) activities,
+potentially on different timelines.</p></li>
+<li><p>There is a strong need for improved software sustainability across all fields,
+and URSSI cannot solve this need in all fields by itself.</p></li>
+<li><p>There are many partners who can help URSSI achieve some of its goals, as there
+is overlap between these goals and the goals of those partners (see the next subsection)</p></li>
+<li><p>It is not practical for URSSI to directly work with the US research software development
+community (all of those who develop research software in the US, including in academia,
+national laboratories, and industry) due to the small size of URSSI and the very large size of this community, so
+URSSI needs to work indirectly by leveraging other groups.</p></li>
+</ul>
+<p>Given the mission and vision, and our assumptions, we plan to use a set of methods
+to ensure that URSSI is successful:</p>
+<ul>
+<li><p>URSSI must choose a set of initial targeted communities and efforts, focus on
+them for some period (until some predefined metrics of success are met or some predefined
+time period has passed without success), then move on to the next set of targets</p></li>
+<li><p>URSSI must work closely with partners to amplify its efforts (see the next subsection)</p></li>
+<li><p>URSSI must be clever about using resources, attempting to achieve multiple outputs
+for activities whenever possible.</p></li>
+</ul>
+<p>Guiding principles:</p>
+<ul>
+<li><p>Leverage existing organizations for authority, credibility, resources</p></li>
+<li><p>Focus on people, not projects</p></li>
+<li><p>Embed diversity and inclusion within all aspects of URSSI</p></li>
+<li><p>Leverage available resources (software, services, credit systems, training
+materials, etc.) where possible rather than reinvent</p></li>
+<li><p>Share resources we create to allow others to reuse and build on elsewhere</p></li>
+<li><p>Respect and learn from volunteers</p></li>
+<li><p>Activities should have an end or a sustainability plan beyond URSSI</p></li>
+<li><p>Distinguish between software quality measures (badging, intrinsic) and software impact measures (reuse, citation)</p></li>
+<li><p>Sustain software by sustaining its communities (stewards, developers, maintainers,
+leaders, active users)</p></li>
+<li><p>Coordinate activities rather than start new ones when possible</p></li>
+<li><p>Advocate and promote a variety of solutions to challenges, recognizing that no one
+solution is likely to work for all stakeholders or in all situations</p></li>
+</ul>
+<p>Some topics are partially or completely out-of-scope for URSSI:</p>
+<ul>
+<li><p><strong>Software Commercialization</strong>. As an institute, URSSI will position
+itself as a broker to existing bodies of knowledge or expertise, and
+seek to fill needed gaps where no expertise already exists. Relevant
+to this positioning is a route to research software sustainability through
+software commercialization. We view this path to sustainability
+as already well supported by existing programs and initiatives, some of
+which are already funded by NSF. As a principle, URSSI is not opposed
+to or discouraging of research software commercialization. We will actively
+seek to learn from and collaborate with the commercial software ecosystem,
+including technology transfer offices that provide structured pathways to
+commercialization for research software in academic institutions. In this
+role, URSSI might guide people in deciding if commercialization is a
+realistic or good choice for their software project, and connect those who
+decide that it is to existing support programs like
+<a href="https://www.nsf.gov/news/special_reports/i-corps/">I-Corps</a>. What we believe
+URSSI can uniquely provide, and what we find to be lacking, is support for
+alternative routes to sustainability through open-source or non-commercial
+fiscal sponsorship. While these alternative routes are obviously less
+straightforward, and more challenging they remain the most viable option for
+improving the long-term accessibility and impact of most research
+investments in software. A majority of even the best research software projects
+won’t be commercially viable given the size and scope of their audience. It is
+this critical gap, between commercialization and open-source, that URSSI seeks
+to close.</p></li>
+<li><p><strong>Software Development and Maintenance</strong>. URSSI staff will not develop or
+maintain research software, nor will URSSI provide funds to projects to do this,
+other than as part of focused incubation or training activity. Given the small size
+of URSSI and the large size of the software development and maintenance community,
+such hands-on software work is not a useful way for URSSI to have an impact.</p></li>
+<li><p><strong>Infrastructure</strong>. URSSI will not run infrastructure for the research software
+community. If new infrastructure is needed, URSSI will work with other organizations
+to instigate projects to create and maintain that infrastructure, run by those other
+organizations.</p></li>
+</ul>
+<p>to create and maintain that infrastructure, run
+[<strong>TODO</strong>: what else should be out-of-scope for URSSI?]</p>
+</div>
+<div id="partners" class="section level2" number="3.3">
+<h2>
+<span class="header-section-number">3.3</span> Partners<a class="anchor" aria-label="anchor" href="#partners"><i class="fas fa-link"></i></a>
+</h2>
+<p>URSSI will work with a variety of partners with whom we have overlapping goals.
+For the purpose of this plan, we list partners with whom we will seek to work, recognizing that
+these potential partner organizations have not made a commitment, and such commitments will
+depend on specific activities, and specific funding opportunities. In the following table, we list
+these potential partners and the areas in which we see an opportunity for collaboration. See the
+appropriate chapters (e.g. <a href="Ch-Comm">Community &amp; outreach (Chapter 4)</a>, <a href="Ch-Edu">Education &amp; training (Chapter 5)</a>, etc.)
+for the specific partnering opportunities in each area of URSSI’s work.</p>
+<div class="inline-table"><table class="table table-sm">
+<colgroup>
+<col width="50%">
+<col width="50%">
+</colgroup>
+<thead><tr class="header">
+<th>Potential partner</th>
+<th>Partnering area(s)</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td>Other NSF SI2/CSSI Institutes &amp; Centers of Excellence (e.g., <a href="https://sciencegateways.org">SGCI</a>, <a href="https://molssi.org">MolSSI</a>, <a href="https://iris-hep.org">IRIS-HEP</a>)</td>
+<td>policy, education &amp; training, incubator, community &amp; outreach</td>
+</tr>
+<tr class="even">
+<td><a href="https://www.researchsoft.org">Research Software Alliance (ReSA)</a></td>
+<td>policy, community &amp; outreach</td>
+</tr>
+<tr class="odd">
+<td><a href="https://software.ac.uk">Software Sustainability Institute (SSI)</a></td>
+<td>policy, education &amp; training, incubator, community &amp; outreach</td>
+</tr>
+<tr class="even">
+<td><a href="https://bssw.io">Better Scientific Software (BSSw)</a></td>
+<td>policy, education &amp; training, community &amp; outreach</td>
+</tr>
+<tr class="odd">
+<td>Fiscal sponsors (e.g., <a href="https://numfocus.org">NumFOCUS</a>, <a href="https://codeforscience.org">Code for Science &amp; Society</a>)</td>
+<td>policy, incubator, community &amp; outreach</td>
+</tr>
+<tr class="even">
+<td><a href="https://us-rse.org">US-RSE Association</a></td>
+<td>policy, education &amp; training, community &amp; outreach</td>
+</tr>
+<tr class="odd">
+<td>(UK) <a href="https://society-rse.org">RSE Society</a>
+</td>
+<td>policy, education &amp; training, community &amp; outreach</td>
+</tr>
+<tr class="even">
+<td><a href="https://www.academicdatascience.org">Academic Data Science Alliance (ASDA)</a></td>
+<td>policy, community &amp; outreach</td>
+</tr>
+<tr class="odd">
+<td><a href="https://www.rd-alliance.org">Research Data Alliance (RDA)</a></td>
+<td>policy, education &amp; training</td>
+</tr>
+<tr class="even">
+<td><a href="https://www.aaas.org/programs/science-technology-policy-fellowships">American Association for the Advancement of Science (AAAS) Science &amp; Technology Policy Fellows</a></td>
+<td>policy, community &amp; outreach</td>
+</tr>
+<tr class="odd">
+<td><a href="https://carcc.org">Campus Research Computing Consortium (CaRCC)</a></td>
+<td>policy</td>
+</tr>
+<tr class="even">
+<td><a href="http://www.oecd.org">Organisation for Economic Co-operation and Development (OECD)</a></td>
+<td>policy</td>
+</tr>
+<tr class="odd">
+<td><a href="https://carpentries.org">The Carpenties</a></td>
+<td>education &amp; training</td>
+</tr>
+<tr class="even">
+<td><a href="https://www.cscce.org/">Center for Scientific Collaboration and Community Engagement</a></td>
+<td>community and engagement</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<div id="desired-impact" class="section level2" number="3.4">
+<h2>
+<span class="header-section-number">3.4</span> Desired impact<a class="anchor" aria-label="anchor" href="#desired-impact"><i class="fas fa-link"></i></a>
+</h2>
+<p>URSSI’s ultimate desired impact, as stated in the vision, is on scholarly
+research in all fields. URSSI aims to achieve
+this impact by enabling and encouraging the contribution of the resources and training to the research software
+ecosystem that will improve research software and to empower the people who
+create and maintain that software.
+In the remainder of this chapter, for each of these three elements of impact, we describe our activities that we believe
+will contribute to them. Additionally, in <a href="Ch-Metrics">Chapter 10 (Metrics and Evaluation)</a>,
+we show the full set of activities and their intended impacts.</p>
+<center>
+<img src="images/URSSI-impact-drawing.png" title="fig:" alt="FigName">
+</center>
+<p>For software, URSSI aims to improve the sustainability of research software by</p>
+<ul>
+<li><p>Developing and curating best practices for software projects,
+including examining practices in industry,
+for testing, governance, codes of conduct, continuous integration.</p></li>
+<li><p>Sharing information and practices through communities calls, training
+opportunities, an incubator, and a community-developed book</p></li>
+</ul>
+<!--
+* Documenting sustainability models and providing guidance on how to choose among them
+--><!--
+* Building models to make best use of and support transient software contributors (e.g. students)
+--><p>The activities that have a primary impact on the sustainability of research software are described in
+<a href="Ch-Comm">Community &amp; outreach (Chapter 4)</a>,
+<a href="Ch-Edu">Education &amp; training (Chapter 5)</a>, and
+<a href="Ch-Incubator">Incubator (Chapter 6)</a>.
+Additionally, some activities in
+<a href="Ch-Policy">Policy (Chapter 7)</a> have a secondary impact
+on the sustainability of research software.</p>
+<p>For people, URSSI aims to improve the careers of those who develop and maintain
+research software by:</p>
+<ul>
+<li><p>Fellowships</p></li>
+<li><p>In-person events and community calls</p></li>
+<li><p>A summer school, and the incubator program</p></li>
+<li><p>Promoting new career paths for those who develop and maintain research software</p></li>
+<li><p>Developing and advocating for research software usage and impact metrics to be
+a factor in the hiring and promotion of software developers and maintainers,
+including promoting the publication of research software</p></li>
+<li><p>Encouraging a diverse set of participants to enter the research software
+development and maintenance field and decreasing structural and systemic
+barriers to productive careers for members of underrepresented groups</p></li>
+</ul>
+<p>The activities that have a primary impact on people and careers are described in
+the four following chapters, on
+<a href="Ch-Comm">Community &amp; outreach (Chapter 4)</a>,
+<a href="Ch-Edu">Education &amp; training (Chapter 5)</a>,
+<a href="Ch-Incubator">Incubator (Chapter 6)</a>, and
+<a href="Ch-Policy">Policy (Chapter 7)</a>.</p>
+<p>For the research software ecosystem, URSSI aims to improve the understanding and functioning of the ecosystem by</p>
+<ul>
+<li><p>In-person events and community calls</p></li>
+<li><p>A newsletter and and an active social media presence</p></li>
+<li><p>Incentivizing contributions to public software</p></li>
+<li><p>Disentangling software quality and software impact, including
+promoting software credit and citation mechanisms</p></li>
+<li><p>Documenting the use of research software in research and providing
+systematic and regular analysis of the impact this software has on research</p></li>
+<li><p>Promoting an increased understanding of the importance of research software in research</p></li>
+<li><p>Advocating for increased funding opportunities for software maintenance</p></li>
+<li><p>Creating an award program to recognize software contributions</p></li>
+<li><p>Growing and participating in communities around the field of research software</p></li>
+</ul>
+<!--
+* Studying and disseminating methods to catalog and promote research software
+--><!--
+* Supporting the use of software in reproducibility
+--><p>The activities that have a primary impact on the research software ecosystem are described in
+<a href="Ch-Comm">Community &amp; outreach (Chapter 4)</a> and
+<a href="Ch-Policy">Policy (Chapter 7)</a>.
+Additionally, some activities in
+<a href="Ch-Edu">Education &amp; training (Chapter 5)</a>
+have a secondary impact
+on the research software ecosystem.</p>
+
+</div>
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="chapter2.html"><span class="header-section-number">2</span> URSSI Conceptualization</a></div>
+<div class="next"><a href="Ch-Comm.html"><span class="header-section-number">4</span> Community &amp; Outreach</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#chapter3"><span class="header-section-number">3</span> URSSI Plan</a></li>
+<li><a class="nav-link" href="#mission-and-vision"><span class="header-section-number">3.1</span> Mission and Vision</a></li>
+<li><a class="nav-link" href="#planning-assumptions-methods-and-principles"><span class="header-section-number">3.2</span> Planning assumptions, methods, and principles</a></li>
+<li><a class="nav-link" href="#partners"><span class="header-section-number">3.3</span> Partners</a></li>
+<li><a class="nav-link" href="#desired-impact"><span class="header-section-number">3.4</span> Desired impact</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/si2-urssi/plan/blob/master/03-plan.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/si2-urssi/plan/edit/master/03-plan.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>URSSI Implementation Plan</strong>" was written by Karthik Ram, Jeffrey Carver, Sandra Gesing, Daniel S. Katz, Nic Weber. It was last built on 2021-01-14.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer>
+</body>
+</html>
