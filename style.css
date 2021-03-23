@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+  @import url("https://use.typekit.net/lgk4mzk.css");
 
 body {
 font-family: 'Lato', sans-serif;
@@ -18,4 +19,34 @@ pre {
 }
 pre code {
   white-space: inherit;
+}
+
+h1 {
+  font-family: din-2014, sans-serif;
+font-style: normal;
+font-weight: 200;
+}
+
+h2 {
+  font-family: din-2014, sans-serif;
+font-style: normal;
+font-weight: 200;
+}
+
+h3 {
+  font-family: din-2014, sans-serif;
+font-style: normal;
+font-weight: 200;
+}
+
+h4 {
+  font-family: din-2014, sans-serif;
+font-style: normal;
+font-weight: 200;
+}
+
+ul {
+  font-family: din-2014, sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }

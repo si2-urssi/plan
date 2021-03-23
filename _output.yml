@@ -1,18 +1,8 @@
-bookdown::bs4_book:
-  theme:
-    primary: "#637238"
-  repo: https://github.com/si2-urssi/plan
-
 bookdown::gitbook:
+  lib_dir: assets
+  split_by: section
   config:
-    toc:
-      collapse: section
-      before: |
-        <li><strong><a href="./">URSSI Plan</a></strong></li>
-    edit:
-      link: https://github.com/si2-urssi/plan/edit/master/%s
-      text: "Edit"
-    sharing: no
-  css: urssi_plan.css
+    toolbar:
+      position: static
 bookdown::pdf_book:
-  latex_engine: "xelatex"
+  keep_tex: yes

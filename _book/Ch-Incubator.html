@@ -1,432 +1,270 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="" xml:lang="">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Chapter 6 Incubator | URSSI Implementation Plan</title>
-<meta name="author" content="Karthik Ram, Jeffrey Carver, Sandra Gesing, Daniel S. Katz, Nic Weber">
-<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.6.4/header-attrs.js"></script><script src="libs/jquery-3.5.1/jquery-3.5.1.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="libs/bootstrap-4.5.3/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-4.5.3/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.2.3.9000/tabs.js"></script><script src="libs/bs3compat-0.2.3.9000/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
-<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS -->
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 6 Incubator | URSSI Implementation Plan</title>
+  <meta name="description" content="Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute." />
+  <meta name="generator" content="bookdown 0.21.6 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 6 Incubator | URSSI Implementation Plan" />
+  <meta property="og:type" content="book" />
+  <meta property="og:url" content="https://plan.urssi.us" />
+  <meta property="og:image" content="https://plan.urssi.us/plan_png.png" />
+  <meta property="og:description" content="Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute." />
+  <meta name="github-repo" content="si2-urssi/plan" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 6 Incubator | URSSI Implementation Plan" />
+  <meta name="twitter:site" content="@si2-urssi" />
+  <meta name="twitter:description" content="Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute." />
+  <meta name="twitter:image" content="https://plan.urssi.us/plan_png.png" />
+
+<meta name="author" content="Karthik Ram, Jeffrey Carver, Sandra Gesing, Daniel S. Katz, Nic Weber" />
+
+
+<meta name="date" content="2021-03-23" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="education-training-metricsmilestones.html"/>
+<link rel="next" href="background.html"/>
+<script src="assets/header-attrs-2.7/header-attrs.js"></script>
+<script src="assets/jquery-2.2.3/jquery.min.js"></script>
+<link href="assets/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<link href="assets/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="assets/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+
+
 </head>
-<body data-spy="scroll" data-target="#toc">
 
-<div class="container-fluid">
-<div class="row">
-  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+<body>
 
-    <div class="d-flex align-items-start justify-content-between">
-      <h1>
-        <a href="index.html" title="">URSSI Implementation Plan</a>
-      </h1>
-      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Welcome</a></li>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="nature-of-the-problem.html"><a href="nature-of-the-problem.html"><i class="fa fa-check"></i><b>1.1</b> Nature of the problem</a></li>
+<li class="chapter" data-level="1.2" data-path="valuing-producers-of-research-software.html"><a href="valuing-producers-of-research-software.html"><i class="fa fa-check"></i><b>1.2</b> Valuing producers of research software</a></li>
+<li class="chapter" data-level="1.3" data-path="why-we-ran-this-conceptualization.html"><a href="why-we-ran-this-conceptualization.html"><i class="fa fa-check"></i><b>1.3</b> Why we ran this conceptualization</a></li>
+<li class="chapter" data-level="1.4" data-path="what-we-plan-to-do-and-why.html"><a href="what-we-plan-to-do-and-why.html"><i class="fa fa-check"></i><b>1.4</b> What we plan to do and why</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="chapter2.html"><a href="chapter2.html"><i class="fa fa-check"></i><b>2</b> URSSI Conceptualization</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="workshops.html"><a href="workshops.html"><i class="fa fa-check"></i><b>2.1</b> Workshops</a></li>
+<li class="chapter" data-level="2.2" data-path="website-newsletter-blog.html"><a href="website-newsletter-blog.html"><i class="fa fa-check"></i><b>2.2</b> Website / Newsletter/ Blog</a></li>
+<li class="chapter" data-level="2.3" data-path="survey.html"><a href="survey.html"><i class="fa fa-check"></i><b>2.3</b> Survey</a></li>
+<li class="chapter" data-level="2.4" data-path="ethnography.html"><a href="ethnography.html"><i class="fa fa-check"></i><b>2.4</b> Ethnography</a></li>
+<li class="chapter" data-level="2.5" data-path="chapter2-WinterSchool.html"><a href="chapter2-WinterSchool.html"><i class="fa fa-check"></i><b>2.5</b> Winter School</a></li>
+<li class="chapter" data-level="2.6" data-path="joint-activities.html"><a href="joint-activities.html"><i class="fa fa-check"></i><b>2.6</b> Joint Activities</a>
+<ul>
+<li class="chapter" data-level="2.6.1" data-path="joint-activities.html"><a href="joint-activities.html#research-software-alliance-resa"><i class="fa fa-check"></i><b>2.6.1</b> Research Software Alliance (ReSA)</a></li>
+<li class="chapter" data-level="2.6.2" data-path="joint-activities.html"><a href="joint-activities.html#research-software-engineering-rse"><i class="fa fa-check"></i><b>2.6.2</b> Research Software Engineering (RSE)</a></li>
+</ul></li>
+<li class="chapter" data-level="2.7" data-path="synthesis-of-urssi-activities.html"><a href="synthesis-of-urssi-activities.html"><i class="fa fa-check"></i><b>2.7</b> Synthesis of URSSI Activities</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="chapter3.html"><a href="chapter3.html"><i class="fa fa-check"></i><b>3</b> URSSI Plan</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="mission-and-vision.html"><a href="mission-and-vision.html"><i class="fa fa-check"></i><b>3.1</b> Mission and Vision</a></li>
+<li class="chapter" data-level="3.2" data-path="planning-assumptions-methods-and-principles.html"><a href="planning-assumptions-methods-and-principles.html"><i class="fa fa-check"></i><b>3.2</b> Planning assumptions, methods, and principles</a></li>
+<li class="chapter" data-level="3.3" data-path="partners.html"><a href="partners.html"><i class="fa fa-check"></i><b>3.3</b> Partners</a></li>
+<li class="chapter" data-level="3.4" data-path="desired-impact.html"><a href="desired-impact.html"><i class="fa fa-check"></i><b>3.4</b> Desired impact</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="Ch-Comm.html"><a href="Ch-Comm.html"><i class="fa fa-check"></i><b>4</b> Community &amp; Outreach</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="community-outreach-resources.html"><a href="community-outreach-resources.html"><i class="fa fa-check"></i><b>4.1</b> Community &amp; Outreach Resources</a></li>
+<li class="chapter" data-level="4.2" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html"><i class="fa fa-check"></i><b>4.2</b> Community &amp; Outreach Methods</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#fellowship-program"><i class="fa fa-check"></i><b>4.2.1</b> Fellowship Program</a></li>
+<li class="chapter" data-level="4.2.2" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#in-person-events"><i class="fa fa-check"></i><b>4.2.2</b> In-person events</a></li>
+<li class="chapter" data-level="4.2.3" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#online-community-events"><i class="fa fa-check"></i><b>4.2.3</b> Online community events</a></li>
+<li class="chapter" data-level="4.2.4" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#Ch-Comm-Best-Practices"><i class="fa fa-check"></i><b>4.2.4</b> Curating and disseminating best practices</a></li>
+<li class="chapter" data-level="4.2.5" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#newsletter-and-social-media"><i class="fa fa-check"></i><b>4.2.5</b> Newsletter and social media</a></li>
+<li class="chapter" data-level="4.2.6" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#other-activities"><i class="fa fa-check"></i><b>4.2.6</b> Other activities</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="community-outreach-assessment-and-metrics.html"><a href="community-outreach-assessment-and-metrics.html"><i class="fa fa-check"></i><b>4.3</b> Community &amp; Outreach Assessment and Metrics</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="Ch-Edu.html"><a href="Ch-Edu.html"><i class="fa fa-check"></i><b>5</b> Education &amp; Training</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="education-training-resources.html"><a href="education-training-resources.html"><i class="fa fa-check"></i><b>5.1</b> Education &amp; Training resources</a></li>
+<li class="chapter" data-level="5.2" data-path="education-training-methods.html"><a href="education-training-methods.html"><i class="fa fa-check"></i><b>5.2</b> Education &amp; Training methods</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="education-training-methods.html"><a href="education-training-methods.html#develop-and-annually-run-a-summer-school-on-practices-for-sustainable-software-development-for-research-software"><i class="fa fa-check"></i><b>5.2.1</b> Develop and annually run a summer school on practices for sustainable software development for research software</a></li>
+<li class="chapter" data-level="5.2.2" data-path="education-training-methods.html"><a href="education-training-methods.html#develop-a-research-project-carpentry-lesson-program-that-teaches-people-how-to-turn-code-into-a-formal-project"><i class="fa fa-check"></i><b>5.2.2</b> Develop a Research Project Carpentry lesson program that teaches people how to turn code into a formal project</a></li>
+<li class="chapter" data-level="5.2.3" data-path="education-training-methods.html"><a href="education-training-methods.html#plan-a-review-service-for-software-project-plans"><i class="fa fa-check"></i><b>5.2.3</b> Plan a review service for software project plans</a></li>
+<li class="chapter" data-level="5.2.4" data-path="education-training-methods.html"><a href="education-training-methods.html#evaluate-and-document-successes-and-failures-of-the-use-of-industrial-software-development-practices-in-research-software"><i class="fa fa-check"></i><b>5.2.4</b> Evaluate and document successes and failures of the use of industrial software development practices in research software</a></li>
+<li class="chapter" data-level="5.2.5" data-path="education-training-methods.html"><a href="education-training-methods.html#compile-and-maintain-a-body-of-knowledge-of-best-practices-for-research-software-development"><i class="fa fa-check"></i><b>5.2.5</b> Compile and maintain a body of knowledge of best practices for research software development</a></li>
+</ul></li>
+<li class="chapter" data-level="5.3" data-path="cross-cutting-activities.html"><a href="cross-cutting-activities.html"><i class="fa fa-check"></i><b>5.3</b> Cross-cutting activities</a></li>
+<li class="chapter" data-level="5.4" data-path="education-training-metricsmilestones.html"><a href="education-training-metricsmilestones.html"><i class="fa fa-check"></i><b>5.4</b> Education &amp; Training metrics/milestones</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html"><i class="fa fa-check"></i><b>6</b> Incubator</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="background.html"><a href="background.html"><i class="fa fa-check"></i><b>6.1</b> Background</a></li>
+<li class="chapter" data-level="6.2" data-path="evidence-base.html"><a href="evidence-base.html"><i class="fa fa-check"></i><b>6.2</b> Evidence base</a></li>
+<li class="chapter" data-level="6.3" data-path="incubators-background.html"><a href="incubators-background.html"><i class="fa fa-check"></i><b>6.3</b> Incubators background</a></li>
+<li class="chapter" data-level="6.4" data-path="urssi-incubator.html"><a href="urssi-incubator.html"><i class="fa fa-check"></i><b>6.4</b> URSSI Incubator</a></li>
+<li class="chapter" data-level="6.5" data-path="incubator-resources.html"><a href="incubator-resources.html"><i class="fa fa-check"></i><b>6.5</b> Incubator resources</a></li>
+<li class="chapter" data-level="6.6" data-path="incubator-methods.html"><a href="incubator-methods.html"><i class="fa fa-check"></i><b>6.6</b> Incubator methods</a>
+<ul>
+<li class="chapter" data-level="6.6.1" data-path="incubator-methods.html"><a href="incubator-methods.html#project-solicitation-and-selection"><i class="fa fa-check"></i><b>6.6.1</b> Project solicitation and selection:</a></li>
+<li class="chapter" data-level="6.6.2" data-path="incubator-methods.html"><a href="incubator-methods.html#project-entry"><i class="fa fa-check"></i><b>6.6.2</b> Project entry</a></li>
+<li class="chapter" data-level="6.6.3" data-path="incubator-methods.html"><a href="incubator-methods.html#incubator-activities"><i class="fa fa-check"></i><b>6.6.3</b> Incubator activities</a></li>
+<li class="chapter" data-level="6.6.4" data-path="incubator-methods.html"><a href="incubator-methods.html#project-graduation-or-exit"><i class="fa fa-check"></i><b>6.6.4</b> Project graduation or exit</a></li>
+<li class="chapter" data-level="6.6.5" data-path="incubator-methods.html"><a href="incubator-methods.html#relationship-to-funding-and-external-awards"><i class="fa fa-check"></i><b>6.6.5</b> Relationship to funding and external awards</a></li>
+</ul></li>
+<li class="chapter" data-level="6.7" data-path="incubator-metricsmilestones.html"><a href="incubator-metricsmilestones.html"><i class="fa fa-check"></i><b>6.7</b> Incubator metrics/milestones</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="Ch-Policy.html"><a href="Ch-Policy.html"><i class="fa fa-check"></i><b>7</b> Policy</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="policy-resources.html"><a href="policy-resources.html"><i class="fa fa-check"></i><b>7.1</b> Policy resources</a>
+<ul>
+<li class="chapter" data-level="7.1.1" data-path="policy-resources.html"><a href="policy-resources.html#people"><i class="fa fa-check"></i><b>7.1.1</b> People</a></li>
+<li class="chapter" data-level="7.1.2" data-path="policy-resources.html"><a href="policy-resources.html#additional-resources"><i class="fa fa-check"></i><b>7.1.2</b> Additional resources</a></li>
+<li class="chapter" data-level="7.1.3" data-path="policy-resources.html"><a href="policy-resources.html#events-travel"><i class="fa fa-check"></i><b>7.1.3</b> Events &amp; travel</a></li>
+<li class="chapter" data-level="7.1.4" data-path="policy-resources.html"><a href="policy-resources.html#flexibility"><i class="fa fa-check"></i><b>7.1.4</b> Flexibility</a></li>
+</ul></li>
+<li class="chapter" data-level="7.2" data-path="policy-methods.html"><a href="policy-methods.html"><i class="fa fa-check"></i><b>7.2</b> Policy methods</a>
+<ul>
+<li class="chapter" data-level="7.2.1" data-path="policy-methods.html"><a href="policy-methods.html#aims"><i class="fa fa-check"></i><b>7.2.1</b> Aims</a></li>
+<li class="chapter" data-level="7.2.2" data-path="policy-methods.html"><a href="policy-methods.html#partners-1"><i class="fa fa-check"></i><b>7.2.2</b> Partners</a></li>
+<li class="chapter" data-level="7.2.3" data-path="policy-methods.html"><a href="policy-methods.html#planned-activity-pool"><i class="fa fa-check"></i><b>7.2.3</b> Planned Activity Pool</a></li>
+</ul></li>
+<li class="chapter" data-level="7.3" data-path="work-between-policy-and-other-urssi-areas.html"><a href="work-between-policy-and-other-urssi-areas.html"><i class="fa fa-check"></i><b>7.3</b> Work between Policy and other URSSI Areas</a></li>
+<li class="chapter" data-level="7.4" data-path="policy-metricsmilestones.html"><a href="policy-metricsmilestones.html"><i class="fa fa-check"></i><b>7.4</b> Policy metrics/milestones</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="Ch-Org.html"><a href="Ch-Org.html"><i class="fa fa-check"></i><b>8</b> Management &amp; Coordination Area</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="management-resources.html"><a href="management-resources.html"><i class="fa fa-check"></i><b>8.1</b> Management resources</a></li>
+<li class="chapter" data-level="8.2" data-path="work-packages.html"><a href="work-packages.html"><i class="fa fa-check"></i><b>8.2</b> Work packages</a></li>
+<li class="chapter" data-level="8.3" data-path="management-structure-and-procedures.html"><a href="management-structure-and-procedures.html"><i class="fa fa-check"></i><b>8.3</b> Management structure and procedures</a></li>
+<li class="chapter" data-level="8.4" data-path="project-management-team.html"><a href="project-management-team.html"><i class="fa fa-check"></i><b>8.4</b> Project Management Team</a>
+<ul>
+<li class="chapter" data-level="8.4.1" data-path="project-management-team.html"><a href="project-management-team.html#steering-committee"><i class="fa fa-check"></i><b>8.4.1</b> Steering Committee</a></li>
+<li class="chapter" data-level="8.4.2" data-path="project-management-team.html"><a href="project-management-team.html#pi"><i class="fa fa-check"></i><b>8.4.2</b> PI</a></li>
+<li class="chapter" data-level="8.4.3" data-path="project-management-team.html"><a href="project-management-team.html#leadership-team-pi-and-co-pis"><i class="fa fa-check"></i><b>8.4.3</b> Leadership Team (PI and Co-PIs)</a></li>
+<li class="chapter" data-level="8.4.4" data-path="project-management-team.html"><a href="project-management-team.html#work-package-leaders"><i class="fa fa-check"></i><b>8.4.4</b> Work Package Leaders</a></li>
+<li class="chapter" data-level="8.4.5" data-path="project-management-team.html"><a href="project-management-team.html#sustainability-officer"><i class="fa fa-check"></i><b>8.4.5</b> Sustainability Officer</a></li>
+<li class="chapter" data-level="8.4.6" data-path="project-management-team.html"><a href="project-management-team.html#diversity-officer"><i class="fa fa-check"></i><b>8.4.6</b> Diversity Officer</a></li>
+<li class="chapter" data-level="8.4.7" data-path="project-management-team.html"><a href="project-management-team.html#evaluator"><i class="fa fa-check"></i><b>8.4.7</b> Evaluator</a></li>
+</ul></li>
+<li class="chapter" data-level="8.5" data-path="risk-management.html"><a href="risk-management.html"><i class="fa fa-check"></i><b>8.5</b> Risk management</a></li>
+<li class="chapter" data-level="8.6" data-path="management-metricsmilestones.html"><a href="management-metricsmilestones.html"><i class="fa fa-check"></i><b>8.6</b> Management metrics/milestones</a></li>
+<li class="chapter" data-level="8.7" data-path="swot-strengths-weaknesses-opportunities-threats.html"><a href="swot-strengths-weaknesses-opportunities-threats.html"><i class="fa fa-check"></i><b>8.7</b> SWOT (Strengths, Weaknesses, Opportunities, Threats)</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="Ch-Budget.html"><a href="Ch-Budget.html"><i class="fa fa-check"></i><b>9</b> Budget</a></li>
+<li class="chapter" data-level="10" data-path="Ch-Metrics.html"><a href="Ch-Metrics.html"><i class="fa fa-check"></i><b>10</b> Metrics and Evaluation</a></li>
+<li class="chapter" data-level="11" data-path="Ch-Summary.html"><a href="Ch-Summary.html"><i class="fa fa-check"></i><b>11</b> Final Words</a></li>
+<li class="chapter" data-level="" data-path="glossary.html"><a href="glossary.html"><i class="fa fa-check"></i>Glossary</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+</ul>
+
+      </nav>
     </div>
 
-    <div id="main-nav" class="collapse-lg">
-      <form role="search">
-        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
-</form>
-
-      <nav aria-label="Table of contents"><h2>Table of contents</h2>
-        <ul class="book-toc list-unstyled">
-<li><a class="" href="index.html">Welcome</a></li>
-<li><a class="" href="intro.html"><span class="header-section-number">1</span> Introduction</a></li>
-<li><a class="" href="chapter2.html"><span class="header-section-number">2</span> URSSI Conceptualization</a></li>
-<li><a class="" href="chapter3.html"><span class="header-section-number">3</span> URSSI Plan</a></li>
-<li><a class="" href="Ch-Comm.html"><span class="header-section-number">4</span> Community &amp; Outreach</a></li>
-<li><a class="" href="Ch-Edu.html"><span class="header-section-number">5</span> Education &amp; Training</a></li>
-<li><a class="active" href="Ch-Incubator.html"><span class="header-section-number">6</span> Incubator</a></li>
-<li><a class="" href="Ch-Policy.html"><span class="header-section-number">7</span> Policy</a></li>
-<li><a class="" href="Ch-Org.html"><span class="header-section-number">8</span> Management &amp; Coordination Area</a></li>
-<li><a class="" href="Ch-Budget.html"><span class="header-section-number">9</span> Budget</a></li>
-<li><a class="" href="Ch-Metrics.html"><span class="header-section-number">10</span> Metrics and Evaluation</a></li>
-<li><a class="" href="Ch-Summary.html"><span class="header-section-number">11</span> Final Words</a></li>
-<li><a class="" href="glossary.html">Glossary</a></li>
-<li><a class="" href="references.html">References</a></li>
-</ul>
-
-        <div class="book-extra">
-          <p><a id="book-repo" href="https://github.com/si2-urssi/plan">View book source <i class="fab fa-github"></i></a></p>
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">URSSI Implementation Plan</a>
+          </h1>
         </div>
-      </nav>
-</div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="Ch-Incubator" class="section level1" number="6">
-<h1>
-<span class="header-section-number">6</span> Incubator<a class="anchor" aria-label="anchor" href="#Ch-Incubator"><i class="fas fa-link"></i></a>
-</h1>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="Ch-Incubator" class="section level1" number="6">
+<h1><span class="header-section-number">Chapter 6</span> Incubator</h1>
 <p>The intent of an URSSI Incubator is to support software projects seeking to grow, transition to an open-source model of development, or improve software engineering practices. The incubator plans to do this by providing mentorship, a small amount of funding, and guided support for improving governance, documentation, financial planning, and evaluating development practices. The following sections describe the motivation for an Incubator program focused on research software.</p>
-<div id="background" class="section level2" number="6.1">
-<h2>
-<span class="header-section-number">6.1</span> Background<a class="anchor" aria-label="anchor" href="#background"><i class="fas fa-link"></i></a>
-</h2>
-<p>Common tasks solved by research software often include the generation, analysis, visualization, and processing of data.
-These software solutions are, just as often, generalizable beyond the immediate needs of an individual researcher, research group, or a particular research effort. However, there are few institutional and personal incentives to develop generalizable research software, package this software for reuse, create meaningful documentation, and share software in open repositories.
-Each of these activities requires substantial investments of time, money, and effort.</p>
-<p>For researchers the return on this investment may be minimal - software is rarely cited in scholarly literature <span class="citation">(Howison and Bullard <a href="references.html#ref-howison2016software" role="doc-biblioref">2016</a>; Hwang et al. <a href="references.html#ref-hwang2017software" role="doc-biblioref">2017</a>; Hsu et al. <a href="references.html#ref-hsu2019comparing" role="doc-biblioref">2019</a>; Park and Wolfram <a href="references.html#ref-park2019research" role="doc-biblioref">2019</a>)</span>, tenure and promotion committees rarely consider software contributions <span class="citation">(Moher et al. <a href="references.html#ref-moher2018assessing" role="doc-biblioref">2018</a>)</span>, and grant funding often acknowledges software development as a byproduct of rather than a substantive contribution to a research project <span class="citation">(Broman et al. <a href="references.html#ref-broman2017recommendations" role="doc-biblioref">2017</a>; Siepel <a href="references.html#ref-siepel2019challenges" role="doc-biblioref">2019</a>)</span>.</p>
-<p>These challenges are despite increasing evidence of the value of software sharing and reuse in addressing research challenges that require fast and efficient community response.
-For example, the Medical Research Center in the UK is currently using a 13 year old pandemic simulation codebase to model control measures for COVID-19.
-In doing so, they’ve attracted collaborators from Microsoft, the Abdul Latif Jameel Institute for Disease and Emergency Analytics, and the WHO Collaborating Centre for Infectious Disease Modelling to document, refactor, and extend this code.
-While the original author of the simulation code acknowledged its numerous imperfections,<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;See &lt;a href="https://twitter.com/neil_ferguson/status/1241835454707699713"&gt;Neil Furguson’s tweet&lt;/a&gt; for an extended commentary&lt;/p&gt;'><sup>1</sup></a> the ability to start from an existing working model saved time, money, and effort in combating a global pandemic.</p>
-<p>Contemporary research is littered with similar examples - imperfect software that is valuable for one purpose can be made more broadly useful by being shared, properly documented, and made available for sustainable reuse.
-Finding ways to encourage and support research software so that it remains accessible for future improvements and uses is a primary goal of URSSI.
-But, there currently exists little guidance for how a single research software project can transition from the individual efforts of a small set of researchers to a distributed open model of development that attracts and retains valuable communities of contributors <span class="citation">(Howison <a href="references.html#ref-howison2015sustaining" role="doc-biblioref">2015</a>)</span>.</p>
-<p>Open source models are a helpful, but not the only, reference for the forms of cooperative community organizing that we believe will be valuable to developing a more sustainable research software ecosystem.
-An open-source model has some basic features for community development that are necessary for sustainable research software: code is openly licensed for reuse, members are distributed across time and space, and the organization of development efforts depend, in part, upon loosely connected individuals making small contributions (or peer-production).<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt; See the Open Source guide on &lt;a href="https://opensource.guide/building-community/"&gt;building community&lt;/a&gt;&lt;/p&gt;'><sup>2</sup></a>
-These types of models for collaboratively organizing a software project are substantially different from how most researchers are trained and learn to develop software.
-Most research software development is currently focused on solving immediate short-term individual needs rather than collaboratively building generalizable solutions or performing necessary maintenance of this software.<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;Rene Gassmoeller has made this argument succintly in a recent &lt;a href="http://urssi.us/blog/2020/03/24/scientific-software-projects-and-their-communities/"&gt;blog post&lt;/a&gt;&lt;/p&gt;'><sup>3</sup></a>
-These are obviously beneficial and valuable modes of collaborative software development that can and should play a more prominent role in the research software ecosystem.
-In the following section we further justify some of our working assumptions about why open models of software development can lead to more sustainable research software, and then propose the design and implementation of a research software incubator program that would help foster a transition to open-source, or similar, forms of research software development.</p>
 </div>
-<div id="evidence-base" class="section level2" number="6.2">
-<h2>
-<span class="header-section-number">6.2</span> Evidence base<a class="anchor" aria-label="anchor" href="#evidence-base"><i class="fas fa-link"></i></a>
-</h2>
-<p>There currently exist several detailed taxonomies of successful open source community models, including the <a href="http://community.apache.org/apache-way/apache-project-maturity-model.html">Apache Project Maturity Model</a> and Mozilla’s <a href="https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf">Open Source Archetypes</a>.
-The features that differentiate one open source model from another are often subtle, but important, in project organization, credit distribution, and methods for reaching consensus on strategic decisions. Decades of empirical research into open-source provides the following key findings relevant for the likely success of distributed research software development:</p>
-<ul>
-<li><p><strong>Governance</strong> in open source often includes a framework for organizing distributed work, establishing formal and informal roles for participants, managing access to resources, and distributing credit for work performed <span class="citation">(O’Mahony <a href="references.html#ref-o2007governance" role="doc-biblioref">2007</a> )</span>.
-Many previous studies of open-source success (measured as the long-term usefulness or accessibility of a codebase) have shown that vertical authority structures (such as how decisions are made and responsibilities are delegated) and horizontal coordination (open contributions) are key governance features that frameworks can help to make explicit and transparent <span class="citation">(Stewart <a href="references.html#ref-stewart2016studies" role="doc-biblioref">2016</a>)</span>.
-As contributors and maintenance responsibilities grow in scope, software governance research has also emphasized the importance of designing coordination processes so that contributors can be empowered to self-select tasks that lead to positive outcomes for a software project over time <span class="citation">(Shaikh and Henfridsson <a href="references.html#ref-shaikh2017governing" role="doc-biblioref">2017</a>)</span>.</p></li>
-<li><p><strong>Documentation</strong> plays a key role in open-source projects - it eases the onboarding of new contributors and plays an important role in the effective reuse or repurposing of a software package <span class="citation">(Aversano, Guardabascio, and Tortorella <a href="references.html#ref-aversano2017evaluating" role="doc-biblioref">2017</a>)</span>.
-Documentation is also an important, but often underdeveloped, aspect of software development in research settings <span class="citation">(Geiger et al. <a href="references.html#ref-geiger2018types" role="doc-biblioref">2018</a>)</span>.
-Underdeveloped documentation is true of all software development,<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;In GitHub’s annual developers survey documentation was noted as the biggest barrier to engaging with open-source software &lt;a href="https://opensourcesurvey.org/2017/" class="uri"&gt;https://opensourcesurvey.org/2017/&lt;/a&gt;&lt;/p&gt;'><sup>4</sup></a> but the tedious and time consuming tasks related to creating useful documentation are arguably more difficult in research settings where the development activities focus on solving practical problems in analyzing or interpreting data <span class="citation">(Ram et al. <a href="references.html#ref-ram2018community" role="doc-biblioref">2018</a>)</span>.</p></li>
-<li><p><strong>Maintenance</strong> is also a key element of open-source development activities.
-Maintenance includes solving problems introduced by operating system changes, code defects, and evolving software to meet emerging user requirements <span class="citation">(Bourque and Fairley <a href="references.html#ref-bourque2004swebok" role="doc-biblioref">2004</a>)</span>.
-Open-source projects often face practical challenges in attracting and retaining maintainers.
-Previous empirical studies show that many projects on GitHub, for example, have only 1 maintainer <span class="citation">(Eghbal <a href="references.html#ref-eghbal2016roads" role="doc-biblioref">2016</a>)</span>.
-Recent surveys of developers report that up to 86% of projects have no maintainer <span class="citation">(Coelho and Valente <a href="references.html#ref-coelho2017modern" role="doc-biblioref">2017</a>)</span>.</p></li>
-<li><p><strong>Licensing</strong> is a key feature defining an open-source model of software development.
-But, developers often have a difficult time making licensing decisions without consultation of legal experts.
-A recent survey makes this point clear - up to 38% (n=375) of experienced developers were not able to select an appropriate license given a scenario in which they were asked to identify an appropriate license for a given software library <span class="citation">(Almeida et al. <a href="references.html#ref-almeida2017software" role="doc-biblioref">2017</a>)</span>.
-Developers’ understanding of how to interpret licensing restrictions also significantly decreased in scenarios where multiple licenses were required.</p></li>
-</ul>
-<p>For software projects that have the potential to broadly impact research communities, we believe that, at minimum, there should be greater support for making decisions about governance and licensing, and assistance in creating useful documentation that can attract new contributors or ease maintenance tasks.
-Rather than simply creating a guidebook or articulating best practices for adopting open-source models of software development, a meaningful intervention for URSSI could include close interaction with and service to research software development projects that seek a route towards sustainability through community engagement and collaboration.</p>
-</div>
-<div id="incubators-background" class="section level2" number="6.3">
-<h2>
-<span class="header-section-number">6.3</span> Incubators background<a class="anchor" aria-label="anchor" href="#incubators-background"><i class="fas fa-link"></i></a>
-</h2>
-<p>Incubators or business accelerators are a common way for venture capitalists to support entrepreneurs and “start-up” companies attempting to break into a new market.
-These types of incubator programs often provide mentorship as well as fiscal support for a founder or product owner to identify market fit, build out or expand software features, and develop a network of interested stakeholders.
-Successful graduation or exit from a start-up incubator is viewed as securing funding or launching a new product (often with a culminating event where the founder / product owner “pitches” the product to potential investors).
-Successful start-up incubators like <a href="http://www.techstars.com/">Tech stars</a> or <a href="https://www.ycombinator.com/">Y Combinator</a> have designed processes for attracting, evaluating, and helping promising software-based projects achieve financial success. Y combinator for example has successfully graduated over 2000 companies that collectively have a market valuation over $155 billion.</p>
-<p>Open source incubators are less common. Perhaps the most successful and long running open-source incubator is by the <a href="https://incubator.apache.org/">Apache Software Foundation</a>, which provides a well documented process for software projects wishing to become part of the Apache Foundation <span class="citation">(Schweik and English <a href="references.html#ref-schweik2012internet" role="doc-biblioref">2012</a>)</span>.
-Similar to a start-up incubator, the Apache model of incubation includes a project mentor and dedicated resources (infrastructure) for projects to develop releases of their software that comply with the Apache Foundation’s standards.
-Success, or graduation, in the Apache incubator is thus dependent upon making two consecutive software releases that are evaluated, and ultimately accepted by Apache developers.</p>
-<p>Through conceptualization activities, notably community workshops, we began to formulate a plan for <em>incubating</em> research software projects that would focus specifically on providing project developers time and support to improve the sustainability of their software projects.
-A research software incubator would help projects identify and make strategic decisions about governance, assist research projects in creating valuable documentation, and strategically plan for transitions from individual or small teams to fostering a community of contributors and maintainers.</p>
-<p>We believe that a research software incubator should have features similar to start-up and existing open-source incubators, but also should differ in appreciable ways.</p>
-<p>First, we do not intend successful graduation or exit to be based solely on funding or code acceptance into a particular foundation structure.
-Start-up incubators in particular focus on software development as a means to a company being acquired or receiving a large investment for future development.
-Instead of focusing solely on growth for funding, we see a research software incubator model as providing the necessary time, mentorship, and financial support that will help a promising software project make decisions about how to improve the sustainability of their software and their project organization.
-Second, and importantly, start-up incubators often provide financial support for founders to dedicate all of their time and attention to a project’s successful graduation. This level of financial support is likely infeasible for URSSI.</p>
-<p>Additionally, most researchers would have a very difficult time in dropping all other responsibilities at their institution to focus solely on a single software project that doesn’t have the potential for a significant financial return on their investment of time and effort.
-Therefore, we believe it is important to design a research software sustainability incubator in which a researcher can complete it with a small amount of effort and mentorship from the URSSI community.
-We do not not expect that URSSI Incubator activities can or should be a project team’s only focus.</p>
-</div>
-<div id="urssi-incubator" class="section level2" number="6.4">
-<h2>
-<span class="header-section-number">6.4</span> URSSI Incubator<a class="anchor" aria-label="anchor" href="#urssi-incubator"><i class="fas fa-link"></i></a>
-</h2>
-<p>Our plan addresses problems related to credit, reward, and acknowledgement of research software development activities in its Policy area.
-The URSSI Incubator proposal aims to provide multiple alternative pathways to sustainability through mentorship, project development advice or guidance, and strategic planning for governance.
-We seek to help projects that show promise in solving general research problems mature, both the code and the project itself, in ways that are valuable to a broad community of potential users.
-In doing so, we believe there is an opportunity to increase the sustainability of research software.</p>
-<p>The broad goals of the URSSI Incubator program are:</p>
-<ol style="list-style-type: decimal">
-<li><p>Provide the social and technical infrastructure to help research software projects become more sustainable.
-For projects that are growing, support will focus on how to achieve this growth in manageable ways.
-For projects that are already at a community level of contribution and development, support will help to identify and eliminate technical debt.</p></li>
-<li><p>Provide research software projects, at various points in the development lifecycle, the opportunity to improve their development and organizational practices so as to mature, or develop, in ways that are broadly valuable to scholarship.</p></li>
-<li><p>Provide an alternative to academic technology transfer offices. We believe there is an emerging need for guidance to scholarly research software projects that us focused not on commercialization but on a transition to open-source community models.
-Technology transfer programs at universities and through research funding agencies (e.g. I-Corps, SBIR/STTR) are well established and have been successful at helping entrepreneurially-focused software projects recognize and execute viable business models. More recent examples of this model have focused on transition pathways towards openness, with a particular focus on open-source (e.g. the <a href="https://www.rit.edu/research/open">Open@RIT</a> program at Rochester Institute of Technology)
-The commercial transition pathway is promoted for software that has the potential to sustain itself through fees or licensing agreements.
-However, there are currently few equivalent university guidance for software projects that would like to pursue non-commercial open source models for sustainability.</p></li>
-<li><p>Provide guidance and mentorship in best practices for development, licensing, project coordination, and advice for funding to projects wishing to grow into community software projects.
-This component of the Incubator will draw upon expertise and guidance that is developed in URSSI’s Education and Policy areas.</p></li>
-</ol>
-</div>
-<div id="incubator-resources" class="section level2" number="6.5">
-<h2>
-<span class="header-section-number">6.5</span> Incubator resources<a class="anchor" aria-label="anchor" href="#incubator-resources"><i class="fas fa-link"></i></a>
-</h2>
-<p>Personnel</p>
-<ul>
-<li>0.5 FTE Program Director shared with Education + Teaching, Policy, or Communications</li>
-<li>1 FTE Program Lead. This individual would be in charge of coordinating the application and selection process, administering incubated projects, tracking success, coordinating an Incubator Advisory Board (described in detail below), and acting as the URSSI Incubator project manager.</li>
-<li>Advisory Board (Volunteers). A group of senior researchers and software engineers who can offer strategic guidance to the Incubator program for meeting targeted goals.</li>
-<li>Project Mentors (Volunteers + Graduated projects). Provide intensive, one on one mentoring to research software projects based on existing expertise in a discipline, software language, stage of development, or other criteria of compatibility.</li>
-</ul>
-<p>Additional Resources that may be valuable for an incubator program to succeed:</p>
-<ul>
-<li>Annual Incubator showcase, or a “demo day”, for projects that have successfully graduated or exited the URSSI’s program. This activity could be part of a larger URSSI annual event that coordinates the community dedicated to software sustainability. Invitations to this event would be extended to public and private funders who may see an overlap with their own programs during pitches. This can result in matchmaking between projects and funders.</li>
-<li>Incubated project funding: Monetary (or in-kind service) award for projects that will be given a budget to advance goals during a period of “incubation”. Each project should receive a similar allocation of money. This money would be similar to how the SSI currently funds research fellows at a standard rate across their period of engagement. The money could be discretionary to the project so that it could be used for travel, advocacy, website development, assistance in writing documentation, etc.</li>
-</ul>
-</div>
-<div id="incubator-methods" class="section level2" number="6.6">
-<h2>
-<span class="header-section-number">6.6</span> Incubator methods<a class="anchor" aria-label="anchor" href="#incubator-methods"><i class="fas fa-link"></i></a>
-</h2>
-<p>URSSI’s Incubator program will include a process for soliciting applications (or call for participation), selecting participants, a cycle of activities, and a standard for successfully exiting or graduating from the Incubator.
-The incubator will run on a semi-annual schedule so that new project cohorts can enter the Incubator in either January or July of each year.
-In the following subsections we describe the intended processes for running each stage of the Incubator.</p>
-<p>We view the Incubator as a single activity from the point-of-view of impact, and it is aimed at both the research software sustainability and people and careers portions of URSSI’s impact goals.</p>
-<div id="project-solicitation-and-selection" class="section level3" number="6.6.1">
-<h3>
-<span class="header-section-number">6.6.1</span> Project solicitation and selection:<a class="anchor" aria-label="anchor" href="#project-solicitation-and-selection"><i class="fas fa-link"></i></a>
-</h3>
-<p>The URSSI Incubator will solicit proposals for projects three months in advance of the formation of a new incubator cohort.
-A cohort will consist of a minimum of five projects that will go through the incubator activities (described below) at the same time.
-The cohort model enables a network effect and should allow URSSI to scale incubator activities appropriate to the personnel and resources available.</p>
-<p>The incubator application will ask a project to identify its goals for developing, growing, improving development practices, and/or maturing a software product in some targeted way, as well as a description of the limitations preventing the project from making the software useful beyond a small community.
-The application will ask project leaders to clearly articulate the problem the software is trying to solve and provide evidence of the need for a generalizable solution that will serve a broad community of users and the potential to attract new contributors, and how the project is contributing to diversity.
-The project lead (defined below) should also clearly state how or if the project is seeking to transition to a new model of development.
-Acceptance into the URSSI Incubator will not require the project to be seeking a transition or an attempt at growth per se.
-We are designing the incubator to be accomodating to software projects that seek either a shift or change in development models or to solidify and establish best practices within an existing model of development.</p>
-<p>In short, the Incubator will select projects based on their potential to:</p>
-<ul>
-<li>Address a demonstrated or emerging need in scholarship</li>
-<li>Organize development in an open-source or equivalent model</li>
-<li>Attract and sustain a developer community</li>
-<li>Contribute to diversity</li>
-<li>Benefit from a network of URSSI mentors</li>
-</ul>
-<p>The URSSI Incubator Selection Committee will select projects on a semi-annual basis. In the Apache incubator model this committee is the Incubator <a href="http://incubator.apache.org/whoweare.html">Project Management Committee</a>.
-This committee will include a mix of URSSI staff including the Program Lead (described above), URSSI steering committee / senior personnel members, and selected external URSSI community members such as recognized leaders in open-source research software as well as previous incubator participants.
-Selection committee members will serve a two year term, with some initial members serving either a 1 or 3 year term to guarantee continuity.
-In this way, no more than 50% of the committee will change in a given year.
-The advisory board will also conduct incubator project evaluations (described below).</p>
-<p>Over time, there may be an opportunity to build cohorts around a particular theme, a point in development, a particular software language, or even sponsorship by a particular funding agency.
-For example, URSSI might be contracted by the Alfred P. Sloan Foundation to run a cohort of projects that have been funded and are potentially in need of guidance.
-For the initial cohorts we plan to simply run an open call for applications and select, as stated above, at least five projects per year.</p>
-</div>
-<div id="project-entry" class="section level3" number="6.6.2">
-<h3>
-<span class="header-section-number">6.6.2</span> Project entry<a class="anchor" aria-label="anchor" href="#project-entry"><i class="fas fa-link"></i></a>
-</h3>
-<p>Selection as a participant in an URSSI incubator cohort will require at minimum:</p>
-<ol style="list-style-type: decimal">
-<li>A project lead who is responsible for completing incubator activities in a timely manner and managing any funding allocated to the project.
-The project lead would be the equivalent of the PI on a funded grant.
-The project lead is further responsible for coordinating activities and communicating with the URSSI incubator program administrator.</li>
-</ol>
-<ul>
-<li>Importantly, URSSI will not be prescriptive as to who can play the role of a project lead.
-A project lead could be anyone - a senior student who worked on the code and wants to make the project more sustainable, a PI or co-PI of grant (but not assuming the PI will stop being a researcher to be a software developer), or a dedicated contributor to a project that seeks a more permanent leadership role.
-This model could resemble the NSF’s <a href="https://www.nsf.gov/news/special_reports/i-corps/">I-Corps program</a>, which focuses on transitioning promising technologies to commercialization, but instead be focused on a transition to sustainable open-source.
-We see the project lead as beneficial to the individual: recognition of making it into the URSSI Incubator program can then be their badge of merit to helping to secure promotion or preparing the lead for future positions of leadership.</li>
-</ul>
-<ol start="2" style="list-style-type: decimal">
-<li><p>An identified and dedicated mentor (from the URSSI community) who will strategically offer advice and guidance through the set of activities described below.
-A mentor should not be seen as administrative support, but instead a trusted person for whom the project team can consult when making decisions.
-In the Apache incubation model, this mentor role is often described as critical to a project’s ultimate success in graduating from incubation.</p></li>
-<li><p>A code repository that is openly accessible.
-The repository should be a central hub where documentation (e.g., contributor guidance, governance, licensing, etc.), code, reviews, and issue tracking can take place.</p></li>
-</ol>
-</div>
-<div id="incubator-activities" class="section level3" number="6.6.3">
-<h3>
-<span class="header-section-number">6.6.3</span> Incubator activities<a class="anchor" aria-label="anchor" href="#incubator-activities"><i class="fas fa-link"></i></a>
-</h3>
-<p>After projects join an Incubator cohort, URSSI will match them with a project mentor.
-The mentor will help guide the project through the Incubator activities described in this subsection.
-The mentor will further evaluate and offer feedback on the successful completion of each activity.</p>
-<p>URSSI Incubator activities will likely be consistent across each cohort.
-In preparation for a new cohort entering the incubator, the Program Lead will publish an URSSI Incubator Cookbook (similar to the Apache Model) that describes the activities, expectations for project leaders, and evaluation metrics.</p>
-<p>Below are activities that we imagine to be consistent across each cohort.
-These activities are not chronologically organized - a project can work on any of these activities at any time in their period of incubation.</p>
-<div class="figure">
-<img src="images/URSSI-Incubator.jpg" alt=""><p class="caption">A general depiction of how the URSSI Incubator may be organized</p>
-</div>
-<p><strong>Project roles</strong><br>
-The project lead will, under the guidance of the mentor and program lead, establish a formal definition of roles that a project member is to play.
-If a project already has a set of predefined roles then those roles will be reviewed for improvement, and formally documented.</p>
-<ul>
-<li>Roles will likely be similar across projects, but can and should leave some room for interpretation depending on the maturity of the project and the project’s stated goals.</li>
-<li>Formally defining roles within the project is meant to ensure transparency, encourage participation, and efficacy in onboarding new or explaining the expectations for contributing to a project. As an example, Node.JS defines <a href="https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951">three</a> roles for a project’s governance:
-<ul>
-<li>A <em>Contributor</em> is any individual creating or commenting on an issue or pull request</li>
-<li>A <em>Committer</em> is a subset of contributors who have been given write access to the repository</li>
-<li>A <em>TC (Technical Committee)</em> is a group of committers representing the required technical expertise to resolve rare disputes</li>
-</ul>
-</li>
-</ul>
-<p><strong>Project governance</strong><br>
-In addition to defining roles, the project lead will, under the guidance of the mentor and Program Lead, establish a model of governing the project that is clear about expectations in how decisions are made, establishing a roadmap or release schedule, and adjudicating disputes that may arise.
-(Note: URSSI does not have to develop this guidance from scratch, but can modify and adapt <a href="https://opensource.guide/leadership-and-governance/">existing guides</a> for research software.</p>
-<p>In addition, a governance model should also include:</p>
-<ul>
-<li>Code of conduct - which can follow existing <a href="https://opensource.guide/code-of-conduct/%20as%20a%20guide">best practice recommendations</a>
-</li>
-<li>Process and expectation for citing software, acknowledging use, and authoring papers related to the project, including how credit should be given to different project contributors. (Jupyter has a very good <a href="https://github.com/jupyter/governance/blob/master/papers.md">model</a> for this governance documentation)</li>
-</ul>
-<p>A key component of the governance model will be selecting a license which dictates the proper uses of the intellectual property of the project.</p>
-<p><strong>Establishing best (or good enough) software engineering practices</strong><br>
-This components of the incubator will be provided by the URSSI Education &amp; Training area, and include, but not limited to activities such as:</p>
-<ul>
-<li>Version control management</li>
-<li>Test coverage and code integration</li>
-<li>Code reviews</li>
-<li>Issue templates and tracking</li>
-<li>Software design</li>
-<li>Release management</li>
-</ul>
-<p><strong>Documentation</strong><br>
-Incubator activities around creating or improving documentation related to a software project will include guidance for creating helpful ReadMe files (e.g. WriteTheDocs’ <a href="https://www.writethedocs.org/videos/na/2016/write-the-readable-readme-daniel-beck/">recommendations</a>) on readable readme documentation], project descriptions, creating style guides for documentation, and review of documentation with a technical writer.</p>
-<p><strong>Project funding &amp; financial planning</strong><br>
-The project team should develop a policy for accepting donations, managing funds, seeking grants, etc. After a project lead formalizes this policy, it should be added to the governance documentation.</p>
-<p><strong>Project evaluation</strong><br>
-Projects would, under the guidance of the program lead and mentors, establish appropriate metrics to track (e.g. following guidance from the open source handbook on <a href="https://opensource.guide/metrics/">metrics</a>).
-Guidance on this work will be informed by the metrics work URSSI is engaged in through its Policy area.
-These metrics could include a number of potential evaluations:</p>
-<ul>
-<li>Discovery - CodeMeta or appropriate metadata is created for the repository to be discovered and reused</li>
-<li>Usage - formal citations, stars or forks on GitHub, etc.</li>
-<li>Contribution / Maintenance</li>
-<li>Retention of contributors or maintainers</li>
-</ul>
-</div>
-<div id="project-graduation-or-exit" class="section level3" number="6.6.4">
-<h3>
-<span class="header-section-number">6.6.4</span> Project graduation or exit<a class="anchor" aria-label="anchor" href="#project-graduation-or-exit"><i class="fas fa-link"></i></a>
-</h3>
-<p>Upon completion of the activities described above, a project will go through an Exit Evaluation. This evaluation will include four components:</p>
-<ol style="list-style-type: decimal">
-<li>The project will publish a software paper in JOSS or similar domain journal.</li>
-<li>The project mentor will then provide structured feedback to the project lead, and allow the project lead to reply or address any concerns raised in the feedback</li>
-<li>The Project Lead will provide a very short recorded presentation to review the progress made on goals stated in the project proposal, activities completed, and demonstrate working software products for evaluation.<br>
-</li>
-<li>The URSSI Incubator Selection Committee (described above in the Selection subsection) will convene annually to review each cohort’s materials - including the JOSS publication, the mentor review, and the project lead’s presentation. The committee will vote on whether or not the project should graduate from the Incubator.</li>
-</ol>
-<p>Graduation from the Incubator should send a positive signal about the sustainability of the project, but should not be a formal credentialing mechanism or certification of guaranteed sustainability.
-Similar to other incubator programs (e.g. YC, or Apache) graduation should be viewed as a significant achievement in itself.</p>
-</div>
-<div id="relationship-to-funding-and-external-awards" class="section level3" number="6.6.5">
-<h3>
-<span class="header-section-number">6.6.5</span> Relationship to funding and external awards<a class="anchor" aria-label="anchor" href="#relationship-to-funding-and-external-awards"><i class="fas fa-link"></i></a>
-</h3>
-<p>An incubated project could have a relationship to external funding or funders in a variety of ways.
-Most significantly, we view the incubator as a potential matchmaker between promising research software projects and potential funders.
-Thus, funders will be invited and are an important participant in the Incubator showcase or graduate events.</p>
-<p>Successfully graduating from the incubator program should act as an informal signal to funders that the project has the potential for further investment.
-In this scenario, completing the URSSI Incubator would act as an informal quality check.
-Funders would have greater assurance about the potential for a project to succeed, for funding new directions of the project, or potentially funding an institution or group around the project so as to better support sustainability.</p>
-</div>
-</div>
-<div id="incubator-metricsmilestones" class="section level2" number="6.7">
-<h2>
-<span class="header-section-number">6.7</span> Incubator metrics/milestones<a class="anchor" aria-label="anchor" href="#incubator-metricsmilestones"><i class="fas fa-link"></i></a>
-</h2>
-<p>For Incubated projects there will be two periods of evaluation.</p>
-<p>Short-term evaluation (1-2 years):</p>
-<ul>
-<li>Increase in the number of mentions in research projects on GitHub, publications, and software dependencies compared to other research software of similar age.</li>
-<li>Increase in the number of GitHub stars, forks, downloads (from package managers) relative to other projects of similar age that have not gone through the incubation process.</li>
-<li>Improvement in codebase, documentation, governance, licensing, or strategic planning. This improvement can be defined with project mentors that set specific targets or goals for individual projects.</li>
-</ul>
-<p>Long-term evaluation (3-5 years):</p>
-<ul>
-<li>Number of projects that attract follow-on funding</li>
-<li>Persistence - This could be measured by the number of projects that continue to exist 5 years from incubator graduation, software that has regular contributions or updates to the repository, and active maintainers that have been identified as part of the project for different stages of development.<br>
-</li>
-<li>Attracted contributors - This could be measured over a portion of time that looks at commit history of different individuals contributing to a repository.</li>
-<li>Returning Mentors - This could be measured by mentors who had graduated the incubator and return to provide guidance and help to new incubator projects.</li>
-</ul>
-<p>For the Incubator program evaluation may include any of the following:</p>
-<ul>
-<li>In years 1-3 URSSI will select at least 15 projects (~ 5 per year) for incubation. The program should be evaluated based on the success of projects’ graduating from the Incubator, and whether or not those projects meet both short and long term milestones (as described above).<br>
-</li>
-<li>Funders participation (i.e., that the program attracts funded projects to enter and exit URSSI Incubator)</li>
-</ul>
-<p><strong>Impacts:</strong></p>
-<p>While in other chapters, we have mapped the activities from that chapter to the three portions of URSSI’s intended impact,
-here we treat the incubator as a single activity.
-(A complete table of impacts from all URSSI activities can be found in <a href="Ch-Metrics">Chapter 10 (Metrics and Evaluation)</a>.)</p>
-<div class="inline-table"><table class="table table-sm">
-<caption>
-<span id="tab:unnamed-chunk-3">Table 6.1: </span>Impact table
-</caption>
-<thead><tr>
-<th style="text-align:left;">
-Activity
-</th>
-<th style="text-align:center;">
-Impact on Research Software
-</th>
-<th style="text-align:center;">
-Impact on people and careers
-</th>
-<th style="text-align:center;">
-Impact on research software ecosystem
-</th>
-</tr></thead>
-<tbody><tr>
-<td style="text-align:left;">
-Incubator
-</td>
-<td style="text-align:center;">
-X
-</td>
-<td style="text-align:center;">
-X
-</td>
-<td style="text-align:center;">
-</td>
-</tr></tbody>
-</table></div>
-</div>
-</div>
+            </section>
 
-  <div class="chapter-nav">
-<div class="prev"><a href="Ch-Edu.html"><span class="header-section-number">5</span> Education &amp; Training</a></div>
-<div class="next"><a href="Ch-Policy.html"><span class="header-section-number">7</span> Policy</a></div>
-</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
-    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
-      <ul class="nav navbar-nav">
-<li><a class="nav-link" href="#Ch-Incubator"><span class="header-section-number">6</span> Incubator</a></li>
-<li><a class="nav-link" href="#background"><span class="header-section-number">6.1</span> Background</a></li>
-<li><a class="nav-link" href="#evidence-base"><span class="header-section-number">6.2</span> Evidence base</a></li>
-<li><a class="nav-link" href="#incubators-background"><span class="header-section-number">6.3</span> Incubators background</a></li>
-<li><a class="nav-link" href="#urssi-incubator"><span class="header-section-number">6.4</span> URSSI Incubator</a></li>
-<li><a class="nav-link" href="#incubator-resources"><span class="header-section-number">6.5</span> Incubator resources</a></li>
-<li>
-<a class="nav-link" href="#incubator-methods"><span class="header-section-number">6.6</span> Incubator methods</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#project-solicitation-and-selection"><span class="header-section-number">6.6.1</span> Project solicitation and selection:</a></li>
-<li><a class="nav-link" href="#project-entry"><span class="header-section-number">6.6.2</span> Project entry</a></li>
-<li><a class="nav-link" href="#incubator-activities"><span class="header-section-number">6.6.3</span> Incubator activities</a></li>
-<li><a class="nav-link" href="#project-graduation-or-exit"><span class="header-section-number">6.6.4</span> Project graduation or exit</a></li>
-<li><a class="nav-link" href="#relationship-to-funding-and-external-awards"><span class="header-section-number">6.6.5</span> Relationship to funding and external awards</a></li>
-</ul>
-</li>
-<li><a class="nav-link" href="#incubator-metricsmilestones"><span class="header-section-number">6.7</span> Incubator metrics/milestones</a></li>
-</ul>
-
-      <div class="book-extra">
-        <ul class="list-unstyled">
-<li><a id="book-source" href="https://github.com/si2-urssi/plan/blob/master/06-Incubator.Rmd">View source <i class="fab fa-github"></i></a></li>
-          <li><a id="book-edit" href="https://github.com/si2-urssi/plan/edit/master/06-Incubator.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
-        </ul>
-</div>
-    </nav>
-</div>
-
-</div>
-</div> <!-- .container -->
-
-<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
-
-  <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>URSSI Implementation Plan</strong>" was written by Karthik Ram, Jeffrey Carver, Sandra Gesing, Daniel S. Katz, Nic Weber. It was last built on 2021-01-14.</p>
+          </div>
+        </div>
+      </div>
+<a href="education-training-metricsmilestones.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="background.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
   </div>
+<script src="assets/gitbook-2.6.7/js/app.min.js"></script>
+<script src="assets/gitbook-2.6.7/js/lunr.js"></script>
+<script src="assets/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="assets/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["main.pdf", "main.epub"],
+"toc": {
+"collapse": "subsection"
+},
+"toolbar": {
+"position": "static"
+}
+});
+});
+</script>
 
-  <div class="col-12 col-md-6 mt-3">
-    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
-  </div>
-
-</div></div>
-</footer>
 </body>
+
 </html>

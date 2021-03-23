@@ -1,64 +1,212 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="" xml:lang="">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>Chapter 1 Introduction | URSSI Implementation Plan</title>
-<meta name="author" content="Karthik Ram, Jeffrey Carver, Sandra Gesing, Daniel S. Katz, Nic Weber">
-<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.6.4/header-attrs.js"></script><script src="libs/jquery-3.5.1/jquery-3.5.1.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="libs/bootstrap-4.5.3/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-4.5.3/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.2.3.9000/tabs.js"></script><script src="libs/bs3compat-0.2.3.9000/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
-<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS -->
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 1 Introduction | URSSI Implementation Plan</title>
+  <meta name="description" content="Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute." />
+  <meta name="generator" content="bookdown 0.21.6 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 1 Introduction | URSSI Implementation Plan" />
+  <meta property="og:type" content="book" />
+  <meta property="og:url" content="https://plan.urssi.us" />
+  <meta property="og:image" content="https://plan.urssi.us/plan_png.png" />
+  <meta property="og:description" content="Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute." />
+  <meta name="github-repo" content="si2-urssi/plan" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 1 Introduction | URSSI Implementation Plan" />
+  <meta name="twitter:site" content="@si2-urssi" />
+  <meta name="twitter:description" content="Implementation plan of the US Research Software Sustainability Institute, a NSF funded conceptualization to plan a national research software institute." />
+  <meta name="twitter:image" content="https://plan.urssi.us/plan_png.png" />
+
+<meta name="author" content="Karthik Ram, Jeffrey Carver, Sandra Gesing, Daniel S. Katz, Nic Weber" />
+
+
+<meta name="date" content="2021-03-23" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="index.html"/>
+<link rel="next" href="nature-of-the-problem.html"/>
+<script src="assets/header-attrs-2.7/header-attrs.js"></script>
+<script src="assets/jquery-2.2.3/jquery.min.js"></script>
+<link href="assets/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="assets/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<link href="assets/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="assets/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+
+
+
 </head>
-<body data-spy="scroll" data-target="#toc">
 
-<div class="container-fluid">
-<div class="row">
-  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+<body>
 
-    <div class="d-flex align-items-start justify-content-between">
-      <h1>
-        <a href="index.html" title="">URSSI Implementation Plan</a>
-      </h1>
-      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
-    </div>
 
-    <div id="main-nav" class="collapse-lg">
-      <form role="search">
-        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
-</form>
 
-      <nav aria-label="Table of contents"><h2>Table of contents</h2>
-        <ul class="book-toc list-unstyled">
-<li><a class="" href="index.html">Welcome</a></li>
-<li><a class="active" href="intro.html"><span class="header-section-number">1</span> Introduction</a></li>
-<li><a class="" href="chapter2.html"><span class="header-section-number">2</span> URSSI Conceptualization</a></li>
-<li><a class="" href="chapter3.html"><span class="header-section-number">3</span> URSSI Plan</a></li>
-<li><a class="" href="Ch-Comm.html"><span class="header-section-number">4</span> Community &amp; Outreach</a></li>
-<li><a class="" href="Ch-Edu.html"><span class="header-section-number">5</span> Education &amp; Training</a></li>
-<li><a class="" href="Ch-Incubator.html"><span class="header-section-number">6</span> Incubator</a></li>
-<li><a class="" href="Ch-Policy.html"><span class="header-section-number">7</span> Policy</a></li>
-<li><a class="" href="Ch-Org.html"><span class="header-section-number">8</span> Management &amp; Coordination Area</a></li>
-<li><a class="" href="Ch-Budget.html"><span class="header-section-number">9</span> Budget</a></li>
-<li><a class="" href="Ch-Metrics.html"><span class="header-section-number">10</span> Metrics and Evaluation</a></li>
-<li><a class="" href="Ch-Summary.html"><span class="header-section-number">11</span> Final Words</a></li>
-<li><a class="" href="glossary.html">Glossary</a></li>
-<li><a class="" href="references.html">References</a></li>
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Welcome</a></li>
+<li class="chapter" data-level="1" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="nature-of-the-problem.html"><a href="nature-of-the-problem.html"><i class="fa fa-check"></i><b>1.1</b> Nature of the problem</a></li>
+<li class="chapter" data-level="1.2" data-path="valuing-producers-of-research-software.html"><a href="valuing-producers-of-research-software.html"><i class="fa fa-check"></i><b>1.2</b> Valuing producers of research software</a></li>
+<li class="chapter" data-level="1.3" data-path="why-we-ran-this-conceptualization.html"><a href="why-we-ran-this-conceptualization.html"><i class="fa fa-check"></i><b>1.3</b> Why we ran this conceptualization</a></li>
+<li class="chapter" data-level="1.4" data-path="what-we-plan-to-do-and-why.html"><a href="what-we-plan-to-do-and-why.html"><i class="fa fa-check"></i><b>1.4</b> What we plan to do and why</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="chapter2.html"><a href="chapter2.html"><i class="fa fa-check"></i><b>2</b> URSSI Conceptualization</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="workshops.html"><a href="workshops.html"><i class="fa fa-check"></i><b>2.1</b> Workshops</a></li>
+<li class="chapter" data-level="2.2" data-path="website-newsletter-blog.html"><a href="website-newsletter-blog.html"><i class="fa fa-check"></i><b>2.2</b> Website / Newsletter/ Blog</a></li>
+<li class="chapter" data-level="2.3" data-path="survey.html"><a href="survey.html"><i class="fa fa-check"></i><b>2.3</b> Survey</a></li>
+<li class="chapter" data-level="2.4" data-path="ethnography.html"><a href="ethnography.html"><i class="fa fa-check"></i><b>2.4</b> Ethnography</a></li>
+<li class="chapter" data-level="2.5" data-path="chapter2-WinterSchool.html"><a href="chapter2-WinterSchool.html"><i class="fa fa-check"></i><b>2.5</b> Winter School</a></li>
+<li class="chapter" data-level="2.6" data-path="joint-activities.html"><a href="joint-activities.html"><i class="fa fa-check"></i><b>2.6</b> Joint Activities</a>
+<ul>
+<li class="chapter" data-level="2.6.1" data-path="joint-activities.html"><a href="joint-activities.html#research-software-alliance-resa"><i class="fa fa-check"></i><b>2.6.1</b> Research Software Alliance (ReSA)</a></li>
+<li class="chapter" data-level="2.6.2" data-path="joint-activities.html"><a href="joint-activities.html#research-software-engineering-rse"><i class="fa fa-check"></i><b>2.6.2</b> Research Software Engineering (RSE)</a></li>
+</ul></li>
+<li class="chapter" data-level="2.7" data-path="synthesis-of-urssi-activities.html"><a href="synthesis-of-urssi-activities.html"><i class="fa fa-check"></i><b>2.7</b> Synthesis of URSSI Activities</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="chapter3.html"><a href="chapter3.html"><i class="fa fa-check"></i><b>3</b> URSSI Plan</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="mission-and-vision.html"><a href="mission-and-vision.html"><i class="fa fa-check"></i><b>3.1</b> Mission and Vision</a></li>
+<li class="chapter" data-level="3.2" data-path="planning-assumptions-methods-and-principles.html"><a href="planning-assumptions-methods-and-principles.html"><i class="fa fa-check"></i><b>3.2</b> Planning assumptions, methods, and principles</a></li>
+<li class="chapter" data-level="3.3" data-path="partners.html"><a href="partners.html"><i class="fa fa-check"></i><b>3.3</b> Partners</a></li>
+<li class="chapter" data-level="3.4" data-path="desired-impact.html"><a href="desired-impact.html"><i class="fa fa-check"></i><b>3.4</b> Desired impact</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="Ch-Comm.html"><a href="Ch-Comm.html"><i class="fa fa-check"></i><b>4</b> Community &amp; Outreach</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="community-outreach-resources.html"><a href="community-outreach-resources.html"><i class="fa fa-check"></i><b>4.1</b> Community &amp; Outreach Resources</a></li>
+<li class="chapter" data-level="4.2" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html"><i class="fa fa-check"></i><b>4.2</b> Community &amp; Outreach Methods</a>
+<ul>
+<li class="chapter" data-level="4.2.1" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#fellowship-program"><i class="fa fa-check"></i><b>4.2.1</b> Fellowship Program</a></li>
+<li class="chapter" data-level="4.2.2" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#in-person-events"><i class="fa fa-check"></i><b>4.2.2</b> In-person events</a></li>
+<li class="chapter" data-level="4.2.3" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#online-community-events"><i class="fa fa-check"></i><b>4.2.3</b> Online community events</a></li>
+<li class="chapter" data-level="4.2.4" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#Ch-Comm-Best-Practices"><i class="fa fa-check"></i><b>4.2.4</b> Curating and disseminating best practices</a></li>
+<li class="chapter" data-level="4.2.5" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#newsletter-and-social-media"><i class="fa fa-check"></i><b>4.2.5</b> Newsletter and social media</a></li>
+<li class="chapter" data-level="4.2.6" data-path="community-outreach-methods.html"><a href="community-outreach-methods.html#other-activities"><i class="fa fa-check"></i><b>4.2.6</b> Other activities</a></li>
+</ul></li>
+<li class="chapter" data-level="4.3" data-path="community-outreach-assessment-and-metrics.html"><a href="community-outreach-assessment-and-metrics.html"><i class="fa fa-check"></i><b>4.3</b> Community &amp; Outreach Assessment and Metrics</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="Ch-Edu.html"><a href="Ch-Edu.html"><i class="fa fa-check"></i><b>5</b> Education &amp; Training</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="education-training-resources.html"><a href="education-training-resources.html"><i class="fa fa-check"></i><b>5.1</b> Education &amp; Training resources</a></li>
+<li class="chapter" data-level="5.2" data-path="education-training-methods.html"><a href="education-training-methods.html"><i class="fa fa-check"></i><b>5.2</b> Education &amp; Training methods</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="education-training-methods.html"><a href="education-training-methods.html#develop-and-annually-run-a-summer-school-on-practices-for-sustainable-software-development-for-research-software"><i class="fa fa-check"></i><b>5.2.1</b> Develop and annually run a summer school on practices for sustainable software development for research software</a></li>
+<li class="chapter" data-level="5.2.2" data-path="education-training-methods.html"><a href="education-training-methods.html#develop-a-research-project-carpentry-lesson-program-that-teaches-people-how-to-turn-code-into-a-formal-project"><i class="fa fa-check"></i><b>5.2.2</b> Develop a Research Project Carpentry lesson program that teaches people how to turn code into a formal project</a></li>
+<li class="chapter" data-level="5.2.3" data-path="education-training-methods.html"><a href="education-training-methods.html#plan-a-review-service-for-software-project-plans"><i class="fa fa-check"></i><b>5.2.3</b> Plan a review service for software project plans</a></li>
+<li class="chapter" data-level="5.2.4" data-path="education-training-methods.html"><a href="education-training-methods.html#evaluate-and-document-successes-and-failures-of-the-use-of-industrial-software-development-practices-in-research-software"><i class="fa fa-check"></i><b>5.2.4</b> Evaluate and document successes and failures of the use of industrial software development practices in research software</a></li>
+<li class="chapter" data-level="5.2.5" data-path="education-training-methods.html"><a href="education-training-methods.html#compile-and-maintain-a-body-of-knowledge-of-best-practices-for-research-software-development"><i class="fa fa-check"></i><b>5.2.5</b> Compile and maintain a body of knowledge of best practices for research software development</a></li>
+</ul></li>
+<li class="chapter" data-level="5.3" data-path="cross-cutting-activities.html"><a href="cross-cutting-activities.html"><i class="fa fa-check"></i><b>5.3</b> Cross-cutting activities</a></li>
+<li class="chapter" data-level="5.4" data-path="education-training-metricsmilestones.html"><a href="education-training-metricsmilestones.html"><i class="fa fa-check"></i><b>5.4</b> Education &amp; Training metrics/milestones</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="Ch-Incubator.html"><a href="Ch-Incubator.html"><i class="fa fa-check"></i><b>6</b> Incubator</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="background.html"><a href="background.html"><i class="fa fa-check"></i><b>6.1</b> Background</a></li>
+<li class="chapter" data-level="6.2" data-path="evidence-base.html"><a href="evidence-base.html"><i class="fa fa-check"></i><b>6.2</b> Evidence base</a></li>
+<li class="chapter" data-level="6.3" data-path="incubators-background.html"><a href="incubators-background.html"><i class="fa fa-check"></i><b>6.3</b> Incubators background</a></li>
+<li class="chapter" data-level="6.4" data-path="urssi-incubator.html"><a href="urssi-incubator.html"><i class="fa fa-check"></i><b>6.4</b> URSSI Incubator</a></li>
+<li class="chapter" data-level="6.5" data-path="incubator-resources.html"><a href="incubator-resources.html"><i class="fa fa-check"></i><b>6.5</b> Incubator resources</a></li>
+<li class="chapter" data-level="6.6" data-path="incubator-methods.html"><a href="incubator-methods.html"><i class="fa fa-check"></i><b>6.6</b> Incubator methods</a>
+<ul>
+<li class="chapter" data-level="6.6.1" data-path="incubator-methods.html"><a href="incubator-methods.html#project-solicitation-and-selection"><i class="fa fa-check"></i><b>6.6.1</b> Project solicitation and selection:</a></li>
+<li class="chapter" data-level="6.6.2" data-path="incubator-methods.html"><a href="incubator-methods.html#project-entry"><i class="fa fa-check"></i><b>6.6.2</b> Project entry</a></li>
+<li class="chapter" data-level="6.6.3" data-path="incubator-methods.html"><a href="incubator-methods.html#incubator-activities"><i class="fa fa-check"></i><b>6.6.3</b> Incubator activities</a></li>
+<li class="chapter" data-level="6.6.4" data-path="incubator-methods.html"><a href="incubator-methods.html#project-graduation-or-exit"><i class="fa fa-check"></i><b>6.6.4</b> Project graduation or exit</a></li>
+<li class="chapter" data-level="6.6.5" data-path="incubator-methods.html"><a href="incubator-methods.html#relationship-to-funding-and-external-awards"><i class="fa fa-check"></i><b>6.6.5</b> Relationship to funding and external awards</a></li>
+</ul></li>
+<li class="chapter" data-level="6.7" data-path="incubator-metricsmilestones.html"><a href="incubator-metricsmilestones.html"><i class="fa fa-check"></i><b>6.7</b> Incubator metrics/milestones</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="Ch-Policy.html"><a href="Ch-Policy.html"><i class="fa fa-check"></i><b>7</b> Policy</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="policy-resources.html"><a href="policy-resources.html"><i class="fa fa-check"></i><b>7.1</b> Policy resources</a>
+<ul>
+<li class="chapter" data-level="7.1.1" data-path="policy-resources.html"><a href="policy-resources.html#people"><i class="fa fa-check"></i><b>7.1.1</b> People</a></li>
+<li class="chapter" data-level="7.1.2" data-path="policy-resources.html"><a href="policy-resources.html#additional-resources"><i class="fa fa-check"></i><b>7.1.2</b> Additional resources</a></li>
+<li class="chapter" data-level="7.1.3" data-path="policy-resources.html"><a href="policy-resources.html#events-travel"><i class="fa fa-check"></i><b>7.1.3</b> Events &amp; travel</a></li>
+<li class="chapter" data-level="7.1.4" data-path="policy-resources.html"><a href="policy-resources.html#flexibility"><i class="fa fa-check"></i><b>7.1.4</b> Flexibility</a></li>
+</ul></li>
+<li class="chapter" data-level="7.2" data-path="policy-methods.html"><a href="policy-methods.html"><i class="fa fa-check"></i><b>7.2</b> Policy methods</a>
+<ul>
+<li class="chapter" data-level="7.2.1" data-path="policy-methods.html"><a href="policy-methods.html#aims"><i class="fa fa-check"></i><b>7.2.1</b> Aims</a></li>
+<li class="chapter" data-level="7.2.2" data-path="policy-methods.html"><a href="policy-methods.html#partners-1"><i class="fa fa-check"></i><b>7.2.2</b> Partners</a></li>
+<li class="chapter" data-level="7.2.3" data-path="policy-methods.html"><a href="policy-methods.html#planned-activity-pool"><i class="fa fa-check"></i><b>7.2.3</b> Planned Activity Pool</a></li>
+</ul></li>
+<li class="chapter" data-level="7.3" data-path="work-between-policy-and-other-urssi-areas.html"><a href="work-between-policy-and-other-urssi-areas.html"><i class="fa fa-check"></i><b>7.3</b> Work between Policy and other URSSI Areas</a></li>
+<li class="chapter" data-level="7.4" data-path="policy-metricsmilestones.html"><a href="policy-metricsmilestones.html"><i class="fa fa-check"></i><b>7.4</b> Policy metrics/milestones</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="Ch-Org.html"><a href="Ch-Org.html"><i class="fa fa-check"></i><b>8</b> Management &amp; Coordination Area</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="management-resources.html"><a href="management-resources.html"><i class="fa fa-check"></i><b>8.1</b> Management resources</a></li>
+<li class="chapter" data-level="8.2" data-path="work-packages.html"><a href="work-packages.html"><i class="fa fa-check"></i><b>8.2</b> Work packages</a></li>
+<li class="chapter" data-level="8.3" data-path="management-structure-and-procedures.html"><a href="management-structure-and-procedures.html"><i class="fa fa-check"></i><b>8.3</b> Management structure and procedures</a></li>
+<li class="chapter" data-level="8.4" data-path="project-management-team.html"><a href="project-management-team.html"><i class="fa fa-check"></i><b>8.4</b> Project Management Team</a>
+<ul>
+<li class="chapter" data-level="8.4.1" data-path="project-management-team.html"><a href="project-management-team.html#steering-committee"><i class="fa fa-check"></i><b>8.4.1</b> Steering Committee</a></li>
+<li class="chapter" data-level="8.4.2" data-path="project-management-team.html"><a href="project-management-team.html#pi"><i class="fa fa-check"></i><b>8.4.2</b> PI</a></li>
+<li class="chapter" data-level="8.4.3" data-path="project-management-team.html"><a href="project-management-team.html#leadership-team-pi-and-co-pis"><i class="fa fa-check"></i><b>8.4.3</b> Leadership Team (PI and Co-PIs)</a></li>
+<li class="chapter" data-level="8.4.4" data-path="project-management-team.html"><a href="project-management-team.html#work-package-leaders"><i class="fa fa-check"></i><b>8.4.4</b> Work Package Leaders</a></li>
+<li class="chapter" data-level="8.4.5" data-path="project-management-team.html"><a href="project-management-team.html#sustainability-officer"><i class="fa fa-check"></i><b>8.4.5</b> Sustainability Officer</a></li>
+<li class="chapter" data-level="8.4.6" data-path="project-management-team.html"><a href="project-management-team.html#diversity-officer"><i class="fa fa-check"></i><b>8.4.6</b> Diversity Officer</a></li>
+<li class="chapter" data-level="8.4.7" data-path="project-management-team.html"><a href="project-management-team.html#evaluator"><i class="fa fa-check"></i><b>8.4.7</b> Evaluator</a></li>
+</ul></li>
+<li class="chapter" data-level="8.5" data-path="risk-management.html"><a href="risk-management.html"><i class="fa fa-check"></i><b>8.5</b> Risk management</a></li>
+<li class="chapter" data-level="8.6" data-path="management-metricsmilestones.html"><a href="management-metricsmilestones.html"><i class="fa fa-check"></i><b>8.6</b> Management metrics/milestones</a></li>
+<li class="chapter" data-level="8.7" data-path="swot-strengths-weaknesses-opportunities-threats.html"><a href="swot-strengths-weaknesses-opportunities-threats.html"><i class="fa fa-check"></i><b>8.7</b> SWOT (Strengths, Weaknesses, Opportunities, Threats)</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="Ch-Budget.html"><a href="Ch-Budget.html"><i class="fa fa-check"></i><b>9</b> Budget</a></li>
+<li class="chapter" data-level="10" data-path="Ch-Metrics.html"><a href="Ch-Metrics.html"><i class="fa fa-check"></i><b>10</b> Metrics and Evaluation</a></li>
+<li class="chapter" data-level="11" data-path="Ch-Summary.html"><a href="Ch-Summary.html"><i class="fa fa-check"></i><b>11</b> Final Words</a></li>
+<li class="chapter" data-level="" data-path="glossary.html"><a href="glossary.html"><i class="fa fa-check"></i>Glossary</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 </ul>
 
-        <div class="book-extra">
-          <p><a id="book-repo" href="https://github.com/si2-urssi/plan">View book source <i class="fab fa-github"></i></a></p>
-        </div>
       </nav>
-</div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="intro" class="section level1" number="1">
-<h1>
-<span class="header-section-number">1</span> Introduction<a class="anchor" aria-label="anchor" href="#intro"><i class="fas fa-link"></i></a>
-</h1>
-<p>Software pervades all parts of modern scientific research, including data analysis and inference as well as computational science. One would be hard pressed to find an area of research that is not impacted by software. Recent surveys in the US and UK show that 90-95% of researchers rely on research software, and 63-70% of them cannot continue their work if these software were to stop functioning <span class="citation">(Hettrick et al. <a href="references.html#ref-hettrick2014" role="doc-biblioref">2014</a>)</span>. Much of this software is developed by researchers for researchers, as the contemporary scientific process demands the development of new methods in tandem with the demands of new discoveries and fields. However, despite its importance, a large proportion of research software is developed in an ad hoc manner, with little regard for the high standards that are characteristic of other research activities. As a result, the research software ecosystem is fragile and the source of numerous problems that plague modern computational science <span class="citation">(Carver et al. <a href="references.html#ref-carver2018conceptualization" role="doc-biblioref">2018</a>)</span>.</p>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">URSSI Implementation Plan</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="intro" class="section level1" number="1">
+<h1><span class="header-section-number">Chapter 1</span> Introduction</h1>
+<p>Software pervades all parts of modern scientific research, including data analysis and inference as well as computational science. One would be hard pressed to find an area of research that is not impacted by software. Recent surveys in the US and UK show that 90-95% of researchers rely on research software, and 63-70% of them cannot continue their work if these software were to stop functioning <span class="citation">(Hettrick et al. <a href="#ref-hettrick2014" role="doc-biblioref">2014</a>)</span>. Much of this software is developed by researchers for researchers, as the contemporary scientific process demands the development of new methods in tandem with the demands of new discoveries and fields. However, despite its importance, a large proportion of research software is developed in an ad hoc manner, with little regard for the high standards that are characteristic of other research activities. As a result, the research software ecosystem is fragile and the source of numerous problems that plague modern computational science <span class="citation">(Carver et al. <a href="#ref-carver2018conceptualization" role="doc-biblioref">2018</a>)</span>.</p>
 <p>Researchers today are under intense pressure to demonstrate expertise in their chosen domains while also trying to maintain a working current knowledge of digital skills such as software engineering.
-This combination is unsustainable for most researchers. With little bandwidth to keep up with best practices or sufficient recognition of software development as a scholarly activity, much research software is developed in a manner that makes it wholly unsustainable, despite the obvious role that it plays in modern research, for a multitude of reasons. Academic promotion and tenure, even in institutions with liberal policies, consider peer-reviewed publications to be the primary metric of progress in most disciplines. Even when the impact of software is made clear, it is usually not considered a traditional scholarly activity, making it very challenging to get credit <span class="citation">(Organisation for Economic Cooperation and Development <a href="references.html#ref-df80bc12-en" role="doc-biblioref">2019</a>)</span>. There is no shortage of horror stories of academics who have built demonstrably impactful software, only to be denied tenure.
+This combination is unsustainable for most researchers. With little bandwidth to keep up with best practices or sufficient recognition of software development as a scholarly activity, much research software is developed in a manner that makes it wholly unsustainable, despite the obvious role that it plays in modern research, for a multitude of reasons. Academic promotion and tenure, even in institutions with liberal policies, consider peer-reviewed publications to be the primary metric of progress in most disciplines. Even when the impact of software is made clear, it is usually not considered a traditional scholarly activity, making it very challenging to get credit <span class="citation">(Organisation for Economic Cooperation and Development <a href="#ref-df80bc12-en" role="doc-biblioref">2019</a>)</span>. There is no shortage of horror stories of academics who have built demonstrably impactful software, only to be denied tenure.
 Even outside the tenure track, only a few academic jobs offer meaningful career progression for software work. A second reason, strongly correlated with the lack of recognition of software, is the lack of training opportunities. Many research software engineers are self taught. Others learn programming from bootcamps and workshops rather than in traditional academic coursework. Overworked academics are unable to take advantage of such opportunities and therefore develop software using outdated practices. Lastly, even when software is recognized as having impact, funding agencies rarely fund maintenance and ongoing development of such work, leading to reinvention rather than reuse (<a href="https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/">https://chanzuckerberg.com/rfa/essential-open-source-software-for-science/</a>)</p>
 <p>We have spent the last two years engaged in a series of activities designed to gain a
 deeper understanding of why research software is so unsustainable and what can be done
@@ -80,88 +228,78 @@ and then concludes (in <a href="Ch-Summary.html#Ch-Summary">Chapter 11</a>).
 This complete document is the justification and plan for a new institute that will work
 in multiple areas to improve research software and the careers of those that produce it,
 with an end goal of performing better research.</p>
-<div id="nature-of-the-problem" class="section level2" number="1.1">
-<h2>
-<span class="header-section-number">1.1</span> Nature of the problem<a class="anchor" aria-label="anchor" href="#nature-of-the-problem"><i class="fas fa-link"></i></a>
-</h2>
-<p>One would be hard pressed to name any field of scientific endeavor that has not been substantially transformed by software. From physics to psychology, software has transformed the way we create, acquire, process, model, and draw insights from data. Much of this transformation has come from the increasing availability of open source tools, many of which have helped improve the rigor, quality, and reproducibility of research. The development of research software is often not considered scholarship, making it very difficult for academics to seek funding and find meaningful career paths, especially when research software activities make up a significant part of their contributions. Such people often lead double lives, working tirelessly to meet the traditional responsibilities of academic life, while developing open source tools that enable modern research. We are able to break the problem down into the following four areas:</p>
-<p><strong>Research software itself is not sustainably developed</strong>: In many fields research software is developed by academics for other academics. Because these people have spent much of their careers developing deep domain expertise, but not developing deep software expertise, software does not often get the same level of care as other aspects of the research enterprise
-(<a href="https://www.nature.com/articles/s41592-019-0686-2">https://www.nature.com/articles/s41592-019-0686-2</a>). Therefore the quality of the software is highly variable, making it hard to sustain. Mounting technical debt often makes it easier to develop software from scratch than to use existing tools. Versions of software used in papers are exceedingly hard to track down, making it challenging to reproduce research findings or reuse research software. When Collberg and colleagues <span class="citation">(Collberg et al. <a href="references.html#ref-collberg2014measuring" role="doc-biblioref">2013</a>; Collberg, Proebsting, and Warren <a href="references.html#ref-collberg2015repeatability" role="doc-biblioref">2014</a>)</span> decided to measure the extent of the problem precisely, they investigated the availability of code and data as well as the extent to which this code would actually run with reasonable effort. The results were dramatic: of the 515 (out of 613) potentially reproducible papers, across applied computational research, the authors managed to ultimately run only 102 (less than 20%). These low numbers only count the authors’ success in running the code, not in actually validating the results.</p>
-<p><strong>Lack of career opportunities</strong>: Software does not often count for career advancement (e.g.,promotion and tenure) in academia, making it an invisible scholarly contribution. Research software is often not cited (31-43%), even in highly ranked journals <span class="citation">(Howison and Bullard <a href="references.html#ref-howison2016software" role="doc-biblioref">2016</a>)</span>. Besides the negative impact on career trajectories, this lack of visibility means that incentives to produce sustainable, widely shared, and collaboratively developed software are lacking. For those outside of traineeships or tenure track positions, the Research Software Engineer (RSE) movement has begun creating a new class of academic positions that explicitly value software work, but such positions are not very common in universities the United States.</p>
-<p><strong>Lack of training opportunities</strong>: When NSF PIs in the BIO directorate were asked about their biggest challenges in leveraging vast amounts of data currently available, lack of training was listed as the single biggest challenge <span class="citation">(Barone, Williams, and Micklos <a href="references.html#ref-barone2017unmet" role="doc-biblioref">2017</a>)</span>. Although this training deficit describes the ability to use existing data science software, the skills needed to develop them are harder to come by. While programs like The Carpentries and a handful of university courses offer training in analyzing data, very few train researchers in modern open source software development <span class="citation">(Hettrick <a href="references.html#ref-Hettrick-blog" role="doc-biblioref">2014</a>; Hettrick et al. <a href="references.html#ref-hettrick2014" role="doc-biblioref">2014</a>; Nangia and Katz <a href="references.html#ref-nangia_katz_2017" role="doc-biblioref">2017</a>)</span>. This gap remains to be filled.</p>
-<p><strong>Lack of diversity in research software</strong>: Open source communities struggle to gain participation from women and more broadly from underrepresented groups. Less than 10% of contributors to open source communities identify as female <span class="citation">(Lee and Carver <a href="references.html#ref-Lee2019" role="doc-biblioref">2019</a>)</span> compared with approximately 25% of the overall computer science field <span class="citation">(National Science Foundation <a href="references.html#ref-NSF2017" role="doc-biblioref">2017</a>; Vasilescu, Capiluppi, and Serebrenik <a href="references.html#ref-Vasilescu2012" role="doc-biblioref">2012</a>)</span>. Cultivating a diversity of perspectives, ﬁelds, and backgrounds is important for growing a robust research software community. There is a need to understand the sources of diversity problems and work to improve over the current state <span class="citation">(Daniel, Agarwal, and Stewart <a href="references.html#ref-Daniel2013" role="doc-biblioref">2013</a>)</span>. Contrary to the initial belief in open source communities, the ability to contribute to a project anonymously does not solve the gender diversity issue <span class="citation">(Nafus <a href="references.html#ref-Nafus2012" role="doc-biblioref">2012</a>)</span> at least partially because project members are able to determine the gender of contributors, even those that use pseudonyms <span class="citation">(Vasilescu et al. <a href="references.html#ref-Vasilescu2015" role="doc-biblioref">2015</a>)</span>. In addition, a large percentage of female contributors have either been subject to or witnessed gender-based discrimination <span class="citation">(Powell, Hunsinger, and Medlin <a href="references.html#ref-Powell2010" role="doc-biblioref">2010</a>)</span> and have been discouraged from participating in these projects because of the aggressive nature of the discourse and the lack of female role
-models <span class="citation">(Reagle <a href="references.html#ref-Reagle2012" role="doc-biblioref">2012</a>)</span>.
-In our own URSSI survey, described in more detail later, we found evidence of the same lack of diversity. When asking survey respondents to self-identify their gender, only 25% identified as female.
-The 164 US respondents to the 2018 International RSE Survey <span class="citation">(Philippe et al. <a href="references.html#ref-rse-survey" role="doc-biblioref">2019</a>)</span> reported being 82% male, 14% female, and 4% preferred not to say. They also reported being 77% white, 11% Asian, 6% Hispanic/Latino, 5% other, and 2% Black. Additionally, 3% reported having a disability.</p>
 </div>
-<div id="valuing-producers-of-research-software" class="section level2" number="1.2">
-<h2>
-<span class="header-section-number">1.2</span> Valuing producers of research software<a class="anchor" aria-label="anchor" href="#valuing-producers-of-research-software"><i class="fas fa-link"></i></a>
-</h2>
-<p>Despite the numerous barriers that prevent people from receiving recognition and career success for their research software work, some have successfully overcome them. An exemplar is in this regard is Dr. Fernando Perez, currently an associate professor in statistics at the University of California, Berkeley. For much of his career he worked in a traditional untenured position as a research scientist in neuroscience and computational research, while collaboratively developing an open source notebook interface for the Python programming language as a side project. Over time, his software work started having much more of an impact than any of his traditional scientific contributions. The current evolution of his group’s efforts, the Jupyter ecosystem (<a href="https://jupyter.org/">https://jupyter.org/</a>), is considered by many to be “universally accepted by the scientific community” and has won him and his team awards such as the <a href="https://blog.jupyter.org/jupyter-receives-the-acm-software-system-award-d433b0dfe3a2">Association for Computer Machinery award for software</a>.
-More recently, the magnitude of his software contributions and the far reaching impact of
-this effort (<a href="https://www.theatlantic.com/science/archive/2017/06/gravitational-waves-black-holes/528807/">https://www.theatlantic.com/science/archive/2017/06/gravitational-waves-black-holes/528807/</a>,
-<a href="https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/">https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/</a>)has earned him a fast-tracked tenured position at University of California, Berkeley. This type of unconventional success in a traditional public university is a sign that the recognition of software work as scholarship is changing.</p>
-<p>While the result of Dr. Perez’ story is promising, it is very difficult to achieve. Other academics who have produced work of similar or greater magnitude in the past weren’t as fortunate. Travis Oliphant, for example, served as an assistant professor of Electrical and Computer Engineering at Brigham Young University in the early 2000s. Among his accomplishments during this time, he is credited as the primary creator of NumPy, the Python library for numerical arrays that is the foundation of modern data science tools, and as one of the early contributors to SciPy, the widely used library for scientific Python. These contributions were deemed insufficient for tenure. Kirk McKusick, a professor at EECS in Berkeley was denied tenure in the early 1990s because his primary work was on the BSD Software Project, which then went on to become the foundation of the modern internet. [<strong>TODO</strong>: Other examples would be welcome and appreciated. Are there women/people of color who have experienced similar situations that we can highlight here?]</p>
+<h3>References</h3>
+<div id="refs" class="references hanging-indent">
+<div id="ref-carver2018conceptualization">
+<p>Carver, Jeffrey C., Sandra Gesing, Daniel S. Katz, Karthik Ram, and Nicholas Weber. 2018. “Conceptualization of a US Research Software Sustainability Institute (URSSI).” <em>Computing in Science &amp; Engineering</em> 20 (3): 4–9. <a href="https://doi.org/10.1109/MCSE.2018.03221924">https://doi.org/10.1109/MCSE.2018.03221924</a>.</p>
 </div>
-<div id="why-we-ran-this-conceptualization" class="section level2" number="1.3">
-<h2>
-<span class="header-section-number">1.3</span> Why we ran this conceptualization<a class="anchor" aria-label="anchor" href="#why-we-ran-this-conceptualization"><i class="fas fa-link"></i></a>
-</h2>
-<p>It comes as no surprise to researchers that software is undervalued in academia. However, substantive evidence supporting this claim is scattered and mostly anecdotal, making it hard to build a convincing case that the research community and their stakeholders need to care more. In 2017 we submitted a proposal to the National Science Foundation’s <a href="https://www.nsf.gov/pubs/2015/nsf15553/nsf15553.htm">Software Infrastructure for Sustained Innovation (S2I2) program</a> to gather this evidence, identify unique challenges not already being addressed, and to formulate a plan for an institute to implement solutions. The proposal was funded in December 2018, allowing us to engage in various activities over the following 24 months. Despite the awareness of these issues and the existence of similar conceptualizations (albeit domain-centric ones), the core challenges around sustainability (of people/software/practices), recognition and credit, and training/workforce development remain poorly understood and poorly addressed.</p>
-<p>We used a wide range of approaches to understand the core social and technical challenges of developing sustainable research software. These approaches include an extensive survey, in-person unconferences, both general and topic focused, a pilot training event, and a series of ethnographic studies. We mapped out the current state of software related challenges with an extensive survey targeting researchers across the country. We also invited participants to workshops across the country to share critical challenges and brainstorm solutions in small groups. We dug deeper on a couple of core issues that arose repeatedly (credit and incubators) by organizing two focused workshops to tackle them (credit and incubators). This report captures our summary of the survey, workshops, and studies and describes a core set of activities that define the work of a future US Research Software Institute.</p>
+<div id="ref-hettrick2014">
+<p>Hettrick, Simon, Mario Antonioletti, Les Carr, Neil Chue Hong, Stephen Crouch, David De Roure, Iain Emsley, et al. 2014. “UK Research Software Survey 2014.” Zenodo. <a href="https://doi.org/10.5281/zenodo.14809">https://doi.org/10.5281/zenodo.14809</a>.</p>
 </div>
-<div id="what-we-plan-to-do-and-why" class="section level2" number="1.4">
-<h2>
-<span class="header-section-number">1.4</span> What we plan to do and why<a class="anchor" aria-label="anchor" href="#what-we-plan-to-do-and-why"><i class="fas fa-link"></i></a>
-</h2>
-<p>The conceptualization phase with its survey, workshops, and ethnographic studies elucidated the need in the community for different components of a potential implementation of URSSI. We identified four areas for supporting the research software community - to accelerate science for diverse research domains as well as software engineering as a research area in its own right. Each of these activities contributes to the desired impacts described in <a href="https://plan.urssi.us/chapter3.html#desired-impact">Section 3.4</a>.</p>
-<ol style="list-style-type: decimal">
-<li><p><strong>Incubator</strong>: Sustainability of research software has many aspects beyond good software engineering practices that overlap with diverse areas of expertise. Such areas include technology advice, project management, business planning, usability advice, license management, etc. The incubator service area would focus on providing projects with experts who have a consultancy agreement and could support a project in the different stages of their life cycle – from spinning up a project to first results and uptake of software to planning its sustainability after the funding ends.</p></li>
-<li><p><strong>Education &amp; Training</strong>: Many universities offer curricula in conceptual software engineering but there is a lack of practical training to meet the community needs to go into depth for different technologies. University courses offered in computer science departments are also often impractical for domain researchers. The survey showed that there is a need to choose formats and timeframes that are suitable for people in the role of Research Software Engineers (RSEs) and busy domain scientists who lack formal or informal training. While The Carpentries and the <a href="https://codata.org/initiatives/strategic-programme/research-data-science-summer-schools/">RDA-CoDATA summer school</a>, for example, do an excellent job of teaching basic programming and computational &amp; data analytic methods to researchers in a peer-to-peer model, mostly in 2-day courses, URSSI has a massive opportunity fill the gap in teaching more in-depth software engineering, software project management, and community development practices in longer engagements, such as a 5-day summer- and/or winter-school. URSSI will strive to collaborate on topics with the Carpentries and the existing software sustainability institutes, such as the Science Gateways Community Institute and the Molecular Sciences Software Institute, so that rather than replicate effort, identify training opportunities in the overall research software landscape that is currently missing.</p></li>
-<li><p><strong>Policy</strong>: Policy is an important area to improve the sustainability of research software. Policies could include campaigns as well as guidelines for citation of software, templates for job positions, good software engineering practices as well as bad software engineering practices as counterexamples. We have already been collaborating with the UK SSI for several years and plan to expand collaborations with initiatives/projects such as US-RSE to find a common ground on international level while considering the specific situation in the US.</p></li>
-<li><p><strong>Community &amp; Outreach</strong>: Many researchers or developers in the role of an RSE work in silos and the Community &amp; Outreach area of URSSI would connect them to peers and provide access to beneficial material, resources, and contacts to improve this situation. The RSE community has already achieved some successes by simply working together. The number of chapters has gone from 1 UK university in 2013 to 28 chapters in 2020. URSSI has the potential to capture more of this momentum. Community engagement would include scalable communication such as a website, blogs and newsletters, two-way communications for discussions such as webinars and online discussion forums as well as face-to-face meetings in the form of workshops. In addition, this area will include a fellows program to support work done by community members that benefits URSSI activities.</p></li>
-</ol>
-<p>Building these different areas into URSSI would formalize URSSI’s informal position as the focal point for the overall community of software developers as well as for a set of disciplinary communities. URSSI will help accelerate science that needs research software and improve the career paths of those who develop and maintain it, including RSEs.</p>
+<div id="ref-df80bc12-en">
+<p>Organisation for Economic Cooperation and Development. 2019. <em>OECD Skills Outlook 2019</em>. <a href="https://doi.org/10.1787/df80bc12-en">https://doi.org/10.1787/df80bc12-en</a>.</p>
+</div>
+</div>
+            </section>
 
-</div>
-</div>
-  <div class="chapter-nav">
-<div class="prev"><a href="index.html">Welcome</a></div>
-<div class="next"><a href="chapter2.html"><span class="header-section-number">2</span> URSSI Conceptualization</a></div>
-</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
-    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
-      <ul class="nav navbar-nav">
-<li><a class="nav-link" href="#intro"><span class="header-section-number">1</span> Introduction</a></li>
-<li><a class="nav-link" href="#nature-of-the-problem"><span class="header-section-number">1.1</span> Nature of the problem</a></li>
-<li><a class="nav-link" href="#valuing-producers-of-research-software"><span class="header-section-number">1.2</span> Valuing producers of research software</a></li>
-<li><a class="nav-link" href="#why-we-ran-this-conceptualization"><span class="header-section-number">1.3</span> Why we ran this conceptualization</a></li>
-<li><a class="nav-link" href="#what-we-plan-to-do-and-why"><span class="header-section-number">1.4</span> What we plan to do and why</a></li>
-</ul>
-
-      <div class="book-extra">
-        <ul class="list-unstyled">
-<li><a id="book-source" href="https://github.com/si2-urssi/plan/blob/master/01-intro.Rmd">View source <i class="fab fa-github"></i></a></li>
-          <li><a id="book-edit" href="https://github.com/si2-urssi/plan/edit/master/01-intro.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
-        </ul>
-</div>
-    </nav>
-</div>
-
-</div>
-</div> <!-- .container -->
-
-<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
-
-  <div class="col-12 col-md-6 mt-3">
-    <p>"<strong>URSSI Implementation Plan</strong>" was written by Karthik Ram, Jeffrey Carver, Sandra Gesing, Daniel S. Katz, Nic Weber. It was last built on 2021-01-14.</p>
+          </div>
+        </div>
+      </div>
+<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="nature-of-the-problem.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
   </div>
+<script src="assets/gitbook-2.6.7/js/app.min.js"></script>
+<script src="assets/gitbook-2.6.7/js/lunr.js"></script>
+<script src="assets/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="assets/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="assets/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["main.pdf", "main.epub"],
+"toc": {
+"collapse": "subsection"
+},
+"toolbar": {
+"position": "static"
+}
+});
+});
+</script>
 
-  <div class="col-12 col-md-6 mt-3">
-    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
-  </div>
-
-</div></div>
-</footer>
 </body>
+
 </html>
