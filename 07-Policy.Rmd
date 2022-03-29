@@ -11,7 +11,7 @@ that decision makers can take, sometimes thought of as leverage points,
 including strategies and decisions to invest. Policy happens at multiple levels, including  national,
 funding agency, institution, and research group.
 
-The Changes that the Policy area seeks to make include:
+The changes that the Policy area seeks to make include:
 
 1. In funding agencies, direct funding of software maintenance and other software sustainability activities
 is a core part of the mission, e.g., at NSF, this includes all program officers across all directorates.
