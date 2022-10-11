@@ -56,7 +56,7 @@ as well as lessons learned from the four previously held URSSI workshops.
 One of the major goals of the conceptualization project was to build awareness
 of the need for an institute, publicize our activities, and increase overall community interest.
 To achieve this goal, we used a [website](http://urssi.us), nine [newsletters](http://urssi.us/newsletter/), 
-36 [blog posts](http://urssi.us/blog/), and a seires of public talks and webinars given 
+36 [blog posts](http://urssi.us/blog/), and a series of public talks and webinars given 
 by the PIs and others. We sent the newsletters to the URSSI email list, which consists
 of workshop attendees and other interested members of the community.
 We also publicized the newsletter and blog posts via the [URSSI twitter account](https://twitter.com/si2urssi/),
