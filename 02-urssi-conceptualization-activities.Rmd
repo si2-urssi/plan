@@ -35,7 +35,7 @@ We organized the following workshops to better understand those topics:
  
 * The **Metrics, Credit and Citation Workshop**, held in Santa Barbara,
 California in January 2019, focused on reseach software metrics, citation, 
-and impact evaluatin. The 23 participants had strong expertise in the
+and impact evaluation. The 23 participants had strong expertise in the
 various workshop themes, including the PIs of the CodeMeta project, Zenodo,
 and software credit initiatives such as SourceCred.
  
