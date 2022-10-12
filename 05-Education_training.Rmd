@@ -73,7 +73,7 @@ MolSSI, SGCI, and IRIS-HEP) are also developing training resources for their tar
 communities, similarly making use of, contributing to, and complementing the Carpentries.
 
 While many researchers may learn how to program on their own, the opportunities for them
-to learn software engineering and software deisgn are less available. Therefore, we believe 
+to learn software engineering and software design are less available. Therefore, we believe 
 that there is an important role that a US-based research software institute 
 can play to expand the breadth and depth of the training available, and to further 
 coordinate and facilitate the acquisition of software engineering expertise by researchers 
